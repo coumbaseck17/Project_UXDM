@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "Rock",
+        "sum": 2161
+    },
+    {
+        "_id": "Pop",
+        "sum": 1856
+    },
+    {
+        "_id": "Folk",
+        "sum": 961
+    },
+    {
+        "_id": "Alternative Rock",
+        "sum": 921
+    },
+    {
+        "_id": "Singer-Songwriter",
+        "sum": 886
+    },
+    {
+        "_id": "Hip Hop",
+        "sum": 809
+    },
+    {
+        "_id": "Indie Rock",
+        "sum": 752
+    },
+    {
+        "_id": "Electronic",
+        "sum": 726
+    },
+    {
+        "_id": "Blues",
+        "sum": 679
+    },
+    {
+        "_id": "Heavy Metal",
+        "sum": 656
+    }
+]
