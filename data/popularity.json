@@ -38,5 +38,45 @@
     {
         "_id": "Heavy Metal",
         "sum": 656
+    },
+    {
+        "_id": "R&B",
+        "sum": 625
+    },
+    {
+        "_id": "Jazz",
+        "sum": 546
+    },
+    {
+        "_id": "Pop Rock",
+        "sum": 543
+    },
+    {
+        "_id": "Country",
+        "sum": 534
+    },
+    {
+        "_id": "Hard Rock",
+        "sum": 533
+    },
+    {
+        "_id": "Punk Rock",
+        "sum": 478
+    },
+    {
+        "_id": "Soul",
+        "sum": 420
+    },
+    {
+        "_id": "Indie Pop",
+        "sum": 388
+    },
+    {
+        "_id": "Progressive Rock",
+        "sum": 371
+    },
+    {
+        "_id": "Folk Rock",
+        "sum": 354
     }
 ]

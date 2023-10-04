@@ -1,4 +1,5 @@
 import os
+import urllib
 
 import requests
 import json
@@ -26,7 +27,7 @@ def api_request(url, endpoint, params) :
 def fetch_genre_popularity(url):
 
     endpoint = "/api/v1/artist/genres/popularity"
-    params = { "limit" : "10"}
+    params = { }
 
     popularity_data = api_request(url, endpoint, params)
 
@@ -41,30 +42,26 @@ def fetch_genre_popularity(url):
 
     return popularity_data
 
-# def fetch_genre_song(url):
-#
-#     endpoint = "/search/genre"
-#
-#
-#     with open("data/popularity.json", "r", encoding="utf-8") as json_file:
-#         genre_data_list = json.load(json_file)
-#
-#     for genre_data in genre_data_list:
-#
-#         json_file_id = genre_data["_id"]
-#         params = {"genreName": json_file_id}
-#         data = api_request(url, endpoint, params)
-#         """if response and response.status_code == 200:
-#             genre_data_list = response.json()
-#             # Maintenant, vous pouvez utiliser genre_data_list
-#         else:
-#             print("La requête a échoué avec le code de statut :", response.status_code)"""
-#
-#         return genre_data
 
+def fetch_genre_song(url):
 
+    endpoint = "/search/genre"
 
+    with open("data/popularity.json", "r", encoding="utf-8") as json_file:
+        genre_data_list = json.load(json_file)
 
-
-
-
+    for genre_data in genre_data_list:
+        json_file_id = genre_data["_id"]
+        json_file_id_encoded = urllib.parse.quote(json_file_id)
+        #print("Encoded : " + json_file_id_encoded)
+        #params = {json_file_id_encoded}
+        endpoint = endpoint +'/'+ json_file_id_encoded
+        data = api_request(url, endpoint, params)
+        if not os.path.exists("genre_song.json"):
+            # S'il n'existe pas
+            with open("data/genre_song.json", "w", encoding="utf-8") as json_file:
+                json.dump(data, json_file, ensure_ascii=False, indent=4)
+        else:
+            with open("data/genre_song.json", "a", encoding="utf-8") as json_file:
+                json.dump(data, json_file, ensure_ascii=False, indent=4)
+    return genre_data
