@@ -37,8 +37,6 @@ def main():
             artists = functions.fetch_artists_by_genre( genre_name)
             if artists:
                 all_artists.extend(artists)
-            time.sleep(20)  # Attendez une seconde entre les requêtes
-
     # Vous avez maintenant au moins 100 artistes par genre dans la liste all_artists.
     # Vous pouvez faire d'autres traitements ou afficher les résultats ici.
 

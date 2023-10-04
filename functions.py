@@ -1,4 +1,5 @@
 import os
+import time
 import urllib
 
 import requests
@@ -45,8 +46,10 @@ def fetch_genre_popularity(url):
 
 # Fonction pour récupérer les artistes en fonction d'un genre depuis l'API Wasabi
 def fetch_artists_by_genre( genre):
-    endpoint = f"/search/genre/{genre}"
-    params = {}
+    endpoint = "/search/genre/{genre}"
+    params = {
+        "fields": "id_artist_deezer,name"  # Spécifiez les attributs que vous voulez récupérer
+    }
 
     try:
         response = requests.get(url + endpoint, params)
@@ -61,9 +64,13 @@ def fetch_artists_by_genre( genre):
                         artists.append(artist_name)
 
             return artists
+        elif response.status_code == 429:
+            print("Limite de taux atteinte. Attendez un moment avant de réessayer.")
+            time.sleep(1)  # Attendre 1 seconde avant de réessayer
+            return None
 
         else:
-            print(f"La requête a échoué avec le code de statut : {response.status_code}")
+            print("La requête a échoué avec le code de statut : {response.status_code}")
             return None
 
     except requests.exceptions.RequestException as e:
