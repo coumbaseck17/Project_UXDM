@@ -43,25 +43,30 @@ def fetch_genre_popularity(url):
     return popularity_data
 
 
-def fetch_genre_song(url):
+# Fonction pour récupérer les artistes en fonction d'un genre depuis l'API Wasabi
+def fetch_artists_by_genre( genre):
+    endpoint = f"/search/genre/{genre}"
+    params = {}
 
-    endpoint = "/search/genre"
+    try:
+        response = requests.get(url + endpoint, params)
+        if response.status_code == 200:
+            data = response.json()
+            artists = []
 
-    with open("data/popularity.json", "r", encoding="utf-8") as json_file:
-        genre_data_list = json.load(json_file)
+            for item in data:
+                if "id_artist_deezer" in item:
+                    artist_name = item.get("name", "")
+                    if artist_name not in artists:
+                        artists.append(artist_name)
 
-    for genre_data in genre_data_list:
-        json_file_id = genre_data["_id"]
-        json_file_id_encoded = urllib.parse.quote(json_file_id)
-        #print("Encoded : " + json_file_id_encoded)
-        #params = {json_file_id_encoded}
-        endpoint = endpoint +'/'+ json_file_id_encoded
-        data = api_request(url, endpoint, params)
-        if not os.path.exists("genre_song.json"):
-            # S'il n'existe pas
-            with open("data/genre_song.json", "w", encoding="utf-8") as json_file:
-                json.dump(data, json_file, ensure_ascii=False, indent=4)
+            return artists
+
         else:
-            with open("data/genre_song.json", "a", encoding="utf-8") as json_file:
-                json.dump(data, json_file, ensure_ascii=False, indent=4)
-    return genre_data
+            print(f"La requête a échoué avec le code de statut : {response.status_code}")
+            return None
+
+    except requests.exceptions.RequestException as e:
+        print("Une erreur s'est produite lors de la requête :", e)
+        return None
+
