@@ -8,15 +8,17 @@ def main():
 
 
     """Appel de la fonction pour récupérer les données de l'API"""
-    popularity_data = functions.fetch_genre_popularity(url)
+    #popularity_data = functions.fetch_genre_popularity(url)
 
-    if popularity_data:
+    artist_data = functions.fetch_artists_all(url)
 
-        print(popularity_data)
+    if artist_data:
+
+        print(artist_data)
 
     # functions.fetch_artists_by_genre()
 
-    functions.fetch_info_artist(url)
+    #functions.fetch_info_artist(url)
 
 
 

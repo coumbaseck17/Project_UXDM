@@ -113,7 +113,26 @@ def fetch_info_artist(url):
 
         return artist_name_list
 
+def fetch_artists_all(url):
+    number = 1
+    endpoint = "/api/v1/artist_all/" + number
+    names_genres = []
+    data = api_request(url, endpoint, {})
 
+    while(number < )
+    for entry in data:
+        artist_name = entry.get("name")
+        artist_genre = entry.get("genres")
+        artist_deezerFans
+        if artist_name:
+            names_genres.append((artist_name,artist_genre))
+
+    # Enregistrer les données dans un fichier JSON (écrasée ou crée)
+    file_path = "data/artist_all.json"
+    with open(file_path, "w", encoding="utf-8") as json_file:
+        json.dump(names_genres, json_file, ensure_ascii=False, indent=4)
+
+    return names_genres
 
 
 
