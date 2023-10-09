@@ -1,0 +1,342 @@
+{
+    "_id": "56d804a453a7ddfc01f91295",
+    "name": "Black Strobe",
+    "urlWikipedia": "http://en.wikipedia.org/wiki/fr:Black_Strobe",
+    "urlOfficialWebsite": "http://www.blackstrobe.net/",
+    "urlFacebook": "https://www.facebook.com/BlackStrobe.Official",
+    "urlMySpace": "https://myspace.com/blackstrobe",
+    "urlTwitter": "",
+    "locationInfo": [
+        "France",
+        "Île-de-France",
+        "Paris"
+    ],
+    "urlWikia": "Black_Strobe",
+    "genres": [
+        "Electro",
+        "Electroclash",
+        "EBM",
+        "House"
+    ],
+    "labels": [
+        "Output Recordings",
+        "Playlouderecordings",
+        "Supersoul Recordings"
+    ],
+    "members": [
+        {
+            "name": "Ivan Smagghe",
+            "instruments": [],
+            "begin": "",
+            "end": "",
+            "ended": false,
+            "gender": "Male",
+            "urlDiscogs": "https://www.discogs.com/artist/23732",
+            "urlWikidata": "https://www.wikidata.org/wiki/Q1629922",
+            "urlWikipedia": "https://en.wikipedia.org/wiki/Ivan_Smagghe",
+            "id_member_discogs": "23732",
+            "realName": "Ivan Smagghe",
+            "abstract": "Ivan Smagghe (1971) is a French composer and producer who became a DJ almost by chance around 1992.\r\rAfter studies at Institut d'études politiques de Paris, Smagghe worked briefly at Rough Trade shop in Paris and for Nova or Magic magazine. Then, he started DJing before co-founding Black Strobe in 1997 with Arnaud Rebotini.\r\rIvan Smagghe extended his activities to compositions for silent films and mixing compilations.\r",
+            "nameVariations": [
+                "I Smagghe",
+                "I-Smagghe",
+                "I. Smagghe",
+                "I.Smagghe",
+                "Ivan",
+                "Ivan Rough Trade",
+                "Ivan Smagge",
+                "Ivan Smaghe",
+                "Mr Ivan Smagghe",
+                "Yvan"
+            ],
+            "urls": [
+                "http://www.ivansmagghe.com",
+                "http://afewthingsfromivansmagghe.blogspot.com",
+                "http://www.facebook.com/ivansmagghe",
+                "http://soundcloud.com/colonelgatito"
+            ],
+            "urlEquipBoard": "http://equipboard.com/pros/ivan-smagghe",
+            "equipments": [
+                {
+                    "type": "Headphones",
+                    "items": [
+                        {
+                            "name": "AIAIAI TMA-2 Modular Headphones",
+                            "description": "<p>In this photo provided by AIAIAI of Ivan Smagghe performing live, Ivan has a pair of <a rel=\"nofollow\" target=\"_blank\" href=\"http://aiaiai.dk/headphones/tma-2/dj-preset\">TMA-2 DJ Preset</a> headphones around his neck.</p>",
+                            "urlDescription": "http://equipboard.com/pros/ivan-smagghe/aiaiai-tma-2-modular-headphones",
+                            "url": "http://equipboard.com/items/aiaiai-tma-2-modular-headphones",
+                            "img": "http://images.equipboard.com/uploads/item/image/22205/aiaiai-tma-2-modular-headphones-s.jpg?v=1502414186"
+                        }
+                    ]
+                }
+            ],
+            "subject": [],
+            "birthDate": [],
+            "dbp_abstract": []
+        },
+        {
+            "name": "Arnaud Rebotini",
+            "instruments": [],
+            "begin": "",
+            "end": "",
+            "ended": false,
+            "gender": "Male",
+            "urlDiscogs": "https://www.discogs.com/artist/88845",
+            "urlMySpace": "https://myspace.com/arnaudrebotini",
+            "urlGooglePlus": "https://plus.google.com/102711001952249747226",
+            "urlTwitter": "https://twitter.com/Rebotini",
+            "urlFacebook": "https://www.facebook.com/Arnaud-Rebotini-42035491067",
+            "urlWikidata": "https://www.wikidata.org/wiki/Q2863212",
+            "urlYouTube": "https://www.youtube.com/user/doraful",
+            "id_member_discogs": "88845",
+            "realName": "Arnaud Rebotini",
+            "abstract": "French producer.",
+            "nameVariations": [
+                "A Rebotini",
+                "A. Rebotini",
+                "A. Robotini",
+                "A.Rebotini",
+                "Arnaud",
+                "Arnaud Robotini",
+                "Arnauld Rebotini",
+                "Rebotini"
+            ],
+            "urls": [
+                "http://www.facebook.com/pages/Arnaud-Rebotini/42035491067",
+                "http://www.myspace.com/arnaudrebotini",
+                "http://www.twitter.com/Rebotini"
+            ],
+            "urlEquipBoard": "http://equipboard.com/pros/arnaud-rebotini",
+            "equipments": [
+                {
+                    "type": "Studio Equipment",
+                    "items": [
+                        {
+                            "name": "Roland TR-727 Rhythm Composer",
+                            "description": "<p>&quot;It&apos;s really easy to create pattern with this gear.&quot;</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-tr-727-rhythm-composer",
+                            "url": "http://equipboard.com/items/roland-tr-727-rhythm-composer",
+                            "img": "http://images.equipboard.com/uploads/item/image/19254/roland-tr-727-rhythm-composer-s.jpg?v=1502440825"
+                        },
+                        {
+                            "name": "Roland TR-707 Rhythm Composer",
+                            "description": "<p>Arnaud explains how to use it in the video (timecode 4&apos;15&apos;&apos;)</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-tr-707-rhythm-composer",
+                            "url": "http://equipboard.com/items/roland-tr-707-rhythm-composer",
+                            "img": "http://images.equipboard.com/uploads/item/image/5639/roland-tr-707-rhythm-composer-s.jpg?v=1502427499"
+                        },
+                        {
+                            "name": "Roland TR-909 Rhythm Composer",
+                            "description": "<p>Used to compose his album Music Components (on the cover)</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-tr-909-rhythm-composer",
+                            "url": "http://equipboard.com/items/roland-tr-909-rhythm-composer",
+                            "img": "http://images.equipboard.com/uploads/item/image/4478/roland-tr-909-rhythm-composer-s.jpg?v=1502426390"
+                        },
+                        {
+                            "name": "Roland TR-808 Rhythm Composer",
+                            "description": "<p>Used in live and on his album Music Components</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-tr-808-rhythm-composer",
+                            "url": "http://equipboard.com/items/roland-tr-808-rhythm-composer",
+                            "img": "http://images.equipboard.com/uploads/item/image/3726/roland-tr-808-rhythm-composer-s.jpg?v=1502421250"
+                        },
+                        {
+                            "name": "E-mu SP-1200",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/e-mu-sp-1200",
+                            "url": "http://equipboard.com/items/e-mu-sp-1200",
+                            "img": "http://images.equipboard.com/uploads/item/image/5549/e-mu-sp-1200-s.jpg?v=1502386134"
+                        }
+                    ]
+                },
+                {
+                    "type": "Keyboards and Synthesizers",
+                    "items": [
+                        {
+                            "name": "Roland SH-101 Synthesizer",
+                            "description": "<p>&quot;Roland is the typical &quot;Techno&quot; brand sound. [...] I used a lot the arpeggiator on scene.&quot;</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-sh-101-synthesizer",
+                            "url": "http://equipboard.com/items/roland-sh-101-synthesizer",
+                            "img": "http://images.equipboard.com/uploads/item/image/5253/roland-sh-101-synthesizer-s.jpg?v=1502407817"
+                        },
+                        {
+                            "name": "Roland Juno-60",
+                            "description": "<p>You can see it, under the TR707 in his studio (timecode 4&apos;15&apos;&apos;)</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-juno-60",
+                            "url": "http://equipboard.com/items/roland-juno-60",
+                            "img": "http://images.equipboard.com/uploads/item/image/6627/roland-juno-60-synthesizer-s.jpg?v=1502381101"
+                        },
+                        {
+                            "name": "Tom Oberheim Two Voice Pro",
+                            "description": "<p>Used to compose his album Music Component (on the album cover)</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/tom-oberheim-two-voice-pro",
+                            "url": "http://equipboard.com/items/tom-oberheim-two-voice-pro",
+                            "img": "http://images.equipboard.com/uploads/item/image/44796/tom-oberheim-two-voice-pro-s.jpg?v=1501773238"
+                        },
+                        {
+                            "name": "Roland TB-303",
+                            "description": "<p>Used in live and on his albums Music Components and Someone Give Me A Religion</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-tb-303",
+                            "url": "http://equipboard.com/items/roland-tb-303",
+                            "img": "http://images.equipboard.com/uploads/item/image/2857/roland-tb-303-s.jpg?v=1502428677"
+                        },
+                        {
+                            "name": "Korg Mono/Poly Synthesizer",
+                            "description": "<p>Used on Music Components</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/korg-mono-poly-synthesizer",
+                            "url": "http://equipboard.com/items/korg-mono-poly-synthesizer",
+                            "img": "http://images.equipboard.com/uploads/item/image/5711/korg-mono-poly-synthesizer-s.jpg?v=1502375142"
+                        },
+                        {
+                            "name": "Roland JX-8P",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-jx-8p",
+                            "url": "http://equipboard.com/items/roland-jx-8p",
+                            "img": "http://images.equipboard.com/uploads/item/image/8127/roland-jx-8p-s.jpg?v=1502430931"
+                        },
+                        {
+                            "name": "ARP Omni-2",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/arp-omni-2",
+                            "url": "http://equipboard.com/items/arp-omni-2",
+                            "img": "http://images.equipboard.com/uploads/item/image/32811/arp-omni-2-s.jpg?v=1501377035"
+                        },
+                        {
+                            "name": "Sequential Circuits Pro One Synthesizer",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/sequential-circuits-pro-one-synthesizer",
+                            "url": "http://equipboard.com/items/sequential-circuits-pro-one-synthesizer",
+                            "img": "http://images.equipboard.com/uploads/item/image/5480/sequential-circuits-pro-one-synthesizer-s.jpg?v=1502427351"
+                        },
+                        {
+                            "name": "Roland Alpha Juno-2 Synthesizer",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/roland-alpha-juno-2-synthesizer",
+                            "url": "http://equipboard.com/items/roland-alpha-juno-2-synthesizer",
+                            "img": "http://images.equipboard.com/uploads/item/image/4927/roland-alpha-juno-2-synthesizer-s.jpg?v=1502361042"
+                        },
+                        {
+                            "name": "Korg ARP Odyssey",
+                            "description": "<p>spotted in the video</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/korg-arp-odyssey",
+                            "url": "http://equipboard.com/items/korg-arp-odyssey",
+                            "img": "http://images.equipboard.com/uploads/item/image/8297/korg-arp-odyssey-s.jpg?v=1502444482"
+                        },
+                        {
+                            "name": "Eminent Solina String Ensemble",
+                            "description": "<p>used by rebotini at 10:37</p>",
+                            "urlDescription": "http://equipboard.com/pros/arnaud-rebotini/eminent-solina-string-ensemble",
+                            "url": "http://equipboard.com/items/eminent-solina-string-ensemble",
+                            "img": "http://images.equipboard.com/uploads/item/image/29298/eminent-solina-string-ensemble-s.jpg?v=1502013896"
+                        }
+                    ]
+                }
+            ],
+            "subject": [],
+            "birthDate": [],
+            "dbp_abstract": []
+        }
+    ],
+    "rdf": "<?xml version='1.0' encoding='utf-8' ?> <rdf:RDF  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'  xmlns:dcterms='http://purl.org/dc/terms/'  xmlns:dbpedia-owl='http://dbpedia.org/ontology/' >   <rdf:Description rdf:about='http://fr.dbpedia.org/resource/Black_Strobe'>     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Groupe_de_musique_français_des_années_2000' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Groupe_de_musique_électronique_français' />     <dbpedia-owl:activeYearsStartYear rdf:datatype='http://www.w3.org/2001/XMLSchema#gYear'>1997+02:00</dbpedia-owl:activeYearsStartYear>     <dbpedia-owl:bandMember rdf:resource='http://fr.dbpedia.org/resource/Arnaud_Rebotini' />     <dbpedia-owl:formerBandMember rdf:resource='http://fr.dbpedia.org/resource/Ivan_Smagghe' />     <dbpedia-owl:recordLabel rdf:resource='http://fr.dbpedia.org/resource/Playlouderecordings' />     <dbpedia-owl:recordLabel rdf:resource='http://fr.dbpedia.org/resource/Supersoul_Recordings' />     <dbpedia-owl:recordLabel rdf:resource='http://fr.dbpedia.org/resource/Output_Recordings' />     <dbpedia-owl:recordLabel rdf:resource='http://fr.dbpedia.org/resource/Black_Strobe_Records' />     <dbpedia-owl:abstract xml:lang='fr'>Black Strobe est un groupe français de musique électronique créé en 1997.Initialement composé d&#39;Arnaud Rebotini et du DJ français Ivan Smagghe, le groupe s&#39;est peu à peu étoffé avec l&#39;arrivée d&#39;autres musiciens. Leur musique se rapproche de l&#39;electronic body music et de l&#39;electroclash.</dbpedia-owl:abstract>   </rdf:Description>   <rdf:Description rdf:about='http://fr.dbpedia.org/resource/Ivan_Smagghe'>     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Disc_jockey_français' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Élève_de_l&#39;Institut_d&#39;études_politiques_de_Paris' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Naissance_en_1971' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Disquaire' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Musicien_de_musique_électronique_français' />     <rdfs:label xml:lang='fr'>Ivan Smagghe</rdfs:label>     <dbpedia-owl:abstract xml:lang='fr'>Ivan Smagghe est un DJ et journaliste musical français né en 1971.Après un brillant parcours à l&#39;IEP de Paris (major de promotion, section recherche et enseignement en 1992)[réf. nécessaire], il devient vendeur chez le fameux disquaire Rough Trade, puis collaborateur de Nova Magazine et Les Inrockuptibles.Il se consacre ensuite à ses prestations de DJ (entre autres pour Radio Nova) et publie plusieurs mixes sous son nom.Depuis 1997, en duo avec Arnaud Rebotini (lui aussi ex-vendeur pour Rough Trade), il produisait également des maxis sous le nom de Black Strobe. Le 19 avril 2007, plusieurs sites annoncent son départ de Black Strobe. Il semblait ne plus trouver sa place dans un groupe orienté vers une formation électro-rock plus « classique ». Il se consacre alors à sa carrière de DJ.Sa réputation de dénicheur de sons[réf. nécessaire] en a fait un chroniqueur irrégulier de Bernard Lenoir.</dbpedia-owl:abstract>   </rdf:Description>   <rdf:Description rdf:about='http://fr.dbpedia.org/resource/Arnaud_Rebotini'>     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Naissance_en_1970' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Musicien_de_musique_électronique_français' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Naissance_à_Nancy' />     <rdfs:label xml:lang='fr'>Arnaud Rebotini</rdfs:label>     <dbpedia-owl:abstract xml:lang='fr'>Arnaud Rebotini est un compositeur et musicien de musique électronique français né à Nancy en 1970. Il se produit sous son propre nom, mais aussi sous le pseudonyme Zend Avesta. Il est aussi l&#39;un des fondateurs du groupe Black Strobe.</dbpedia-owl:abstract>   </rdf:Description> </rdf:RDF>",
+    "urlAmazon": "http://www.amazon.com/asdf/e/B001LHH0RM?tag=wikia-20",
+    "urlITunes": "https://itunes.apple.com/us/artist/id56911384",
+    "urlAllmusic": "http://www.allmusic.com/artist/mn0000082993",
+    "urlDiscogs": "http://www.discogs.com/artist/4215",
+    "urlMusicBrainz": "http://musicbrainz.org/artist/358169a4-acce-4cf5-9cf1-5dc5be009177",
+    "urlYouTube": "",
+    "urlSpotify": "https://play.spotify.com/artist/0dKTZGtRhs5pdyOt8uiuSY",
+    "urlPureVolume": "",
+    "urlRateYourMusic": "http://rateyourmusic.com/artist/black_strobe",
+    "urlSoundCloud": "",
+    "lifeSpan": {
+        "ended": false,
+        "begin": "1997",
+        "end": ""
+    },
+    "location": {
+        "country": "France",
+        "city": "Paris"
+    },
+    "gender": "",
+    "endArea": {
+        "name": ""
+    },
+    "id_artist_deezer": "6736",
+    "urlDeezer": "http://www.deezer.com/artist/6736",
+    "picture": {
+        "standard": "http://api.deezer.com/artist/6736/image",
+        "small": "http://e-cdn-images.deezer.com/images/artist/3967d915d81b612f8aec27343b9d0cc8/56x56-000000-80-0-0.jpg",
+        "medium": "http://e-cdn-images.deezer.com/images/artist/3967d915d81b612f8aec27343b9d0cc8/250x250-000000-80-0-0.jpg",
+        "big": "http://e-cdn-images.deezer.com/images/artist/3967d915d81b612f8aec27343b9d0cc8/500x500-000000-80-0-0.jpg",
+        "xl": "http://e-cdn-images.deezer.com/images/artist/3967d915d81b612f8aec27343b9d0cc8/1000x1000-000000-80-0-0.jpg"
+    },
+    "deezerFans": 9302,
+    "urlWikidata": "https://www.wikidata.org/wiki/Q2905472",
+    "id_artist_discogs": "4215",
+    "abstract": "French project. Initially composed of Arnaud Rebotini and DJ Ivan Smagghe French, the group has gradually expanded with the arrival of other musicians. Their music is closer to electronic body music and electroclash.",
+    "nameVariations": [
+        "Black-strobe",
+        "Blackstrobe"
+    ],
+    "urls": [
+        "http://www.myspace.com/blackstrobe",
+        "http://www.myspace.com/blackstroberemix",
+        "http://www.facebook.com/pages/Black-Strobe/45741845265"
+    ],
+    "subject": [],
+    "associatedMusicalArtist": [],
+    "dbp_genre": [],
+    "recordLabel": [],
+    "dbp_abstract": [],
+    "name_accent_fold": "Black Strobe",
+    "nameVariations_fold": [
+        "Blackstrobe",
+        "Blackstrobe"
+    ],
+    "albums": [
+        {
+            "_id": "5714debb25ac0d8aee352fb5",
+            "name": "Black Strobe",
+            "id_artist": "56d804a453a7ddfc01f91295",
+            "title": "Other Releases",
+            "publicationDate": "",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/9611c3a345b193f81f43ee878e485613/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec725ac0d8aee3b6c7f",
+                    "position": 0,
+                    "title": "Shining Bright Star"
+                },
+                {
+                    "_id": "5714dec725ac0d8aee3b6c80",
+                    "position": 1,
+                    "title": "Who Are We?"
+                },
+                {
+                    "_id": "5714dec725ac0d8aee3b6c81",
+                    "position": 2,
+                    "title": "I'm A Man"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee352fb6",
+            "name": "Black Strobe",
+            "id_artist": "56d804a453a7ddfc01f91295",
+            "title": "Other Songs",
+            "publicationDate": "",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/c96b8e85047a7f4ff9e9a7e6f83b4a5a/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec725ac0d8aee3b6c82",
+                    "position": 0,
+                    "title": "Me & Madonna"
+                }
+            ]
+        }
+    ],
+    "isConnected": false
+}

@@ -1,0 +1,882 @@
+{
+    "_id": "56d8066953a7ddfc01f91525",
+    "name": "Bob Sinclar",
+    "urlWikipedia": "http://en.wikipedia.org/wiki/fr:Bob_Sinclar",
+    "urlOfficialWebsite": "http://www.bobsinclar.com/",
+    "urlFacebook": "",
+    "urlMySpace": "https://myspace.com/bobsinclar",
+    "urlTwitter": "",
+    "locationInfo": [
+        "France",
+        "Brittany",
+        "Douarnenez"
+    ],
+    "urlWikia": "Bob_Sinclar",
+    "genres": [],
+    "labels": [],
+    "members": [
+        {
+            "name": "Africanism All Stars",
+            "instruments": [],
+            "begin": "",
+            "end": "",
+            "ended": false,
+            "gender": null,
+            "urlAllmusic": "http://www.allmusic.com/artist/mn0000504059",
+            "urlDiscogs": "https://www.discogs.com/artist/5821",
+            "urlWikidata": "https://www.wikidata.org/wiki/Q2254953",
+            "urlWikipedia": "https://en.wikipedia.org/wiki/Africanism_All_Stars",
+            "id_member_discogs": "5821",
+            "realName": "",
+            "abstract": "",
+            "nameVariations": [
+                "AF All Stars",
+                "Africanism All Star",
+                "Africanism All Stars",
+                "Africanism All-Stars",
+                "Africanism Allstar",
+                "Africanism Allstars",
+                "Africanism III",
+                "Africanism Prod.",
+                "Africanism-Allstars"
+            ],
+            "urls": [
+                "http://www.yellowprod.fr/discography/artists/africanism",
+                "http://www.facebook.com/pages/Africanism-All-Stars/377557475666490",
+                "http://en.wikipedia.org/wiki/Africanism_All_Stars"
+            ],
+            "urlEquipBoard": ""
+        }
+    ],
+    "rdf": "<?xml version='1.0' encoding='utf-8' ?> <rdf:RDF  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'  xmlns:dcterms='http://purl.org/dc/terms/'  xmlns:dbpedia-owl='http://dbpedia.org/ontology/' >   <rdf:Description rdf:about='http://fr.dbpedia.org/resource/Bob_Sinclar'>     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Musicien_de_musique_électronique_français' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Naissance_en_mai_1969' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Disc_jockey_français' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Nom_de_scène' />     <dcterms:subject rdf:resource='http://fr.dbpedia.org/resource/Catégorie:Naissance_à_Bois-Colombes' />     <dbpedia-owl:activeYearsStartYear rdf:datatype='http://www.w3.org/2001/XMLSchema#gYear'>1998+02:00</dbpedia-owl:activeYearsStartYear>     <dbpedia-owl:birthDate rdf:datatype='http://www.w3.org/2001/XMLSchema#date'>1969-05-11+02:00</dbpedia-owl:birthDate>     <dbpedia-owl:genre rdf:resource='http://fr.dbpedia.org/resource/House_(musique)' />     <dbpedia-owl:genre rdf:resource='http://fr.dbpedia.org/resource/Disco' />     <dbpedia-owl:genre rdf:resource='http://fr.dbpedia.org/resource/French_touch_(musique)' />     <dbpedia-owl:recordLabel rdf:resource='http://fr.dbpedia.org/resource/Yellow_productions' />     <dbpedia-owl:abstract xml:lang='fr'>Bob Sinclar (alias The Mighty Bop ou Chris the French kiss ou Reminiscence Quartet), de son vrai nom Christophe Le Friant, né le 10 mai 1969 en France, est un DJ français originellement affilié à la french touch, et aujourd&#39;hui davantage assimilé à la disco house.</dbpedia-owl:abstract>   </rdf:Description> </rdf:RDF>",
+    "urlAmazon": "http://www.amazon.com/asdf/e/B000APNFFM?tag=wikia-20",
+    "urlITunes": "https://itunes.apple.com/us/artist/id14606058",
+    "urlAllmusic": "http://www.allmusic.com/artist/mn0000075329",
+    "urlDiscogs": "http://www.discogs.com/artist/224",
+    "urlMusicBrainz": "http://musicbrainz.org/artist/f9ab44f1-7b19-4ecb-830c-403abcf36cd1",
+    "urlYouTube": "https://www.youtube.com/user/BobSinclarVEVO",
+    "urlSpotify": "https://play.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
+    "urlPureVolume": "",
+    "urlRateYourMusic": "http://rateyourmusic.com/artist/bob_sinclar",
+    "urlSoundCloud": "http://soundcloud.com/bob-sinclar-official",
+    "lifeSpan": {
+        "ended": false,
+        "begin": "1967-05-10",
+        "end": ""
+    },
+    "location": {
+        "country": "France",
+        "city": "Douarnenez"
+    },
+    "gender": "Male",
+    "endArea": {
+        "name": ""
+    },
+    "id_artist_deezer": "157",
+    "urlDeezer": "http://www.deezer.com/artist/157",
+    "picture": {
+        "standard": "http://api.deezer.com/artist/157/image",
+        "small": "http://e-cdn-images.deezer.com/images/artist/f4fcaec1bda8d92b486614b37dc189ee/56x56-000000-80-0-0.jpg",
+        "medium": "http://e-cdn-images.deezer.com/images/artist/f4fcaec1bda8d92b486614b37dc189ee/250x250-000000-80-0-0.jpg",
+        "big": "http://e-cdn-images.deezer.com/images/artist/f4fcaec1bda8d92b486614b37dc189ee/500x500-000000-80-0-0.jpg",
+        "xl": "http://e-cdn-images.deezer.com/images/artist/f4fcaec1bda8d92b486614b37dc189ee/1000x1000-000000-80-0-0.jpg"
+    },
+    "deezerFans": 1535504,
+    "urlSecondHandSongs": "https://secondhandsongs.com/artist/37319",
+    "urlWikidata": "https://www.wikidata.org/wiki/Q223167",
+    "id_artist_discogs": "224",
+    "abstract": "Born: 10 May 1969 in Douarnenez, Brittany, France. \r\rGrammy Award-nominated French record producer, house music DJ & remixer, and owner of the label Yellow Productions. \rThe second name of this stage name, is pronounced \"Sinclair\" (like British computer/engineering brand named after Sir Clive Sinclair), and is often misspelt like this on releases and in publications. \r\rNoted French house svengali, head honcho of ultra-hip independent label Yellow Productions, and responsible of [url=http://www.discogs.com/artist/Mighty+Bop,+The]The Mighty Bop[/url] project. Chris lives in Le Marais, the gay quarter of Paris, the city in which he learnt to play his trade as a funk, rap and French hip-hop DJ in 1986, when he was 18. \r\rChris 'Le French Kiss' got the name Bob Sinclar from a French spy movie (\"Le Magnifique\" directed by Philippe de Broca) and first adopted, to a certain extent, the attitude portrayed by the character in the film. \r\rIn 1998, the release of Sinclar's first album \"Paradise\" sparked a storm of controversy. Thomas Bangalter's song \"Gym Tonic\", which was included on the album without Bangalter's consent, caused legal issues when it used an illegal sample of Jane Fonda. \r\rHowever, in 2000, Sinclar's second opus \"Champs Élysées\" confirmed his success with hits such as \"I Feel For You\" and \"Darlin' \". \rOther releases from that period includes his collaboration with Disco artist Cerrone for a compilation of remixes, and the popular Africanism series, which was more deep house oriented. \r\rDropping the original concept of \"Bob Sinclar\" after that, the release of \"III\" (2003) and of \"Western Dream\" (2006) established him as a popular/commercial DJ. \r\rHis remixing skills are notable, as he worked for artists such as Ian Pooley, Jamiroquai, Dimitri From Paris, Moby, Fused, and Madonna. \r\rRelated collaborators: Bob Sinclar's Philarmonic Orchestra, [url=http://www.discogs.com/artist/BS%27s+Angels%2C+The]The BS's Angels[/url]. \r",
+    "nameVariations": [
+        "B. S.",
+        "B. Sinclair",
+        "B. Sinclar",
+        "B.Sinclar",
+        "Bob",
+        "Bob S.",
+        "Bob Saint Care",
+        "Bob Sincair",
+        "Bob Sinclair",
+        "Bob Synclair",
+        "Bon Sinclair",
+        "Kid Creme",
+        "Mr. Bob S.",
+        "Sinclar",
+        "ボブ・サンクラー"
+    ],
+    "urls": [
+        "http://www.bobsinclar.com",
+        "http://www.facebook.com/BobSinclar",
+        "http://plus.google.com/+BobSinclar",
+        "http://instagram.com/bobsinclar",
+        "http://www.instagram.com/parisbynight",
+        "http://twitter.com/bobsinclar",
+        "http://www.youtube.com/user/bobsinclar",
+        "http://en.wikipedia.org/wiki/Bob_Sinclar"
+    ],
+    "subject": [],
+    "associatedMusicalArtist": [],
+    "dbp_genre": [],
+    "recordLabel": [],
+    "dbp_abstract": [],
+    "name_accent_fold": "Bob Sinclar",
+    "nameVariations_fold": [
+        "B. S.",
+        "B. Sinclair",
+        "B. Sinclar",
+        "B.Sinclar",
+        "Bob",
+        "Bob S.",
+        "Bob Saint Care",
+        "Bob Sincair",
+        "Bob Sinclair",
+        "Bob Synclair",
+        "Bon Sinclair",
+        "Kid Creme",
+        "Mr. Bob S.",
+        "Sinclar",
+        "ボブ・サンクラー"
+    ],
+    "albums": [
+        {
+            "_id": "5714debb25ac0d8aee353726",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Other Songs",
+            "publicationDate": "",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/cf81bac6fc639f6893374b99803f37b1/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e4",
+                    "position": 0,
+                    "title": "Beat Goes On"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e5",
+                    "position": 1,
+                    "title": "Everbody Dance Now"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e6",
+                    "position": 2,
+                    "title": "F*** With You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e7",
+                    "position": 3,
+                    "title": "Gia"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e8",
+                    "position": 4,
+                    "title": "Groupie"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e9",
+                    "position": 5,
+                    "title": "Let's All Chant"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ea",
+                    "position": 6,
+                    "title": "Let's Start The Dance"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6eb",
+                    "position": 7,
+                    "title": "Madan"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ec",
+                    "position": 8,
+                    "title": "Mo Underground People"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ed",
+                    "position": 9,
+                    "title": "Mr Tambourine Man"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ee",
+                    "position": 10,
+                    "title": "Summer Moonlight"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ef",
+                    "position": 11,
+                    "title": "Summer Moon"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6f0",
+                    "position": 12,
+                    "title": "World Hold On"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee35371e",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Paradise",
+            "publicationDate": "1998",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/0dfde0055421b272182173fe9dd970a4/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb672",
+                    "position": 0,
+                    "title": "Intro"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb673",
+                    "position": 1,
+                    "title": "Get Into The Music"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb674",
+                    "position": 2,
+                    "title": "Disco 2000 Selector"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb675",
+                    "position": 3,
+                    "title": "My Only Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb676",
+                    "position": 4,
+                    "title": "Paradise (Interlude)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb677",
+                    "position": 5,
+                    "title": "The Ghetto"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb678",
+                    "position": 6,
+                    "title": "New York City Music"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb679",
+                    "position": 7,
+                    "title": "Ultimate Funk"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb67a",
+                    "position": 8,
+                    "title": "Move Your Body"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb67b",
+                    "position": 9,
+                    "title": "Souvenir"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb67c",
+                    "position": 10,
+                    "title": "Vision Of Paradise"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb67d",
+                    "position": 11,
+                    "title": "My Underground People"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb67e",
+                    "position": 12,
+                    "title": "Gym Tonic"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee35371f",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Champs Elysées",
+            "publicationDate": "2002",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/d64f6130832f2414806eda101984a758/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb67f",
+                    "position": 0,
+                    "title": "Champs Elysees Theme"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb680",
+                    "position": 1,
+                    "title": "I Feel For You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb681",
+                    "position": 2,
+                    "title": "You Are Beautiful"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb682",
+                    "position": 3,
+                    "title": "Striptease"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb683",
+                    "position": 4,
+                    "title": "Got To Be Free"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb684",
+                    "position": 5,
+                    "title": "Life"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb685",
+                    "position": 6,
+                    "title": "Save Our Soul"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb686",
+                    "position": 7,
+                    "title": "Phasing News"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb687",
+                    "position": 8,
+                    "title": "Ich Rocke"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb688",
+                    "position": 9,
+                    "title": "Freedom"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb689",
+                    "position": 10,
+                    "title": "Darlin"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb68a",
+                    "position": 11,
+                    "title": "My Only Love"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353720",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "III",
+            "publicationDate": "2003",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/cf81bac6fc639f6893374b99803f37b1/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb68b",
+                    "position": 0,
+                    "title": "The Beat Goes On"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb68c",
+                    "position": 1,
+                    "title": "Kiss My Eyes"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb68d",
+                    "position": 2,
+                    "title": "If I Was"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb68e",
+                    "position": 3,
+                    "title": "La Music Is Fantastique"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb68f",
+                    "position": 4,
+                    "title": "Nature Boy"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb690",
+                    "position": 5,
+                    "title": "Who Needs Sleep Tonight 2002"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb691",
+                    "position": 6,
+                    "title": "Sexy Dancer"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb692",
+                    "position": 7,
+                    "title": "I'm Not Perfect"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb693",
+                    "position": 8,
+                    "title": "Do It"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb694",
+                    "position": 9,
+                    "title": "Métro Blanche"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb695",
+                    "position": 10,
+                    "title": "Beat The Clock"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb696",
+                    "position": 11,
+                    "title": "Europa"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb697",
+                    "position": 12,
+                    "title": "So High"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353721",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Western Dream",
+            "publicationDate": "2006",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/3cedf2f56a6cdbf0127d8b44978f6ee5/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb698",
+                    "position": 0,
+                    "title": "Bob Sinclair:Love Generation"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb699",
+                    "position": 1,
+                    "title": "Tennessee"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69a",
+                    "position": 2,
+                    "title": "Everybody Movin'"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69b",
+                    "position": 3,
+                    "title": "World, Hold On (Children Of The Sky)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69c",
+                    "position": 4,
+                    "title": "Miss Me"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69d",
+                    "position": 5,
+                    "title": "For You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69e",
+                    "position": 6,
+                    "title": "Sing My Song"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb69f",
+                    "position": 7,
+                    "title": "In The Name Of Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a0",
+                    "position": 8,
+                    "title": "Amora, Amor"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a1",
+                    "position": 9,
+                    "title": "Shining From Heaven"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a2",
+                    "position": 10,
+                    "title": "Give A Lil' Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a3",
+                    "position": 11,
+                    "title": "Love Generation (Ron Carroll Remix)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a4",
+                    "position": 12,
+                    "title": "Bob Sinclar & Cutee B:Rock This Party (Everybody Dance Now)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a5",
+                    "position": 13,
+                    "title": "Bob Sinclair:Love Generation"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a6",
+                    "position": 14,
+                    "title": "Tennessee"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a7",
+                    "position": 15,
+                    "title": "Everybody Movin'"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a8",
+                    "position": 16,
+                    "title": "World, Hold On (Children Of The Sky)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6a9",
+                    "position": 17,
+                    "title": "Sing My Song"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6aa",
+                    "position": 18,
+                    "title": "In The Name Of Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ab",
+                    "position": 19,
+                    "title": "Amora, Amor"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ac",
+                    "position": 20,
+                    "title": "Shining From Heaven"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ad",
+                    "position": 21,
+                    "title": "Give A Lil' Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ae",
+                    "position": 22,
+                    "title": "World, Hold On (Children Of The Sky)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6af",
+                    "position": 23,
+                    "title": "Love Generation (Ron Carroll's Black Church Feeling)"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353722",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Soundz Of Freedom",
+            "publicationDate": "2007",
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b0",
+                    "position": 0,
+                    "title": "Bob Sinclar & Cutee B:Sound Of Freedom"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b1",
+                    "position": 1,
+                    "title": "Rock This Party"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b2",
+                    "position": 2,
+                    "title": "What I Want"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b3",
+                    "position": 3,
+                    "title": "Hard"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b4",
+                    "position": 4,
+                    "title": "Kiss My Eyes"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b5",
+                    "position": 5,
+                    "title": "I Feel For You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b6",
+                    "position": 6,
+                    "title": "Everybody Movin' (Part 1)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b7",
+                    "position": 7,
+                    "title": "Everybody Movin' (Part 2)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b8",
+                    "position": 8,
+                    "title": "Ultimate Funk"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6b9",
+                    "position": 9,
+                    "title": "The Beat Goes On"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ba",
+                    "position": 10,
+                    "title": "Champs Elysées Theme"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6bb",
+                    "position": 11,
+                    "title": "Tribute"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6bc",
+                    "position": 12,
+                    "title": "Together"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6bd",
+                    "position": 13,
+                    "title": "Give A Lil' Love (Part 2)"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353723",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Born In 69",
+            "publicationDate": "2009",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/a2f665c8468b5ab6b1a72d20bbe63000/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb6be",
+                    "position": 0,
+                    "title": "Lala Song"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6bf",
+                    "position": 1,
+                    "title": "Give Me Some More"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c0",
+                    "position": 2,
+                    "title": "Love You No More"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c1",
+                    "position": 3,
+                    "title": "New New New"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c2",
+                    "position": 4,
+                    "title": "Jamaica Avenue"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c3",
+                    "position": 5,
+                    "title": "Peace Song"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c4",
+                    "position": 6,
+                    "title": "Bob Sinclar & Axwell:What A Wonderful World"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c5",
+                    "position": 7,
+                    "title": "Mr. Tambourine Man"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c6",
+                    "position": 8,
+                    "title": "People Of Tomorrow"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c7",
+                    "position": 9,
+                    "title": "The Way I Feel"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c8",
+                    "position": 10,
+                    "title": "We Are Everything"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6c9",
+                    "position": 11,
+                    "title": "Belly Dancer"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ca",
+                    "position": 12,
+                    "title": "Looks Like Love"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353724",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Made In Jamaica",
+            "publicationDate": "2010",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/77ecb54f26b1c8e998fb11cf2742014f/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb6cb",
+                    "position": 0,
+                    "title": "Bob Sinclar & Sahara:I Wanna"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6cc",
+                    "position": 1,
+                    "title": "Bob Sinclair:Love Generation"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6cd",
+                    "position": 2,
+                    "title": "World, Hold On (Children Of The Sky)"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6ce",
+                    "position": 3,
+                    "title": "The Beat Goes On"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6cf",
+                    "position": 4,
+                    "title": "Rainbow Of Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d0",
+                    "position": 5,
+                    "title": "Bob Sinclar & Cutee B:Sound Of Freedom"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d1",
+                    "position": 6,
+                    "title": "Jamaica Avenue"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d2",
+                    "position": 7,
+                    "title": "Give A Lil' Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d3",
+                    "position": 8,
+                    "title": "Peace Song"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d4",
+                    "position": 9,
+                    "title": "Kiss My Eyes"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d5",
+                    "position": 10,
+                    "title": "Together"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d6",
+                    "position": 11,
+                    "title": "I Feel For You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d7",
+                    "position": 12,
+                    "title": "Bob Sinclar & Sahara:I Wanna"
+                }
+            ]
+        },
+        {
+            "_id": "5714debb25ac0d8aee353725",
+            "name": "Bob Sinclar",
+            "id_artist": "56d8066953a7ddfc01f91525",
+            "title": "Disco Crash",
+            "publicationDate": "2012",
+            "cover": {
+                "medium": "http://e-cdn-images.deezer.com/images/cover/06b5a3fb4c27219a4a226dfb1421683d/250x250-000000-80-0-0.jpg"
+            },
+            "songs": [
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d8",
+                    "position": 0,
+                    "title": "Rock The Boat"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6d9",
+                    "position": 1,
+                    "title": "Fuck With You"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6da",
+                    "position": 2,
+                    "title": "Wild Thing"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6db",
+                    "position": 3,
+                    "title": "Far L'Amore"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6dc",
+                    "position": 4,
+                    "title": "Not Gangsta"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6dd",
+                    "position": 5,
+                    "title": "Life"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6de",
+                    "position": 6,
+                    "title": "Put Your Handz Up"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6df",
+                    "position": 7,
+                    "title": "Tik Tok"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e0",
+                    "position": 8,
+                    "title": "Around The World"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e1",
+                    "position": 9,
+                    "title": "Rainbow Of Love"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e2",
+                    "position": 10,
+                    "title": "The Network"
+                },
+                {
+                    "_id": "5714dec825ac0d8aee3bb6e3",
+                    "position": 11,
+                    "title": "Magic Fly"
+                }
+            ]
+        }
+    ],
+    "isConnected": false
+}
