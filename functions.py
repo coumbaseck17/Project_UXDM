@@ -1,6 +1,6 @@
 import os
 import urllib
-
+import time
 import requests
 import json
 
@@ -115,17 +115,43 @@ def fetch_info_artist(url):
 
 def fetch_artists_all(url):
     number = 1
-    endpoint = "/api/v1/artist_all/" + number
     names_genres = []
-    data = api_request(url, endpoint, {})
+    number_str= str(number)
+    while(number < 201):
+        endpoint = "/api/v1/artist_all/" + number_str
+        request = api_request(url, endpoint, {})
+        print(endpoint)
+        for entry in request:
+            albums = entry.get("albums")
+            list = []
 
-    while(number < )
-    for entry in data:
-        artist_name = entry.get("name")
-        artist_genre = entry.get("genres")
-        artist_deezerFans
-        if artist_name:
-            names_genres.append((artist_name,artist_genre))
+            # Parcourez la liste des membres et extrayez les noms
+            for album in albums:
+                nom = album["title"]
+                list.append(nom)
+            artist_deezerFans = entry.get("deezerFans")
+            if(artist_deezerFans is not None and artist_deezerFans != 0):
+                data = {
+                "id": entry.get("_id"),
+                "name": entry.get("name"),
+                "type": entry.get("type"),
+                "genres": entry.get("genres"),
+                "recordLabel": entry.get("recordLabel"),
+                "urlDeezer": entry.get("urlDeezer"),
+                "gender": entry.get("gender"),
+                "picture": entry.get("picture"),
+                "members": entry.get("members"),
+                "albums": list,
+                "deezerFans": artist_deezerFans
+                }
+                print(data)
+                names_genres.append(data)
+        time.sleep(1)
+        print("pause")
+        number += 200
+        number_str = str(number)
+
+
 
     # Enregistrer les données dans un fichier JSON (écrasée ou crée)
     file_path = "data/artist_all.json"
