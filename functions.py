@@ -86,63 +86,84 @@ def fetch_artists_by_genre(url):
 
 
 
-def fetch_info_artist(url):
-
-    endpoint = "/search/artist/"
-
-    with open("data/artist_genre/Rock.json", "r", encoding="utf-8") as json_file:
-        artist_name_list = json.load(json_file)
-
-        for artist_name in artist_name_list:
-            json_file_id_encoded = urllib.parse.quote(artist_name)
-
-            # Réinitialiser endpoint à chaque boucle
-            endpoint = "/search/artist/" + json_file_id_encoded
-
-            data = api_request(url, endpoint, {})
-
-            """debug"""
-            # print(url, endpoint, {})
-            # print(data)
-
-                # Enlevez les caractères interdits dans les noms de fichier
-            artist_name_cleaned = artist_name.replace("/", "_")
-            file_path = "data/artist_info/rock/" + artist_name_cleaned + ".json"
-            with open(file_path, "w", encoding="utf-8") as json_file:
-                json.dump(data, json_file, ensure_ascii=False, indent=4)
-
-        return artist_name_list
+# def fetch_info_artist(url):
+#
+#     endpoint = "/search/artist/"
+#     dossier = "data/artist_genre/"
+#     list=os.listdir(dossier)
+#     for nom_fichier in list:
+#         with open("data/artist_genre/"+nom_fichier, "r", encoding="utf-8") as json_file:
+#             artist_name_list = json.load(json_file)
+#             print(artist_name_list)
+#
+#
+#             for artist_name in artist_name_list:
+#                 json_file_id_encoded = urllib.parse.quote(artist_name)
+#
+#                 # Réinitialiser endpoint à chaque boucle
+#                 endpoint = "/search/artist/" + json_file_id_encoded
+#
+#                 data = api_request(url, endpoint, {})
+#
+#                 """debug"""
+#                 # print(url, endpoint, {})
+#                 print(data)
+#
+#
+#                     # Enlevez les caractères interdits dans les noms de fichier
+#                 artist_name_cleaned = artist_name.replace("/", "_")
+#                 if not os.path.exists("data/artist_info/"+nom_fichier):
+#                     os.makedirs("data/artist_info/"+nom_fichier)
+#                     file_path = "data/artist_info/"+nom_fichier+"/" + artist_name_cleaned + ".json"
+#                     with open(file_path, "w", encoding="utf-8") as json_file:
+#                         json.dump(data, json_file, ensure_ascii=False, indent=4)
+#
+#     return artist_name_list
 
 def fetch_artists_all(url):
     number = 1
     names_genres = []
     number_str= str(number)
-    while(number < 201):
+    while(number < 77492):
         endpoint = "/api/v1/artist_all/" + number_str
         request = api_request(url, endpoint, {})
         print(endpoint)
         for entry in request:
-            albums = entry.get("albums")
-            list = []
-
-            # Parcourez la liste des membres et extrayez les noms
-            for album in albums:
-                nom = album["title"]
-                list.append(nom)
             artist_deezerFans = entry.get("deezerFans")
             if(artist_deezerFans is not None and artist_deezerFans != 0):
+
+                albums = entry.get("albums")
+                members = entry.get("members")
+                nombre_albums = len(albums)
+                list = []
+                list_members = []
+
+                if (members):
+                    nombre_members = len(members)
+                    for member in members:
+                        nom = member["name"]
+                        list_members.append(nom)
+
+                # Parcourez la liste des membres et extrayez les noms
+                for album in albums:
+                    nom = album["title"]
+                    list.append(nom)
+
                 data = {
                 "id": entry.get("_id"),
                 "name": entry.get("name"),
                 "type": entry.get("type"),
                 "genres": entry.get("genres"),
+                "nombre_albums": nombre_albums,
+                "nombre_members" : nombre_members,
                 "recordLabel": entry.get("recordLabel"),
                 "urlDeezer": entry.get("urlDeezer"),
                 "gender": entry.get("gender"),
-                "picture": entry.get("picture"),
-                "members": entry.get("members"),
+                "picture": entry["picture"]["standard"],
                 "albums": list,
-                "deezerFans": artist_deezerFans
+                "lifeSpan" : entry.get("lifeSpan"),
+                "deezerFans": artist_deezerFans,
+                "members" : list_members
                 }
                 print(data)
                 names_genres.append(data)
