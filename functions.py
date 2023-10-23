@@ -182,5 +182,56 @@ def fetch_artists_all(url):
     return names_genres
 
 
+def fetch_details():
+    with open('data/artist_all.json', 'r', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+
+    genres = ["Blues", "Country", "Electronic", "Folk", "Hip Hop", "Jazz"]
+
+    for genre in genres:
+        nbr_groupes = 0
+        nbr_solos = 0
+        nbr_actif = 0
+
+        for item in data:
+            if genre in item.get("genres", []):
+                if item["type"] == "Group":
+                    nbr_groupes += 1
+                elif item["type"] == "Person":
+                    nbr_solos += 1
+                elif item["type"] is None:
+                    if item["nombre_members"] > 1:
+                        nbr_groupes += 1
+                    else:
+                        nbr_solos += 1
+
+                if not item["lifeSpan"]["ended"]:
+                    nbr_actif += 1
+
+            genre_info = {
+            "nombre_groupes": nbr_groupes,
+            "nombre_solos": nbr_solos,
+            "nombre_actifs": nbr_actif
+            }
+
+        print(f"nombre groupe pour le genre {genre} : {nbr_groupes}")
+        print(f"nombre solo pour le genre {genre} : {nbr_solos}")
+        print(f"nombre actifs pour le genre {genre} : {nbr_actif}")
+
+        with open(f"data/details/{genre}.json", 'w') as genre_file:  # Utilisez 'w' pour écraser le fichier
+            json.dump(genre_info, genre_file, indent=4)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

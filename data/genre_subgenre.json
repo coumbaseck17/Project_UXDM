@@ -1,0 +1,12 @@
+{
+    "Rock": ["Rock","Alternative Rock", "Indie Rock", "Heavy Metal", "Hard Rock", "Punk Rock", "Progressive Rock", "Folk Rock"],
+    "Pop": ["Pop", "Singer-Songwriter", "Pop Rock", "Indie Pop"],
+    "Folk": [],
+    "Hip Hop": [],
+    "Electronic": [],
+    "Blues": [],
+    "R&B": ["Soul"],
+    "Jazz": [],
+    "Country": [],
+    "Others" : []
+}
