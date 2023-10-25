@@ -119,7 +119,7 @@ def fetch_artists_by_genre(url):
 #                         json.dump(data, json_file, ensure_ascii=False, indent=4)
 #
 #     return artist_name_list
-
+""" récupérer les données (sélectionnées) de tout les artistes """
 def fetch_artists_all(url):
     number = 1
     names_genres = []
@@ -182,44 +182,106 @@ def fetch_artists_all(url):
     return names_genres
 
 
+""" recuperer les details de chaque genre et sous genres """
 def fetch_details():
     with open('data/artist_all.json', 'r', encoding='utf-8') as json_file:
+        dataArtist = json.load(json_file)
+
+    with open('data/genre_subgenre.json', 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
 
-    genres = ["Blues", "Country", "Electronic", "Folk", "Hip Hop", "Jazz"]
+    for genre, subgenres in data.items():
+        # créer un répertoire pour le genre
+        genre_dir=os.path.join('data/details', genre)
+        os.makedirs(genre_dir, exist_ok=True)
 
-    for genre in genres:
-        nbr_groupes = 0
-        nbr_solos = 0
-        nbr_actif = 0
+        for subgenre in subgenres:
+            nbr_groupes = 0
+            nbr_solos = 0
+            nbr_actif = 0
 
-        for item in data:
-            if genre in item.get("genres", []):
-                if item["type"] == "Group":
-                    nbr_groupes += 1
-                elif item["type"] == "Person":
-                    nbr_solos += 1
-                elif item["type"] is None:
-                    if item["nombre_members"] > 1:
+            for item in dataArtist:
+                if subgenre in item.get("genres", []):
+                    if item["type"] == "Group":
                         nbr_groupes += 1
-                    else:
+                    elif item["type"] == "Person":
                         nbr_solos += 1
 
-                if not item["lifeSpan"]["ended"]:
-                    nbr_actif += 1
+                    if not item["lifeSpan"]["ended"]:
+                        nbr_actif += 1
 
-            genre_info = {
-            "nombre_groupes": nbr_groupes,
-            "nombre_solos": nbr_solos,
-            "nombre_actifs": nbr_actif
+            total_artists = nbr_groupes + nbr_solos
+            if total_artists > 0:
+                pourcentage_actif = int((nbr_actif / total_artists)*100)
+            else:
+                pourcentage_actif = 0
+
+            subgenre_info = {
+                "nombre_groupes": nbr_groupes,
+                "nombre_solos": nbr_solos,
+                "nombre_actif" : nbr_actif,
+                "pourcentage_actifs": pourcentage_actif
             }
 
-        print(f"nombre groupe pour le genre {genre} : {nbr_groupes}")
-        print(f"nombre solo pour le genre {genre} : {nbr_solos}")
-        print(f"nombre actifs pour le genre {genre} : {nbr_actif}")
+            subgenre_file = os.path.join(genre_dir,f'{subgenre}.json')
+            with open(subgenre_file, 'w', encoding="utf-8") as output_file:
+                json.dump(subgenre_info,output_file, indent=4)
 
-        with open(f"data/details/{genre}.json", 'w') as genre_file:  # Utilisez 'w' pour écraser le fichier
-            json.dump(genre_info, genre_file, indent=4)
+
+
+
+
+            # print(f"Pour le genre {genre} et le sous-genre {subgenre}:")
+            # print(f"Nombre de groupes : {nbr_groupes}")
+            # print(f"Nombre d'artistes solo : {nbr_solos}")
+            # print(f"Nombre d'artistes actifs : {nbr_actif}")
+            # print("\n")
+
+
+def fetch_details_others():
+    with open('data/artist_all.json', 'r', encoding='utf-8') as json_file:
+        dataArtist = json.load(json_file)
+
+    nbr_groupes = 0
+    nbr_solos = 0
+    nbr_actif = 0
+
+    for item in dataArtist:
+        genres = item.get("genres")
+        if not genres:
+            print(f"Artist: {item['name']}, Genres: {genres}")
+            if item["type"] == "Group":
+                nbr_groupes += 1
+            elif item["type"] == "Person":
+                nbr_solos += 1
+            if not item["lifeSpan"]["ended"]:
+                nbr_actif += 1
+
+    total_artists = nbr_groupes + nbr_solos
+    if total_artists > 0:
+        pourcentage_actif = int((nbr_actif / total_artists) * 100)
+    else:
+        pourcentage_actif = 0
+
+    others_info = {
+    "nombre_groupes": nbr_groupes,
+    "nombre_solos": nbr_solos,
+    "nombre_actif" : nbr_actif,
+    "pourcentage_actifs": pourcentage_actif
+    }
+
+    genre_dir = 'data/details'
+    others_file = os.path.join(genre_dir, 'Others.json')
+    with open(others_file, 'w', encoding="utf-8") as output_file:
+        json.dump(others_info, output_file, indent=4)
+
+
+
+
+
+
+
+
 
 
 
