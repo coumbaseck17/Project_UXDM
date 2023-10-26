@@ -1,0 +1,581 @@
+[
+    {
+        "id": "56d978d6cc2ddd0c0f6bc5d3",
+        "name": "Taylor Swift",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Pop",
+            "Pop Rock",
+            "Teen Pop"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Big Machine Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12246",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/12246/image",
+        "albums": [
+            "Taylor Swift",
+            "Sounds Of The Season: The Taylor Swift Holiday Collection",
+            "Beautiful Eyes",
+            "Fearless",
+            "Live From SoHo",
+            "CMT Crossroads",
+            "Speak Now",
+            "Speak Now: World Tour Live",
+            "Red",
+            "1989",
+            "Songs on Compilations and Soundtracks",
+            "Singles",
+            "Digital Downloads",
+            "Songs Featuring Taylor Swift",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-12-13",
+            "end": ""
+        },
+        "deezerFans": 5019449,
+        "members": []
+    },
+    {
+        "id": "56d96b78cc2ddd0c0f6bb111",
+        "name": "Shania Twain",
+        "type": "Person",
+        "genres": [
+            "Country Pop"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 9,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/3134",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3134/image",
+        "albums": [
+            "Shania Twain",
+            "The Woman In Me",
+            "Come On Over",
+            "Beginnings 1989-1990",
+            "The Complete Limelight Sessions",
+            "Up!",
+            "Greatest Hits",
+            "The Will Of A Woman",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Shania Twain",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1965-08-28",
+            "end": ""
+        },
+        "deezerFans": 453649,
+        "members": []
+    },
+    {
+        "id": "56d8220553a7ddfc01f93cde",
+        "name": "Dolly Parton",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Pop",
+            "Bluegrass",
+            "Gospel"
+        ],
+        "nombre_albums": 76,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Dolly (TV series)",
+            "Columbia Records",
+            "Rising Tide Records",
+            "Monument Records",
+            "Sugar Hill Records",
+            "Warner Bros.",
+            "Decca Records",
+            "Goldband Records",
+            "Mercury Records",
+            "RCA Records Nashville"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/8741",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/8741/image",
+        "albums": [
+            "Hello, I'm Dolly",
+            "Just Between You And Me",
+            "Just Because I'm A Woman",
+            "Just The Two Of Us",
+            "In The Good Old Days",
+            "My Blue Ridge Mountain Boy",
+            "The Fairest Of Them All",
+            "Always, Always",
+            "Porter Wayne And Dolly Rebecca",
+            "Once More",
+            "As Long As I Love",
+            "A Real Live Dolly",
+            "Golden Streets Of Glory",
+            "Two Of A Kind",
+            "The Best Of Porter Wagoner & Dolly Parton",
+            "Coat Of Many Colors",
+            "Joshua",
+            "The Right Combination: Burning The Midnight Oil",
+            "Touch Your Woman",
+            "Together Always",
+            "My Favorite Songwriter: Porter Wagoner",
+            "We Found It",
+            "My Tennessee Mountain Home",
+            "Love And Music",
+            "Bubbling Over",
+            "Jolene",
+            "Porter 'n' Dolly",
+            "Say Forever You'll Be Mine",
+            "Love Is Like A Butterfly",
+            "The Bargain Store",
+            "The Seeker/We Used To",
+            "All I Can Do",
+            "New Harvest...First Gathering",
+            "Here You Come Again",
+            "Heartbreaker",
+            "Great Balls Of Fire",
+            "Dolly, Dolly, Dolly",
+            "9 To 5 And Odd Jobs",
+            "Porter & Dolly",
+            "Heartbreak Express",
+            "The Best Little Whorehouse In Texas (soundtrack)",
+            "Burlap & Satin",
+            "The Great Pretender",
+            "Rhinestone",
+            "Once Upon A Christmas",
+            "Real Love",
+            "Think About Love",
+            "Trio",
+            "Rainbow",
+            "White Limozeen",
+            "Home For Christmas",
+            "Eagle When She Flies",
+            "Straight Talk (original Soundtrack)",
+            "Slow Dancing With The Moon",
+            "Honky Tonk Angels",
+            "The Little Things: 18 Great Country Songs",
+            "Heartsongs: Live From Home",
+            "Something Special",
+            "Treasures",
+            "The Essential Dolly Parton, Volume 2",
+            "Hungry Again",
+            "Trio II",
+            "Best Of",
+            "The Grass Is Blue",
+            "Precious Memories",
+            "Little Sparrow",
+            "Halos & Horns",
+            "For God And Country",
+            "Live And Well",
+            "Those Were The Days",
+            "Puppy Love",
+            "Backwoods Barbie",
+            "Blue Smoke",
+            "Songs on Compilations and Soundtracks",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1946-01-19",
+            "end": ""
+        },
+        "deezerFans": 217330,
+        "members": [
+            "Artists Of Then, Now & Forever"
+        ]
+    },
+    {
+        "id": "56d94bc4cc2ddd0c0f6b827d",
+        "name": "Nancy Sinatra",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Jazz",
+            "Pop",
+            "Pop Rock",
+            "Rock"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 14,
+        "recordLabel": [
+            "RCA Records",
+            "Boots Enterprises, Inc.",
+            "Reprise Records",
+            "Cougar Records",
+            "Disney Music Group",
+            "Attack Records",
+            "Elektra Records",
+            "Private Stock Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1032",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1032/image",
+        "albums": [
+            "Boots",
+            "How Does That Grab You?",
+            "Nancy In London",
+            "Country, My Way",
+            "Sugar",
+            "Movin' With Nancy",
+            "Nancy",
+            "Nancy & Lee",
+            "Nancy & Lee Again",
+            "One More Time",
+            "How Does It Feel",
+            "California Girl",
+            "Nancy Sinatra",
+            "Cherry Smiles: The Rare Singles",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1940-06-08",
+            "end": ""
+        },
+        "deezerFans": 30808,
+        "members": []
+    },
+    {
+        "id": "56d990f6cc2ddd0c0f6be7fe",
+        "name": "Vince Gill",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Bluegrass",
+            "Blue-Eyed Soul",
+            "Country Pop",
+            "Southern Rock"
+        ],
+        "nombre_albums": 26,
+        "nombre_members": 6,
+        "recordLabel": [
+            "RCA Records Nashville",
+            "Universal Music Group Nashville",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12904",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/12904/image",
+        "albums": [
+            "Turn Me Loose",
+            "The Things That Matter",
+            "The Way Back Home",
+            "The Best Of Vince Gill",
+            "When I Call Your Name",
+            "Pocket Full Of Gold",
+            "I Never Knew Lonely",
+            "I Still Believe In You",
+            "Let There Be Peace On Earth",
+            "Vince Gill And Friends",
+            "When Love Finds You",
+            "The Essential Vince Gill",
+            "Souvenirs",
+            "High Lonesome Sound",
+            "Super Hits",
+            "Breath Of Heaven",
+            "The Key",
+            "Let's Make Sure We Kiss Goodbye",
+            "Next Big Thing",
+            "These Days",
+            "Guitar Slinger",
+            "Bakersfield",
+            "Down To My Last Bad Habit",
+            "Songs Featuring Vince Gill",
+            "Songs on Soundtracks and Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-04-12",
+            "end": ""
+        },
+        "deezerFans": 20490,
+        "members": [
+            "Artists Of Then, Now & Forever",
+            "The Notorious Cherry Bombs",
+            "Pure Prairie League",
+            "Mountain Smoke",
+            "Here Today",
+            "The Time Jumpers"
+        ]
+    },
+    {
+        "id": "56d94f37cc2ddd0c0f6b8759",
+        "name": "Nitty Gritty Dirt Band",
+        "type": "Group",
+        "genres": [
+            "Country",
+            "Folk",
+            "Folk Rock",
+            "Bluegrass",
+            "Country Rock",
+            "Country Pop"
+        ],
+        "nombre_albums": 32,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Sugar Hill Records",
+            "Capitol Records",
+            "Dualtone Records",
+            "United Artists Records",
+            "Liberty Records",
+            "MCA Records",
+            "DreamWorks Records",
+            "EMI America Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/131702",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/131702/image",
+        "albums": [
+            "The Nitty Gritty Dirt Band",
+            "Ricochet",
+            "Rare Junk",
+            "Alive!",
+            "Uncle Charlie & His Dog Teddy",
+            "All The Good Times",
+            "Will The Circle Be Unbroken",
+            "Stars & Stripes Forever",
+            "Symphonion Dream",
+            "Dirt, Silver And Gold",
+            "The Dirt Band",
+            "An American Dream",
+            "Make A Little Magic",
+            "Jealousy",
+            "Let's Go",
+            "Plain Dirt Fashion",
+            "Partners, Brothers And Friends",
+            "Hold On",
+            "Workin' Band",
+            "Will The Circle Be Unbroken, Vol. 2",
+            "Greatest Hits",
+            "The Rest Of The Dream",
+            "Live Two Five",
+            "Not Fade Away",
+            "Acoustic",
+            "The Christmas Album",
+            "Bang Bang Bang",
+            "Will The Circle Be Unbroken, Vol. 3",
+            "Welcome To Woody Creek",
+            "Speed Of Life",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1966",
+            "end": ""
+        },
+        "deezerFans": 6758,
+        "members": [
+            "Bob Carpenter",
+            "Jim Photoglo",
+            "Jimmy Ibbotson",
+            "Bernie Leadon",
+            "Jackson Browne",
+            "John McEuen",
+            "Al Garth",
+            "Jeff Hanna",
+            "Merel Bregante",
+            "Jimmie Fadden"
+        ]
+    },
+    {
+        "id": "56d8486753a7ddfc01f973ff",
+        "name": "Jessie James",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Pop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Mercury Records",
+            "Show Dog-Universal Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/91096",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/91096/image",
+        "albums": [
+            "Jessie James",
+            "Boys In The Summer",
+            "When You Say My Name",
+            "Songs Featuring Jessie James",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-04-12",
+            "end": ""
+        },
+        "deezerFans": 4269,
+        "members": []
+    },
+    {
+        "id": "56d8228853a7ddfc01f93d94",
+        "name": "Donna Fargo",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Challenge Records (1950s)",
+            "SongBird",
+            "RCA Records",
+            "Dot Records",
+            "Cleveland International Records",
+            "Warner Bros. Records",
+            "Mercury Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/15285",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/15285/image",
+        "albums": [
+            "The Happiest Girl In The Whole U.S.A.",
+            "My Second Album",
+            "All About A Feeling",
+            "Whatever I Say Means I Love You",
+            "On The Move",
+            "Fargo Country",
+            "Shame On Me",
+            "Dark-Eyed Lady",
+            "Fargo",
+            "Brotherly Love"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1945-11-10",
+            "end": ""
+        },
+        "deezerFans": 652,
+        "members": []
+    },
+    {
+        "id": "56d81d1653a7ddfc01f93562",
+        "name": "Deborah Allen",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Pop Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Giant Records (Warner)",
+            "Delta Rock Records",
+            "RCA Records",
+            "Capitol Records",
+            "Curb Records",
+            "Southbound Sound Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/178190",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/178190/image",
+        "albums": [
+            "Cheat The Night",
+            "Delta Dreamland",
+            "All That I Am",
+            "The Best Of Deborah Allen",
+            "Her Very Best",
+            "Hear Me Now",
+            "Rockin' Little Christmas",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1953-09-30",
+            "end": ""
+        },
+        "deezerFans": 204,
+        "members": []
+    },
+    {
+        "id": "56d80d7f53a7ddfc01f91fb2",
+        "name": "Cassandra Vasik",
+        "type": "Person",
+        "genres": [
+            "Country Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1347767",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1347767/image",
+        "albums": [
+            "Feels Like Home",
+            "Different",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 10,
+        "members": []
+    },
+    {
+        "id": "56d8278053a7ddfc01f944a6",
+        "name": "Elisabeth Andreassen",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Pop",
+            "Folk",
+            "Musical",
+            "Pop",
+            "Rock",
+            "Schlager"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/251444",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/251444/image",
+        "albums": [
+            "I'm A Woman",
+            "Kärleksmagi",
+            "Elisabeth",
+            "Elisabeth",
+            "Duett",
+            "Bettans Beste 1981-1995",
+            "I Evighet",
+            "Eternity: Selected Recordings 1981-1996",
+            "Vaken I En Dröm",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1958-03-28",
+            "end": ""
+        },
+        "deezerFans": 6,
+        "members": [
+            "Kikki, Bettan & Lotta",
+            "Chips",
+            "Bobbysocks"
+        ]
+    }
+]

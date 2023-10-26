@@ -1,0 +1,6439 @@
+[
+    {
+        "id": "56d9584acc2ddd0c0f6b94b5",
+        "name": "Pharrell Williams",
+        "type": "Person",
+        "genres": [
+            "Hip Hop",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Columbia Records",
+            "Interscope Records",
+            "I Am Other",
+            "Star Trak Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/103",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/103/image",
+        "albums": [
+            "In My Mind",
+            "G I R L",
+            "Songs On Compilations And Soundtracks",
+            "Collaborations",
+            "Songs Featuring Pharrell Williams",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1973-04-05",
+            "end": ""
+        },
+        "deezerFans": 2760809,
+        "members": [
+            "The Neptunes",
+            "N*E*R*D",
+            "Child Rebel Soldier"
+        ]
+    },
+    {
+        "id": "56d9745fcc2ddd0c0f6bbeb0",
+        "name": "Stevie Wonder",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "World Music",
+            "Soul",
+            "Jazz",
+            "R&B",
+            "Funk",
+            "Pop"
+        ],
+        "nombre_albums": 37,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Motown"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/166",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/166/image",
+        "albums": [
+            "The Jazz Soul Of Little Stevie",
+            "Tribute To Uncle Ray",
+            "With A Song In My Heart",
+            "Stevie At The Beach",
+            "Uptight",
+            "Down To Earth",
+            "I Was Made To Love Her",
+            "Someday At Christmas",
+            "Alfie",
+            "For Once In My Life",
+            "Tamla-Motown Festival, Tokyo '68",
+            "My Cherie Amour",
+            "Signed, Sealed, And Delivered",
+            "Stevie Wonder Live",
+            "Where I'm Coming From",
+            "Music Of My Mind",
+            "Talking Book",
+            "Innervisions",
+            "Fulfillingness' First Finale",
+            "Songs In The Key Of Life",
+            "Journey Through The Secret Life Of Plants",
+            "Hotter Than July",
+            "Original Musiquarium I",
+            "The Woman In Red",
+            "In Square Circle",
+            "Characters",
+            "Jungle Fever",
+            "Conversation Peace",
+            "Natural Wonder",
+            "Song Review: A Greatest Hits Collection",
+            "Ballad Collection",
+            "At The Close Of A Century",
+            "The Definitive Collection",
+            "A Time To Love",
+            "Rare Broadcasts",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1950-05-13",
+            "end": ""
+        },
+        "deezerFans": 1215083,
+        "members": []
+    },
+    {
+        "id": "56d93a29ce06f50c0fed822c",
+        "name": "Marvin Gaye",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Funk",
+            "Quiet Storm",
+            "Pop"
+        ],
+        "nombre_albums": 33,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1154",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1154/image",
+        "albums": [
+            "The Soulful Moods Of Marvin Gaye",
+            "That Stubborn Kinda Fellow",
+            "When I'm Alone I Cry",
+            "Greatest Hits",
+            "Hello Broadway",
+            "Together",
+            "How Sweet It Is To Be Loved By You",
+            "A Tribute To The Great Nat King Cole",
+            "Moods Of Marvin Gaye",
+            "Take Two",
+            "Greatest Hits Vol. 2",
+            "In The Groove",
+            "M.P.G.",
+            "That's The Way Love Is",
+            "What's Going On",
+            "Trouble Man",
+            "Let's Get It On",
+            "Diana & Marvin",
+            "Marvin Gaye Live!",
+            "I Want You",
+            "Live At The London Palladium",
+            "Here, My Dear",
+            "In Our Lifetime",
+            "Midnight Love",
+            "Dream Of A Lifetime",
+            "Romantically Yours",
+            "The Marvin Gaye Collection",
+            "Seek And You Shall Find: More Of The Best 1963-1981",
+            "Love Starved Heart: Rare And Unreleased",
+            "The Master: 1961-1984",
+            "Vulnerable",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1939-04-02",
+            "end": "1984-04-01"
+        },
+        "deezerFans": 1047674,
+        "members": []
+    },
+    {
+        "id": "56d950dccc2ddd0c0f6b89ea",
+        "name": "O Rappa",
+        "type": "Group",
+        "genres": [
+            "Brazilian",
+            "Hard Rock",
+            "Pop Rock",
+            "Brazilian Rock",
+            "Rock 'N' Roll",
+            "Reggae",
+            "Funk",
+            "Hip Hop",
+            "Samba"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Warner Music Group"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12807",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/12807/image",
+        "albums": [
+            "Rappa Mundi",
+            "Lado B, Lado A",
+            "O Silêncio Q Precede O Esporro",
+            "Acústico MTV",
+            "7 Vezes",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1994",
+            "end": ""
+        },
+        "deezerFans": 778428,
+        "members": []
+    },
+    {
+        "id": "56d8453453a7ddfc01f96f4e",
+        "name": "James Brown",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 31,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Polydor Records",
+            "Smash Records",
+            "Record labels owned by James Brown",
+            "Federal Records",
+            "King Records (United States)",
+            "Scotti Brothers Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1622",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1622/image",
+        "albums": [
+            "Please Please Please",
+            "Try Me!",
+            "Think!",
+            "The Amazing James Brown",
+            "James Brown Presents His Band & Five Other Great Artists",
+            "Good, Good, Twistin'",
+            "Live At The Apollo",
+            "Prisoner Of Love",
+            "Grits & Soul",
+            "Showtime",
+            "Out Of Sight",
+            "I Got You (I Feel Good)",
+            "It's A Man's, Man's, Man's World",
+            "Sings Raw Soul",
+            "Cold Sweat",
+            "Thinking About Little Willie And A Few Nice Things",
+            "I Can't Stand Myself When You Touch Me",
+            "I Got The Feelin'",
+            "Sex Machine",
+            "Ain't It Funky",
+            "In The Jungle Groove",
+            "Gravity",
+            "20 All-Time Greatest Hits!",
+            "Godfather Of Soul",
+            "Is Back",
+            "Turn It Loose",
+            "Funky Christmas",
+            "Funky Goodtime",
+            "50th Anniversary Collection",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1933-05-03",
+            "end": "2006-12-25"
+        },
+        "deezerFans": 675536,
+        "members": [
+            "The James Brown Band",
+            "Fred Wesley and The J.B.’s",
+            "James Brown & The Famous Flames",
+            "The J.B.’s"
+        ]
+    },
+    {
+        "id": "56d95356cc2ddd0c0f6b8e11",
+        "name": "OutKast",
+        "type": "Group",
+        "genres": [
+            "Hip Hop",
+            "Funk"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Epic Records",
+            "RCA Records",
+            "Sony Music Entertainment",
+            "Arista Records",
+            "LaFace Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/9/image",
+        "albums": [
+            "Southernplayalisticadillacmuzik",
+            "ATLiens",
+            "Aquemini",
+            "Stankonia",
+            "Big Boi And Dre Present...OutKast",
+            "Speakerboxxx/The Love Below",
+            "Idlewild",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1991",
+            "end": ""
+        },
+        "deezerFans": 562734,
+        "members": [
+            "Big Boi",
+            "André 3000"
+        ]
+    },
+    {
+        "id": "56d95b58cc2ddd0c0f6b994a",
+        "name": "Prince",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Pop Rock",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 41,
+        "nombre_members": 8,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1878",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1878/image",
+        "albums": [
+            "For You",
+            "Prince",
+            "Dirty Mind",
+            "Controversy",
+            "1999",
+            "Purple Rain",
+            "Around The World In A Day",
+            "Parade",
+            "Sign O' The Times",
+            "Lovesexy",
+            "Batman",
+            "Graffiti Bridge",
+            "Diamonds And Pearls",
+            "Symbol",
+            "Hits 1",
+            "Hits 2",
+            "Hits 3/B-Sides",
+            "Black Album",
+            "Come",
+            "The Gold Experience",
+            "Chaos And Disorder",
+            "Emancipation",
+            "Crystal Ball",
+            "The Truth",
+            "Newpower Soul",
+            "Rave Un2 The Joy Fantastic",
+            "The Vault... Old Friends 4 Sale",
+            "The Very Best Of",
+            "The Rainbow Children",
+            "One Nite Alone",
+            "N.E.W.S.",
+            "Musicology",
+            "3121",
+            "Planet Earth",
+            "LotusFlow3r",
+            "MPLSoUND",
+            "20Ten",
+            "3rdeyegirl",
+            "Art Official Age",
+            "Plectrumelectrum",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1958-06-07",
+            "end": "2016-04-21"
+        },
+        "deezerFans": 452918,
+        "members": [
+            "3rdEyeGirl",
+            "94 East",
+            "The Revolution",
+            "Madhouse",
+            "The Flesh",
+            "The Flesh",
+            "The Flesh",
+            "The Flesh"
+        ]
+    },
+    {
+        "id": "56d8229053a7ddfc01f93d9e",
+        "name": "Donna Summer",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Funk",
+            "Soul",
+            "R&B",
+            "Disco"
+        ],
+        "nombre_albums": 23,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Giorgio Moroder",
+            "Burgundy Records",
+            "Epic Records",
+            "Casablanca Records",
+            "Mercury Records",
+            "Warner Music Group",
+            "Geffen Records",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3521",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3521/image",
+        "albums": [
+            "Lady Of The Night",
+            "Love To Love You Baby",
+            "A Love Trilogy",
+            "Four Seasons Of Love",
+            "I Remember Yesterday",
+            "Once Upon A Time",
+            "Live And More",
+            "Bad Girls",
+            "The Wanderer",
+            "Donna Summer",
+            "She Works Hard For The Money",
+            "Cats Without Claws",
+            "All Systems Go",
+            "The Dance Collection",
+            "Another Place And Time",
+            "Mistaken Identity",
+            "Christmas Spirit",
+            "Endless Summer: Donna Summer's Greatest Hits",
+            "I'm A Rainbow",
+            "Crayons",
+            "Fun Street",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1948-12-31",
+            "end": "2012-05-17"
+        },
+        "deezerFans": 452843,
+        "members": []
+    },
+    {
+        "id": "56d834a853a7ddfc01f95774",
+        "name": "George Benson",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Jazz",
+            "Smooth Jazz",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 36,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "CTI Records",
+            "Verve Records",
+            "A&M Records",
+            "Columbia Records",
+            "GRP Records",
+            "Concord Records",
+            "Prestige Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4029",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4029/image",
+        "albums": [
+            "The New Boss Guitar Of George Benson",
+            "It's Uptown",
+            "The George Benson Cookbook",
+            "Giblet Gravy",
+            "Goodies",
+            "Shape Of Things To Come",
+            "Tell It Like It Is",
+            "The Other Side Of Abbey Road",
+            "Beyond The Blue Horizon",
+            "White Rabbit",
+            "Body Talk",
+            "Bad Benson",
+            "Good King Bad",
+            "Benson & Farrell",
+            "Breezin'",
+            "In Flight",
+            "Weekend In L.A.",
+            "Livin' Inside Your Love",
+            "Give Me The Night",
+            "The George Benson Collection",
+            "In Your Eyes",
+            "I Got A Woman And Some Blues",
+            "20/20",
+            "While The City Sleeps...",
+            "Twice The Love",
+            "Tenderly",
+            "Big Boss Band",
+            "Love Remembers",
+            "That's Right",
+            "Standing Together",
+            "Absolute Benson",
+            "Irreplaceable",
+            "Songs And Stories",
+            "Guitar Man",
+            "Inspiration: A Tribute To Nat King Cole",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1943-03-22",
+            "end": ""
+        },
+        "deezerFans": 402541,
+        "members": [
+            "Harlem Underground Band",
+            "CTI All-Stars",
+            "The George Benson Quartet",
+            "Fuse One"
+        ]
+    },
+    {
+        "id": "56d96a83cc2ddd0c0f6baf9c",
+        "name": "Serge Gainsbourg",
+        "type": "Person",
+        "genres": [
+            "Chanson",
+            "Jazz",
+            "Pop",
+            "Rock",
+            "Progressive Rock",
+            "Reggae",
+            "Yé-yé",
+            "Adult Contemporary",
+            "Funk"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1007",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1007/image",
+        "albums": [
+            "Du Chant À La Une !",
+            "N°2",
+            "L'Étonnant Serge Gainsbourg",
+            "N°4",
+            "Gainsbourg Confidentiel",
+            "Gainsbourg Percussions",
+            "Bonnie And Clyde",
+            "Initials B. B.",
+            "Histoire De Melody Nelson",
+            "Vu De L'Extérieur",
+            "Rock Around The Bunker",
+            "L'Homme À Tête De Chou",
+            "Aux Armes Et Cætera",
+            "Enregistrement Public Au Théâtre Le Palace",
+            "Mauvaises Nouvelles Des Étoiles",
+            "Love On The Beat",
+            "Gainsbourg Live",
+            "You're Under Arrest",
+            "Le Zénith De Gainsbourg",
+            "De Gainsbourg À Gainsbarre",
+            "Théâtre Des Capucines 1963",
+            "Comme Un Boomerang",
+            "Monsieur Gainsbourg Revisited",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1928-04-02",
+            "end": "1991-03-02"
+        },
+        "deezerFans": 365197,
+        "members": []
+    },
+    {
+        "id": "56d9852bcc2ddd0c0f6bd6b5",
+        "name": "The Temptations",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 30,
+        "nombre_members": 18,
+        "recordLabel": [
+            "Motown",
+            "Universal Music Group",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2730",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2730/image",
+        "albums": [
+            "Meet The Temptations",
+            "The Temptations Sing Smokey",
+            "The Temptin' Temptations",
+            "Gettin' Ready",
+            "Greatest Hits",
+            "The Temptations With A Lot O' Soul",
+            "The Temptations In A Mellow Mood",
+            "The Temptations Wish It Would Rain",
+            "Cloud Nine",
+            "Puzzle People",
+            "Psychedelic Shack",
+            "Greatest Hits II",
+            "The Temptations' Christmas Card",
+            "Sky's The Limit",
+            "Solid Rock",
+            "All Directions",
+            "In Japan",
+            "Anthology",
+            "A Song For You",
+            "Hear To Tempt You",
+            "Power",
+            "Give Love At Christmas",
+            "Hum Along And Dance: More Of The Best (1963-1974)",
+            "Emperors Of Soul",
+            "Motown Legends: Just My Imagination/Beauty Is Only Skin Deep",
+            "For Lovers Only",
+            "The Ultimate Collection",
+            "Phoenix Rising",
+            "Awesome",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1960",
+            "end": ""
+        },
+        "deezerFans": 361550,
+        "members": [
+            "Dennis Edwards",
+            "Dennis Edwards",
+            "Dennis Edwards",
+            "Otis Williams",
+            "David Ruffin",
+            "Ali Ollie Woodson",
+            "Ali Ollie Woodson",
+            "Theo Peoples",
+            "Aaron \"A Train\" Smith",
+            "Damon Harris",
+            "Charles Blagmon",
+            "David Sea",
+            "Ron Tyson",
+            "Nate Evans",
+            "Paul Williams",
+            "Eddie Kendricks",
+            "Richard Street",
+            "Melvin Franklin"
+        ]
+    },
+    {
+        "id": "56d85f6f53a7ddfc01f995b9",
+        "name": "Lulu Santos",
+        "type": "Person",
+        "genres": [
+            "MPB",
+            "Pop",
+            "Rock",
+            "Brazilian Rock",
+            "New Wave",
+            "Soul",
+            "Funk",
+            "Electronic",
+            "Reggae"
+        ],
+        "nombre_albums": 23,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/13584",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/13584/image",
+        "albums": [
+            "Tempos Modernos",
+            "O Ritmo Do Momento",
+            "Tudo Azul",
+            "Normal",
+            "Lulu",
+            "Toda Forma De Amor",
+            "Popsambalanço E Outras Levadas",
+            "Honolulu",
+            "Mondo Cane",
+            "Assim Caminha A Humanidade",
+            "Eu E Memê, Memê E Eu",
+            "Anticiclone Tropical",
+            "Liga Lá",
+            "Calendário",
+            "Acústico MTV",
+            "Programa",
+            "Bugalu",
+            "MTV Ao Vivo",
+            "Letra E Música",
+            "Longplay",
+            "Singular",
+            "Acústico MTV II",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1953-05-04",
+            "end": ""
+        },
+        "deezerFans": 331241,
+        "members": []
+    },
+    {
+        "id": "56d97fe3cc2ddd0c0f6bcf4a",
+        "name": "The Isley Brothers",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Pop",
+            "Funk",
+            "Funk Rock",
+            "Rock",
+            "Contemporary R&B"
+        ],
+        "nombre_albums": 33,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Def Jam Recordings",
+            "Motown",
+            "T-Neck Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/732",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/732/image",
+        "albums": [
+            "Shout!",
+            "Twist & Shout",
+            "Twisting And Shouting",
+            "This Old Heart Of Mine",
+            "Soul On The Rocks",
+            "It's Our Thing",
+            "The Brothers: Isley",
+            "Get Into Something",
+            "Givin' It Back",
+            "Brother, Brother, Brother",
+            "3 + 3",
+            "Live It Up",
+            "The Heat Is On",
+            "Harvest For The World",
+            "Go For Your Guns",
+            "Showdown",
+            "Winner Takes All",
+            "Go All The Way",
+            "Grand Slam",
+            "Inside You",
+            "The Real Deal",
+            "Between The Sheets",
+            "Masterpiece",
+            "Smooth Sailin'",
+            "Tracks Of Life",
+            "Mission To Please",
+            "Eternal",
+            "Body Kiss",
+            "Summer Breeze: Greatest Hits",
+            "Baby Makin' Music",
+            "The Definitive Collection",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1954",
+            "end": ""
+        },
+        "deezerFans": 327811,
+        "members": [
+            "Ernie Isley",
+            "O'Kelly Isley, Jr.",
+            "Rudolph Isley",
+            "Ronald Isley",
+            "Vernon Isley",
+            "Marvin Isley",
+            "Chris Jasper"
+        ]
+    },
+    {
+        "id": "56d96ab9cc2ddd0c0f6baff7",
+        "name": "Seu Jorge",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "MPB",
+            "Samba",
+            "Soul",
+            "Funk",
+            "Reggae",
+            "Hip Hop"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1606",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1606/image",
+        "albums": [
+            "Samba Esporte Fino",
+            "Cru",
+            "[[The Life Aquatic With Steve Zissou (Original Soundtrack) (2004)|The Life Aquatic With Steve Zissou (2004)]]",
+            "The Life Aquatic Studio Sessions",
+            "Live At Montreux 2005",
+            "America Brasil: O Disco",
+            "Perfil",
+            "Músicas Para Churrasco, Vol. 1",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970-06-08",
+            "end": ""
+        },
+        "deezerFans": 323537,
+        "members": [
+            "Farofa Carioca",
+            "Seu Jorge & Almaz",
+            "Planet Hemp"
+        ]
+    },
+    {
+        "id": "56d84d7153a7ddfc01f97ad4",
+        "name": "Jota Quest",
+        "type": "Group",
+        "genres": [
+            "Brazilian",
+            "Brazilian Rock",
+            "Progressive Rock",
+            "Pop Rock",
+            "Alternative Rock",
+            "Rock 'N' Roll",
+            "Funk",
+            "Soul",
+            "Acid Jazz"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/13521",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13521/image",
+        "albums": [
+            "J. Quest",
+            "J. Quest",
+            "De Volta Ao Planeta",
+            "Oxigênio",
+            "Discotecagem Pop Variada",
+            "Até Onde Vai",
+            "La Plata",
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1995",
+            "end": ""
+        },
+        "deezerFans": 319426,
+        "members": [
+            "Rogério Flausino"
+        ]
+    },
+    {
+        "id": "56d854b253a7ddfc01f98576",
+        "name": "Kool & The Gang",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 14,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/305",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/305/image",
+        "albums": [
+            "Kool And The Gang",
+            "Live At The Sex Machine",
+            "Wild And Peaceful",
+            "Light Of Worlds",
+            "Spirit Of The Boogie",
+            "Love & Understanding",
+            "Open Sesame",
+            "Ladies' Night",
+            "Celebrate!",
+            "Something Special",
+            "As One",
+            "In The Heart",
+            "Emergency",
+            "Forever",
+            "The Throwdown Mix",
+            "Celebration - The Best Of Kool & The Gang 1979-1987",
+            "Still Kool",
+            "Songs On Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964",
+            "end": ""
+        },
+        "deezerFans": 284604,
+        "members": [
+            "Michael Ray",
+            "Claydes Smith",
+            "Ronald Bell",
+            "Dennis “D.T.” Thomas",
+            "James “J.T.” Taylor",
+            "Robert Spike Mickens",
+            "Clifford Adams",
+            "Ricky West",
+            "Earl Toon, Jr.",
+            "Woody Sparrow",
+            "George Brown",
+            "Robert “Kool” Bell",
+            "Curtis “Fitz” Williams",
+            "Kevin Bell"
+        ]
+    },
+    {
+        "id": "56d80eaa53a7ddfc01f9217b",
+        "name": "Chaka Khan",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Pop",
+            "Funk",
+            "Jazz"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Burgundy Records",
+            "ABC Records",
+            "NPG Records",
+            "Warner Bros. Records",
+            "MCA Records",
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3536",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3536/image",
+        "albums": [
+            "Chaka",
+            "Naughty",
+            "What Cha' Gonna Do For Me",
+            "Echoes Of An Era",
+            "Chaka Khan",
+            "I Feel For You",
+            "Destiny",
+            "C.K.",
+            "The Woman I Am",
+            "Epiphany: The Best Of Chaka Khan, Volume 1",
+            "Come 2 My House",
+            "Classikhan",
+            "Funk This",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Chaka Khan",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1953-03-23",
+            "end": ""
+        },
+        "deezerFans": 270665,
+        "members": []
+    },
+    {
+        "id": "56d85f5353a7ddfc01f99580",
+        "name": "Lukas Graham",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Copenhagen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1563138",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1563138/image",
+        "albums": [
+            "Lukas Graham",
+            "Lukas Graham (Blue Album)"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 250555,
+        "members": [
+            "Lukas Graham Forchhammer"
+        ]
+    },
+    {
+        "id": "56d7f51d53a7ddfc01f8fb5e",
+        "name": "Aloe Blacc",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "R&B",
+            "Jazz",
+            "Hip Hop",
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Interscope Records",
+            "Stones Throw Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10183",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/10183/image",
+        "albums": [
+            "Shine Through",
+            "Good Things",
+            "Lift Your Spirit",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1979-01-07",
+            "end": ""
+        },
+        "deezerFans": 200980,
+        "members": []
+    },
+    {
+        "id": "56d7f0b156847be81b3e8e68",
+        "name": "Al Jarreau",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Vocal",
+            "Bebop",
+            "Funk",
+            "Smooth Jazz",
+            "Pop Rock",
+            "R&B",
+            "Soul",
+            "Vocalese"
+        ],
+        "nombre_albums": 30,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "Concord Records",
+            "Reprise Records",
+            "GRP Records",
+            "Rhino Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/14984",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/14984/image",
+        "albums": [
+            "The Masquerade Is Over",
+            "We Got By",
+            "Glow",
+            "Look To The Rainbow: Live In Europe",
+            "All Fly Home",
+            "This Time",
+            "Breakin' Away",
+            "Jarreau",
+            "Ain't No Sunshine",
+            "High Crime",
+            "You",
+            "Live In London 1984",
+            "L Is For Lover",
+            "Heart's Horizon",
+            "Heaven And Earth",
+            "Tenderness",
+            "Best Of Al Jarreau",
+            "Tribute To Bill Withers",
+            "Tribute To Al Green",
+            "Love & Happiness",
+            "Tomorrow Today",
+            "All I Got",
+            "Accentuate The Positive",
+            "Living For You",
+            "Love Songs",
+            "Here I Am",
+            "Christmas",
+            "The Very Best Of- An Excellent Adventure",
+            "Other Contributions",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1940-03-12",
+            "end": "2017-02-12"
+        },
+        "deezerFans": 191764,
+        "members": []
+    },
+    {
+        "id": "56d814db53a7ddfc01f92949",
+        "name": "Commodores",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Motown",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/173",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/173/image",
+        "albums": [
+            "Machine Gun",
+            "Caught In The Act",
+            "Movin' On",
+            "Hot On The Tracks",
+            "Commodores",
+            "Natural High",
+            "Midnight Magic",
+            "Heroes",
+            "In The Pocket",
+            "Commodores 13",
+            "Nightshift",
+            "United",
+            "Rock Solid",
+            "Ultimate Collection",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1968",
+            "end": ""
+        },
+        "deezerFans": 156443,
+        "members": [
+            "Thomas McClary",
+            "Walter Orange",
+            "Ronald LaPread",
+            "Lionel Richie",
+            "William King",
+            "Milan Williams",
+            "James Dean Nicholas",
+            "Sheldon Reynolds"
+        ]
+    },
+    {
+        "id": "56d83e5053a7ddfc01f964ae",
+        "name": "Hocus Pocus",
+        "type": "Group",
+        "genres": [
+            "Hip Hop",
+            "Jazz",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/14950",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/14950/image",
+        "albums": [
+            "Malade",
+            "73 Touches",
+            "Place 54"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1995",
+            "end": ""
+        },
+        "deezerFans": 133481,
+        "members": [
+            "20syl",
+            "Antoine Saint-Jean",
+            "Hervé Godard",
+            "Matthieu Lelièvre",
+            "Matthieu Lelièvre",
+            "DJ Greem"
+        ]
+    },
+    {
+        "id": "56d817b953a7ddfc01f92d92",
+        "name": "Curtis Mayfield",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 22,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "Curtom Records",
+            "Rhino Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2027",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2027/image",
+        "albums": [
+            "Curtis",
+            "Roots",
+            "Curtis / Live!",
+            "Super Fly",
+            "Back To The World",
+            "Got To Find A Way",
+            "Sweet Exorcist",
+            "There's No Place Like America Today",
+            "Give, Get, Take And Have",
+            "Never Say You Can't Survive",
+            "Short Eyes",
+            "Do It All Night",
+            "Heartbeat",
+            "Something To Believe In",
+            "New World Order",
+            "Very Best Of Curtis Mayfield",
+            "The Ultimate Curtis Mayfield",
+            "Gospel",
+            "Soul Legacy",
+            "Soul Legends: Curtis Mayfield & The Impressions",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1942-06-03",
+            "end": "1999-12-26"
+        },
+        "deezerFans": 107102,
+        "members": [
+            "The Impressions"
+        ]
+    },
+    {
+        "id": "56d845d453a7ddfc01f9702e",
+        "name": "Janelle Monáe",
+        "type": "Person",
+        "genres": [
+            "Art Rock",
+            "Disco",
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/131935",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/131935/image",
+        "albums": [
+            "Metropolis: Suite I (The Chase)",
+            "The ArchAndroid (Suites II And III)",
+            "The Electric Lady",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-12-01",
+            "end": ""
+        },
+        "deezerFans": 95514,
+        "members": []
+    },
+    {
+        "id": "56d852b153a7ddfc01f9824e",
+        "name": "Keziah Jones",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Funk",
+            "Yoruba Music",
+            "Soul"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Virgin Records",
+            "Because Records",
+            "Delabel Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/244",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/244/image",
+        "albums": [
+            "Blufunk Is A Fact!",
+            "African Space Craft",
+            "Liquid Sunshine",
+            "Black Orpheus",
+            "Rhythm Is Love",
+            "Nigerian Wood",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1968-01-10",
+            "end": ""
+        },
+        "deezerFans": 73614,
+        "members": []
+    },
+    {
+        "id": "56d8319f53a7ddfc01f95314",
+        "name": "Freddie King",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Electric Blues",
+            "Blues Rock",
+            "Funk"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/8569",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/8569/image",
+        "albums": [
+            "Freddy King Sings",
+            "Let's Hide Away And Dance Away With Freddy King",
+            "Bossa Nova And Blues",
+            "Freddie King Is A Blues Master",
+            "My Feeling For The Blues",
+            "Getting Ready",
+            "Woman Across The River",
+            "Texas Cannonball",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1934-09-03",
+            "end": "1976-12-28"
+        },
+        "deezerFans": 73579,
+        "members": []
+    },
+    {
+        "id": "56d9617acc2ddd0c0f6ba268",
+        "name": "Rick James",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Funk",
+            "Soul",
+            "R&B",
+            "Disco"
+        ],
+        "nombre_albums": 14,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5091",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/5091/image",
+        "albums": [
+            "Come Get It!",
+            "Bustin' Out Of L Seven",
+            "Fire It Up",
+            "Garden Of Love",
+            "Street Songs",
+            "Throwin' Down",
+            "Cold Blooded",
+            "Glow",
+            "The Flag",
+            "Wonderful",
+            "Reflections",
+            "Urban Rapsody",
+            "Deeper Still",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1948-02-01",
+            "end": "2004-08-06"
+        },
+        "deezerFans": 72453,
+        "members": []
+    },
+    {
+        "id": "56d806aa53a7ddfc01f91587",
+        "name": "Bobby Womack",
+        "type": "Person",
+        "genres": [
+            "Doo-wop",
+            "Funk",
+            "Gospel",
+            "Jazz",
+            "R&B",
+            "Rock",
+            "Rock 'N' Roll",
+            "Soul",
+            "Soul Blues"
+        ],
+        "nombre_albums": 25,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Columbia Records",
+            "The Right Stuff Records",
+            "SAR Records",
+            "United Artists Records",
+            "Minit Records",
+            "MCA Records",
+            "SOLAR Records",
+            "Checker Records",
+            "XL Recordings",
+            "Castle Communications"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2451",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2451/image",
+        "albums": [
+            "Fly Me To The Moon",
+            "My Prescription",
+            "The Womack Live",
+            "Communication",
+            "Understanding",
+            "Across 110th Street",
+            "Facts Of Life",
+            "Lookin' For A Love Again",
+            "I Don't Know What The World Is Coming To",
+            "Roads Of Life",
+            "The Poet",
+            "Poet II",
+            "Someday We'll All Be Free",
+            "So Many Rivers",
+            "Womagic",
+            "Save The Children",
+            "Looking For A Love (1968-75)",
+            "Only Survivor-The MCA Years",
+            "At Home In Muscle Shoals",
+            "I Still Love You",
+            "Traditions",
+            "The Bravest Man In The Universe",
+            "Songs on Soundtracks and Compilations",
+            "Featuring",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1944-03-04",
+            "end": "2014-06-27"
+        },
+        "deezerFans": 65470,
+        "members": []
+    },
+    {
+        "id": "56d845ab53a7ddfc01f96fef",
+        "name": "Jan Delay",
+        "type": "Person",
+        "genres": [
+            "Hip Hop",
+            "Reggae",
+            "Dub",
+            "Funk",
+            "Alternative Hip Hop"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/14320",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/14320/image",
+        "albums": [
+            "Irgendwie, Irgendwo, Irgendwann",
+            "Searching For The Jan Soul Rebels",
+            "Mercedes-Dance",
+            "Wir Kinder Vom Bahnhof Soul",
+            "Hammer & Michel",
+            "Live and Unreleased Songs",
+            "Songs on Compilations and Soundtracks",
+            "Songs featuring Jan Delay",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1976-08-25",
+            "end": ""
+        },
+        "deezerFans": 61440,
+        "members": []
+    },
+    {
+        "id": "56d8258153a7ddfc01f941f2",
+        "name": "Ed Motta",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "MPB",
+            "Latin",
+            "Samba",
+            "Salsa",
+            "Soul",
+            "R&B",
+            "Funk",
+            "Reggae"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/15395",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/15395/image",
+        "albums": [
+            "Um Contrato Com Deus",
+            "Manual Prático Para Festas, Bailes E Afins, Vol. 1",
+            "As Segundas Intenções Do Manual Prático",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1971-08-17",
+            "end": ""
+        },
+        "deezerFans": 56442,
+        "members": []
+    },
+    {
+        "id": "56d80fa753a7ddfc01f922e2",
+        "name": "Chef'Special",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Funk",
+            "Hip Hop",
+            "Rock",
+            "Ska"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/395234",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/395234/image",
+        "albums": [
+            "Passing Through"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 43471,
+        "members": []
+    },
+    {
+        "id": "56d96f38cc2ddd0c0f6bb6e9",
+        "name": "Sly & The Family Stone",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Epic Records",
+            "Sly and the Family Stone"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/229",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/229/image",
+        "albums": [
+            "A Whole New Thing",
+            "Dance To The Music",
+            "Life",
+            "Stand!",
+            "Greatest Hits",
+            "There's A Riot Goin' On",
+            "Fresh",
+            "Small Talk",
+            "High On You",
+            "Back On The Right Track",
+            "The Essential Sly & The Family Stone",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1967",
+            "end": "1975"
+        },
+        "deezerFans": 40542,
+        "members": [
+            "Gerry Gibson",
+            "Freddie Stone",
+            "Pat Rizzo",
+            "Larry Graham",
+            "Cynthia Robinson",
+            "Jerry Martini",
+            "Sly Stone",
+            "Little Sister",
+            "Rose Stone",
+            "Greg Errico",
+            "Rusty Allen",
+            "Andy Newmark"
+        ]
+    },
+    {
+        "id": "56d97329cc2ddd0c0f6bbd1f",
+        "name": "Steely Dan",
+        "type": "Group",
+        "genres": [
+            "Jazz Fusion",
+            "Funk",
+            "Pop Rock",
+            "Soft Rock"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 10,
+        "recordLabel": [
+            "MCA Records",
+            "Reprise Records",
+            "Giant Records (Warner)",
+            "ABC Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1156",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1156/image",
+        "albums": [
+            "Can't Buy A Thrill",
+            "Countdown To Ecstasy",
+            "Pretzel Logic",
+            "Katy Lied",
+            "The Royal Scam",
+            "Aja",
+            "Gaucho",
+            "Gold",
+            "A Decade Of Steely Dan",
+            "Old Regime",
+            "Citizen Steely Dan 1972-1980",
+            "Alive In America",
+            "Two Against Nature",
+            "The Steely Dan Collection",
+            "Everything Must Go",
+            "Songs on Soundtracks",
+            "Live/Unreleased/Bootleg"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1972",
+            "end": ""
+        },
+        "deezerFans": 39287,
+        "members": [
+            "Jeff Porcaro",
+            "Denny Dias",
+            "Jeff “Skunk” Baxter",
+            "Donald Fagen",
+            "Cornelius Bumpus",
+            "Walter Becker",
+            "David Palmer",
+            "Michael McDonald",
+            "Royce Jones",
+            "Jim Hodder"
+        ]
+    },
+    {
+        "id": "56d7f3af53a7ddfc01f8f8e8",
+        "name": "Alesha Dixon",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "R&B",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/146041",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/146041/image",
+        "albums": [
+            "Fired Up",
+            "The Alesha Show",
+            "The Alesha Show - Encore",
+            "The Entertainer",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1978-10-07",
+            "end": ""
+        },
+        "deezerFans": 35845,
+        "members": [
+            "Mis-Teeq"
+        ]
+    },
+    {
+        "id": "56d8435553a7ddfc01f96c4e",
+        "name": "Isaac Hayes",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Funk",
+            "Soul",
+            "Disco",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Stax Records",
+            "Columbia Records",
+            "ABC Records",
+            "Point Blank Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2197",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2197/image",
+        "albums": [
+            "Presenting Isaac Hayes",
+            "Hot Buttered Soul",
+            "...to Be Continued",
+            "The Isaac Hayes Movement",
+            "Shaft",
+            "Black Moses",
+            "Joy",
+            "Live At The Sahara Tahoe",
+            "Tough Guys",
+            "Truck Turner",
+            "Chocolate Chip",
+            "Disco Connection",
+            "Use Me",
+            "Juicy Fruit (Disco Freak)",
+            "New Horizon",
+            "A Man And A Woman",
+            "For The Sake Of Love",
+            "HotBed",
+            "Don't Let Go",
+            "And Once Again",
+            "Lifetime Thing",
+            "U-Turn",
+            "Love Attack",
+            "Wonderful",
+            "Branded",
+            "Raw & Refined",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1942-08-20",
+            "end": "2008-08-10"
+        },
+        "deezerFans": 35515,
+        "members": [
+            "Delaney & Bonnie",
+            "Isaac Hayes Movement",
+            "The Louisiana Gator Boys"
+        ]
+    },
+    {
+        "id": "56d95578cc2ddd0c0f6b9143",
+        "name": "Patti LaBelle",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Funk",
+            "Disco",
+            "Gospel"
+        ],
+        "nombre_albums": 22,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Epic Records",
+            "MCA Records",
+            "Def Jam Recordings",
+            "Bungalo Records",
+            "Philadelphia International Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/983",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/983/image",
+        "albums": [
+            "Patti LaBelle",
+            "Tasty",
+            "It's Alright With Me",
+            "Released",
+            "The Spirit's In It",
+            "I'm In Love Again",
+            "Patti",
+            "Winner In You",
+            "Be Yourself",
+            "This Christmas",
+            "Burnin'",
+            "Live!",
+            "Gems",
+            "Greatest Hits",
+            "Flame",
+            "You Are My Friend: The Ballads",
+            "When A Woman Loves",
+            "Timeless Journey",
+            "Songs on Singles",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Patti LaBelle",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1944-05-24",
+            "end": ""
+        },
+        "deezerFans": 33987,
+        "members": [
+            "LaBelle",
+            "Patti LaBelle & The Bluebelles"
+        ]
+    },
+    {
+        "id": "56d98651cc2ddd0c0f6bd85c",
+        "name": "The Whitest Boy Alive",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Indie Pop",
+            "House"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Service (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5993",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5993/image",
+        "albums": [
+            "Dreams",
+            "Rules"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2003",
+            "end": "2014-06"
+        },
+        "deezerFans": 33943,
+        "members": [
+            "Erlend Øye"
+        ]
+    },
+    {
+        "id": "56d96139cc2ddd0c0f6ba1ee",
+        "name": "Richard Bona",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Jazz"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Columbia Records",
+            "Universal Music Group",
+            "Sony Music Entertainment",
+            "Verve Records",
+            "GRP Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13921",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/13921/image",
+        "albums": [
+            "Scenes From My Life",
+            "Reverence",
+            "Munia: The Tale",
+            "Tiki",
+            "The Ten Shades Of Blues",
+            "Bonafied"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967-10-28",
+            "end": ""
+        },
+        "deezerFans": 26795,
+        "members": [
+            "Pat Metheny Group",
+            "渡辺香津美 New Electric Trio"
+        ]
+    },
+    {
+        "id": "56d972a3cc2ddd0c0f6bbc55",
+        "name": "Stanley Clarke",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Jazz",
+            "Jazz Fusion"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Epic Records",
+            "Heads Up International",
+            "Polydor Records",
+            "Columbia Records",
+            "Portrait Records",
+            "Jazz Door",
+            "Mack Avenue Records",
+            "Sony Music Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6338",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/6338/image",
+        "albums": [
+            "Stanley Clarke",
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1951-06-30",
+            "end": ""
+        },
+        "deezerFans": 24412,
+        "members": [
+            "Animal Logic",
+            "Return to Forever",
+            "Stanley Cowell Trio",
+            "S. M. V."
+        ]
+    },
+    {
+        "id": "56d96b96cc2ddd0c0f6bb158",
+        "name": "Sharon Jones And The Dap-Kings",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/62380",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/62380/image",
+        "albums": [
+            "Dap Dippin' With Sharon Jones And The Dap-Kings",
+            "Naturally",
+            "100 Days, 100 Nights",
+            "I Learned The Hard Way",
+            "Songs on Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1996",
+            "end": ""
+        },
+        "deezerFans": 24376,
+        "members": [
+            "Sharon Jones",
+            "The Dap-Kings"
+        ]
+    },
+    {
+        "id": "56d8236d53a7ddfc01f93ebd",
+        "name": "Dr. John",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "New Orleans Rhythm and Blues",
+            "Dixieland",
+            "Funk",
+            "Rock",
+            "Rock 'N' Roll",
+            "Trad Jazz",
+            "Piano Blues"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Proper Records",
+            "Nonesuch Records",
+            "Atco Records",
+            "Blue Note Records",
+            "Concord Bicycle Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/91189",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/91189/image",
+        "albums": [
+            "Gris-Gris",
+            "Remedies",
+            "Dr. John's Gumbo",
+            "In The Right Place",
+            "Triumvirate",
+            "Desitively Bonnaroo",
+            "City Lights",
+            "In A Sentimental Mood",
+            "Goin' Back To New Orleans",
+            "The Very Best Of Dr. John",
+            "All By Hisself (Live At The Lonestar)",
+            "N'awlinz - Dis Dat Or D'udda",
+            "Mercernary",
+            "City That Care Forgot",
+            "Locked Down",
+            "Guest Appearances",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Dr. John",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1940-11-21",
+            "end": ""
+        },
+        "deezerFans": 23865,
+        "members": [
+            "Ronnie & Delinquents",
+            "The Louisiana Gator Boys",
+            "Ringo Starr & His All Starr Band",
+            "Ringo Starr & His All Starr Band"
+        ]
+    },
+    {
+        "id": "56d8386c53a7ddfc01f95c42",
+        "name": "Grandmaster Flash",
+        "type": "Person",
+        "genres": [
+            "Hip Hop",
+            "Old School Hip Hop",
+            "Funk",
+            "Electro"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Elektra Records",
+            "Sugar Hill Records (Hip-Hop label)",
+            "Enjoy Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/66946",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66946/image",
+        "albums": [
+            "They Said It Couldn't Be Done",
+            "The Source",
+            "Ba-Dop-Boom-Bang",
+            "Flash Is Back",
+            "The Bridge (Concept Of A Culture)",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1958-01-01",
+            "end": ""
+        },
+        "deezerFans": 23764,
+        "members": [
+            "Grandmaster Flash & The Furious Five"
+        ]
+    },
+    {
+        "id": "56d80f0853a7ddfc01f921f8",
+        "name": "Charles Bradley",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1027239",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1027239/image",
+        "albums": [
+            "No Time For Dreaming",
+            "Victim Of Love"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1948-11-05",
+            "end": ""
+        },
+        "deezerFans": 23309,
+        "members": [
+            "Charles Bradley & His Extraordinaires"
+        ]
+    },
+    {
+        "id": "56d81ab653a7ddfc01f9321a",
+        "name": "DatA",
+        "type": "Person",
+        "genres": [
+            "Electronic",
+            "Funk",
+            "Synthpop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/71991",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/71991/image",
+        "albums": [
+            "Skywriter",
+            "Don't Sing"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-11-11",
+            "end": ""
+        },
+        "deezerFans": 19069,
+        "members": []
+    },
+    {
+        "id": "56d83bac53a7ddfc01f960cf",
+        "name": "Harry Connick, Jr.",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Funk",
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Columbia Records",
+            "Marsalis Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/80912",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/80912/image",
+        "albums": [
+            "Harry Connick, Jr.",
+            "20",
+            "When Harry Met Sally...",
+            "We Are In Love",
+            "Lofty's Roach Souffle",
+            "Blue Light, Red Light",
+            "25",
+            "When My Heart Finds Christmas",
+            "She",
+            "Star Turtle",
+            "To See You",
+            "Come By Me",
+            "30",
+            "Songs I Heard",
+            "Other Hours: Connick On Piano, Volume 1",
+            "Harry For The Holidays",
+            "Only You",
+            "Occasion: Connick On Piano, Volume 2",
+            "Chanson Du Vieux Carré",
+            "Oh, My NOLA",
+            "What A Night! A Christmas Album",
+            "Your Songs",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967-09-11",
+            "end": ""
+        },
+        "deezerFans": 18133,
+        "members": [
+            "Harry Connick, Jr. Trio"
+        ]
+    },
+    {
+        "id": "56d9555fcc2ddd0c0f6b9122",
+        "name": "Patrick Stump",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Island Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1194715",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1194715/image",
+        "albums": [
+            "Truant Wave",
+            "Soul Punk",
+            "Songs Featuring Patrick Stump",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-04-27",
+            "end": ""
+        },
+        "deezerFans": 17384,
+        "members": [
+            "Fall Out Boy",
+            "Fall Out Boy"
+        ]
+    },
+    {
+        "id": "56d97fd1cc2ddd0c0f6bcf3c",
+        "name": "The Internet",
+        "type": "Group",
+        "genres": [
+            "Acid Jazz",
+            "Trip Hop",
+            "Electronica",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Odd Future Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/668525",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/668525/image",
+        "albums": [
+            "Purple Naked Ladies",
+            "Feel Good"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 15432,
+        "members": [
+            "Syd Tha Kyd",
+            "Steve Lacy"
+        ]
+    },
+    {
+        "id": "56d955c6cc2ddd0c0f6b9199",
+        "name": "Paul Jackson, Jr.",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Jazz Fusion",
+            "Smooth Jazz",
+            "Rock",
+            "Pop",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Motown"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/76292",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/76292/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1959-12-30",
+            "end": ""
+        },
+        "deezerFans": 13297,
+        "members": []
+    },
+    {
+        "id": "56d93d73ce06f50c0fed8727",
+        "name": "Meshell Ndegeocello",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Jazz",
+            "Soul",
+            "R&B",
+            "Hip Hop",
+            "Reggae",
+            "Rock"
+        ],
+        "nombre_albums": 14,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Universal Music Group",
+            "Downtown Records",
+            "Warner Bros. Records",
+            "Reprise Records",
+            "EmArcy Records",
+            "Maverick Records",
+            "Shanachie Records",
+            "Naïve Records",
+            "Decca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/265315",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/265315/image",
+        "albums": [
+            "Plantation Lullabies",
+            "Peace Beyond Passion",
+            "Bitter",
+            "Cookie: The Anthropological Mixtape",
+            "Comfort Woman",
+            "The Spirit Music Jamia: Dance Of The Infidel",
+            "The World Has Made Me The Man Of My Dreams",
+            "Devil's Halo",
+            "Weather",
+            "Pour Une Âme Souveraine: A Dedication To Nina Simone",
+            "Comet, Come To Me",
+            "Songs on Compilations and Soundtracks",
+            "Featured Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1968-08-29",
+            "end": ""
+        },
+        "deezerFans": 13244,
+        "members": []
+    },
+    {
+        "id": "56d809ec53a7ddfc01f91a6c",
+        "name": "Buddy Miles",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Atlantic Records",
+            "Alan Douglas (record producer)",
+            "Ruf Records",
+            "Casablanca Records",
+            "Sony Music Entertainment",
+            "Hip-O Records",
+            "Mercury Records",
+            "Columbia Records",
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/94857",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/94857/image",
+        "albums": [
+            "Them Changes",
+            "Carlos Santana & Buddy Miles! Live!",
+            "Best Of Buddy Miles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1947-09-05",
+            "end": "2008-02-26"
+        },
+        "deezerFans": 12638,
+        "members": [
+            "The Electric Flag",
+            "Santana",
+            "Santana",
+            "Band of Gypsys"
+        ]
+    },
+    {
+        "id": "56d95eeccc2ddd0c0f6b9e62",
+        "name": "Ray Manzarek",
+        "type": "Person",
+        "genres": [
+            "Psychedelic Rock",
+            "Acid Rock",
+            "Blues Rock",
+            "Hard Rock",
+            "Blues",
+            "Jazz Fusion",
+            "Funk",
+            "Rock 'N' Roll"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Elektra Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/143964",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/143964/image",
+        "albums": [
+            "The Golden Scarab",
+            "The Whole Thing Started With Rock & Roll Now It's Out Of Control",
+            "Carmina Burana",
+            "Love Her Madly"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1939-02-12",
+            "end": "2013-05-20"
+        },
+        "deezerFans": 12367,
+        "members": [
+            "The Doors",
+            "Manzarek–Krieger"
+        ]
+    },
+    {
+        "id": "56d984cdcc2ddd0c0f6bd63b",
+        "name": "The Stylistics",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Avco Records",
+            "H&L Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2396",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2396/image",
+        "albums": [
+            "The Stylistics",
+            "Round 2",
+            "Rockin' Roll Baby",
+            "Let's Put It All Together",
+            "Heavy",
+            "Thank You Baby",
+            "You Are Beautiful",
+            "Fabulous",
+            "Hurry Up This Way Again",
+            "Love Talk",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1968",
+            "end": ""
+        },
+        "deezerFans": 11744,
+        "members": [
+            "Russell Thompkins, Jr."
+        ]
+    },
+    {
+        "id": "56d82ec753a7ddfc01f94f24",
+        "name": "Five",
+        "type": "Group",
+        "genres": [
+            "Dance",
+            "Funk",
+            "Hip Hop",
+            "Pop",
+            "Power Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Bertelsmann Music Group",
+            "RCA Records",
+            "Arista Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/489",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/489/image",
+        "albums": [
+            "Five",
+            "Invincible",
+            "Kingsize",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 10568,
+        "members": []
+    },
+    {
+        "id": "56d82a8053a7ddfc01f94857",
+        "name": "Eruca Sativa",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Funk",
+            "Math Rock",
+            "Alternative Rock",
+            "Hard Rock"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4073391",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4073391/image",
+        "albums": [
+            "La Carne",
+            "Es",
+            "Blanco",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007-11",
+            "end": ""
+        },
+        "deezerFans": 9792,
+        "members": [
+            "Brenda Martin",
+            "Lula Bertoldi",
+            "Gabriel Pedernera"
+        ]
+    },
+    {
+        "id": "56d8472653a7ddfc01f97200",
+        "name": "Jeanette Biedermann",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Rock",
+            "Pop Rock",
+            "Ballad",
+            "Hip Hop",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Universal Records (defunct record label)",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/836",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/836/image",
+        "albums": [
+            "Enjoy!",
+            "Delicious",
+            "Rock My Life",
+            "Break On Through",
+            "Naked Truth",
+            "Undress To The Beat",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1980-02-22",
+            "end": ""
+        },
+        "deezerFans": 9081,
+        "members": [
+            "Ewig"
+        ]
+    },
+    {
+        "id": "56d834ad53a7ddfc01f95777",
+        "name": "George Clinton",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Shanachie Records",
+            "Warner Bros. Records",
+            "550 Music",
+            "Paisley Park Records",
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2721",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2721/image",
+        "albums": [
+            "Computer Games",
+            "You Shouldn't-Nuf Bit Fish",
+            "Some Of My Best Jokes Are Friends",
+            "R&B Skeletons In The Closet",
+            "The Cinderella Theory",
+            "Hey Man... Smell My Finger",
+            "Dope Dogs",
+            "Greatest Funkin' Hits",
+            "T.A.P.O.A.F.O.M.",
+            "George Clinton And His Gangsters Of Love",
+            "Songs Featuring George Clinton",
+            "Songs On Compilations And Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1941-07-22",
+            "end": ""
+        },
+        "deezerFans": 9052,
+        "members": [
+            "The Parliaments",
+            "Parliament-Funkadelic",
+            "Dolby's Cube",
+            "Funkadelic",
+            "Parliament"
+        ]
+    },
+    {
+        "id": "56d80fcc53a7ddfc01f92327",
+        "name": "Cherub",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Electro",
+            "Synthpop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/427503",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/427503/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 8966,
+        "members": []
+    },
+    {
+        "id": "56d803b953a7ddfc01f91161",
+        "name": "Billy Preston",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Gospel",
+            "R&B",
+            "Rock",
+            "Soul"
+        ],
+        "nombre_albums": 20,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Derby Records",
+            "Vee-Jay Records",
+            "Buddah Records",
+            "Motown",
+            "A&M Records",
+            "Apple Records",
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4120",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4120/image",
+        "albums": [
+            "The Most Exciting Organ Ever",
+            "Wildest Organ In Town!",
+            "Club Meeting",
+            "That's The Way God Planned It",
+            "Encouraging Words",
+            "I Wrote A Simple Song",
+            "Music Is My Life",
+            "Everybody Likes Some Kind Of Music",
+            "Live European Tour",
+            "The Kids & Me",
+            "It's My Pleasure",
+            "Billy Preston",
+            "A Whole New Thing",
+            "Late At Night",
+            "The Way I Am",
+            "Pressin' On",
+            "On The Air",
+            "You Can't Keep A Good Man Down",
+            "Billy's Back",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1946-09-02",
+            "end": "2006-06-06"
+        },
+        "deezerFans": 8874,
+        "members": [
+            "The Louisiana Gator Boys"
+        ]
+    },
+    {
+        "id": "56d825c653a7ddfc01f94254",
+        "name": "Eddy Grant",
+        "type": "Person",
+        "genres": [
+            "2-tone",
+            "Reggae",
+            "Rock",
+            "Funk"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Epic Records",
+            "Enigma Records",
+            "Ice Records",
+            "Portrait Records",
+            "Parlophone"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4982",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4982/image",
+        "albums": [
+            "Message Man",
+            "Walking On Sunshine",
+            "Love In Exile",
+            "Can't Get Enough",
+            "Killer On The Rampage",
+            "Going For Broke",
+            "Born Tuff",
+            "File Under Rock",
+            "Barefoot Soldier",
+            "Reparation"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1948-03-05",
+            "end": ""
+        },
+        "deezerFans": 8013,
+        "members": []
+    },
+    {
+        "id": "56d954cecc2ddd0c0f6b9059",
+        "name": "Parliament",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 24,
+        "recordLabel": [
+            "Casablanca Records",
+            "Invictus Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/909",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/909/image",
+        "albums": [
+            "Osmium",
+            "Up For The Down Stroke",
+            "Chocolate City",
+            "Mothership Connection",
+            "The Clones Of Dr. Funkenstein",
+            "Funkentelechy Vs. The Placebo Syndrome",
+            "Live - P-Funk Earth Tour",
+            "The Motor-Booty Affair",
+            "Gloryhallastoopid",
+            "Trombipulation",
+            "First Thangs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "1980"
+        },
+        "deezerFans": 7949,
+        "members": [
+            "Sidney Barnes",
+            "Fuzzy Haskins",
+            "Rick Gardner",
+            "Prakash John",
+            "Cordell Mosson",
+            "Fred Wesley",
+            "Garry Shider",
+            "Maceo Parker",
+            "Gary \"Mudbone\" Cooper",
+            "George Clinton",
+            "Ray Davis",
+            "Richard Griffith",
+            "Eddie Hazel",
+            "Greg Boyer",
+            "Glen Goins",
+            "Bootsy Collins",
+            "Jerome Brailey",
+            "Calvin Simon",
+            "Larry Fratangelo",
+            "David Spradley",
+            "Bernie Worrell",
+            "Grady Thomas",
+            "Michael Hampton",
+            "DeWayne \"Blackbyrd\" McKnight"
+        ]
+    },
+    {
+        "id": "56d97bcacc2ddd0c0f6bc9f3",
+        "name": "The Brand New Heavies",
+        "type": "Group",
+        "genres": [
+            "Acid Jazz",
+            "Funk"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 8,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/6337",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6337/image",
+        "albums": [
+            "The Brand New Heavies",
+            "Heavy Rhyme Experience: Vol. 1",
+            "Brother Sister",
+            "Shelter",
+            "Allabouthefunk",
+            "Get Used To It",
+            "Forward",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985",
+            "end": ""
+        },
+        "deezerFans": 7680,
+        "members": [
+            "Ceri Evans",
+            "N’Dea Davenport",
+            "Siedah Garrett",
+            "Jan Kincaid",
+            "Simon Bartholomew",
+            "Nicole Russo",
+            "Andrew Levy",
+            "Carleen Anderson"
+        ]
+    },
+    {
+        "id": "56d97aeccc2ddd0c0f6bc90b",
+        "name": "The Bar-Kays",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B",
+            "Disco"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Island Records",
+            "Stax Records",
+            "Mercury Records",
+            "Rhino Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/11204",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/11204/image",
+        "albums": [
+            "Soul Finger",
+            "Too Hot To Stop",
+            "Flying High On Your Love",
+            "Money Talks",
+            "Light Of Life",
+            "Injoy",
+            "Nightcruising",
+            "Propositions",
+            "Dangerous",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1966",
+            "end": ""
+        },
+        "deezerFans": 7580,
+        "members": [
+            "Carl Cunningham",
+            "Charles Allen",
+            "Ronnie Caldwell",
+            "Jimmy King",
+            "Phalon Jones",
+            "Ben Cauley"
+        ]
+    },
+    {
+        "id": "56d8093553a7ddfc01f9197b",
+        "name": "Brooklyn Funk Essentials",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Acid Jazz"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 13,
+        "recordLabel": [
+            "Doublemoon"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2058",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2058/image",
+        "albums": [
+            "Cool And Steady And Easy",
+            "In The BuzzBag"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1993",
+            "end": ""
+        },
+        "deezerFans": 7335,
+        "members": [
+            "Hanifah Walidah",
+            "E.J. Rodriguez",
+            "Sha Key",
+            "Yancy Drew Lambert",
+            "Papa Dee",
+            "Arthur Baker",
+            "Stephanie McKay",
+            "Lati Kronlund",
+            "Josh Roseman",
+            "Paul Shapiro",
+            "Etienne Stadwijk",
+            "Bassy Bob Brockmann",
+            "Everton Sylvester"
+        ]
+    },
+    {
+        "id": "56d95676cc2ddd0c0f6b927b",
+        "name": "Pedro Abrunhosa",
+        "type": "Person",
+        "genres": [
+            "Pop Rock",
+            "Jazz",
+            "Funk",
+            "Pop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/152338",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/152338/image",
+        "albums": [
+            "Viagens",
+            "Tempo",
+            "Pedro Abrunhosa",
+            "Silêncio",
+            "Momento",
+            "Luz",
+            "Longe"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1960-12-20",
+            "end": ""
+        },
+        "deezerFans": 7313,
+        "members": [
+            "Pedro Abrunhosa & Os Bandemónio"
+        ]
+    },
+    {
+        "id": "56d8329a53a7ddfc01f954a8",
+        "name": "Funk Como Le Gusta",
+        "type": "Group",
+        "genres": [
+            "Singer-Songwriter",
+            "Vocal",
+            "Funk",
+            "Rock",
+            "Samba"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/455512",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/455512/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1999-06-16",
+            "end": ""
+        },
+        "deezerFans": 6903,
+        "members": []
+    },
+    {
+        "id": "56d94c1fcc2ddd0c0f6b82e4",
+        "name": "Natalia",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance",
+            "Funk",
+            "Soul",
+            "Rock",
+            "Electronic"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Sony Music Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/14016",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/14016/image",
+        "albums": [
+            "This Time",
+            "Back For More",
+            "SIngle",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1980-12-03",
+            "end": ""
+        },
+        "deezerFans": 6869,
+        "members": []
+    },
+    {
+        "id": "56d82dca53a7ddfc01f94d90",
+        "name": "Fernanda Abreu",
+        "type": "Person",
+        "genres": [
+            "MPB",
+            "Sambalanço",
+            "Funk",
+            "Disco",
+            "Pop",
+            "Brazilian"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/454426",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/454426/image",
+        "albums": [
+            "Da Lata",
+            "Other Songs",
+            "Songs Featuring Fernanda Abreu"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1961-09-08",
+            "end": ""
+        },
+        "deezerFans": 6718,
+        "members": []
+    },
+    {
+        "id": "56d7f4e353a7ddfc01f8fb14",
+        "name": "Allen Toussaint",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Jazz",
+            "Funk",
+            "Blues"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Scepter Records",
+            "Instant Records",
+            "Reprise Records",
+            "Warner Bros. Records",
+            "Rounder Records",
+            "RCA Records",
+            "Minit Records",
+            "Nonesuch Records",
+            "Elektra Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64425",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64425/image",
+        "albums": [
+            "Toussaint",
+            "Life, Love And Faith",
+            "Southern Nights",
+            "Beatles Songbook: 24 Memorable Themes",
+            "Connected",
+            "Going Places",
+            "The River In Reverse",
+            "The Bright Mississippi",
+            "Songbook",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1938-01-14",
+            "end": "2015-11-10"
+        },
+        "deezerFans": 6292,
+        "members": [
+            "The Rubaiyats"
+        ]
+    },
+    {
+        "id": "56d854e353a7ddfc01f985b9",
+        "name": "Kraak & Smaak",
+        "type": "Group",
+        "genres": [
+            "Electronic",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4540",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4540/image",
+        "albums": [
+            "Boogie Angst",
+            "Plastic People",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 6277,
+        "members": []
+    },
+    {
+        "id": "56d814ef53a7ddfc01f92976",
+        "name": "Con Funk Shun",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Mercury Records",
+            "Shanachie Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/8124",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/8124/image",
+        "albums": [
+            "Con Funk Shun",
+            "Secrets",
+            "Loveshine",
+            "Candy",
+            "Spirit Of Love",
+            "Touch",
+            "Con Funk Shun 7",
+            "To The Max",
+            "Fever",
+            "Electric Lady",
+            "Songs as Featured Artist"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 6105,
+        "members": []
+    },
+    {
+        "id": "56d81dfd53a7ddfc01f936ca",
+        "name": "Denai Moore",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4540482",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/4540482/image",
+        "albums": [
+            "Elsewhere"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 6097,
+        "members": []
+    },
+    {
+        "id": "56d8575a53a7ddfc01f98943",
+        "name": "Larry Graham",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Epic Records",
+            "NPG Records",
+            "Rhino Entertainment",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/318720",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/318720/image",
+        "albums": [
+            "One In A Million You",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1946-08-14",
+            "end": ""
+        },
+        "deezerFans": 5996,
+        "members": [
+            "Sly & The Family Stone",
+            "Graham Central Station"
+        ]
+    },
+    {
+        "id": "56d83f1853a7ddfc01f965ea",
+        "name": "Hot Chocolate",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Funk",
+            "Disco"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 6,
+        "recordLabel": [
+            "MCA Records",
+            "Apple Records",
+            "Rak Records",
+            "EMI Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1064",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1064/image",
+        "albums": [
+            "Cicero Park",
+            "Hot Chocolate",
+            "Man To Man",
+            "Every 1's A Winner",
+            "Going Through The Motions",
+            "Class",
+            "Mystery",
+            "Love Shot",
+            "The Very Best Of Hot Chocolate",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969",
+            "end": ""
+        },
+        "deezerFans": 5306,
+        "members": [
+            "Tony Wilson",
+            "Larry Ferguson",
+            "Harvey Hinsley",
+            "Tony Connor",
+            "Patrick Olive",
+            "Errol Brown"
+        ]
+    },
+    {
+        "id": "56d9525ccc2ddd0c0f6b8c4f",
+        "name": "One Way",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 3,
+        "recordLabel": [
+            "ABC Records",
+            "Capitol Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10810",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10810/image",
+        "albums": [
+            "One Way Featuring Al Hudson",
+            "Fancy Dancer",
+            "Who's Foolin' Who",
+            "Wild Night",
+            "Lady",
+            "One Way IX",
+            "Push",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 5265,
+        "members": [
+            "Kevin McCord",
+            "Cortez Harris",
+            "John Brooks"
+        ]
+    },
+    {
+        "id": "56d8062853a7ddfc01f914c7",
+        "name": "Bo Saris",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "Funk",
+            "Jazz"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2208571",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2208571/image",
+        "albums": [
+            "Rely On Me",
+            "Holy Pleasure",
+            "Gold",
+            "Featured Songs",
+            "Other Appearances"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 5259,
+        "members": []
+    },
+    {
+        "id": "56d85f5c53a7ddfc01f99591",
+        "name": "Luke James",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Funk",
+            "Blues"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Mercury Records",
+            "Island Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/525728",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/525728/image",
+        "albums": [
+            "Single"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-06-13",
+            "end": ""
+        },
+        "deezerFans": 5038,
+        "members": []
+    },
+    {
+        "id": "56d93b7dce06f50c0fed8403",
+        "name": "Maurice White",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "Funk",
+            "R&B",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Mbira",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/73527",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/73527/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1941-12-19",
+            "end": "2016-02-03"
+        },
+        "deezerFans": 5018,
+        "members": [
+            "Earth, Wind & Fire"
+        ]
+    },
+    {
+        "id": "56d96beacc2ddd0c0f6bb1cd",
+        "name": "Sheila E.",
+        "type": "Person",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Concord Records",
+            "Paisley Park Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/66111",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/66111/image",
+        "albums": [
+            "The Glamorous Life",
+            "Romance 1600",
+            "Sheila E.",
+            "Sex Cymbal",
+            "Writes Of Passage",
+            "Heaven",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-12-12",
+            "end": ""
+        },
+        "deezerFans": 4993,
+        "members": [
+            "The Flesh",
+            "The Flesh",
+            "Sheila E. and the E-Train"
+        ]
+    },
+    {
+        "id": "56d99266cc2ddd0c0f6bea40",
+        "name": "War",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Funk Rock",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 9,
+        "recordLabel": [
+            "MGM Records",
+            "United Artists Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10129",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10129/image",
+        "albums": [
+            "All Day Music",
+            "The World Is A Ghetto",
+            "Deliver The Word",
+            "Why Can't We Be Friends?",
+            "Galaxy",
+            "Outlaw",
+            "The Best Of War And More",
+            "Peace Sign",
+            "Coleccion Latina",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1969",
+            "end": "1994"
+        },
+        "deezerFans": 4976,
+        "members": [
+            "Howard E. Scott",
+            "Eric Burdon",
+            "Luther Rabb",
+            "Papa Dee Allen",
+            "Lonnie Jordan",
+            "Charles Miller",
+            "Lee Oskar",
+            "B.B. Dickerson",
+            "Harold Brown"
+        ]
+    },
+    {
+        "id": "56d98541cc2ddd0c0f6bd6df",
+        "name": "The Time",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Hip Hop",
+            "R&B"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Paisley Park Records",
+            "Time Life",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3389",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3389/image",
+        "albums": [
+            "The Time",
+            "What Time Is It?",
+            "Ice Cream Castle",
+            "Pandemonium",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1981",
+            "end": "2011-09"
+        },
+        "deezerFans": 4733,
+        "members": [
+            "James Harris III",
+            "St. Paul Peterson",
+            "Mark Cardenas",
+            "Jesse Johnson",
+            "Morris Day",
+            "Jellybean Johnson",
+            "Terry Lewis",
+            "Alexander O’Neal"
+        ]
+    },
+    {
+        "id": "56d94ebacc2ddd0c0f6b86c5",
+        "name": "Nikka Costa",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Children's Music",
+            "Funk",
+            "Pop",
+            "Soul"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Mushroom Records",
+            "Virgin Records",
+            "Stax Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2231",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/2231/image",
+        "albums": [
+            "Nikka Costa",
+            "Fairy Tales",
+            "Here I Am...Yes, It's Me",
+            "Butterfly Rocket",
+            "Everybody Got Their Something",
+            "Can'tneverdidnothin'",
+            "Pebble To A Pearl",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1972-06-04",
+            "end": ""
+        },
+        "deezerFans": 4679,
+        "members": []
+    },
+    {
+        "id": "56d986eacc2ddd0c0f6bd920",
+        "name": "Thelma Houston",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Disco",
+            "Quiet Storm",
+            "Motown",
+            "Pop",
+            "Urban Contemporary",
+            "Funk",
+            "Pop Rock"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 2,
+        "recordLabel": [
+            "MCA Records",
+            "Dunhill Records",
+            "RCA Records",
+            "Reprise Records",
+            "Motown"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7182",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/7182/image",
+        "albums": [
+            "Sunshower",
+            "Thelma Houston",
+            "Any Way You Like It",
+            "The Devil In Me",
+            "Ready To Roll",
+            "Ride To The Rainbow",
+            "I've Got The Music In Me",
+            "A Woman's Touch",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1946-05-07",
+            "end": ""
+        },
+        "deezerFans": 4497,
+        "members": []
+    },
+    {
+        "id": "56d83d7053a7ddfc01f96350",
+        "name": "Herb Alpert",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Latin",
+            "Funk",
+            "Pop",
+            "R&B"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "A&M Records",
+            "Verve Records",
+            "Almo Sounds",
+            "Shout! Factory"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/166633",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/166633/image",
+        "albums": [
+            "Rise",
+            "Second Wind",
+            "Anything Goes",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1935-03-31",
+            "end": ""
+        },
+        "deezerFans": 4435,
+        "members": [
+            "Herb Alpert & The Tijuana Brass",
+            "Dore Alpert"
+        ]
+    },
+    {
+        "id": "56d842f553a7ddfc01f96bdb",
+        "name": "Iowa",
+        "type": "Group",
+        "genres": [
+            "Pop Rock",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/894893",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/894893/image",
+        "albums": [
+            "Export",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009",
+            "end": ""
+        },
+        "deezerFans": 4101,
+        "members": [
+            "Екатерина Иванчикова",
+            "Леонид Терещенко",
+            "Василий Буланов"
+        ]
+    },
+    {
+        "id": "56d805b153a7ddfc01f91433",
+        "name": "Blue Café",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Acid Jazz",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/210644",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/210644/image",
+        "albums": [
+            "Fanaberia",
+            "Demi-Sec",
+            "Ovosho",
+            "Four Seasons",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1998",
+            "end": ""
+        },
+        "deezerFans": 4058,
+        "members": []
+    },
+    {
+        "id": "56d96553cc2ddd0c0f6ba7df",
+        "name": "Rufus",
+        "type": "Group",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 1,
+        "recordLabel": [
+            "MCA Records",
+            "ABC Records",
+            "Epic Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/214",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/214/image",
+        "albums": [
+            "Rufus",
+            "Rags To Rufus",
+            "Rufusized",
+            "Rufus Featuring Chaka Khan",
+            "Ask Rufus",
+            "Street Player",
+            "Numbers",
+            "Masterjam",
+            "Party 'Til You're Broke",
+            "Camouflage",
+            "Seal In Red",
+            "Stompin' At The Savoy: Live",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1970",
+            "end": "1983"
+        },
+        "deezerFans": 3998,
+        "members": [
+            "Dennis Belfield"
+        ]
+    },
+    {
+        "id": "56d96555cc2ddd0c0f6ba7e4",
+        "name": "Rufus Thomas",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B",
+            "Novelty",
+            "Blues"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 13,
+        "recordLabel": [
+            "AVI Records",
+            "Sun Records",
+            "Stax Records",
+            "Chess Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16262",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/16262/image",
+        "albums": [
+            "Walking The Dog",
+            "Do The Funky Chicken",
+            "Did You Heard Me?",
+            "Crown Prince Of Dance",
+            "Can't Get Away From This Dog",
+            "Blues Thang!",
+            "Do The Funky Somethin'",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1917-03-26",
+            "end": "2001-12-15"
+        },
+        "deezerFans": 3982,
+        "members": []
+    },
+    {
+        "id": "56d81da653a7ddfc01f9364a",
+        "name": "Delegation",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Epic Records",
+            "State Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9986",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/9986/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1975",
+            "end": "1999"
+        },
+        "deezerFans": 3937,
+        "members": [
+            "Roddy Harris",
+            "Ray Patterson",
+            "Bruce Dunbar",
+            "Len Coley",
+            "Ricky Bailey",
+            "Kathy Bryant"
+        ]
+    },
+    {
+        "id": "56d98dfccc2ddd0c0f6be346",
+        "name": "Ultramen",
+        "type": "",
+        "genres": [
+            "Brazilian Rock",
+            "Rock",
+            "Dub",
+            "Funk",
+            "Hip Hop",
+            "Hardcore Punk",
+            "Reggae",
+            "Samba"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/16902",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/16902/image",
+        "albums": [
+            "O Incrível Caso Da Música Que Encolheu E Outras Histórias",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 3730,
+        "members": []
+    },
+    {
+        "id": "56d98882cc2ddd0c0f6bdb85",
+        "name": "Tim Reynolds",
+        "type": "Person",
+        "genres": [
+            "Instrumental Rock",
+            "Jazz",
+            "Jazz Fusion",
+            "Classical",
+            "Funk",
+            "R&B",
+            "Americana",
+            "Psychedelic Rock",
+            "Rock 'N' Roll"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/12202",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/12202/image",
+        "albums": [
+            "Live At Luther College",
+            "Live At...",
+            "Europe 07",
+            "Live At Radio City",
+            "Unreleased",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-12-15",
+            "end": ""
+        },
+        "deezerFans": 3540,
+        "members": [
+            "Dave Matthews Band",
+            "TR3",
+            "Dave Matthews & Friends"
+        ]
+    },
+    {
+        "id": "56d84b8653a7ddfc01f97833",
+        "name": "Johnny \"Guitar\" Watson",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Blues Rock",
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Valley Vue Records",
+            "A&M Records",
+            "King Records (United States)",
+            "Okeh Records",
+            "Dick James",
+            "Fantasy Records",
+            "Federal Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/300",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/300/image",
+        "albums": [
+            "Ain't That A Bitch",
+            "A Real Mother For Ya",
+            "Love Jones",
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1935-02-03",
+            "end": "1996-05-17"
+        },
+        "deezerFans": 3233,
+        "members": [
+            "Chuck Higgins & His Mellotones"
+        ]
+    },
+    {
+        "id": "56d962e3cc2ddd0c0f6ba44e",
+        "name": "Robert Randolph & The Family Band",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Jam Band"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64250",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/64250/image",
+        "albums": [
+            "Live At The Wetlands",
+            "Unclassified",
+            "Colorblind",
+            "We Walk This Road",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 2487,
+        "members": [
+            "Lenesha Randolph",
+            "Robert Randolph",
+            "Danyel Morgan",
+            "John Ginty",
+            "Marcus Randolph",
+            "Jason Crosby",
+            "Brett Haas"
+        ]
+    },
+    {
+        "id": "56d85bb853a7ddfc01f99034",
+        "name": "Little Milton",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Electric Blues",
+            "Funk",
+            "R&B",
+            "Memphis Blues",
+            "Soul"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66091",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66091/image",
+        "albums": [
+            "I Need Somebody / So Mean To Me",
+            "We're Gonna Make It",
+            "Sings Big Blues",
+            "If Walls Could Talk",
+            "Waiting For Little Milton",
+            "Blues'n Soul",
+            "Me For You, You For Me",
+            "Grits Ain't Groceries",
+            "Playing For Keeps",
+            "Feel It",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1934-09-07",
+            "end": "2005-08-04"
+        },
+        "deezerFans": 2267,
+        "members": []
+    },
+    {
+        "id": "56d955cfcc2ddd0c0f6b91aa",
+        "name": "Paul Kelly (US)",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/110369",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/110369/image",
+        "albums": [
+            "Don't Burn Me",
+            "Gonna Stick And Stay"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1940-06-19",
+            "end": ""
+        },
+        "deezerFans": 2207,
+        "members": []
+    },
+    {
+        "id": "56d8346053a7ddfc01f9570e",
+        "name": "Gene Pitney",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Rock",
+            "Pop Rock",
+            "Pop",
+            "Jazz",
+            "Funk",
+            "Soul",
+            "Reggae",
+            "Blues"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 9,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2339",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2339/image",
+        "albums": [
+            "Only Love Can Break A Heart",
+            "Backstage (I'm Lonely)",
+            "Nobody Needs Your Love",
+            "Pitney Sings Bacharach",
+            "Pitney '75",
+            "His Golden Classics",
+            "Hits & Misses",
+            "Greatest Hits 1",
+            "Greatest Hits 2",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1941-02-17",
+            "end": "2006-04-05"
+        },
+        "deezerFans": 2100,
+        "members": []
+    },
+    {
+        "id": "56d96ec3cc2ddd0c0f6bb633",
+        "name": "Slave",
+        "type": "Group",
+        "genres": [
+            "Boogie",
+            "Disco",
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 11,
+        "recordLabel": [
+            "Atco Records",
+            "Ichiban Records",
+            "Cotillion Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2460",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2460/image",
+        "albums": [
+            "Slave",
+            "The Hardness Of The World",
+            "Just A Touch Of Love",
+            "Stone Jam",
+            "Show Time"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1975",
+            "end": "1996"
+        },
+        "deezerFans": 1937,
+        "members": [
+            "Steve Arrington",
+            "Buddy Hankerson",
+            "Daniel Webster",
+            "Keith Nash",
+            "Stephen C. Washington",
+            "Mark Adams",
+            "Curt Jones",
+            "Starleana Young",
+            "Mark Hicks",
+            "Tom Lockett",
+            "Ray Turner"
+        ]
+    },
+    {
+        "id": "56d8538c53a7ddfc01f983bd",
+        "name": "King Curtis",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "R&B",
+            "Funk",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Capitol Records",
+            "King Records (United States)",
+            "Groove Records",
+            "Atlantic Records",
+            "Prestige Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/62357",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/62357/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1934-02-07",
+            "end": "1971-08-13"
+        },
+        "deezerFans": 1728,
+        "members": [
+            "King Curtis & The Noble Knights",
+            "Delaney & Bonnie"
+        ]
+    },
+    {
+        "id": "56d8441f53a7ddfc01f96d6f",
+        "name": "J.A.R.",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Hip Hop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/462769",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/462769/image",
+        "albums": [
+            "Frtka",
+            "Mydli-To!",
+            "Mein Kampfunk",
+            "Homo Fonkianz",
+            "Nervák",
+            "Armáda Špásu"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-11-17",
+            "end": ""
+        },
+        "deezerFans": 1727,
+        "members": []
+    },
+    {
+        "id": "56d80c9b53a7ddfc01f91e3e",
+        "name": "Carl Douglas",
+        "type": "Person",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/307",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/307/image",
+        "albums": [
+            "Kung Fu Fighting And Other Great Love Songs",
+            "Keep Pleasing Me",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1942-05-10",
+            "end": ""
+        },
+        "deezerFans": 1703,
+        "members": []
+    },
+    {
+        "id": "56d8259d53a7ddfc01f9421d",
+        "name": "Eddie Hazel",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "JDC Records",
+            "Westbound Records",
+            "P-Vine Records",
+            "Capitol Records",
+            "Warner Bros. Records",
+            "Columbia Records",
+            "Island Records",
+            "Casablanca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/194675",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/194675/image",
+        "albums": [
+            "Game, Dames And Guitar Thangs",
+            "Rest In P"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1950-04-10",
+            "end": "1992-12-23"
+        },
+        "deezerFans": 1567,
+        "members": [
+            "Parliament-Funkadelic",
+            "Funkadelic",
+            "Parliament"
+        ]
+    },
+    {
+        "id": "56d8317553a7ddfc01f952d1",
+        "name": "Freak Power",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul",
+            "R&B",
+            "Acid Jazz"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Island Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6148",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6148/image",
+        "albums": [
+            "Drive-Thru Booty",
+            "More Of Everything... For Everybody",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1503,
+        "members": [
+            "Jim Carmichael",
+            "Ashley Slater",
+            "Eddie Stevens",
+            "Kate Cameron",
+            "Norman Cook"
+        ]
+    },
+    {
+        "id": "56d99465cc2ddd0c0f6bed7a",
+        "name": "Willie Hutch",
+        "type": "Person",
+        "genres": [
+            "Motown",
+            "Funk",
+            "Jazz",
+            "R&B",
+            "Soul",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Motown",
+            "RCA",
+            "Whitfield Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9410",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/9410/image",
+        "albums": [
+            "Fully Exposed",
+            "The Mack",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1944-12-06",
+            "end": "2005-09-19"
+        },
+        "deezerFans": 1489,
+        "members": []
+    },
+    {
+        "id": "56d98bc2cc2ddd0c0f6be03e",
+        "name": "Trey Anastasio",
+        "type": "Person",
+        "genres": [
+            "Alternative Rock",
+            "Rock",
+            "Funk",
+            "Blues",
+            "Bluegrass"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 5,
+        "recordLabel": [
+            "JEMP Records",
+            "Sony BMG",
+            "Rubber Jungle Records",
+            "Elektra Records",
+            "Sony Music Entertainment",
+            "MapleMusic Recordings"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64255",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64255/image",
+        "albums": [
+            "Trey Anastasio",
+            "Plasma",
+            "Shine",
+            "Bar 17",
+            "TAB At The TAB",
+            "Traveler",
+            "Songs Featuring Trey Anastasio"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-09-30",
+            "end": ""
+        },
+        "deezerFans": 1262,
+        "members": [
+            "Oysterhead",
+            "70 Volt Parade",
+            "Trey Anastasio Band",
+            "Dave Matthews & Friends",
+            "Phish"
+        ]
+    },
+    {
+        "id": "56d97205cc2ddd0c0f6bbb47",
+        "name": "Spliff",
+        "type": "Group",
+        "genres": [
+            "Singer-Songwriter",
+            "Funk",
+            "Rock",
+            "Deutschrock",
+            "Electronic",
+            "Neue Deutsche Welle"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/70644",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/70644/image",
+        "albums": [
+            "The Spliff Radio Show",
+            "85555",
+            "Herzlichen Glückwunsch",
+            "Schwarz Auf Weiß",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1980",
+            "end": "1985"
+        },
+        "deezerFans": 1196,
+        "members": [
+            "Manfred Praeker",
+            "Potsch Potschka",
+            "Reinhold Heil",
+            "Herwig Mitteregger",
+            "Band für Afrika"
+        ]
+    },
+    {
+        "id": "56d9836ccc2ddd0c0f6bd448",
+        "name": "The Real Thing",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Jive Records",
+            "Pye Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10282",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10282/image",
+        "albums": [
+            "Real Thing",
+            "Step Into Our World",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970",
+            "end": ""
+        },
+        "deezerFans": 1168,
+        "members": [
+            "Chris Amoo",
+            "Eddie Amoo"
+        ]
+    },
+    {
+        "id": "56d97718cc2ddd0c0f6bc33e",
+        "name": "Sy Smith",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Neo Soul",
+            "Jazz",
+            "Funk",
+            "Electronica"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/349824",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/349824/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1978-02-18",
+            "end": ""
+        },
+        "deezerFans": 1157,
+        "members": []
+    },
+    {
+        "id": "56d83d7053a7ddfc01f9634f",
+        "name": "Herb Alpert & The Tijuana Brass",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Jazz",
+            "Funk",
+            "R&B",
+            "Latin",
+            "Bossa Nova"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 7,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/2871",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2871/image",
+        "albums": [
+            "The Lonely Bull",
+            "The Beat Of The Brass",
+            "Christmas Album",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1963",
+            "end": "1971"
+        },
+        "deezerFans": 1148,
+        "members": [
+            "Lou Pagani",
+            "Tonni Kalash",
+            "Pat Senatore",
+            "Bob Edmondson",
+            "John Pisano",
+            "Herb Alpert",
+            "Nick Ceroli"
+        ]
+    },
+    {
+        "id": "56d9765dcc2ddd0c0f6bc1e7",
+        "name": "Supermax",
+        "type": "Group",
+        "genres": [
+            "Reggae",
+            "Funk",
+            "Disco"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/11115",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/11115/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1976",
+            "end": "2011"
+        },
+        "deezerFans": 1069,
+        "members": [
+            "Johan Daansen",
+            "Austropop All Stars",
+            "Kurt Hauenstein"
+        ]
+    },
+    {
+        "id": "56d815bf53a7ddfc01f92a7f",
+        "name": "Corey Glover",
+        "type": "Person",
+        "genres": [
+            "Heavy Metal",
+            "Funk",
+            "Jazz"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/76137",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/76137/image",
+        "albums": [
+            "Hymns",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-11-06",
+            "end": ""
+        },
+        "deezerFans": 1051,
+        "members": [
+            "Living Colour"
+        ]
+    },
+    {
+        "id": "56d8127a53a7ddfc01f925c5",
+        "name": "Chuck Brown",
+        "type": "Person",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/63665",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/63665/image",
+        "albums": [
+            "Any Other Way To Go?",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957",
+            "end": ""
+        },
+        "deezerFans": 1031,
+        "members": []
+    },
+    {
+        "id": "56d8591753a7ddfc01f98be6",
+        "name": "Lena Park",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Gospel",
+            "J-Pop",
+            "Jazz",
+            "K-Pop",
+            "R&B",
+            "Rock",
+            "Soundtrack"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Blueprint Music",
+            "Hip Land Music Corp.",
+            "Avex Taiwan",
+            "LOEN Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1220945",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1220945/image",
+        "albums": [
+            "Piece",
+            "A Second Helping",
+            "Naturally",
+            "Forever",
+            "Op.4",
+            "The Romantic Story Of Park Jung Hyun",
+            "Another Piece",
+            "On & On",
+            "Beyond The Line",
+            "Cosmorama",
+            "Come To Where I Am",
+            "10 Ways To Say I Love You",
+            "Cover Me Vol.1",
+            "Parallax",
+            "Gift",
+            "South Korean singles",
+            "Japanese singles",
+            "Collaborations",
+            "'''Immortal Song 2'''",
+            "'''MBC Music Travel Lalala Live Vol.6 (MBC 음악여행 라라라 Live Vol.6)'''",
+            "'''나는가수다 - I am a singer'''",
+            "제1회 미주복음성가 경연대회 대상",
+            "'''나는가수다3 - I am a singer 3'''",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1976-03-23",
+            "end": ""
+        },
+        "deezerFans": 921,
+        "members": []
+    },
+    {
+        "id": "56d8015553a7ddfc01f90e0e",
+        "name": "Ben Taylor",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Folk Rock",
+            "Soft Rock",
+            "Pop",
+            "Funk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/59889",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/59889/image",
+        "albums": [
+            "Famous Among The Barns",
+            "Another Run Around The Sun",
+            "Deeper Than Gravity",
+            "The Legend Of Kung Folk, Part 1 (The Killing Bite)",
+            "Listening",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-01-22",
+            "end": ""
+        },
+        "deezerFans": 900,
+        "members": [
+            "Ben Taylor Band"
+        ]
+    },
+    {
+        "id": "56d97c1ccc2ddd0c0f6bca54",
+        "name": "The Cadillacs",
+        "type": "Group",
+        "genres": [
+            "Doo-wop",
+            "Rock 'N' Roll",
+            "Soul",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Josie Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/194024",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/194024/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1953",
+            "end": "1962"
+        },
+        "deezerFans": 881,
+        "members": [
+            "J. Ralph Bailey"
+        ]
+    },
+    {
+        "id": "56d83d7d53a7ddfc01f96366",
+        "name": "Here Come The Mummies",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "R&B"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/391542",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/391542/image",
+        "albums": [
+            "Terrifying Funk From Beyond The Grave",
+            "Everlasting Party",
+            "Single Entendre",
+            "Carnal Carnival",
+            "Undead Live... The CD",
+            "Misc. Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2000",
+            "end": ""
+        },
+        "deezerFans": 875,
+        "members": []
+    },
+    {
+        "id": "56d9373ece06f50c0fed7dd5",
+        "name": "Mamas Gun",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Avex Group",
+            "Candelion",
+            "Love Da",
+            "Sail Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/288255",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/288255/image",
+        "albums": [
+            "Routes To Riches",
+            "The Life And Soul",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 858,
+        "members": [
+            "Dave Oliver",
+            "Terry Lewis"
+        ]
+    },
+    {
+        "id": "56d8352653a7ddfc01f957f2",
+        "name": "Geraldine Hunt",
+        "type": "Person",
+        "genres": [
+            "Disco",
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/107789",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/107789/image",
+        "albums": [
+            "Sweet Honesty",
+            "No Way",
+            "Soultry, Jazzy & Sexy"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1945-02-10",
+            "end": ""
+        },
+        "deezerFans": 856,
+        "members": []
+    },
+    {
+        "id": "56d9638fcc2ddd0c0f6ba556",
+        "name": "Roger",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Blues",
+            "Hip Hop",
+            "G-Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Reprise Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/11234",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/11234/image",
+        "albums": [
+            "The Many Facets Of Roger",
+            "The Saga Continues",
+            "Unlimited!",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1951-11-29",
+            "end": "1999-04-25"
+        },
+        "deezerFans": 829,
+        "members": [
+            "Zapp"
+        ]
+    },
+    {
+        "id": "56d82ed353a7ddfc01f94f3b",
+        "name": "Five Stairsteps",
+        "type": "Group",
+        "genres": [
+            "Disco",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Buddah Records",
+            "Island Records",
+            "Dark Horse Records",
+            "Cameo-Parkway Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/93381",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/93381/image",
+        "albums": [
+            "The Five Stairsteps",
+            "Our Family Portrait",
+            "Love's Happening",
+            "Stairsteps",
+            "2nd Resurrection",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1965",
+            "end": "1976"
+        },
+        "deezerFans": 805,
+        "members": [
+            "Alohe Jean Burke",
+            "Keni Burke",
+            "Clarence Burke, Jr."
+        ]
+    },
+    {
+        "id": "56d8052653a7ddfc01f9136d",
+        "name": "Blessid Union Of Souls",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Pop",
+            "Funk"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 11,
+        "recordLabel": [
+            "V2 Records",
+            "EMI America Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6948",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6948/image",
+        "albums": [
+            "Home",
+            "Blessid Union Of Souls",
+            "Walking Off The Buzz",
+            "The Singles",
+            "Perception",
+            "Close To The Edge",
+            "The Mission Field",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990",
+            "end": ""
+        },
+        "deezerFans": 726,
+        "members": [
+            "C. P. Roth",
+            "Brian Lovely",
+            "Eliot Sloan",
+            "Tony Clark",
+            "Shaun Schaefer",
+            "David Lessing",
+            "Bryan Billhimer",
+            "Jeff Pence",
+            "Chris Arduser",
+            "Dave Ramos",
+            "Eddie Hedges"
+        ]
+    },
+    {
+        "id": "56d8547c53a7ddfc01f98532",
+        "name": "Koinonia",
+        "type": "Group",
+        "genres": [
+            "Jazz",
+            "Jazz Fusion",
+            "Jazz-Funk",
+            "Funk",
+            "Christian"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 12,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/254325",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/254325/image",
+        "albums": [
+            "More Than A Feelin'",
+            "Celebration",
+            "Frontline",
+            "Compact Favorites",
+            "Koinonia",
+            "Pilgrim's Progression",
+            "All The Best"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1980",
+            "end": "1991"
+        },
+        "deezerFans": 631,
+        "members": [
+            "Lou Pardini",
+            "Lou Pardini",
+            "Alex Acuña",
+            "Alex Acuña",
+            "Dean Parks",
+            "Harlan Rogers",
+            "Hadley Hockensmith",
+            "Justo Almario",
+            "Justo Almario",
+            "John Phillips",
+            "Abraham LaBoriel",
+            "Bill Maxwell"
+        ]
+    },
+    {
+        "id": "56d824ba53a7ddfc01f940c7",
+        "name": "Dyke And The Blazers",
+        "type": "Group",
+        "genres": [
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Original Sound"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/324597",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/324597/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1965",
+            "end": ""
+        },
+        "deezerFans": 630,
+        "members": [
+            "Dyke Arlester Christian"
+        ]
+    },
+    {
+        "id": "56d847ed53a7ddfc01f97348",
+        "name": "Jermaine Stewart",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Soul",
+            "Funk",
+            "Dance"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Reprise Records",
+            "Arista Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/289809",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/289809/image",
+        "albums": [
+            "The Word Is Out",
+            "Frantic Romantic",
+            "Say It Again",
+            "What Becomes A Legend Most?",
+            "Songs from Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1957-09-07",
+            "end": "1997-03-17"
+        },
+        "deezerFans": 611,
+        "members": [
+            "Shalamar"
+        ]
+    },
+    {
+        "id": "56d7f77953a7ddfc01f8ff4b",
+        "name": "André 3000",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Hip Hop",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1382150",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1382150/image",
+        "albums": [
+            "Misc. Songs",
+            "Songs featuring Andre 3000",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-05-27",
+            "end": ""
+        },
+        "deezerFans": 567,
+        "members": [
+            "OutKast",
+            "Dungeon Family"
+        ]
+    },
+    {
+        "id": "56d8572553a7ddfc01f988e0",
+        "name": "Lamont Dozier",
+        "type": "Person",
+        "genres": [
+            "Motown",
+            "Funk",
+            "Jazz",
+            "R&B",
+            "Soul",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "ABC Records",
+            "Warner Bros. Records",
+            "Motown",
+            "Hot Wax Records",
+            "Invictus Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64519",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64519/image",
+        "albums": [
+            "Out Here On My Own",
+            "Black Bach",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1941-06-16",
+            "end": ""
+        },
+        "deezerFans": 559,
+        "members": [
+            "Holland–Dozier–Holland"
+        ]
+    },
+    {
+        "id": "56d8576d53a7ddfc01f9895d",
+        "name": "Larry Williams",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Specialty Records",
+            "Okeh Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/81027",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/81027/image",
+        "albums": [
+            "Bad Boy",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1935-05-10",
+            "end": "1980-01-02"
+        },
+        "deezerFans": 485,
+        "members": []
+    },
+    {
+        "id": "56d805a253a7ddfc01f91415",
+        "name": "Blowfly",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul",
+            "Parody",
+            "Comedy",
+            "Proto Rap",
+            "Hip Hop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "TK Records",
+            "Alternative Tentacles"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/97331",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/97331/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1939-02-14",
+            "end": "2016-01-17"
+        },
+        "deezerFans": 456,
+        "members": []
+    },
+    {
+        "id": "56d8595953a7ddfc01f98c67",
+        "name": "Leroy Hutson",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "Funk",
+            "Jazz",
+            "R&B"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Kapp Records",
+            "Curtom Records",
+            "Warner Bros. Records",
+            "Elektra Records",
+            "Triumph Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10128",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/10128/image",
+        "albums": [
+            "Love Oh Love",
+            "The Man!",
+            "Hutson",
+            "Feel The Spirit",
+            "Hutson II",
+            "Closer To The Source",
+            "Unforgettable",
+            "Paradise"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1945-06-04",
+            "end": ""
+        },
+        "deezerFans": 430,
+        "members": [
+            "The Impressions"
+        ]
+    },
+    {
+        "id": "56d94b50cc2ddd0c0f6b81c0",
+        "name": "N'Dea Davenport",
+        "type": "Person",
+        "genres": [
+            "Acid Jazz",
+            "Funk",
+            "R&B",
+            "Hip Hop",
+            "New Jack Swing",
+            "Soul"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/11945",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/11945/image",
+        "albums": [
+            "N'Dea Davenport",
+            "One Day My Love",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1966-05-06",
+            "end": ""
+        },
+        "deezerFans": 347,
+        "members": [
+            "The Brand New Heavies"
+        ]
+    },
+    {
+        "id": "56d8320b53a7ddfc01f953c6",
+        "name": "Friedrich Liechtenstein",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Electro",
+            "Funk",
+            "Soul",
+            "Vocal",
+            "Comedy"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1331539",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1331539/image",
+        "albums": [
+            "Supergeil",
+            "Bad Gastein",
+            "Not on Album"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1956",
+            "end": ""
+        },
+        "deezerFans": 333,
+        "members": []
+    },
+    {
+        "id": "56d94da9cc2ddd0c0f6b8507",
+        "name": "New Birth",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "R&B"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/76291",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/76291/image",
+        "albums": [
+            "Ain't No Big Thing, But It's Growing",
+            "Birth Day",
+            "It's Been A Long Time",
+            "Blind Baby",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969",
+            "end": ""
+        },
+        "deezerFans": 320,
+        "members": []
+    },
+    {
+        "id": "56d8580653a7ddfc01f98a53",
+        "name": "Lauren Pritchard",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "Pop",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Island Records",
+            "Universal Music Group",
+            "DCD2 Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/173344",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/173344/image",
+        "albums": [
+            "Wasted In Jackson",
+            "Comeback Queen",
+            "Misc"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987-12-27",
+            "end": ""
+        },
+        "deezerFans": 304,
+        "members": []
+    },
+    {
+        "id": "56d98673cc2ddd0c0f6bd876",
+        "name": "The Willows",
+        "type": "Group",
+        "genres": [
+            "Doo-wop",
+            "R&B",
+            "Funk",
+            "Soul",
+            "Vocal"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/265562",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/265562/image",
+        "albums": [
+            "The Church Bells May Ring"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 299,
+        "members": []
+    },
+    {
+        "id": "56d8183853a7ddfc01f92e2a",
+        "name": "D",
+        "type": "",
+        "genres": [
+            "Electronic",
+            "Pop",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/74699",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/74699/image",
+        "albums": [
+            "Volume 3",
+            "Volume 9",
+            "Vol. 7"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 284,
+        "members": []
+    },
+    {
+        "id": "56d7f0a956847be81b3e8e5f",
+        "name": "Al Hudson",
+        "type": "",
+        "genres": [
+            "R&B",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4077626",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4077626/image",
+        "albums": [
+            "Single"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 240,
+        "members": []
+    },
+    {
+        "id": "56d9651bcc2ddd0c0f6ba76e",
+        "name": "Royalty",
+        "type": "",
+        "genres": [
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/426099",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/426099/image",
+        "albums": [
+            "Rich And Famous",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 233,
+        "members": []
+    },
+    {
+        "id": "56d8179753a7ddfc01f92d58",
+        "name": "Cultured Pearls",
+        "type": "Group",
+        "genres": [
+            "Soul",
+            "Rock",
+            "Jazz",
+            "Funk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66497",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/66497/image",
+        "albums": [
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1992",
+            "end": "2003"
+        },
+        "deezerFans": 187,
+        "members": [
+            "Tex Super",
+            "B.La",
+            "Astrid North"
+        ]
+    },
+    {
+        "id": "56d82aa853a7ddfc01f948a6",
+        "name": "Estate",
+        "type": "Group",
+        "genres": [
+            "Boogie",
+            "Dance",
+            "Electro",
+            "Electronica",
+            "Funk",
+            "Nu-Disco"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/69198",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/69198/image",
+        "albums": [
+            "Nuclear City EP",
+            "Slipstream / Pressure's On",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 186,
+        "members": [
+            "Dan Kramer",
+            "Josh Ethan Johnson"
+        ]
+    },
+    {
+        "id": "56d94fe1cc2ddd0c0f6b8859",
+        "name": "Nona Hendryx",
+        "type": "Person",
+        "genres": [
+            "Dance",
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "ZE Records",
+            "Private Music",
+            "Arista Records",
+            "Righteous Babe Records",
+            "EMI Records",
+            "Epic Records",
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/343466",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/343466/image",
+        "albums": [
+            "Songs On Compilations And Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1944-10-09",
+            "end": ""
+        },
+        "deezerFans": 176,
+        "members": [
+            "LaBelle",
+            "Patti LaBelle & The Bluebelles",
+            "Del Capris"
+        ]
+    },
+    {
+        "id": "56d8407953a7ddfc01f96817",
+        "name": "I, Tay Stayness",
+        "type": "",
+        "genres": [
+            "Disco",
+            "Funk",
+            "House",
+            "Dance",
+            "Electronic",
+            "Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 22,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1722991",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1722991/image",
+        "albums": [
+            "Stallion On The Dancefloor",
+            "The Strength Of A Tiger",
+            "Playin' That Beat"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 174,
+        "members": []
+    },
+    {
+        "id": "56d84b0453a7ddfc01f97797",
+        "name": "John Lee Hooker, Jr.",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Jazz",
+            "Gospel",
+            "Funk",
+            "R&B"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/277834",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/277834/image",
+        "albums": [
+            "Blues With A Vengeance",
+            "Cold As Ice",
+            "All Odds Against Me"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 167,
+        "members": []
+    },
+    {
+        "id": "56d8441553a7ddfc01f96d61",
+        "name": "J. Karjalainen",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Blues",
+            "Funk",
+            "R&B"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/244423",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/244423/image",
+        "albums": [
+            "J. Karjalainen Ja Mustat Lasit",
+            "Yö Kun Saapuu Helsinkiin",
+            "Tatsum Tisal",
+            "Doris",
+            "Varaani",
+            "Kookospähkinäkitara",
+            "Lumipallo",
+            "Keltaisessa Talossa",
+            "Tähtilampun Alla",
+            "J. Karjalainen Electric Sauna",
+            "Lännen-Jukka",
+            "Et Ole Yksin",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-04-01",
+            "end": ""
+        },
+        "deezerFans": 161,
+        "members": [
+            "J. Karjalainen Electric Sauna",
+            "J. Karjalainen yhtyeineen",
+            "J. Karjalainen ja Mustat Lasit"
+        ]
+    },
+    {
+        "id": "56d96ba6cc2ddd0c0f6bb180",
+        "name": "Shawn Christopher",
+        "type": "Person",
+        "genres": [
+            "House",
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/11184",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/11184/image",
+        "albums": [
+            "Another Sleepless Night",
+            "Drink From The Fountain"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 153,
+        "members": [
+            "Sonia Dada"
+        ]
+    },
+    {
+        "id": "56d98a7ccc2ddd0c0f6bde55",
+        "name": "Tony O'Malley",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1020407",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1020407/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1948-07-15",
+            "end": ""
+        },
+        "deezerFans": 138,
+        "members": [
+            "Kokomo",
+            "Arrival",
+            "10cc"
+        ]
+    },
+    {
+        "id": "56d99622cc2ddd0c0f6bf00f",
+        "name": "Xysma",
+        "type": "Group",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/315005",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/315005/image",
+        "albums": [
+            "Yeah",
+            "Deluxe",
+            "Lotto",
+            "Girl On The Beach"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988",
+            "end": ""
+        },
+        "deezerFans": 134,
+        "members": []
+    },
+    {
+        "id": "56d959a8cc2ddd0c0f6b96b8",
+        "name": "Planet Patrol",
+        "type": "Group",
+        "genres": [
+            "Electronic",
+            "Funk",
+            "Freestyle",
+            "Old School Hip Hop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "Tommy Boy Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/265506",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/265506/image",
+        "albums": [
+            "Planet Patrol"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1982",
+            "end": ""
+        },
+        "deezerFans": 118,
+        "members": [
+            "John Robie",
+            "Arthur Baker"
+        ]
+    },
+    {
+        "id": "56d7f58653a7ddfc01f8fc20",
+        "name": "Amanda",
+        "type": "",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Disco"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1256166",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1256166/image",
+        "albums": [
+            "Amanda",
+            "Alfombra Mágica",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 114,
+        "members": []
+    },
+    {
+        "id": "56d98887cc2ddd0c0f6bdb95",
+        "name": "Tim Vaughn",
+        "type": "",
+        "genres": [
+            "Nu Jazz",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1076948",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1076948/image",
+        "albums": [
+            "Read Between The Lines"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 111,
+        "members": []
+    },
+    {
+        "id": "56d7f78953a7ddfc01f8ff5e",
+        "name": "André Indiana",
+        "type": "",
+        "genres": [
+            "Singer-Songwriter",
+            "Rock",
+            "Hard Rock",
+            "Pop Rock",
+            "Soft Rock",
+            "Blues",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/255411",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/255411/image",
+        "albums": [
+            "Music For Nations",
+            "Destilled And Bottled",
+            "X-Glamour"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 103,
+        "members": []
+    },
+    {
+        "id": "56d955e0cc2ddd0c0f6b91c0",
+        "name": "Paul Pena",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Funk",
+            "Pop",
+            "Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1235776",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1235776/image",
+        "albums": [
+            "New Train",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1950-01-26",
+            "end": "2005-10-01"
+        },
+        "deezerFans": 91,
+        "members": []
+    },
+    {
+        "id": "56d972d5cc2ddd0c0f6bbc83",
+        "name": "Stargard",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Disco",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/169275",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/169275/image",
+        "albums": [
+            "Stargard"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1976",
+            "end": "1983"
+        },
+        "deezerFans": 61,
+        "members": [
+            "Debra Anderson",
+            "Janice Williams",
+            "Rochelle Runnells"
+        ]
+    },
+    {
+        "id": "56d834cd53a7ddfc01f95789",
+        "name": "George Hrab",
+        "type": "Person",
+        "genres": [
+            "Progressive Rock",
+            "Funk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1150251",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1150251/image",
+        "albums": [
+            "Vitriol",
+            "Coelacanth",
+            "Trebuchet"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1971-06-08",
+            "end": ""
+        },
+        "deezerFans": 56,
+        "members": []
+    },
+    {
+        "id": "56d8593d53a7ddfc01f98c3b",
+        "name": "Leon Patillo",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Pop",
+            "Christian"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/66124",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66124/image",
+        "albums": [
+            "Dance Children Dance",
+            "Don't Give In",
+            "I'll Never Stop Lovin' You",
+            "Live Experience",
+            "The Sky's The Limit",
+            "Love Around The World",
+            "Brand New",
+            "On The Way Up",
+            "Church Is On The Move",
+            "Souly For Him",
+            "Breathe On Me",
+            "Live Experience 2",
+            "The Definitive Collection"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1947-01-01",
+            "end": ""
+        },
+        "deezerFans": 56,
+        "members": [
+            "Santana"
+        ]
+    },
+    {
+        "id": "56d7fbc053a7ddfc01f90600",
+        "name": "Ashok",
+        "type": "",
+        "genres": [
+            "Funk",
+            "Jazz",
+            "Hip Hop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/190488",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/190488/image",
+        "albums": [
+            "Plans"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 49,
+        "members": []
+    },
+    {
+        "id": "56d85eb353a7ddfc01f994a8",
+        "name": "Luca Ronka",
+        "type": "Person",
+        "genres": [
+            "Soul",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/7817266",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7817266/image",
+        "albums": [
+            "Soul Man"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-08-18",
+            "end": ""
+        },
+        "deezerFans": 43,
+        "members": []
+    },
+    {
+        "id": "56d98a14cc2ddd0c0f6bddaa",
+        "name": "Tommy Hunt",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/166630",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/166630/image",
+        "albums": [
+            "I Just Don't Know What To Do With Myself",
+            "Your Man",
+            "Human"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1933-06-18",
+            "end": ""
+        },
+        "deezerFans": 41,
+        "members": []
+    },
+    {
+        "id": "56d95919cc2ddd0c0f6b95f4",
+        "name": "Pilgrim Travelers",
+        "type": "Group",
+        "genres": [
+            "Gospel",
+            "Funk",
+            "Soul",
+            "R&B"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/86388",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/86388/image",
+        "albums": [
+            "The Soul-Stirring Gospel Sounds Of The Pilgrim Travelers",
+            "Better Than That",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 38,
+        "members": [
+            "Jesse Whitaker",
+            "Sam Cooke",
+            "Lonnie Hill",
+            "Lou Rawls",
+            "James Woodie Alexander",
+            "George McCurn"
+        ]
+    },
+    {
+        "id": "56d95879cc2ddd0c0f6b9503",
+        "name": "Philadelphia International All-Stars",
+        "type": "Group",
+        "genres": [
+            "Disco",
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1344098",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1344098/image",
+        "albums": [
+            "Singles"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 37,
+        "members": [
+            "Teddy Pendergrass",
+            "Billy Paul",
+            "Lou Rawls",
+            "Archie Bell",
+            "Dee Dee Sharp"
+        ]
+    },
+    {
+        "id": "56d8449053a7ddfc01f96e1d",
+        "name": "Jackie Moon",
+        "type": "Person",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/74409",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/74409/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 31,
+        "members": []
+    },
+    {
+        "id": "56d8099c53a7ddfc01f91a0d",
+        "name": "Brylho",
+        "type": "Group",
+        "genres": [
+            "Funk",
+            "Soul"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1492881",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1492881/image",
+        "albums": [
+            "Brylho"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1978",
+            "end": "1986"
+        },
+        "deezerFans": 28,
+        "members": [
+            "Cláudio Zoli",
+            "Arnaldo Brandão"
+        ]
+    },
+    {
+        "id": "56d935ebce06f50c0fed7bc6",
+        "name": "Machinations",
+        "type": "Group",
+        "genres": [
+            "Synthpop",
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Phantom Records",
+            "A&M Records",
+            "Mushroom Records",
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1218969",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1218969/image",
+        "albums": [
+            "Big Music"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1979",
+            "end": "1989"
+        },
+        "deezerFans": 27,
+        "members": []
+    },
+    {
+        "id": "56d95e42cc2ddd0c0f6b9d83",
+        "name": "Randy Brown",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/187114",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/187114/image",
+        "albums": [
+            "Welcome To My Room",
+            "Intimately",
+            "Midnight Desire",
+            "Randy",
+            "Check It Out"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 27,
+        "members": []
+    },
+    {
+        "id": "56d976d6cc2ddd0c0f6bc2c3",
+        "name": "Sweat Band",
+        "type": "Group",
+        "genres": [
+            "Funk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1193826",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1193826/image",
+        "albums": [
+            "Sweat Band"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1980",
+            "end": "1980"
+        },
+        "deezerFans": 12,
+        "members": []
+    },
+    {
+        "id": "56d83f9853a7ddfc01f966af",
+        "name": "Hughes Turner Project",
+        "type": "Group",
+        "genres": [
+            "Hard Rock",
+            "Funk",
+            "Arena Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "MTM Music",
+            "Pony Canyon"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4092428",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4092428/image",
+        "albums": [
+            "Hughes Turner Project",
+            "Hughes Turner Project 2",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 11,
+        "members": [
+            "Joe Lynn Turner",
+            "Glenn Hughes"
+        ]
+    },
+    {
+        "id": "56d7fd2653a7ddfc01f90822",
+        "name": "Ava Cherry",
+        "type": "Person",
+        "genres": [
+            "Funk",
+            "Soul",
+            "Disco"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/93389",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/93389/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 9,
+        "members": []
+    },
+    {
+        "id": "56d98a7acc2ddd0c0f6bde52",
+        "name": "Tony Middleton",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "R&B",
+            "Funk",
+            "Jazz",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/457716",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/457716/image",
+        "albums": [
+            "Memories Are Made Of This",
+            "Collaborations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1934-06-26",
+            "end": ""
+        },
+        "deezerFans": 8,
+        "members": []
+    }
+]

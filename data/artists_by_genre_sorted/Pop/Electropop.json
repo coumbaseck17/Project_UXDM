@@ -1,0 +1,2889 @@
+[
+    {
+        "id": "56d827da53a7ddfc01f944f3",
+        "name": "Ellie Goulding",
+        "type": "Person",
+        "genres": [
+            "Indie Pop",
+            "Electropop",
+            "Synthpop",
+            "Folktronica"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/311820",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/311820/image",
+        "albums": [
+            "An Introduction To Ellie Goulding",
+            "Lights",
+            "Run Into The Light",
+            "Halcyon",
+            "Delirium",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Ellie Goulding",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-12-30",
+            "end": ""
+        },
+        "deezerFans": 5153534,
+        "members": [
+            "Band Aid 30"
+        ]
+    },
+    {
+        "id": "56d98ce3cc2ddd0c0f6be1ff",
+        "name": "Twenty One Pilots",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Pop Rock",
+            "Rap Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Fueled by Ramen"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/647650",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/647650/image",
+        "albums": [
+            "Twenty One Pilots",
+            "Regional At Best",
+            "Vessel",
+            "Holding On To You",
+            "Blurryface",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009",
+            "end": ""
+        },
+        "deezerFans": 2218389,
+        "members": [
+            "Chris Salih",
+            "Josh Dun",
+            "Nick Thomas",
+            "Tyler Joseph"
+        ]
+    },
+    {
+        "id": "56d96a1acc2ddd0c0f6baf1e",
+        "name": "Selena Gomez",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance",
+            "Electropop",
+            "Pop Rock"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/292185",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/292185/image",
+        "albums": [
+            "Stars Dance",
+            "For You",
+            "Revival",
+            "Songs On Compilations And Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1992-07-22",
+            "end": ""
+        },
+        "deezerFans": 1561639,
+        "members": [
+            "Selena Gomez & The Scene",
+            "Disney's Friends for Change"
+        ]
+    },
+    {
+        "id": "56d98af4cc2ddd0c0f6bdf09",
+        "name": "Tove Lo",
+        "type": "Person",
+        "genres": [
+            "Electronic",
+            "Dance",
+            "Electropop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4103977",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/4103977/image",
+        "albums": [
+            "Truth Serum",
+            "Queen Of The Clouds",
+            "Songs on Compilations and Soundtracks",
+            "Other singles",
+            "Live and Unreleased Songs",
+            "Songs Featuring Tove Lo",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987-10-29",
+            "end": ""
+        },
+        "deezerFans": 1317679,
+        "members": []
+    },
+    {
+        "id": "56d8208553a7ddfc01f93a64",
+        "name": "Disclosure",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Future Garage",
+            "Garage Rock",
+            "House"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Interscope Records",
+            "Moshi Moshi Records",
+            "Island Records",
+            "Cherrytree Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/409796",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/409796/image",
+        "albums": [
+            "Offline Dexterity",
+            "Carnival / I Love... That You Know",
+            "Control",
+            "Settle",
+            "Caracal",
+            "B-Sides",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 779150,
+        "members": [
+            "Guy Lawrence",
+            "Howard Lawrence"
+        ]
+    },
+    {
+        "id": "56d93f02ce06f50c0fed8971",
+        "name": "Mika",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Electropop",
+            "Glam Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Universal Music Group",
+            "Casablanca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6603",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6603/image",
+        "albums": [
+            "Life In Cartoon Motion",
+            "The Boy Who Knew Too Much",
+            "The Origin Of Love",
+            "Songs from Compilations and Soundtracks",
+            "Songs Featuring Mika",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 688104,
+        "members": []
+    },
+    {
+        "id": "56d95388cc2ddd0c0f6b8e60",
+        "name": "Owl City",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Synthpop",
+            "Indietronica"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Republic Records",
+            "Universal Republic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/183201",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/183201/image",
+        "albums": [
+            "Of June",
+            "Maybe I'm Dreaming",
+            "Ocean Eyes",
+            "All Things Bright And Beautiful",
+            "Shooting Star",
+            "The Midsummer Station",
+            "Ultraviolet",
+            "Mobile Orchestra",
+            "Songs On Compilations And Soundtracks",
+            "Other Songs",
+            "Songs featuring Owl City"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-07-05",
+            "end": ""
+        },
+        "deezerFans": 612297,
+        "members": []
+    },
+    {
+        "id": "56d8010153a7ddfc01f90da8",
+        "name": "Belinda",
+        "type": "Person",
+        "genres": [
+            "Pop Rock",
+            "Latin Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/6329",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/6329/image",
+        "albums": [
+            "Belinda",
+            "Fiesta En La Azotea: En Vivo Desde El Auditorio Nacional",
+            "Total",
+            "Utopía",
+            "Lo Esencial De Belinda",
+            "Carpe Diem",
+            "Catarsis",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-08-15",
+            "end": ""
+        },
+        "deezerFans": 590677,
+        "members": []
+    },
+    {
+        "id": "56d96a1acc2ddd0c0f6baf1f",
+        "name": "Selena Gomez & The Scene",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Pop Rock",
+            "Teen Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 8,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/294631",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/294631/image",
+        "albums": [
+            "Kiss & Tell",
+            "A Year Without Rain",
+            "When The Sun Goes Down",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2008",
+            "end": "2012"
+        },
+        "deezerFans": 532995,
+        "members": [
+            "Greg Garman",
+            "Dane Forrest",
+            "Ethan Robert",
+            "Joey Clement",
+            "Drew Taubenfeld",
+            "Selena Gomez",
+            "Nick Foxer",
+            "Nick Foxer"
+        ]
+    },
+    {
+        "id": "56d811a153a7ddfc01f9253c",
+        "name": "Christine And The Queens",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Indie Pop",
+            "Synthpop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1520407",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1520407/image",
+        "albums": [
+            "Mac Abbey",
+            "Nuit 17 À 52",
+            "Chaleur Humaine",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-06-01",
+            "end": ""
+        },
+        "deezerFans": 443782,
+        "members": []
+    },
+    {
+        "id": "56d9598acc2ddd0c0f6b9689",
+        "name": "Pixie Lott",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "R&B",
+            "Soul",
+            "Electropop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Interscope Records",
+            "Mercury Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/272225",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/272225/image",
+        "albums": [
+            "Turn It Up",
+            "Young Foolish Happy",
+            "Pixie Lott",
+            "Platinum Pixie - Hits",
+            "Songs Featuring Pixie Lott",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1991-12-12",
+            "end": ""
+        },
+        "deezerFans": 390068,
+        "members": []
+    },
+    {
+        "id": "56d8380453a7ddfc01f95bba",
+        "name": "Gotye",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Indie Rock"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Creative Vibes",
+            "Universal Republic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/159449",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/159449/image",
+        "albums": [
+            "Boardface",
+            "Like Drawing Blood",
+            "Making Mirrors",
+            "Other Releases"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1980-05-21",
+            "end": ""
+        },
+        "deezerFans": 324617,
+        "members": [
+            "The Basics"
+        ]
+    },
+    {
+        "id": "56d938e4ce06f50c0fed8048",
+        "name": "Marina And The Diamonds",
+        "type": "Person",
+        "genres": [
+            "Indie Pop",
+            "New Wave",
+            "Electropop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Atlantic Records",
+            "Chop Shop Records",
+            "679 Artists",
+            "Neon Gold Records",
+            "Elektra Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/170051",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/170051/image",
+        "albums": [
+            "Mermaid Vs. Sailor",
+            "ITunes Live: London Festival '09",
+            "The Family Jewels",
+            "American Jewels EP",
+            "Give Me The Money!",
+            "Electra Heart",
+            "Froot",
+            "B-Sides",
+            "Songs featuring Marina and the Diamonds",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-10-10",
+            "end": ""
+        },
+        "deezerFans": 281802,
+        "members": []
+    },
+    {
+        "id": "56d93d91ce06f50c0fed8762",
+        "name": "Metronomy",
+        "type": "Group",
+        "genres": [
+            "New Rave",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Holiphonic",
+            "Because Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13570",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13570/image",
+        "albums": [
+            "Pip Paine (Pay The £5000 You Owe)",
+            "Nights Out",
+            "Not Made For Love",
+            "The English Riviera",
+            "Love Letters"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1999",
+            "end": ""
+        },
+        "deezerFans": 247908,
+        "members": [
+            "Joseph Mount"
+        ]
+    },
+    {
+        "id": "56d854e953a7ddfc01f985c2",
+        "name": "Kraftwerk",
+        "type": "Group",
+        "genres": [
+            "Synthpop",
+            "Krautrock",
+            "Electronic",
+            "Electronic Rock",
+            "Electropop",
+            "Techno"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Fontana Records",
+            "Mercury Records",
+            "Elektra Records",
+            "Cleopatra Records",
+            "Warner Bros. Records",
+            "Capitol Records",
+            "Parlophone",
+            "Kling Klang Studio",
+            "Philips Records",
+            "Astralwerks",
+            "Mute Records",
+            "EMI",
+            "Vertigo Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/926",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/926/image",
+        "albums": [
+            "Kraftwerk",
+            "Kraftwerk 2",
+            "Ralf und Florian / Ralf and Florian",
+            "Autobahn",
+            "Radioaktivität / Radio-Activity",
+            "Trans Europa Express / Trans-Europe Express",
+            "Die Mensch-Maschine / The Man Machine",
+            "Computerwelt / Computer World",
+            "Electric Café / Electric Cafe",
+            "Tour De France Soundtracks",
+            "Minimum - Maximum",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970",
+            "end": ""
+        },
+        "deezerFans": 181210,
+        "members": [
+            "Fritz Hilpert",
+            "Karl Bartos",
+            "Michael Rother",
+            "Florian Schneider",
+            "Wolfgang Flür",
+            "Klaus Dinger",
+            "Henning Schmitz",
+            "Ralf Hütter",
+            "Emil Schult"
+        ]
+    },
+    {
+        "id": "56d8535c53a7ddfc01f98385",
+        "name": "Kimbra",
+        "type": "Person",
+        "genres": [
+            "Indie Rock",
+            "Indie Pop",
+            "Rock",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/392150",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/392150/image",
+        "albums": [
+            "Vows",
+            "The Golden Echo",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Kimbra"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990-03-27",
+            "end": ""
+        },
+        "deezerFans": 173388,
+        "members": []
+    },
+    {
+        "id": "56d8377753a7ddfc01f95aff",
+        "name": "Goldfrapp",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 14,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Parlophone",
+            "Mute Records",
+            "Astralwerks"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/108",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/108/image",
+        "albums": [
+            "Felt Mountain",
+            "Twist",
+            "Strict Machine",
+            "Black Cherry",
+            "Number 1",
+            "Boys Will Be Boys",
+            "Supernature",
+            "We Are Glitter",
+            "Seventh Tree",
+            "Head First",
+            "The Singles",
+            "Tales Of Us",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1999",
+            "end": ""
+        },
+        "deezerFans": 153980,
+        "members": [
+            "Will Gregory",
+            "Alison Goldfrapp"
+        ]
+    },
+    {
+        "id": "56d9807dcc2ddd0c0f6bd013",
+        "name": "The Knife",
+        "type": "Group",
+        "genres": [
+            "Electronic",
+            "Electropop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Mute Records",
+            "Brille Records",
+            "V2 Records",
+            "Rabid Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1675",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1675/image",
+        "albums": [
+            "The Knife",
+            "Deep Cuts",
+            "Silent Shout",
+            "Tomorrow, In A Year",
+            "Shaking The Habitual",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1999",
+            "end": "2014-11"
+        },
+        "deezerFans": 104709,
+        "members": [
+            "Olof Dreijer",
+            "Karin Dreijer Andersson"
+        ]
+    },
+    {
+        "id": "56d83f1853a7ddfc01f965eb",
+        "name": "Hot Chip",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Alternative Rock"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 6,
+        "recordLabel": [
+            "DFA Records",
+            "Domino Recording Company",
+            "Moshi Moshi Records",
+            "Parlophone",
+            "Astralwerks"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4032",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4032/image",
+        "albums": [
+            "Sanfrandisco E-Pee",
+            "Coming On Strong",
+            "Playboy",
+            "All Filler, No Killer!",
+            "The Warning",
+            "Made In The Dark",
+            "One Life Stand",
+            "In Our Heads",
+            "Why Make Sense?",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2000",
+            "end": ""
+        },
+        "deezerFans": 104216,
+        "members": [
+            "Rob Smoughton",
+            "Felix Martin",
+            "Owen Clarke",
+            "Alexis Taylor",
+            "Al Doyle",
+            "Joe Goddard"
+        ]
+    },
+    {
+        "id": "56d850ca53a7ddfc01f97f68",
+        "name": "Kat Graham",
+        "type": "Person",
+        "genres": [
+            "Dance",
+            "Electropop",
+            "Hip Hop",
+            "Pop",
+            "R&B",
+            "Rock 'N' Roll"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 9,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1136994",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1136994/image",
+        "albums": [
+            "I Want It All",
+            "Sassy",
+            "Against The Wall",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-09-05",
+            "end": ""
+        },
+        "deezerFans": 88284,
+        "members": []
+    },
+    {
+        "id": "56d977a1cc2ddd0c0f6bc3e5",
+        "name": "T-ara",
+        "type": "Group",
+        "genres": [
+            "K-Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 8,
+        "recordLabel": [
+            "KT Corporation",
+            "EMI Music Japan",
+            "LOEN Entertainment",
+            "MBK Entertainment",
+            "List of Universal Music Group labels"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1389971",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1389971/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009",
+            "end": ""
+        },
+        "deezerFans": 87558,
+        "members": [
+            "보람",
+            "은정",
+            "화영",
+            "지연",
+            "소연",
+            "효민",
+            "양지원",
+            "큐리"
+        ]
+    },
+    {
+        "id": "56d93d8fce06f50c0fed875e",
+        "name": "Metro Station",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Pop Rock",
+            "Electropop",
+            "Emo"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Columbia Records",
+            "RED Ink Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/93116",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/93116/image",
+        "albums": [
+            "Metro Station",
+            "Middle Of The Night",
+            "Songs from Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 77493,
+        "members": [
+            "Mason Musso",
+            "Anthony Improgo",
+            "Blake Healy",
+            "Trace Cyrus"
+        ]
+    },
+    {
+        "id": "56d8476853a7ddfc01f97273",
+        "name": "Jeffree Star",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Dance",
+            "Pop",
+            "Synthpop",
+            "Queercore"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/156042",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/156042/image",
+        "albums": [
+            "Plastic Surgery Slumber Party",
+            "Cupcakes Taste Like Violence",
+            "Beauty Killer",
+            "The Shit You Weren't Supposed To Hear",
+            "Prom Night!",
+            "Virginity",
+            "Mr. Diva",
+            "Concealer",
+            "Miscellaneous",
+            "Featured Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-11-15",
+            "end": ""
+        },
+        "deezerFans": 63739,
+        "members": []
+    },
+    {
+        "id": "56d85a5a53a7ddfc01f98e14",
+        "name": "Lights",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Synthpop",
+            "New Wave",
+            "Indie Pop",
+            "Dubstep"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Underground Operations",
+            "Doghouse Records",
+            "Universal Music Group",
+            "Warner Bros. Records",
+            "Sire Records",
+            "Last Gang Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/81444",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/81444/image",
+        "albums": [
+            "Lights",
+            "The Listening",
+            "Acoustic",
+            "Siberia",
+            "Little Machines",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987-04-11",
+            "end": ""
+        },
+        "deezerFans": 61309,
+        "members": []
+    },
+    {
+        "id": "56d817e053a7ddfc01f92da1",
+        "name": "Cut Copy",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Modular Recordings"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10848",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10848/image",
+        "albums": [
+            "I Thought Of Numbers",
+            "Bright Like Neon Love",
+            "In Ghost Colours",
+            "Zonoscope",
+            "Free Your Mind",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 58802,
+        "members": [
+            "Ben Browning",
+            "Timothy Ross Hoey",
+            "Mitchell Alexander Scott",
+            "Dan Whitford"
+        ]
+    },
+    {
+        "id": "56d97fa8cc2ddd0c0f6bcf05",
+        "name": "The Human League",
+        "type": "Group",
+        "genres": [
+            "Avant-garde",
+            "Electronic",
+            "Electropop",
+            "Synthpop",
+            "New Wave"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Virgin Records",
+            "A&M Records",
+            "Wall of Sound (record label)",
+            "Caroline Records",
+            "EMI",
+            "Fast Product",
+            "East West Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/172",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/172/image",
+        "albums": [
+            "Reproduction",
+            "Travelogue",
+            "Dare!",
+            "Love And Dancing",
+            "Fascination!",
+            "Hysteria",
+            "Crash",
+            "Romantic?",
+            "Octopus",
+            "Secrets",
+            "Credo",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977",
+            "end": ""
+        },
+        "deezerFans": 58660,
+        "members": [
+            "Philip Adrian Wright",
+            "Martyn Ware",
+            "Phil Oakey",
+            "Ian Burden",
+            "Jo Callis",
+            "Ian Craig Marsh",
+            "Jim Russell"
+        ]
+    },
+    {
+        "id": "56d93efcce06f50c0fed8968",
+        "name": "Miike Snow",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [
+            "RCRD LBL",
+            "Columbia Records",
+            "Downtown Records",
+            "MapleMusic Recordings"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/247339",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/247339/image",
+        "albums": [
+            "Miike Snow",
+            "Happy To You",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 53670,
+        "members": [
+            "Christian Karlsson",
+            "Andrew Wyatt",
+            "Pontus Winnberg"
+        ]
+    },
+    {
+        "id": "56d96ba5cc2ddd0c0f6bb17f",
+        "name": "Shawn Brandon",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Dance",
+            "Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/397932",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/397932/image",
+        "albums": [
+            "(Love Through) Your Radio",
+            "Featured Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 42579,
+        "members": []
+    },
+    {
+        "id": "56d8525c53a7ddfc01f981c5",
+        "name": "Kerli",
+        "type": "Person",
+        "genres": [
+            "Alternative Rock",
+            "Pop",
+            "Dance-Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/146326",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/146326/image",
+        "albums": [
+            "Kerli",
+            "Love Is Dead",
+            "Utopia",
+            "Songs On Compilations And Soundtracks",
+            "Songs Featuring Kerli",
+            "Other Songs",
+            "Credited as songwriter"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987-02-07",
+            "end": ""
+        },
+        "deezerFans": 41628,
+        "members": [
+            "Kerli & Locatellis"
+        ]
+    },
+    {
+        "id": "56d808fa53a7ddfc01f91933",
+        "name": "Broken Back",
+        "type": "Person",
+        "genres": [
+            "Alternative Dance",
+            "Electronic",
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/5126564",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/5126564/image",
+        "albums": [
+            "Dear Misfortune, Mother Of Joy",
+            "Songs featuring Broken Back"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990-08",
+            "end": ""
+        },
+        "deezerFans": 37385,
+        "members": []
+    },
+    {
+        "id": "56d98301cc2ddd0c0f6bd3c6",
+        "name": "The Postal Service",
+        "type": "Group",
+        "genres": [
+            "Electronica",
+            "Indie Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sub Pop"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1272",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1272/image",
+        "albums": [
+            "Give Up",
+            "Misc. Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 35559,
+        "members": [
+            "Benjamin Gibbard",
+            "Jimmy Tamborello"
+        ]
+    },
+    {
+        "id": "56d9517acc2ddd0c0f6b8aeb",
+        "name": "Oh Land",
+        "type": "Person",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/516567",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/516567/image",
+        "albums": [
+            "Fauna",
+            "Oh Land",
+            "Wish Bone"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-05-02",
+            "end": ""
+        },
+        "deezerFans": 33944,
+        "members": []
+    },
+    {
+        "id": "56d81f3e53a7ddfc01f93893",
+        "name": "Diana Vickers",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Pop Rock",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/394760",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/394760/image",
+        "albums": [
+            "Songs From The Tainted Cherry Tree",
+            "My Wicked Heart",
+            "Music To Make Boys Cry",
+            "Unreleased",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1991-07-30",
+            "end": ""
+        },
+        "deezerFans": 31407,
+        "members": []
+    },
+    {
+        "id": "56d9555fcc2ddd0c0f6b9122",
+        "name": "Patrick Stump",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "R&B",
+            "Funk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Island Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1194715",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1194715/image",
+        "albums": [
+            "Truant Wave",
+            "Soul Punk",
+            "Songs Featuring Patrick Stump",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-04-27",
+            "end": ""
+        },
+        "deezerFans": 17384,
+        "members": [
+            "Fall Out Boy",
+            "Fall Out Boy"
+        ]
+    },
+    {
+        "id": "56d95c83cc2ddd0c0f6b9ae6",
+        "name": "PVRIS",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Electronic Rock",
+            "Alternative Rock",
+            "Pop",
+            "Post-Hardcore",
+            "Psychedelic Pop",
+            "Synthpop",
+            "Metalcore"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5979468",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5979468/image",
+        "albums": [
+            "Paris",
+            "Acoustic",
+            "White Noise"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 16033,
+        "members": []
+    },
+    {
+        "id": "56d82eae53a7ddfc01f94efb",
+        "name": "Fischerspooner",
+        "type": "Group",
+        "genres": [
+            "Electroclash",
+            "Electronica",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Ministry of Sound",
+            "Capitol Records",
+            "Kitsuné",
+            "International DeeJay Gigolo Records",
+            "Dim Mak Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1575",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1575/image",
+        "albums": [
+            "Number 1",
+            "Odyssey",
+            "Entertainment",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1998",
+            "end": ""
+        },
+        "deezerFans": 15629,
+        "members": [
+            "Warren Fischer",
+            "Casey Spooner"
+        ]
+    },
+    {
+        "id": "56d7fcfa53a7ddfc01f907be",
+        "name": "Auryn",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Soft Rock",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/108820",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/108820/image",
+        "albums": [
+            "Endless Road 7058",
+            "Anti-Héroes",
+            "Circus Avenue",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 14235,
+        "members": []
+    },
+    {
+        "id": "56d98ddccc2ddd0c0f6be309",
+        "name": "Uh Huh Her",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Pop",
+            "Electronic"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Nettwerk"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/167345",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/167345/image",
+        "albums": [
+            "I See Red",
+            "Common Reaction",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 13892,
+        "members": [
+            "Leisha Hailey",
+            "Camila Grey"
+        ]
+    },
+    {
+        "id": "56d8327f53a7ddfc01f9546c",
+        "name": "Fujiya & Miyagi",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/8459",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/8459/image",
+        "albums": [
+            "Electro Karaoke In The Negative Style",
+            "Transparent Things",
+            "Lightbulbs",
+            "Ventriloquizzing"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2000",
+            "end": ""
+        },
+        "deezerFans": 12401,
+        "members": []
+    },
+    {
+        "id": "56d96c8acc2ddd0c0f6bb2c2",
+        "name": "Shura (UK)",
+        "type": "Person",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/304572",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/304572/image",
+        "albums": [
+            "Singles"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1992-06-17",
+            "end": ""
+        },
+        "deezerFans": 12369,
+        "members": []
+    },
+    {
+        "id": "56d7ef1456847be81b3e8bac",
+        "name": "Adore Delano",
+        "type": "",
+        "genres": [
+            "Electropop",
+            "Dance",
+            "Pop",
+            "Synthpop",
+            "Queercore"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5480060",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5480060/image",
+        "albums": [
+            "Till Death Do Us Party",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 11973,
+        "members": []
+    },
+    {
+        "id": "56d93b2ece06f50c0fed83aa",
+        "name": "Matthew Dear",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Glitch"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Plus 8",
+            "Perlon",
+            "Spectral Sound",
+            "Ghostly International",
+            "Minus (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13143",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/13143/image",
+        "albums": [
+            "Leave Luck To Heaven",
+            "Backstroke",
+            "Asa Breed",
+            "Black City",
+            "Beams",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1979-04-04",
+            "end": ""
+        },
+        "deezerFans": 10602,
+        "members": [
+            "M.A.N.D.E.A.R."
+        ]
+    },
+    {
+        "id": "56d7efc256847be81b3e8d0d",
+        "name": "Agnes",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance",
+            "R&B",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Roxy Recordings",
+            "Copenhagen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/70667",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/70667/image",
+        "albums": [
+            "Agnes",
+            "Stronger",
+            "Dance Love Pop",
+            "Veritas",
+            "Songs on Soundtracks and Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-03-06",
+            "end": ""
+        },
+        "deezerFans": 9507,
+        "members": []
+    },
+    {
+        "id": "56d7f3db53a7ddfc01f8f953",
+        "name": "Alex Metric",
+        "type": "Person",
+        "genres": [
+            "Nu-Disco",
+            "Electropop",
+            "Progressive House"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [
+            "OWSLA",
+            "Big Beat Records (American record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/263216",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/263216/image",
+        "albums": [
+            "It Starts"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984",
+            "end": ""
+        },
+        "deezerFans": 8911,
+        "members": []
+    },
+    {
+        "id": "56d9404fce06f50c0fed8b8c",
+        "name": "Miss Kittin & The Hacker",
+        "type": "Group",
+        "genres": [
+            "Electro",
+            "Electroclash",
+            "Electronic",
+            "Electronica",
+            "Electropop",
+            "Techno"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/6501",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6501/image",
+        "albums": [
+            "First Album",
+            "Two",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1997",
+            "end": ""
+        },
+        "deezerFans": 8227,
+        "members": []
+    },
+    {
+        "id": "56d8406753a7ddfc01f967f7",
+        "name": "I Monster",
+        "type": "Group",
+        "genres": [
+            "Electronic",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Instant Karma (record label)",
+            "Twins of Evil"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/606",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/606/image",
+        "albums": [
+            "These Are Our Children",
+            "Neveroddoreven",
+            "A Dense Swarm Of Ancient Stars",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1997",
+            "end": ""
+        },
+        "deezerFans": 6689,
+        "members": [
+            "Dean Honer",
+            "Jarrod Gosling"
+        ]
+    },
+    {
+        "id": "56d97f06cc2ddd0c0f6bce08",
+        "name": "The Golden Filter",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Synthpop",
+            "Indie Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Brille Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/210896",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/210896/image",
+        "albums": [
+            "Voluspa"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 6334,
+        "members": [
+            "Penelope Trappes",
+            "Stephen Hindman"
+        ]
+    },
+    {
+        "id": "56d94898cc2ddd0c0f6b7da7",
+        "name": "Monrose",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Warner Music Group"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9235",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/9235/image",
+        "albums": [
+            "Temptation",
+            "Strictly Physical",
+            "I Am",
+            "Ladylike",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2006-11-23",
+            "end": "2011"
+        },
+        "deezerFans": 5802,
+        "members": [
+            "Senna Guemmour",
+            "Bahar Kızıl",
+            "Mandy Capristo"
+        ]
+    },
+    {
+        "id": "56d97fa8cc2ddd0c0f6bcf06",
+        "name": "The Hundred In The Hands",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Warp (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/311812",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/311812/image",
+        "albums": [
+            "This Desert",
+            "The Hundred In The Hands"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 5275,
+        "members": [
+            "Jason Friedman",
+            "Eleanore Everdell"
+        ]
+    },
+    {
+        "id": "56d97551cc2ddd0c0f6bc032",
+        "name": "Studio Killers",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Universal Music Group",
+            "EMI",
+            "Time Records",
+            "Spinnin' Records",
+            "Warner Music Group",
+            "Copenhagen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1211251",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1211251/image",
+        "albums": [
+            "Studio Killers"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 5153,
+        "members": [
+            "Darren Stokes",
+            "Philip Larsen",
+            "Teemu Brunila"
+        ]
+    },
+    {
+        "id": "56d8231953a7ddfc01f93e62",
+        "name": "Dover",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Grunge",
+            "Punk Rock",
+            "Pop Rock",
+            "Electropop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Chrysalis Records",
+            "Sony Music Entertainment",
+            "Octubre Records",
+            "Loli Jackson Records",
+            "EMI",
+            "Subterfuge Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4164",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4164/image",
+        "albums": [
+            "Sister",
+            "Devil Came To Me",
+            "Late At Night",
+            "I Was Dead For 7 Weeks In The City Of Angels",
+            "The Flame",
+            "Follow The City Lights",
+            "I Ka Kené",
+            "Complications",
+            "Songs on Singles / EPs",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1992-10-04",
+            "end": "2016-11-26"
+        },
+        "deezerFans": 4865,
+        "members": [
+            "Cristina Llanos",
+            "Amparo Llanos",
+            "Samuel Titos",
+            "Álvaro Díez",
+            "Jesús Antúnez",
+            "Álvaro Gómez"
+        ]
+    },
+    {
+        "id": "56d8393a53a7ddfc01f95d8d",
+        "name": "Grossstadtgeflüster",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Electropunk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/80890",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/80890/image",
+        "albums": [
+            "Muss Laut Sein",
+            "Bis Einer Heult!!!",
+            "Alles Muss Man Selber Machen",
+            "Oh, Ein Reh!",
+            "Fickt-Euch-Allee (Episode 1)"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 4612,
+        "members": [
+            "Jen Bender",
+            "Raphael Schalz"
+        ]
+    },
+    {
+        "id": "56d96e1fcc2ddd0c0f6bb528",
+        "name": "Sizarr",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Indie Rock",
+            "Post-Punk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2681771",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2681771/image",
+        "albums": [
+            "Psycho Boy Happy",
+            "Nurture"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009-05-03",
+            "end": ""
+        },
+        "deezerFans": 4261,
+        "members": []
+    },
+    {
+        "id": "56d8404453a7ddfc01f967b1",
+        "name": "I Break Horses",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Indie Rock",
+            "Shoegazing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Bella Union"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/444398",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/444398/image",
+        "albums": [
+            "Hearts"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 3109,
+        "members": []
+    },
+    {
+        "id": "56d83f4153a7ddfc01f9663d",
+        "name": "Houses",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/502968",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/502968/image",
+        "albums": [
+            "All Night",
+            "A Quiet Darkness"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 2621,
+        "members": []
+    },
+    {
+        "id": "56d97e33cc2ddd0c0f6bcd13",
+        "name": "The Felice Brothers",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk",
+            "Electropop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Fat Possum Records",
+            "Loose Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/258404",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/258404/image",
+        "albums": [
+            "Iantown",
+            "Through These Reins And Gone",
+            "Tonight At The Arizona",
+            "Adventures Of The Felice Brothers Vol. 1",
+            "The Felice Brothers",
+            "Yonder Is The Clock",
+            "Celebration, Florida",
+            "God Bless You Amigo",
+            "Favorite Waitress",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 2149,
+        "members": [
+            "James Felice",
+            "Ian Felice",
+            "Christmas",
+            "Simone Felice",
+            "Greg Farley"
+        ]
+    },
+    {
+        "id": "56d93ce1ce06f50c0fed8675",
+        "name": "Melotron",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Synthpop"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/8011",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/8011/image",
+        "albums": [
+            "Mörderwerk",
+            "Fortschritt",
+            "Weltfrieden",
+            "Sternenstaub",
+            "Cliche",
+            "Propaganda",
+            "Singles & EPs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 2123,
+        "members": [
+            "Kay Hildebrandt",
+            "Andy Krüger",
+            "Edgar Slatnow"
+        ]
+    },
+    {
+        "id": "56d843c353a7ddfc01f96cff",
+        "name": "Ivy",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Dream Pop",
+            "Electropop",
+            "Indie Pop",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Unfiltered Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1492",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1492/image",
+        "albums": [
+            "Get Enough",
+            "Lately",
+            "Don't Believe A Word",
+            "Realistic",
+            "Apartment Life",
+            "Long Distance",
+            "Guestroom",
+            "In The Clear",
+            "All Hours",
+            "Lost In The Sun",
+            "Songs on Soundtracks",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1994",
+            "end": ""
+        },
+        "deezerFans": 1894,
+        "members": [
+            "Andy Chase",
+            "Dominique Durand",
+            "Adam Schlesinger"
+        ]
+    },
+    {
+        "id": "56d804ef53a7ddfc01f9132c",
+        "name": "Blaqk Audio",
+        "type": "Group",
+        "genres": [
+            "Dark Wave",
+            "Electronica",
+            "Electronic",
+            "Electropop",
+            "Futurepop",
+            "Industrial",
+            "Techno"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Superball Music",
+            "Interscope Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16267",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/16267/image",
+        "albums": [
+            "CexCells",
+            "Bright Black Heaven",
+            "Non-Album Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 1878,
+        "members": [
+            "Davey Havok",
+            "Jade Puget"
+        ]
+    },
+    {
+        "id": "56d84da953a7ddfc01f97b03",
+        "name": "Joywave",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Alternative Rock",
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Hollywood Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/472323",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/472323/image",
+        "albums": [
+            "How Do You Feel Now?",
+            "Featured"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1802,
+        "members": [
+            "Daniel Armbruster",
+            "Sean Donnelly"
+        ]
+    },
+    {
+        "id": "56d98888cc2ddd0c0f6bdb99",
+        "name": "Tim White",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance",
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1672092",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1672092/image",
+        "albums": [
+            "All This Noise"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1991-04-05",
+            "end": ""
+        },
+        "deezerFans": 1756,
+        "members": []
+    },
+    {
+        "id": "56d84da253a7ddfc01f97af0",
+        "name": "Joy Wellboy",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1652613",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1652613/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1687,
+        "members": []
+    },
+    {
+        "id": "56d93ffece06f50c0fed8b02",
+        "name": "Mint Julep",
+        "type": "Group",
+        "genres": [
+            "Indie Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1384959",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1384959/image",
+        "albums": [
+            "Songs About Snow",
+            "Save Your Season",
+            "Soon The Sea",
+            "Tame",
+            "Broken Devotion"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 1408,
+        "members": [
+            "Keith Kenniff",
+            "Hollie Kenniff"
+        ]
+    },
+    {
+        "id": "56d93fffce06f50c0fed8b03",
+        "name": "Mint Royale",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Big Beat"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/3441",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3441/image",
+        "albums": [
+            "On The Ropes",
+            "Dancehall Places",
+            "See You In The Morning",
+            "Pop Is..."
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1997",
+            "end": ""
+        },
+        "deezerFans": 1164,
+        "members": [
+            "Neil Claxton",
+            "Chris Baker"
+        ]
+    },
+    {
+        "id": "56d99123cc2ddd0c0f6be833",
+        "name": "Vinyl Theatre",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Indietronica",
+            "Electropop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Fueled by Ramen"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5538759",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5538759/image",
+        "albums": [
+            "I Need You Here",
+            "Gold",
+            "Chromatic",
+            "Electrogram",
+            "Misc"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2013-07-01",
+            "end": ""
+        },
+        "deezerFans": 1093,
+        "members": []
+    },
+    {
+        "id": "56d8081c53a7ddfc01f917b8",
+        "name": "Bratze",
+        "type": "Group",
+        "genres": [
+            "Electronic",
+            "Indie Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/180040",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/180040/image",
+        "albums": [
+            "Kraft",
+            "Waffe",
+            "Korrektur Nach Unten & Die Notwendigkeit Einer Übersetzung",
+            "Highlight"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 1046,
+        "members": [
+            "Der Tante Renate",
+            "ClickClickDecker"
+        ]
+    },
+    {
+        "id": "56d8386053a7ddfc01f95c30",
+        "name": "Grand National",
+        "type": "Group",
+        "genres": [
+            "Alternative Dance",
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1651",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1651/image",
+        "albums": [
+            "Kicking The National Habit",
+            "A Drink And A Quick Decision"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 1019,
+        "members": [
+            "Rupert Lyddon",
+            "Lawrence Rudd",
+            "Ed Crawford"
+        ]
+    },
+    {
+        "id": "56d93fe7ce06f50c0fed8adc",
+        "name": "Mini Viva",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "Electropop",
+            "Synthpop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Polydor Records",
+            "Geffen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/288105",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/288105/image",
+        "albums": [
+            "Singles",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2008",
+            "end": "2010"
+        },
+        "deezerFans": 852,
+        "members": [
+            "Britt Love"
+        ]
+    },
+    {
+        "id": "56d82c1753a7ddfc01f94add",
+        "name": "F.O.D.",
+        "type": "Group",
+        "genres": [
+            "Synthpop",
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/179886",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/179886/image",
+        "albums": [
+            "Crucified",
+            "Made In Germany",
+            "Synthesizer Tanzmusik",
+            "Maschinentanz"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 838,
+        "members": []
+    },
+    {
+        "id": "56d93cfdce06f50c0fed8695",
+        "name": "MEN",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Iamsound Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/392940",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/392940/image",
+        "albums": [
+            "Talk About Body"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 701,
+        "members": [
+            "Johanna Fateman",
+            "J.D. Samson"
+        ]
+    },
+    {
+        "id": "56d98551cc2ddd0c0f6bd703",
+        "name": "The Tough Alliance",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Electronica"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/133186",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/133186/image",
+        "albums": [
+            "Make It Happen",
+            "The New School",
+            "New Waves",
+            "A New Chance"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2001",
+            "end": ""
+        },
+        "deezerFans": 686,
+        "members": [
+            "Henning Fürst",
+            "Eric Berglund"
+        ]
+    },
+    {
+        "id": "56d8332c53a7ddfc01f9555d",
+        "name": "Gabriel Cyphre",
+        "type": "",
+        "genres": [
+            "Electropop",
+            "Gothic Metal",
+            "Metalcore",
+            "Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2794951",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2794951/image",
+        "albums": [
+            "Beauty Criminal",
+            "Mr Dangerous",
+            "Master Of Madness",
+            "Children Of Madness",
+            "The Slender Man Song",
+            "Rainbow On The Fallen Skylands",
+            "Become As One (Rainbow On The Fallen Skylands, Vol. II)",
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 588,
+        "members": []
+    },
+    {
+        "id": "56d98c98cc2ddd0c0f6be15f",
+        "name": "Tubbe",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Electropunk",
+            "Dance"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/3092401",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3092401/image",
+        "albums": [
+            "Keine Arbeit Lieber Tanzen"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 564,
+        "members": []
+    },
+    {
+        "id": "56d9735fcc2ddd0c0f6bbd52",
+        "name": "Steinkind",
+        "type": "Group",
+        "genres": [
+            "Synthpop",
+            "Electropop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/983955",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/983955/image",
+        "albums": [
+            "Deutschland Brennt",
+            "Vom Hier Im Jetzt",
+            "Ich Bin Zurück",
+            "Galle, Gift Und Größenwahn",
+            "Etappe 011",
+            "Es Wird Zeit"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 516,
+        "members": [
+            "Hendrik Fekete",
+            "Philipp Jackowski"
+        ]
+    },
+    {
+        "id": "56d98bd2cc2ddd0c0f6be05a",
+        "name": "Tribeca",
+        "type": "Group",
+        "genres": [
+            "Electro",
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/92189",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/92189/image",
+        "albums": [
+            "Kate-97",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 396,
+        "members": [
+            "Lasse Lindh",
+            "Claes Björklund"
+        ]
+    },
+    {
+        "id": "56d852f153a7ddfc01f982cc",
+        "name": "Kiely Williams",
+        "type": "Person",
+        "genres": [
+            "Electropop",
+            "Hip Hop",
+            "Pop",
+            "R&B"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Epic Records",
+            "Hollywood Records",
+            "So So Def Recordings",
+            "Walt Disney Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1493897",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1493897/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-07-09",
+            "end": ""
+        },
+        "deezerFans": 289,
+        "members": [
+            "The Cheetah Girls",
+            "3LW"
+        ]
+    },
+    {
+        "id": "56d808f353a7ddfc01f91929",
+        "name": "Brockdorff Klang Labor",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/334434",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/334434/image",
+        "albums": [
+            "Mädchenmusik",
+            "Die Fälschung Der Welt"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 287,
+        "members": []
+    },
+    {
+        "id": "56d9648acc2ddd0c0f6ba6a5",
+        "name": "Rose Et Noire",
+        "type": "Group",
+        "genres": [
+            "Electropop",
+            "Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/83388",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/83388/image",
+        "albums": [
+            "Quelque chose de nouveau (je veux)",
+            "Rose Et Noire",
+            "Trace dans le bleu"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2001",
+            "end": "2007"
+        },
+        "deezerFans": 212,
+        "members": [
+            "Laurent Chambert",
+            "Marie Möör"
+        ]
+    },
+    {
+        "id": "56d93c45ce06f50c0fed8566",
+        "name": "Measure",
+        "type": "",
+        "genres": [
+            "Electropop",
+            "Indie Pop",
+            "Pop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4424334",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4424334/image",
+        "albums": [
+            "Begin Again",
+            "The Air Inside Our Lungs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 94,
+        "members": []
+    },
+    {
+        "id": "56d95206cc2ddd0c0f6b8bc0",
+        "name": "Omega Male",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/3832421",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3832421/image",
+        "albums": [
+            "Omega Male"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2012",
+            "end": ""
+        },
+        "deezerFans": 91,
+        "members": []
+    },
+    {
+        "id": "56d815f653a7ddfc01f92ae0",
+        "name": "Cosa Rosa",
+        "type": "Group",
+        "genres": [
+            "Singer-Songwriter",
+            "Rock",
+            "Pop Rock",
+            "Electropop",
+            "Neue Deutsche Welle"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/175037",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/175037/image",
+        "albums": [
+            "Traumstation",
+            "Kein Zufall",
+            "Cosa Rosa",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1982",
+            "end": ""
+        },
+        "deezerFans": 56,
+        "members": [
+            "Rosa Precht",
+            "Reinhold Heil"
+        ]
+    },
+    {
+        "id": "56d857cd53a7ddfc01f98a0e",
+        "name": "Laura DiStasi",
+        "type": "",
+        "genres": [
+            "Electropop",
+            "Indie Pop",
+            "Pop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1130071",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1130071/image",
+        "albums": [
+            "Winters Never Quit",
+            "Laura DiStasi"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 45,
+        "members": []
+    },
+    {
+        "id": "56d967e1cc2ddd0c0f6bab92",
+        "name": "Saori@destiny",
+        "type": "Person",
+        "genres": [
+            "Techno",
+            "Electropop",
+            "Synthpop",
+            "Experimental",
+            "J-Pop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Universal D",
+            "D-topia Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1325560",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1325560/image",
+        "albums": [
+            "Japanese Chaos",
+            "Wow War Techno",
+            "World Wild 2010",
+            "Domestic Domain"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "????-06-10",
+            "end": ""
+        },
+        "deezerFans": 38,
+        "members": []
+    },
+    {
+        "id": "56d99327cc2ddd0c0f6beb63",
+        "name": "Wedlock",
+        "type": "Group",
+        "genres": [
+            "Electropop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 9,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1066267",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1066267/image",
+        "albums": [
+            "Matrimony. The EP",
+            "Exogamy",
+            "Continuity",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 22,
+        "members": [
+            "Paul Allgood",
+            "Jay Bowden",
+            "Kirk Bryson",
+            "Baxter Smith",
+            "Jeff Hathaway",
+            "JJ Kidder",
+            "David Mendez",
+            "Lee Whitsel",
+            "Ana Mitchell"
+        ]
+    },
+    {
+        "id": "56d988d0cc2ddd0c0f6bdbee",
+        "name": "Tin Star",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Electronic",
+            "Electropop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "V2 Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1076592",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1076592/image",
+        "albums": [
+            "The Thrill Kisser",
+            "Dirtybird"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1996",
+            "end": "2005"
+        },
+        "deezerFans": 18,
+        "members": [
+            "Tim Gordine",
+            "David Tomlinson",
+            "Tim Bricheno"
+        ]
+    }
+]
