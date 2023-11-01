@@ -420,7 +420,7 @@ class FilterType:
 # retourner les artiste par GENRE, SOUS GENRE (ALL ou SOUS GENRE) , FILTRE, VALEUR, LIMIT
 def filter_artists(genre, subgenre, filter_type=FilterType.NONE, filter_value=None, limit=None):
     # Construire le chemin du fichier en fonction des paramètres
-    if subgenre.lower() == "all":
+    if subgenre == "all":
         file_path = f"data/artists_by_genre_sorted/{genre}/{genre}_all_artists_sorted.json"
     else:
         file_path = f"data/artists_by_genre_sorted/{genre}/{subgenre}.json"
@@ -439,8 +439,7 @@ def filter_artists(genre, subgenre, filter_type=FilterType.NONE, filter_value=No
         else:
             filtered_artists = artists
 
-        if limit is not None:
-            filtered_artists = filtered_artists[:limit]
+
         return filtered_artists
 
     except FileNotFoundError:
