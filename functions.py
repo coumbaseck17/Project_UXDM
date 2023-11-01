@@ -2,13 +2,10 @@ import os
 import urllib
 import time
 
-import genre as genre
 import requests
 import json
 
-from main import Subgenre
-from main import Genre
-from main import FilterValue
+
 from main import FilterType
 
 url = "https://wasabi.i3s.unice.fr"
@@ -189,7 +186,6 @@ def fetch_artists_all(url):
 
     return names_genres
 
-
 """ recuperer les details de chaque genre et sous genres """
 
 
@@ -346,7 +342,7 @@ def organize_and_sort_artists():
 
     sorted_artists_by_deezer_fans = classify_artists_by_deezer_fans(artists_by_genre)
 
-    output_dir = 'data/artists_by_genre_sorted'
+    output_dir = 'data/artists_by_genre_sorted_v1'
     os.makedirs(output_dir, exist_ok=True)
 
     for genre, subgenres_data in sorted_artists_by_deezer_fans.items():
@@ -357,6 +353,87 @@ def organize_and_sort_artists():
             filename = os.path.join(genre_dir, f'{subgenre}.json')
             with open(filename, 'w', encoding='utf-8') as json_file:
                 json.dump(artists, json_file, ensure_ascii=False, indent=4)
+    # Enregistrez tous les artistes du genre triés par nombre de deezerFans
+    # Enregistrez tous les artistes du genre triés par nombre de deezerFans
+    for genre, subgenres_data in sorted_artists_by_deezer_fans.items():
+        genre_artists = []  # Utilisez une liste pour stocker les artistes
+        artist_ids = set()  # Utilisez un ensemble pour éviter les doublons
+
+        for subgenre, artists in subgenres_data.items():
+            for artist in artists:
+                if artist["id"] not in artist_ids:
+                    artist_ids.add(artist["id"])
+                    genre_artists.append(artist)
+
+        genre_dir = os.path.join(output_dir, genre)
+        filename = os.path.join(genre_dir, f'{genre}_all_artists_sorted.json')
+
+        # Triez la liste par nombre de deezerFans
+        genre_artists_sorted = sorted(genre_artists, key=lambda x: x.get("deezerFans", 0), reverse=True)
+
+        with open(filename, 'w', encoding='utf-8') as json_file:
+            json.dump(genre_artists_sorted, json_file, ensure_ascii=False, indent=4)
+
+
+def fetch_details():
+    with open('data/artist_all.json', 'r', encoding='utf-8') as json_file:
+        dataArtist = json.load(json_file)
+
+    with open('data/genre_subgenre.json', 'r', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+
+    for genre, subgenres in data.items():
+        # créer un répertoire pour le genre
+        genre_dir = os.path.join('data/details_v3', genre)
+        os.makedirs(genre_dir, exist_ok=True)
+
+        for subgenre in subgenres:
+            nbr_groupes = 0
+            nbr_solos = 0
+            nbr_actif = 0
+            nbr_actif_group = 0
+            nbr_actif_solos = 0
+
+            for item in dataArtist:
+                if subgenre in item.get("genres", []):
+                    if item["type"] == "Group":
+                        nbr_groupes += 1
+                        if not item["lifeSpan"]["ended"]:
+                            nbr_actif_group += 1
+                            nbr_actif += 1
+                    elif item["type"] == "Person":
+                        nbr_solos += 1
+                        if not item["lifeSpan"]["ended"]:
+                            nbr_actif_solos += 1
+                            nbr_actif +=1
+
+
+
+            total_artists = nbr_groupes + nbr_solos
+            if total_artists > 0:
+                pourcentage_actif = int((nbr_actif / total_artists) * 100)
+            else:
+                pourcentage_actif = 0
+
+            subgenre_info = {
+                "nombre_artists_total" : total_artists,
+                "nombre_groupes": nbr_groupes,
+                "nombre_solos": nbr_solos,
+                "nombre_actif_groupes" : nbr_actif_group,
+                "nombre_actif_solos": nbr_actif_solos,
+                "nombre_actif_total": nbr_actif,
+                "pourcentage_actifs": pourcentage_actif
+            }
+
+            subgenre_file = os.path.join(genre_dir, f'{subgenre}.json')
+            with open(subgenre_file, 'w', encoding="utf-8") as output_file:
+                json.dump(subgenre_info, output_file, indent=4)
+
+            # print(f"Pour le genre {genre} et le sous-genre {subgenre}:")
+            # print(f"Nombre de groupes : {nbr_groupes}")
+            # print(f"Nombre d'artistes solo : {nbr_solos}")
+            # print(f"Nombre d'artistes actifs : {nbr_actif}")
+            # print("\n")
 
 
 # récupérer les détails d'un GENRE en général
@@ -381,15 +458,21 @@ def fetch_genre_details_ALL():
         nbr_groupes = 0
         nbr_solos = 0
         nbr_actif = 0
+        nbr_actif_group = 0
+        nbr_actif_solos = 0
 
         for artist in unique_artists.values():
+
             if artist["type"] == "Group":
                 nbr_groupes += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_group += 1
+                    nbr_actif += 1
             elif artist["type"] == "Person":
                 nbr_solos += 1
-
-            if not artist["lifeSpan"]["ended"]:
-                nbr_actif += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_solos += 1
+                    nbr_actif += 1
 
         total_artists = len(unique_artists)
         if total_artists > 0:
@@ -398,18 +481,234 @@ def fetch_genre_details_ALL():
             pourcentage_actif = 0
 
         genre_info = {
+            "nombre_artists_total": nbr_groupes + nbr_solos,
             "nombre_groupes": nbr_groupes,
             "nombre_solos": nbr_solos,
-            "nombre_actif": nbr_actif,
+            "nombre_actif_groupes": nbr_actif_group,
+            "nombre_actif_solos": nbr_actif_solos,
+            "nombre_actif_total": nbr_actif,
             "pourcentage_actifs": pourcentage_actif
         }
 
-        details_dir = os.path.join('data/details', genre)
+        details_dir = os.path.join('data/details_v2', genre)
         os.makedirs(details_dir, exist_ok=True)
         genre_info_file = os.path.join(details_dir, f'{genre}_details.json')
         with open(genre_info_file, 'w', encoding='utf-8') as json_file:
             json.dump(genre_info, json_file, ensure_ascii=False, indent=4)
 
+
+def fetch_details_artists_sorted():
+    with open('data/genre_subgenre.json', 'r', encoding='utf-8') as json_file:
+        data = json.load(json_file)
+
+    for genre, subgenres in data.items():
+        for subgenre in subgenres:
+            genre_dir = os.path.join('data/artists_by_genre_sorted', genre)
+            subgenre_file = os.path.join(genre_dir, f'{subgenre}.json')
+
+            with open(subgenre_file, 'r', encoding='utf-8') as json_file:
+                artists = json.load(json_file)
+
+            unique_artists = {}
+
+            for artist in artists:
+                artist_id = artist["id"]
+                if artist_id not in unique_artists:
+                    unique_artists[artist_id] = artist
+
+            nbr_groupes = 0
+            nbr_solos = 0
+            nbr_actif = 0
+            nbr_autres= 0
+            nbr_actif_group = 0
+            nbr_actif_autres = 0
+            nbr_actif_solos = 0
+
+            for item in unique_artists.values():
+                if item["type"] == "Group":
+                    nbr_groupes += 1
+                    if not item["lifeSpan"]["ended"]:
+                        nbr_actif_group += 1
+                        nbr_actif += 1
+                elif item["type"] == "Person":
+                    nbr_solos += 1
+                    if not item["lifeSpan"]["ended"]:
+                        nbr_actif_solos += 1
+                        nbr_actif += 1
+                else:
+                    nbr_autres += 1
+                    if not artist["lifeSpan"]["ended"]:
+                        nbr_actif_autres += 1
+                        nbr_actif += 1
+
+            total_artists = nbr_groupes + nbr_solos + nbr_autres
+            if total_artists > 0:
+                pourcentage_actif = int((nbr_actif / total_artists) * 100)
+            else:
+                pourcentage_actif = 0
+
+            subgenre_info = {
+                "nombre_artists_total": total_artists,
+                "nombre_groupes": nbr_groupes,
+                "nombre_solos": nbr_solos,
+                "nombre_autres": nbr_autres,
+                "nombre_actif_groupes": nbr_actif_group,
+                "nombre_actif_solos": nbr_actif_solos,
+                "nombre_actif_total": nbr_actif,
+                "nombre_actif_autres": nbr_actif_autres,
+                "pourcentage_actifs": pourcentage_actif
+            }
+
+            subgenre_dir = os.path.join('data/details_v3', genre)
+            os.makedirs(subgenre_dir, exist_ok=True)
+
+            subgenre_file = os.path.join(subgenre_dir, f'{subgenre}.json')
+            with open(subgenre_file, 'w', encoding="utf-8") as output_file:
+                json.dump(subgenre_info, output_file, indent=4)
+
+# récupérer les détails d'un GENRE en général
+def fetch_genre_details_ALL():
+    with open('data/genre_subgenre.json', 'r', encoding='utf-8') as json_file:
+        genre_data = json.load(json_file)
+
+    for genre, subgenres in genre_data.items():
+        genre_dir = os.path.join('data/artists_by_genre_sorted_v1', genre)
+        genre_all_file = os.path.join(genre_dir, f'{genre}_all_artists_sorted.json')
+
+        with open(genre_all_file, 'r', encoding='utf-8') as json_file:
+            artists = json.load(json_file)
+
+        unique_artists = {}
+
+        for artist in artists:
+            artist_id = artist["id"]
+            if artist_id not in unique_artists:
+                unique_artists[artist_id] = artist
+
+        nbr_groupes = 0
+        nbr_solos = 0
+        nbr_actif = 0
+        nbr_actif_group = 0
+        nbr_actif_solos = 0
+        nbr_actif_autres =0
+        nbr_autres =0
+
+        for artist in unique_artists.values():
+
+            if artist["type"] == "Group":
+                nbr_groupes += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_group += 1
+                    nbr_actif += 1
+            elif artist["type"] == "Person":
+                nbr_solos += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_solos += 1
+                    nbr_actif += 1
+            else:
+                nbr_autres +=1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_autres +=1
+                    nbr_actif += 1
+
+
+
+        total_artists = len(unique_artists)
+        if total_artists > 0:
+            pourcentage_actif = int((nbr_actif / total_artists) * 100)
+        else:
+            pourcentage_actif = 0
+
+
+        total_artists = len(unique_artists)
+        print(f"Genre: {genre}")
+        print(f"Nombre total d'artistes : {total_artists}")
+
+        genre_info = {
+            "nombre_artists_total": total_artists,
+            "nombre_groupes": nbr_groupes,
+            "nombre_solos": nbr_solos,
+            "nombre_autres": nbr_autres,
+            "nombre_actif_groupes": nbr_actif_group,
+            "nombre_actif_solos": nbr_actif_solos,
+            "nombre_actif_total": nbr_actif,
+            "nombre_actif_autres": nbr_actif_autres,
+            "pourcentage_actifs": pourcentage_actif
+        }
+
+        total_artists = len(unique_artists)
+
+        print(f"Genre: {genre}")
+        print(f"Nombre total d'artistes : {total_artists}")
+
+        details_dir = os.path.join('data/details_v3', genre)
+        os.makedirs(details_dir, exist_ok=True)
+        genre_info_file = os.path.join(details_dir, f'{genre}_details.json')
+        with open(genre_info_file, 'w', encoding='utf-8') as json_file:
+            json.dump(genre_info, json_file, ensure_ascii=False, indent=4)
+
+
+
+# rer les détails d'un GENRE en général
+def fetch_genre_details_ALLa(genre):
+    with open('data/genre_subgenre.json', 'r', encoding='utf-8') as json_file:
+        genre_data = json.load(json_file)
+
+    for genre, subgenres in genre_data.items():
+        genre_dir = os.path.join('data/artists_by_genre_sorted', genre)
+        genre_all_file = os.path.join(genre_dir, f'{genre}_all_artists_sorted.json')
+
+        with open(genre_all_file, 'r', encoding='utf-8') as json_file:
+            artists = json.load(json_file)
+
+        unique_artists = {}
+
+        for artist in artists:
+            artist_id = artist["id"]
+            if artist_id not in unique_artists:
+                unique_artists[artist_id] = artist
+
+        nbr_groupes = 0
+        nbr_solos = 0
+        nbr_actif = 0
+        nbr_actif_group = 0
+        nbr_actif_solos = 0
+
+        for artist in unique_artists.values():
+
+            if artist["type"] == "Group":
+                nbr_groupes += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_group += 1
+                    nbr_actif += 1
+            elif artist["type"] == "Person":
+                nbr_solos += 1
+                if not artist["lifeSpan"]["ended"]:
+                    nbr_actif_solos += 1
+                    nbr_actif += 1
+
+        total_artists = len(unique_artists)
+        if total_artists > 0:
+            pourcentage_actif = int((nbr_actif / total_artists) * 100)
+        else:
+            pourcentage_actif = 0
+
+        genre_info = {
+            "nombre_artists_total": total_artists,
+            "nombre_groupes": nbr_groupes,
+            "nombre_solos": nbr_solos,
+            "nombre_actif_groupes": nbr_actif_group,
+            "nombre_actif_solos": nbr_actif_solos,
+            "nombre_actif_total": nbr_actif,
+            "pourcentage_actifs": pourcentage_actif
+        }
+
+        total_artists = len(unique_artists)
+
+        print(f"Genre: {genre}")
+        print(f"Nombre total d'artistes : {total_artists}")
+
+        return genre_info
 
 class FilterType:
     TYPE = "type"
@@ -444,3 +743,46 @@ def filter_artists(genre, subgenre, filter_type=FilterType.NONE, filter_value=No
 
     except FileNotFoundError:
         return []
+
+
+
+def consolidate_genre_details(data_directory, output_file):
+    # Initialisez un dictionnaire pour stocker les données consolidées
+    consolidated_data = {"genres": {}}
+
+    # Parcourez les dossiers correspondant aux genres
+    for genre_folder in os.listdir(data_directory):
+        genre_path = os.path.join(data_directory, genre_folder)
+
+        # Si le chemin est un dossier (et non un fichier)
+        if os.path.isdir(genre_path):
+            genre_details = fetch_genre_details_ALLa(genre_folder)
+
+            # Initialisez un dictionnaire pour stocker les détails des sous-genres
+            subgenre_data = {}
+
+            # Parcourez les fichiers correspondant aux sous-genres
+            for subgenre_file in os.listdir(genre_path):
+                if subgenre_file.endswith(".json") and not subgenre_file.endswith("details.json") and subgenre_file != f"{genre_folder}_all.json":
+                    subgenre_name = os.path.splitext(subgenre_file)[0]
+                    subgenre_file_path = os.path.join(genre_path, subgenre_file)
+
+                    # Lisez les détails du sous-genre
+                    with open(subgenre_file_path, "r", encoding="utf-8") as json_file:
+                        subgenre_details = json.load(json_file)
+
+                    subgenre_data[subgenre_name] = {"details": subgenre_details}
+
+            # Ajoutez les détails du genre et ses sous-genres au dictionnaire consolidé
+            consolidated_data["genres"][genre_folder] = {
+                "details": genre_details,  # Les détails du genre
+                "subgenres": subgenre_data  # Les détails des sous-genres
+            }
+
+    # Créez le fichier JSON consolidé
+    with open(output_file, "w", encoding="utf-8") as json_file:
+        json.dump(consolidated_data, json_file, ensure_ascii=False, indent=4)
+
+    print(f"Fichier JSON consolidé créé avec succès dans {output_file}")
+
+

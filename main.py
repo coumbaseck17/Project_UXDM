@@ -99,17 +99,22 @@ def main():
 
     #functions.fetch_info_artist(url)
     #functions.fetch_genre_details_ALL()
-    #functions.fetch_details_others()
+    #functions.fetch_details()
     #functions.fetch_artists_genre()
     #functions.fetch_genre_details_ALL()
 
     #functions.create_genre_all_files()
 
+    #functions.organize_and_sort_artists()
 
 
-
-    artists=functions.filter_artists("Rock","all","GENDER","Female",1)
-    print(artists)
+    #artists=functions.filter_artists("Rock","all","GENDER","Female",1)
+    #print(artists)
+    data_directory = "data/details_v3"
+    output_file = "data/details_v3/all_data_details.json"
+    functions.consolidate_genre_details(data_directory, output_file)
+    #functions.fetch_details_artists_sorted()
+    #functions.fetch_genre_details_ALL()
 
 
 
