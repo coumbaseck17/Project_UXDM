@@ -1,0 +1,1533 @@
+[
+    {
+        "id": "56d80b9153a7ddfc01f91cd7",
+        "name": "Calvin Harris",
+        "type": "Person",
+        "genres": [
+            "Electro House",
+            "Progressive House",
+            "Synthpop",
+            "Nu-Disco",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/12178",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/12178/image",
+        "albums": [
+            "I Created Disco",
+            "Ready For The Weekend",
+            "18 Months",
+            "Motion",
+            "Songs on Compilations and Soundtracks",
+            "Songs featuring Calvin Harris",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-01-17",
+            "end": ""
+        },
+        "deezerFans": 8097968,
+        "members": []
+    },
+    {
+        "id": "56d8514553a7ddfc01f98018",
+        "name": "Katy Perry",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop",
+            "Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 21,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/144227",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/144227/image",
+        "albums": [
+            "Katy Hudson",
+            "Ur So Gay",
+            "One Of The Boys",
+            "MTV Unplugged",
+            "The Hello Katy Australian Tour EP",
+            "Teenage Dream",
+            "Prism",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Katy Perry",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-10-25",
+            "end": ""
+        },
+        "deezerFans": 5867930,
+        "members": []
+    },
+    {
+        "id": "56d95224cc2ddd0c0f6b8c0b",
+        "name": "One Direction",
+        "type": "Group",
+        "genres": [
+            "Dance-Pop",
+            "Pop Rock",
+            "Power Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Syco Music",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1007876",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1007876/image",
+        "albums": [
+            "Up All Night",
+            "Take Me Home",
+            "Midnight Memories",
+            "Four",
+            "Made In The A.M.",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010-07",
+            "end": ""
+        },
+        "deezerFans": 4316814,
+        "members": [
+            "The X Factor Finalists 2010",
+            "Niall Horan",
+            "Louis Tomlinson",
+            "Harry Styles",
+            "Liam Payne",
+            "ZAYN",
+            "Band Aid 30"
+        ]
+    },
+    {
+        "id": "56d808e453a7ddfc01f91904",
+        "name": "Britney Spears",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop",
+            "Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/483",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/483/image",
+        "albums": [
+            "...Baby One More Time",
+            "Oops!...I Did It Again",
+            "Britney",
+            "In The Zone",
+            "Greatest Hits: My Prerogative",
+            "Britney & Kevin: Chaotic",
+            "B In The Mix: The Remixes",
+            "Blackout",
+            "Circus",
+            "The Singles Collection",
+            "Femme Fatale",
+            "B In The Mix: The Remixes Vol. 2",
+            "Britney Jean",
+            "Songs featuring Britney Spears",
+            "Singles",
+            "Songs on Compilations and Soundtracks",
+            "Demos and Outtakes",
+            "Commercials",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-12-02",
+            "end": ""
+        },
+        "deezerFans": 3606114,
+        "members": [
+            "Innosense"
+        ]
+    },
+    {
+        "id": "56d8119953a7ddfc01f9252e",
+        "name": "Christina Aguilera",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop",
+            "Jazz",
+            "Pop",
+            "R&B",
+            "Teen Pop"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/116",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/116/image",
+        "albums": [
+            "Christina Aguilera",
+            "Mi Reflejo",
+            "My Kind Of Christmas",
+            "Just Be Free",
+            "My Reflection",
+            "Stripped",
+            "Justin & Christina",
+            "Back To Basics",
+            "Keeps Gettin' Better: A Decade Of Hits",
+            "Bionic",
+            "Lotus",
+            "Songs on Compilations and Soundtracks",
+            "Live and unreleased Songs",
+            "Songs Featuring Christina Aguilera",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1980-12-18",
+            "end": ""
+        },
+        "deezerFans": 2395469,
+        "members": [
+            "Team Christina"
+        ]
+    },
+    {
+        "id": "56d851ce53a7ddfc01f980fc",
+        "name": "Kelly Clarkson",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop",
+            "Pop",
+            "Pop Rock",
+            "Teen Pop"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/68",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/68/image",
+        "albums": [
+            "Thankful",
+            "Breakaway",
+            "My December",
+            "All I Ever Wanted",
+            "Stronger",
+            "The Smoakstack Sessions",
+            "The Smoakstack Sessions Vol. 2",
+            "Greatest Hits: Chapter One",
+            "Wrapped In Red",
+            "Piece By Piece",
+            "Other singles",
+            "Songs on Compilations and Soundtracks",
+            "Live and unreleased songs",
+            "Songs Featuring Kelly Clarkson",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1982-04-24",
+            "end": ""
+        },
+        "deezerFans": 2233679,
+        "members": []
+    },
+    {
+        "id": "56d80ccf53a7ddfc01f91ea4",
+        "name": "Carly Rae Jepsen",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Pop Rock",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Interscope Records",
+            "604 Records",
+            "MapleMusic Recordings",
+            "School Boy Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1002521",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1002521/image",
+        "albums": [
+            "Tug Of War",
+            "Curiosity",
+            "Kiss",
+            "E•MO•TION",
+            "Other Songs",
+            "Guest Appearances"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-11-21",
+            "end": ""
+        },
+        "deezerFans": 2097043,
+        "members": []
+    },
+    {
+        "id": "56d9623ccc2ddd0c0f6ba356",
+        "name": "Rita Ora",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance-Rock",
+            "Dance-Pop",
+            "R&B"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1678249",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1678249/image",
+        "albums": [
+            "Ora",
+            "Songs Featuring Rita Ora",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990-11-26",
+            "end": ""
+        },
+        "deezerFans": 1472712,
+        "members": [
+            "Band Aid 30"
+        ]
+    },
+    {
+        "id": "56d7fd0053a7ddfc01f907d7",
+        "name": "Austin Mahone",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Young Money Entertainment",
+            "Cash Money Records",
+            "Republic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3899911",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/3899911/image",
+        "albums": [
+            "Extended Play",
+            "The Secret",
+            "This is Not the Album",
+            "Singles",
+            "Songs On Compilations And Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1996-04-04",
+            "end": ""
+        },
+        "deezerFans": 880695,
+        "members": []
+    },
+    {
+        "id": "56d983f3cc2ddd0c0f6bd505",
+        "name": "The Saturdays",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "R&B"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/110714",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/110714/image",
+        "albums": [
+            "Chasing Lights",
+            "Wordshaker",
+            "Headlines",
+            "On Your Radar",
+            "Living For The Weekend",
+            "Finest Selection - The Greatest Hits",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 166786,
+        "members": [
+            "Una Healy",
+            "Frankie Sandford",
+            "Mollie King",
+            "Vanessa White",
+            "Rochelle Wiseman"
+        ]
+    },
+    {
+        "id": "56d836ef53a7ddfc01f95a4c",
+        "name": "Gloria Estefan",
+        "type": "Person",
+        "genres": [
+            "Latin Pop",
+            "Dance-Pop",
+            "Pop",
+            "Dance",
+            "EDM"
+        ],
+        "nombre_albums": 23,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Burgundy Records",
+            "Sony Masterworks",
+            "Verve Forecast Records",
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5002",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5002/image",
+        "albums": [
+            "Eyes Of Innocence",
+            "Primitive Love",
+            "Let It Loose",
+            "Cuts Both Ways",
+            "Éxitos De Gloria Estefan",
+            "Into The Light",
+            "Greatest Hits",
+            "Mi Tierra",
+            "Christmas Through Your Eyes",
+            "Hold Me, Thrill Me, Kiss Me",
+            "Abriendo Puertas",
+            "Destiny",
+            "Gloria!",
+            "Alma Caribeña",
+            "Greatest Hits, Vol. II",
+            "Unwrapped",
+            "Amor Y Suerte: Éxitos Románticos",
+            "Oye Mi Canto",
+            "90 Millas",
+            "Miss Little Havana",
+            "The Standards",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-09-01",
+            "end": ""
+        },
+        "deezerFans": 152868,
+        "members": [
+            "Miami Sound Machine"
+        ]
+    },
+    {
+        "id": "56d8141553a7ddfc01f9281c",
+        "name": "Cobra Starship",
+        "type": "Group",
+        "genres": [
+            "Dance-Pop",
+            "Dance Punk",
+            "Pop Punk",
+            "New Wave",
+            "Alternative Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Fueled by Ramen",
+            "DCD2 Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12108",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/12108/image",
+        "albums": [
+            "While The City Sleeps, We Rule The Streets",
+            "¡Viva La Cobra!",
+            "Hot Mess",
+            "Night Shades",
+            "Songs from Compilations/Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2005",
+            "end": "2015-11"
+        },
+        "deezerFans": 131996,
+        "members": [
+            "Gabe Saporta",
+            "Victoria Asher",
+            "Alex Suarez"
+        ]
+    },
+    {
+        "id": "56d940e9ce06f50c0fed8c68",
+        "name": "Modern Talking",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Eurodance",
+            "Europop",
+            "Dance-Pop",
+            "Synthpop"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Ariola Records",
+            "Sony BMG",
+            "Hansa Records",
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3311",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3311/image",
+        "albums": [
+            "The 1st Album",
+            "Let's Talk About Love: The 2nd Album",
+            "Ready For Romance: The 3rd Album",
+            "In The Middle Of Nowhere: The 4th Album",
+            "Romantic Warriors: The 5th Album",
+            "In The Garden Of Venus: The 6th Album",
+            "Greatest Hits Mix",
+            "Romantic Dreams",
+            "The Modern Talking Story",
+            "You're My Heart, You're My Soul",
+            "Back For Good: The 7th Album",
+            "Alone: The 8th Album",
+            "2000: Year Of The Dragon",
+            "America: The 10th Album",
+            "Victory: The 11th Album",
+            "Universe: The 12th Album",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1983",
+            "end": "2003"
+        },
+        "deezerFans": 64909,
+        "members": [
+            "Dieter Bohlen",
+            "Rolf Köhler",
+            "Thomas Anders"
+        ]
+    },
+    {
+        "id": "56d852fb53a7ddfc01f982de",
+        "name": "Kidz Bop",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "Teen Pop"
+        ],
+        "nombre_albums": 41,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Razor & Tie"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/320265",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/320265/image",
+        "albums": [
+            "Kidz Bop",
+            "Kidz Bop 2",
+            "Kidz Bop Christmas",
+            "Kidz Bop 3",
+            "Kidz Bop 4",
+            "Kidz Bop 5",
+            "Kidz Bop Gold",
+            "Kidz Bop 6",
+            "Kidz Bop Halloween",
+            "Kidz Bop Hanukkah",
+            "Kidz Bop 7",
+            "Los Kidz Bop",
+            "Kidz Bop 8",
+            "Kidz Bop 9",
+            "More Kidz Bop Gold",
+            "Kidz Bop 10",
+            "Kidz Bop Sports Jamz",
+            "A Kidz Bop Valentine",
+            "Kidz Bop 11",
+            "Kidz Bop Country",
+            "Kidz Bop 12",
+            "Kidz Bop 13",
+            "Kidz Bop 80s Gold",
+            "Kidz Bop 14",
+            "Kidz Bop 15",
+            "Kidz Bop Car Songs",
+            "Kidz Bop 16",
+            "Kidz Bop Sings The Beatles",
+            "Kidz Bop 17",
+            "Kidz Bop 18",
+            "Kidz Bop 19",
+            "Kidz Bop 20",
+            "Kidz Bop 21",
+            "Kidz Bop 22",
+            "Kidz Bop 23",
+            "Kidz Bop 24",
+            "Kidz Bop 25",
+            "Kidz Bop 26",
+            "Kidz Bop 27",
+            "Kidz Bop 28",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 60223,
+        "members": []
+    },
+    {
+        "id": "56d8525c53a7ddfc01f981c5",
+        "name": "Kerli",
+        "type": "Person",
+        "genres": [
+            "Alternative Rock",
+            "Pop",
+            "Dance-Pop",
+            "Electropop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/146326",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/146326/image",
+        "albums": [
+            "Kerli",
+            "Love Is Dead",
+            "Utopia",
+            "Songs On Compilations And Soundtracks",
+            "Songs Featuring Kerli",
+            "Other Songs",
+            "Credited as songwriter"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987-02-07",
+            "end": ""
+        },
+        "deezerFans": 41628,
+        "members": [
+            "Kerli & Locatellis"
+        ]
+    },
+    {
+        "id": "56d99622cc2ddd0c0f6bf00e",
+        "name": "Xuxa",
+        "type": "Person",
+        "genres": [
+            "MPB",
+            "Dance-Pop",
+            "Children's Music"
+        ],
+        "nombre_albums": 30,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/297983",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/297983/image",
+        "albums": [
+            "Xuxa E Seus Amigos",
+            "Xou Da Xuxa",
+            "Xegundo Xou Da Xuxa",
+            "Xou Da Xuxa 3",
+            "4° Xou Da Xuxa",
+            "Xuxa 5",
+            "Xou Da Xuxa Seis",
+            "Xuxa 2",
+            "Xou Da Xuxa Sete",
+            "Xuxa 3",
+            "Xuxa",
+            "Sexto Sentido",
+            "Luz No Meu Caminho",
+            "Tô De Bem Com A Vida",
+            "Boas Notícias",
+            "Só Faltava Você",
+            "Xuxa 2000",
+            "Só Para Baixinhos",
+            "Só Para Baixinhos 2",
+            "Só Para Baixinhos 3",
+            "Só Para Baixinhos 4",
+            "Só Para Baixinhos 5 - Circo",
+            "Só Para Baixinhos 6 - Festa",
+            "Só Para Baixinhos 7",
+            "Só Para Baixinhos 8 - Escola",
+            "Só Para Baixinhos 9 - Natal Mágico",
+            "XSPB 10 - Baixinhos, Bichinhos E Mais",
+            "Xspb 11 - Sustentabilidade",
+            "Só Para Baixinhos 12 - É Pra Dançar",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1963-03-27",
+            "end": ""
+        },
+        "deezerFans": 37579,
+        "members": []
+    },
+    {
+        "id": "56d990c2cc2ddd0c0f6be793",
+        "name": "Victoria Justice",
+        "type": "Person",
+        "genres": [
+            "Synthpop",
+            "Pop",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2581191",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/2581191/image",
+        "albums": [
+            "Songs On Compilations And Soundtracks",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1993-02-19",
+            "end": ""
+        },
+        "deezerFans": 32082,
+        "members": []
+    },
+    {
+        "id": "56d848ac53a7ddfc01f9744a",
+        "name": "Jewel",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Dance-Pop",
+            "Folk Rock",
+            "Pop",
+            "Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Big Machine Records",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/484",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/484/image",
+        "albums": [
+            "Pieces Of You",
+            "Unplugged",
+            "Spirit",
+            "Joy:A Holiday Collection",
+            "This Way",
+            "0304",
+            "Goodbye Alice In Wonderland",
+            "Perfectly Clear",
+            "Lullaby",
+            "Sweet And Wild",
+            "The Merry Goes 'Round",
+            "Greatest Hits",
+            "Picking Up The Pieces",
+            "Other Releases",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1974-05-23",
+            "end": ""
+        },
+        "deezerFans": 24757,
+        "members": []
+    },
+    {
+        "id": "56d82f6953a7ddfc01f9500b",
+        "name": "Florrie",
+        "type": "Person",
+        "genres": [
+            "Synthpop",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/513757",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/513757/image",
+        "albums": [
+            "Call 911 (The Remixes)",
+            "Introduction",
+            "Experiments",
+            "Late",
+            "Sirens",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-12-28",
+            "end": ""
+        },
+        "deezerFans": 20245,
+        "members": []
+    },
+    {
+        "id": "56d8585253a7ddfc01f98aed",
+        "name": "Lea Michele",
+        "type": "Person",
+        "genres": [
+            "Vocal",
+            "Pop Rock",
+            "Pop",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/329863",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/329863/image",
+        "albums": [
+            "Louder",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-08-29",
+            "end": ""
+        },
+        "deezerFans": 19598,
+        "members": [
+            "Glee Cast"
+        ]
+    },
+    {
+        "id": "56d94d57cc2ddd0c0f6b8486",
+        "name": "Neon Hitch",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Synthpop",
+            "Dance-Pop",
+            "Electronic Rock",
+            "Pop-Rap"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "om"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/417064",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/417064/image",
+        "albums": [
+            "Happy Neon",
+            "301 To Paradise",
+            "Eleutheromaniac",
+            "Featured Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1986-05-25",
+            "end": ""
+        },
+        "deezerFans": 16657,
+        "members": []
+    },
+    {
+        "id": "56d8358853a7ddfc01f9588b",
+        "name": "Ghost Town",
+        "type": "Group",
+        "genres": [
+            "Electronic Rock",
+            "Dance-Pop",
+            "Electronicore",
+            "Electronic Rock"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Fueled by Ramen"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/470525",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/470525/image",
+        "albums": [
+            "Bare Bones",
+            "Party In The Graveyard",
+            "The After Party",
+            "Evolution",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2012",
+            "end": ""
+        },
+        "deezerFans": 14386,
+        "members": []
+    },
+    {
+        "id": "56d94e50cc2ddd0c0f6b861c",
+        "name": "Nicola Roberts",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "Synthpop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "A&M Records",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1324231",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1324231/image",
+        "albums": [
+            "Cinderella's Eyes",
+            "B-sides",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-10-05",
+            "end": ""
+        },
+        "deezerFans": 13575,
+        "members": [
+            "Girls Aloud"
+        ]
+    },
+    {
+        "id": "56d995b9cc2ddd0c0f6bef68",
+        "name": "Wynter Gordon",
+        "type": "Person",
+        "genres": [
+            "Dance-Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Harvest Records",
+            "Capitol Records",
+            "Big Beat Records (American record label)",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/171068",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/171068/image",
+        "albums": [
+            "With The Music I Die",
+            "Human Condition: Doleo",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985-08-25",
+            "end": ""
+        },
+        "deezerFans": 9074,
+        "members": []
+    },
+    {
+        "id": "56d98e17cc2ddd0c0f6be364",
+        "name": "Una Healy",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Rock",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Polydor Records",
+            "Fascination Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1070085",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1070085/image",
+        "albums": [
+            "Sorry",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-10-10",
+            "end": ""
+        },
+        "deezerFans": 8685,
+        "members": [
+            "The Saturdays"
+        ]
+    },
+    {
+        "id": "56d85ec553a7ddfc01f994c8",
+        "name": "Lucero",
+        "type": "Person",
+        "genres": [
+            "Latin Pop",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Universal Music Latin Entertainment",
+            "Musart Records",
+            "EMI",
+            "Sony Music Entertainment",
+            "Fonovisa Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9029",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/9029/image",
+        "albums": [
+            "Te Prometo",
+            "Con Tan Pocos Años",
+            "Fuego Y Ternura",
+            "Un Pedacito De Mi",
+            "Lucerito",
+            "Cuéntame",
+            "Con Mi Sentimiento",
+            "Sólo Pienso En Ti",
+            "Lucero De México",
+            "Lucero",
+            "Cariño De Mis Cariños!",
+            "Siempre Contigo",
+            "Lazos De Amor",
+            "Piel De Ángel",
+            "Cerca De Ti",
+            "Mi Destino",
+            "Un Lucero En La México",
+            "Un Nuevo Amor",
+            "Cuando Sale Un Lucero",
+            "Quiéreme Tal Como Soy",
+            "Indispensable",
+            "Mi Secreto De Amor",
+            "Un Lu*Jo",
+            "En Concierto",
+            "Aquí Estoy",
+            "Songs from Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969-08-29",
+            "end": ""
+        },
+        "deezerFans": 8252,
+        "members": []
+    },
+    {
+        "id": "56d81d0d53a7ddfc01f9354f",
+        "name": "Debbie Gibson",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "Adult Contemporary",
+            "Pop Rock"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 2,
+        "recordLabel": [
+            "EMI Records",
+            "Sony Music Entertainment Japan",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5662",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5662/image",
+        "albums": [
+            "Out Of The Blue",
+            "Electric Youth",
+            "Anything Is Possible",
+            "Body, Mind, Soul",
+            "Think With Your Heart",
+            "Greatest Hits",
+            "Sneak Preview",
+            "Deborah",
+            "M.Y.O.B.",
+            "Colored Lights",
+            "Naked",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970-08-31",
+            "end": ""
+        },
+        "deezerFans": 8191,
+        "members": []
+    },
+    {
+        "id": "56d85b7753a7ddfc01f98fba",
+        "name": "Lisa Lisa & Cult Jam",
+        "type": "Group",
+        "genres": [
+            "Dance-Pop",
+            "Freestyle",
+            "R&B"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Mass Appeal Entertainment",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/133527",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/133527/image",
+        "albums": [
+            "Lisa Lisa & Cult Jam With Full Force",
+            "Spanish Fly",
+            "Straight To The Sky",
+            "Straight Outta Hell's Kitchen",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1985",
+            "end": "1991"
+        },
+        "deezerFans": 4715,
+        "members": [
+            "Lisa Velez",
+            "Spanador"
+        ]
+    },
+    {
+        "id": "56d81f0353a7ddfc01f93847",
+        "name": "DHT",
+        "type": "Group",
+        "genres": [
+            "Dance",
+            "Trance",
+            "Hi-NRG",
+            "Dance-Pop",
+            "Eurodance",
+            "Hardstyle"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Data Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/161639",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/161639/image",
+        "albums": [
+            "Listen To Your Heart",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1995",
+            "end": ""
+        },
+        "deezerFans": 3588,
+        "members": [
+            "Flor Theeuwes",
+            "Edmée Daenen"
+        ]
+    },
+    {
+        "id": "56d93af0ce06f50c0fed8339",
+        "name": "Matt And Kim",
+        "type": "Group",
+        "genres": [
+            "Indie Pop",
+            "Dance-Pop",
+            "Electronic"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Harvest Records",
+            "Fader Label"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9301",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/9301/image",
+        "albums": [
+            "Matt & Kim",
+            "Grand",
+            "Sidewalks",
+            "Lightning",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 2842,
+        "members": [
+            "Kim Schifino",
+            "Matt Johnson"
+        ]
+    },
+    {
+        "id": "56d96b7dcc2ddd0c0f6bb11d",
+        "name": "Shannon",
+        "type": "Person",
+        "genres": [
+            "Dance",
+            "Dance-Pop",
+            "Freestyle"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/56740",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/56740/image",
+        "albums": [
+            "Let The Music Play",
+            "Do You Wanna Get Away",
+            "Love Goes All The Way",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1958-05-02",
+            "end": ""
+        },
+        "deezerFans": 1973,
+        "members": []
+    },
+    {
+        "id": "56d93fe7ce06f50c0fed8adc",
+        "name": "Mini Viva",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Dance-Pop",
+            "Electropop",
+            "Synthpop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Polydor Records",
+            "Geffen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/288105",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/288105/image",
+        "albums": [
+            "Singles",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2008",
+            "end": "2010"
+        },
+        "deezerFans": 852,
+        "members": [
+            "Britt Love"
+        ]
+    },
+    {
+        "id": "56d97276cc2ddd0c0f6bbbf0",
+        "name": "Stacey Q",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5833",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5833/image",
+        "albums": [
+            "Better Than Heaven",
+            "Hard Machine",
+            "Nights Like This"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1958-11-30",
+            "end": ""
+        },
+        "deezerFans": 584,
+        "members": [
+            "SSQ",
+            "Q"
+        ]
+    },
+    {
+        "id": "56d99421cc2ddd0c0f6bed30",
+        "name": "Will To Power",
+        "type": "Group",
+        "genres": [
+            "Dance-Pop",
+            "Freestyle"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/77864",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/77864/image",
+        "albums": [
+            "Will To Power",
+            "Journey Home",
+            "Spirit Warrior"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1987",
+            "end": ""
+        },
+        "deezerFans": 516,
+        "members": []
+    },
+    {
+        "id": "56d85cd953a7ddfc01f991f8",
+        "name": "Lorena Herrera",
+        "type": "",
+        "genres": [
+            "Dance",
+            "Dance-Pop",
+            "Electronic",
+            "Grupero",
+            "House",
+            "Pop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1261084",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1261084/image",
+        "albums": [
+            "Lorena Herrera",
+            "Dame Amor",
+            "Aquí Estoy",
+            "Sobreviviré",
+            "Desnúdame El Alma",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 505,
+        "members": []
+    },
+    {
+        "id": "56d8426e53a7ddfc01f96b29",
+        "name": "Inoj",
+        "type": "Person",
+        "genres": [
+            "R&B",
+            "Dance-Pop",
+            "Hip Hop",
+            "Soul"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/11958",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/11958/image",
+        "albums": [
+            "Ready For The World",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1976-11-27",
+            "end": ""
+        },
+        "deezerFans": 454,
+        "members": []
+    },
+    {
+        "id": "56d801ea53a7ddfc01f90f03",
+        "name": "Best Friends Forever",
+        "type": "",
+        "genres": [
+            "Dance-Pop",
+            "Indie Rock",
+            "Pop Punk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4377166",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4377166/image",
+        "albums": [
+            "Romance Conflict Adventure",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 416,
+        "members": []
+    },
+    {
+        "id": "56d99249cc2ddd0c0f6bea18",
+        "name": "Walter Meego",
+        "type": "Group",
+        "genres": [
+            "Indietronica",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Almost Gold Recordings"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/462290",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/462290/image",
+        "albums": [
+            "Walter Meego EP",
+            "Romantic",
+            "Through A Keyhole EP",
+            "Voyager"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2004-08-31",
+            "end": "2011"
+        },
+        "deezerFans": 401,
+        "members": []
+    },
+    {
+        "id": "56d850d953a7ddfc01f97f7c",
+        "name": "Kate Alexa",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Pop Rock",
+            "Teen Pop",
+            "Adult Contemporary",
+            "Dance-Pop"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Liberation Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5077175",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5077175/image",
+        "albums": [
+            "Broken & Beautiful",
+            "H2O: Just Add Water",
+            "Teardrops",
+            "Infatuation"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-03-02",
+            "end": ""
+        },
+        "deezerFans": 356,
+        "members": []
+    },
+    {
+        "id": "56d7f52a53a7ddfc01f8fb76",
+        "name": "Alpha-Beta",
+        "type": "",
+        "genres": [
+            "Dance-Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4681213",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4681213/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 273,
+        "members": []
+    },
+    {
+        "id": "56d7fd7d53a7ddfc01f90890",
+        "name": "Awesome New Republic",
+        "type": "Group",
+        "genres": [
+            "Dance-Pop",
+            "Indie Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Honor Roll Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3665851",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3665851/image",
+        "albums": [
+            "ANR So Far",
+            "All Party Talks",
+            "Rational Geographic Vol. I",
+            "Rational Geographic Vol. II",
+            "Hearts",
+            "Stay Kids"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 58,
+        "members": []
+    }
+]

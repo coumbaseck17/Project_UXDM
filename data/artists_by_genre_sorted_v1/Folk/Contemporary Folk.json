@@ -1,0 +1,261 @@
+[
+    {
+        "id": "56d95583cc2ddd0c0f6b914b",
+        "name": "Patty Griffin",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Rock",
+            "Contemporary Folk",
+            "Folk"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 1,
+        "recordLabel": [
+            "A&M Records",
+            "ATO Records",
+            "Credential Recordings",
+            "New West Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5312",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5312/image",
+        "albums": [
+            "Living With Ghosts",
+            "Flaming Red",
+            "Silver Bell",
+            "1000 Kisses",
+            "A Kiss In Time",
+            "Impossible Dream",
+            "Children Running Through",
+            "Live From The Artists Den",
+            "Downtown Church",
+            "American Kid",
+            "Silver Bell",
+            "Servant Of Love",
+            "Compilation & Soundtrack Appearances",
+            "Songs Featuring Patty Griffin",
+            "Unreleased Songs",
+            "Cover Versions",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-03-16",
+            "end": ""
+        },
+        "deezerFans": 5041,
+        "members": [
+            "Band of Joy"
+        ]
+    },
+    {
+        "id": "56d8224653a7ddfc01f93d2c",
+        "name": "Don Francisco",
+        "type": "Person",
+        "genres": [
+            "Christian Rock",
+            "Contemporary Folk",
+            "Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/243425",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/243425/image",
+        "albums": [
+            "Brother Of The Son",
+            "Forgiven",
+            "Got To Tell Somebody",
+            "The Traveler",
+            "The Live Concert",
+            "Holiness",
+            "One Heart At A Time",
+            "The Power",
+            "High Praise",
+            "Live In The UK",
+            "The Early Works",
+            "Vision Of The Valley",
+            "Come Away",
+            "Genesis & Job",
+            "He's Alive",
+            "Beautiful To Me",
+            "Grace On Grace",
+            "Signature Songs",
+            "Only Love Is Spoken Here",
+            "The Package",
+            "That I May Know You",
+            "The Sower",
+            "Let It Ride",
+            "Forever My Friend"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1946-02-28",
+            "end": ""
+        },
+        "deezerFans": 602,
+        "members": []
+    },
+    {
+        "id": "56d97889cc2ddd0c0f6bc55d",
+        "name": "Tara MacLean",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Folk",
+            "Contemporary Folk",
+            "Trip Hop",
+            "Pop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Capitol Records",
+            "EMI",
+            "Sony/ATV Music Publishing",
+            "Nettwerk"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/260591",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/260591/image",
+        "albums": [
+            "Silence",
+            "If You See Me",
+            "Passenger",
+            "Signs Of Life",
+            "Wake",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1973-10-25",
+            "end": ""
+        },
+        "deezerFans": 475,
+        "members": [
+            "Shaye"
+        ]
+    },
+    {
+        "id": "56d96bd0cc2ddd0c0f6bb1a3",
+        "name": "Shaye",
+        "type": "Group",
+        "genres": [
+            "Contemporary Folk",
+            "Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [
+            "EMI"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/95664",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/95664/image",
+        "albums": [
+            "The Bridge",
+            "Lake Of Fire",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2002",
+            "end": ""
+        },
+        "deezerFans": 74,
+        "members": [
+            "Tara MacLean",
+            "Damhnait Doyle",
+            "Kim Stockwood"
+        ]
+    },
+    {
+        "id": "56d7fbac53a7ddfc01f905d0",
+        "name": "Asher Wolfson",
+        "type": "Person",
+        "genres": [
+            "Contemporary Folk",
+            "Easy Listening"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 12,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/7246786",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7246786/image",
+        "albums": [
+            "Beautiful Girl"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-02-09",
+            "end": ""
+        },
+        "deezerFans": 10,
+        "members": []
+    },
+    {
+        "id": "56d957edcc2ddd0c0f6b9450",
+        "name": "Peter Rohland",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "World Music",
+            "Contemporary Folk",
+            "Ballad",
+            "Folk",
+            "Volkslied",
+            "Chanson"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/155530",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/155530/image",
+        "albums": [
+            "Landstreicherballaden",
+            "Lieder Deutscher Demokraten",
+            "Lieder Des François Villon",
+            "Lieder Von Anderswo",
+            "Un As Der Rebbe Singt - Jiddische Lieder",
+            "Die Frühen Lieder",
+            "Songs Translations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1933-02-22",
+            "end": "1966-04-05"
+        },
+        "deezerFans": 5,
+        "members": []
+    },
+    {
+        "id": "56d8337153a7ddfc01f955c7",
+        "name": "Gamble Rogers",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Contemporary Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/260351",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/260351/image",
+        "albums": [
+            "The Lord Gives Me Grace, And The Devil Gives Me Style"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1937-01-31",
+            "end": "1991-10-10"
+        },
+        "deezerFans": 3,
+        "members": []
+    }
+]

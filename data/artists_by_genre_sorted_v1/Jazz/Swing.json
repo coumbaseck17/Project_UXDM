@@ -1,0 +1,2976 @@
+[
+    {
+        "id": "56d8313753a7ddfc01f9528f",
+        "name": "Frank Sinatra",
+        "type": "Person",
+        "genres": [
+            "Bossa Nova",
+            "Classic Pop",
+            "Jazz",
+            "Vocal Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 103,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/617",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/617/image",
+        "albums": [
+            "The Voice Of Frank Sinatra",
+            "Christmas Songs By Sinatra",
+            "Frankly Sentimental",
+            "Songs By Sinatra, Volume 1",
+            "Dedicated To You",
+            "Sing And Dance With Frank Sinatra",
+            "Songs For Young Lovers",
+            "Swing Easy!",
+            "In The Wee Small Hours",
+            "Songs For Swingin' Lovers!",
+            "This Is Sinatra!",
+            "Close To You",
+            "A Swingin' Affair!",
+            "Where Are You?",
+            "A Jolly Christmas From Frank Sinatra",
+            "Come Fly With Me",
+            "This Is Sinatra, Volume Two",
+            "Frank Sinatra Sings For Only The Lonely",
+            "Put Your Dreams Away",
+            "Come Dance With Me!",
+            "Look To Your Heart",
+            "No One Cares",
+            "Nice 'N' Easy",
+            "Swing Easy!",
+            "Songs For Young Lovers",
+            "Sinatra's Swingin' Session !!!",
+            "Ring-A-Ding Ding!",
+            "All The Way",
+            "Come Swing With Me!",
+            "Sinatra Swings",
+            "I Remember Tommy..",
+            "Sinatra & Strings",
+            "Point Of No Return",
+            "Sinatra Sings...Of Love And Things",
+            "Sinatra And Swingin' Brass",
+            "Sinatra Sings Great Songs From Great Britain",
+            "All Alone",
+            "The Concert Sinatra",
+            "Tell Her You Love Her",
+            "Sinatra's Sinatra",
+            "Sinatra-Basie",
+            "It Might As Well Be Swing",
+            "Sinatra Sings Days Of Wine And Roses, Moon River, And Other Academy Award Winners",
+            "Softly, As I Leave You",
+            "Sinatra '65",
+            "September Of My Years",
+            "My Kind Of Broadway",
+            "A Man And His Music",
+            "Moonlight Sinatra",
+            "Strangers In The Night",
+            "Sinatra At The Sands",
+            "Forever Frank",
+            "That's Life",
+            "Francis Albert Sinatra & Antonio Carlos Jobim",
+            "The World We Knew",
+            "Francis A. & Edward K.",
+            "Frank Sinatra's Greatest Hits!",
+            "The Sinatra Family Wish You A Merry Christmas",
+            "Cycles",
+            "My Way",
+            "A Man Alone: The Words And Music Of McKuen",
+            "Watertown",
+            "Sinatra & Company",
+            "Frank Sinatra's Greatest Hits Vol. 2",
+            "Ol' Blue Eyes Is Back",
+            "Some Nice Things I've Missed",
+            "The Main Event Live",
+            "Trilogy: Past Present Future",
+            "She Shot Me Down",
+            "L.A. Is My Lady",
+            "16 Most Requested Songs",
+            "Gold",
+            "Duets",
+            "Duets II",
+            "The Essence Of Frank Sinatra",
+            "My Shining Hour",
+            "1946: Old Gold Shows",
+            "I'll Be Seeing You",
+            "The Song Is You",
+            "I've Got A Crush On You",
+            "Christmas Through The Years",
+            "Sings The Select Rodgers & Hart",
+            "Sinatra 80th: All The Best",
+            "Swing And Dance With Frank Sinatra",
+            "Everything Happens To Me",
+            "Sinatra Sings Rodgers & Hammerstein",
+            "Frank Sinatra Remembers The Movies 1943 - 1946",
+            "Frank Sinatra Sings His Greatest Hits",
+            "Frank Sinatra With The Red Norvo Quintet: Live In Australia, 1959",
+            "[[Frank Sinatra:Night And Day (1997)|Night and Day [Crown] (1997)]]",
+            "The Columbia Years 1943-1952: The V-Discs",
+            "The Golden Days Of Radio",
+            "Songs By Sinatra - The Old Gold Shows Volume 4",
+            "Learn To Croon",
+            "It's All So New!",
+            "Classic Duets",
+            "Sinatra Sings Cole Porter",
+            "A Fine Romance: The Love Songs Of Frank Sinatra",
+            "The Christmas Collection",
+            "Live From Las Vegas",
+            "The World Of Frank Sinatra",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1915-12-12",
+            "end": "1998-05-14"
+        },
+        "deezerFans": 1305543,
+        "members": [
+            "Tommy Dorsey & His Orchestra",
+            "The Rat Pack",
+            "Harry James and His Orchestra"
+        ]
+    },
+    {
+        "id": "56d93de9ce06f50c0fed87c7",
+        "name": "Michael Bublé",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Vocal Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1478",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1478/image",
+        "albums": [
+            "First Dance",
+            "Babalu",
+            "Dream",
+            "Michael Bublé",
+            "Totally Bublé",
+            "Let It Snow",
+            "Come Fly With Me",
+            "Caught In The Act",
+            "It's Time",
+            "With Love",
+            "Call Me Irresponsible",
+            "A Taste Of Bublé",
+            "Michael Bublé Meets Madison Square Garden",
+            "Crazy Love",
+            "Special Delivery",
+            "Hollywood: The Deluxe EP",
+            "A Holiday Gift For You",
+            "Christmas",
+            "To Be Loved",
+            "Misc. Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-09-09",
+            "end": ""
+        },
+        "deezerFans": 948140,
+        "members": []
+    },
+    {
+        "id": "56d85e2e53a7ddfc01f993ad",
+        "name": "Louis Armstrong",
+        "type": "Person",
+        "genres": [
+            "Classic Pop",
+            "Dixieland",
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 52,
+        "nombre_members": 14,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2337",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2337/image",
+        "albums": [
+            "1923-1925, Vols. 1-5",
+            "1931-1932",
+            "The California Concerts",
+            "Louis Armstrong Plays W.C. Handy",
+            "Satch Plays Fats: A Tribute To The Immortal Fats Waller",
+            "Ella And Louis",
+            "An Evening With Louis Armstrong And His All Stars",
+            "Ella And Louis Again",
+            "Louis Armstrong Meets Oscar Peterson",
+            "Louis And The Angels",
+            "Mack The Knife",
+            "New Orleans Nights",
+            "Louis And The Good Book",
+            "Porgy & Bess",
+            "Bing & Satchmo",
+            "Blueberry Hill",
+            "What A Wonderful World",
+            "What A Wonderful World",
+            "Satchmo - What A Wonderful World",
+            "Basin Street Blues",
+            "The Chronological Classics: Louis Armstrong And His Orchestra 1936-1937",
+            "An American Songbook",
+            "C'est Si Bon",
+            "Essence Of Louis Armstrong",
+            "Jazz Collector Edition",
+            "Rythhm Saved The World",
+            "On The Road",
+            "Heart Full Of Rhythm",
+            "Louis Armstrong Sings The Blues",
+            "16 Most Requested Songs",
+            "Satchmo's Classic Vocals",
+            "Majestic Years",
+            "Swing That Music",
+            "Portrait Of The Artist As A Young Man",
+            "Butter & Eggman",
+            "Louis Armstrong",
+            "When The Saints Go Marchin In",
+            "Christmas Through The Years",
+            "The Complete Ella Fitzgerald & Louis Armstrong",
+            "This Is Jazz No. 1",
+            "Best Of Louis Armstrong",
+            "The Very Best Of Louis Armstrong",
+            "What A Wonderful Christmas",
+            "Mahogany Hall Stomp",
+            "Great Louis Armstrong",
+            "Harlem Stomp",
+            "What A Wonderful Trumpet",
+            "The Essential Louis Armstrong",
+            "Historic Collection: Louis Armstrong (Vol. 2)",
+            "The Platinum Collection",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1901-08-04",
+            "end": "1971-07-06"
+        },
+        "deezerFans": 905142,
+        "members": [
+            "Louis Armstrong & His Orchestra",
+            "Louis Armstrong Jazz Four",
+            "Louis Armstrong & His Dixieland Seven",
+            "Louis Armstrong and His Hot Seven",
+            "Red Onion Jazz Babies",
+            "Perry Bradford’s Jazz Phools",
+            "Louis Armstrong and His Savoy Ballroom Five",
+            "Louis Armstrong & His Sebastian New Cotton Club Orchestra",
+            "Louis Armstrong and His Hot Six",
+            "King Oliver and His Creole Jazz Band",
+            "Louis Armstrong and His Hot Five",
+            "Leonard Feather's Esquire All-Americans",
+            "Louis Armstrong & His All-Stars",
+            "Carroll Dickerson's Savoyagers"
+        ]
+    },
+    {
+        "id": "56d85f4b53a7ddfc01f99575",
+        "name": "Luis Russell",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2337",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2337/image",
+        "albums": [
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1902-08-06",
+            "end": "1963-12-11"
+        },
+        "deezerFans": 905142,
+        "members": [
+            "Louis Armstrong & His Orchestra",
+            "Luis Russell and His Orchestra",
+            "Luis Russell and His Burning Eight"
+        ]
+    },
+    {
+        "id": "56d93d8fce06f50c0fed875f",
+        "name": "Metronome All Stars",
+        "type": "Group",
+        "genres": [
+            "Jazz",
+            "Cool Jazz",
+            "Bebop",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 11,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1910",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1910/image",
+        "albums": [
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1939",
+            "end": ""
+        },
+        "deezerFans": 593412,
+        "members": [
+            "Max Roach",
+            "Warne Marsh",
+            "Teddy Wilson",
+            "Roy Eldridge",
+            "Billy Bauer",
+            "Eddie Safranski",
+            "John LaPorta",
+            "Terry Gibbs",
+            "Lester Young",
+            "Kai Winding",
+            "Billy Eckstine"
+        ]
+    },
+    {
+        "id": "56d94c1ccc2ddd0c0f6b82e3",
+        "name": "Nat King Cole",
+        "type": "Person",
+        "genres": [
+            "Vocal",
+            "Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 40,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/221",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/221/image",
+        "albums": [
+            "Jumpin' At Capitol",
+            "The King Cole Trio",
+            "The King Cole Trio, Vol. 2",
+            "The King Cole Trio, Vol. 3",
+            "Penthouse Serenade",
+            "Sings For Two In Love (And More)",
+            "Unforgettable",
+            "Ballads Of The Day",
+            "The Jazz Collector Edition: Nat King Cole Trio Recordings",
+            "After Midnight",
+            "Love Is The Thing",
+            "Wild Is Love",
+            "The Billy May Sessions",
+            "Nat King Cole Sings / George Shearing Plays",
+            "The Nat King Cole Story",
+            "Dear Lonely Hearts / I Don't Want To Be Hurt Anymore",
+            "The Christmas Song",
+            "Where Did Everyone Go?",
+            "The Beautiful Ballads",
+            "Night Lights & Other Hits",
+            "Let's Fall In Love",
+            "Unforgettable (Delta)",
+            "Nat King Cole",
+            "At The Movies",
+            "Christmas Is For Kids",
+            "Too Marvellous For Words",
+            "Sweet Lorraine",
+            "The Singles",
+            "The Classic Singles",
+            "Yes Sir, That's My Baby",
+            "Ultra-Lounge - Cocktails With Cole Porter",
+            "The Complete Capitol Transcription Sessions",
+            "The World Of Nat King Cole",
+            "Stardust: The Complete Capitol Recordings 1955-1959",
+            "This Is Nat \"King\" Cole",
+            "In The Mood For Love",
+            "L-O-V-E (Collectors' Choice Bonus Tracks)",
+            "Songs From St. Louis Blues/Looking Back",
+            "Collaborations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1919-03-17",
+            "end": "1965-02-15"
+        },
+        "deezerFans": 590046,
+        "members": [
+            "King Cole Quintette",
+            "King Cole's Swingsters",
+            "King Cole Lester Young Red Callender Trio",
+            "King Cole Quartet",
+            "The Nat King Cole Trio",
+            "King Cole Quintet",
+            "Nat King Cole Combo"
+        ]
+    },
+    {
+        "id": "56d8281753a7ddfc01f94544",
+        "name": "Ella Fitzgerald",
+        "type": "Person",
+        "genres": [
+            "Classic Pop",
+            "Jazz",
+            "Vocal Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 53,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/3280",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3280/image",
+        "albums": [
+            "Ella: The Legendary Decca Recordings",
+            "The Best Of Ella Fitzgerald",
+            "Ultimate Ella Fitzgerald",
+            "Ella And Louis",
+            "Bluella - Ella Fitzgerald Sings The Blues",
+            "The Complete Ella Fitzgerald Song Books",
+            "Ella Fitzgerald  Sings The Rodgers & Hart Songbook",
+            "Ella Fitzgerald Sings The Cole Porter Songbook",
+            "At The Opera House",
+            "Ella And Louis Again",
+            "Sings The Duke Ellington Song Book",
+            "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+            "Porgy & Bess",
+            "Ella Wishes You A Swinging Christmas",
+            "The Intimate Ella",
+            "Clap Hands, Here Comes Charlie!",
+            "Ella Swings Brightly With Nelson",
+            "Ella At Juan-Les-Pins",
+            "Ella",
+            "Jazz At The Santa Monica Civic '72",
+            "Take Love Easy",
+            "Ella In London",
+            "Speak Love",
+            "Ken Burns's Jazz: Ella Fitzgerald",
+            "Jazz 'Round Midnight",
+            "First Lady Of Song",
+            "Best Of Song Book Sessions",
+            "The Early Years, Pt. 2: The Original Decca Recordings (1939-1941)",
+            "The Best Of The Song Books: The Ballads",
+            "First Lady Of Song",
+            "Best Of Ella Fitzgerald",
+            "Daydream-Best Of Duke Ellington",
+            "It's A Blue World",
+            "Jazz 'Round Midnight Again",
+            "Jazz Sides-Jazz Masters 46",
+            "Ella & Friends",
+            "Oh, Lady, Be Good! Best Of The Gershwin Songbook",
+            "Young Ella",
+            "A-Tisket, A-Tasket",
+            "Ella Fitzgerald 1941-44",
+            "Dream Dancing",
+            "Priceless Jazz",
+            "Rhythm & Romance",
+            "The Complete Ella Fitzgerald & Louis Armstrong",
+            "Classic Decade",
+            "Pure Ella",
+            "Live From The Cave Supper Club",
+            "Something To Live For",
+            "On Air, Volume 3: 1944 - 1947",
+            "Lady Be Good",
+            "Lady Ella",
+            "Legendary Radio Broadcasts",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1917-04-25",
+            "end": "1996-06-15"
+        },
+        "deezerFans": 529278,
+        "members": [
+            "Ella Fitzgerald and Her Savoy Eight",
+            "Ella Fitzgerald and Her Famous Orchestra"
+        ]
+    },
+    {
+        "id": "56d81f3053a7ddfc01f9388c",
+        "name": "Diana Krall",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Vocal Jazz",
+            "Pop",
+            "Swing",
+            "Trad Jazz"
+        ],
+        "nombre_albums": 18,
+        "nombre_members": 2,
+        "recordLabel": [
+            "GRP Records",
+            "Impulse! Records",
+            "Justin Time Records",
+            "Verve Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3281",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3281/image",
+        "albums": [
+            "Stepping Out",
+            "Only Trust Your Heart",
+            "All For You: A Dedication To The Nat King Cole Trio",
+            "Love Scenes",
+            "Have Yourself A Merry Little Christmas",
+            "When I Look In Your Eyes",
+            "The Look Of Love",
+            "Live In Paris",
+            "The Girl In The Other Room",
+            "Christmas Songs",
+            "From This Moment On",
+            "The Very Best Of Diana Krall",
+            "Quiet Nights",
+            "Glad Rag Doll",
+            "Wallflower",
+            "Songs From Singles",
+            "Songs From Compilations and Soundtracks",
+            "Songs Featuring Diana Krall"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-11-16",
+            "end": ""
+        },
+        "deezerFans": 484096,
+        "members": []
+    },
+    {
+        "id": "56d8017b53a7ddfc01f90e5d",
+        "name": "Benny Carter",
+        "type": "Person",
+        "genres": [
+            "Trad Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Decca Records",
+            "United Artists Records",
+            "Columbia Records",
+            "Bluebird Records",
+            "Verve Records",
+            "Vocalion Records",
+            "Okeh Records",
+            "Crown Records",
+            "Brunswick Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1036",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1036/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1907-08-08",
+            "end": "2003-07-12"
+        },
+        "deezerFans": 414238,
+        "members": [
+            "McKinney’s Cotton Pickers",
+            "The Benny Carter All-Star Sax Ensemble",
+            "Benny Carter and His Orchestra",
+            "Benny Carter Quartet",
+            "The Chocolate Dandies"
+        ]
+    },
+    {
+        "id": "56d98a59cc2ddd0c0f6bde27",
+        "name": "Tony Bennett",
+        "type": "Person",
+        "genres": [
+            "Classic Pop",
+            "Easy Listening",
+            "Swing",
+            "Jazz",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 62,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4088",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4088/image",
+        "albums": [
+            "Tony",
+            "The Beat Of My Heart",
+            "Long Ago And Far Away",
+            "Basie Swings, Bennett Sings",
+            "In Person!",
+            "Hometown, My Town",
+            "To My Wonderful One",
+            "Alone Together",
+            "Tony Sings For Two",
+            "I Left My Heart In San Francisco",
+            "Tony Bennett At Carnegie Hall",
+            "I Wanna Be Around...",
+            "This Is All I Ask",
+            "The Many Moods Of Tony",
+            "When Lights Are Low",
+            "Who Can I Turn To",
+            "If I Ruled The World-Songs For The Jet Set",
+            "The Movie Song Album",
+            "A Time For Love",
+            "Tony Makes It Happen",
+            "For Once In My Life",
+            "Yesterday I Heard The Rain",
+            "Snowfall: The Tony Bennett Christmas Album",
+            "I've Gotta Be Me",
+            "Tony Bennett's \"Something\"",
+            "Tony Bennett Sings His All-Time Hall Of Fame Hits",
+            "Love Story",
+            "The Very Thought Of You",
+            "With Love",
+            "Summer Of '42",
+            "Tony Bennett's All-Time Greatest Hits",
+            "Listen Easy",
+            "Tony Bennett Sings 10 Rodgers & Hart Songs",
+            "Tony Bennett Sings... More Great Rodgers & Hart",
+            "Life Is Beautiful",
+            "The Tony Bennett-Bill Evans Album",
+            "Together Again",
+            "My Best To You",
+            "The Art Of Excellence",
+            "Bennett/Berlin",
+            "Jazz",
+            "Astoria: Portrait Of The Artist",
+            "Perfectly Frank",
+            "Steppin' Out",
+            "His Greatest Hits And Finest Performances",
+            "MTV Unplugged",
+            "Here's To The Ladies",
+            "Tony Bennett On Holiday",
+            "The Playground",
+            "As Time Goes By",
+            "Playin' With My Friends: Bennett Sings The Blues",
+            "A Wonderful World",
+            "The Good Life",
+            "The Art Of Romance",
+            "Tony Bennett Sings For Lovers",
+            "Duets: An American Classic",
+            "A Swingin' Christmas",
+            "Duets II",
+            "Viva Duets",
+            "Cheek To Cheek",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1926-08-03",
+            "end": ""
+        },
+        "deezerFans": 243429,
+        "members": []
+    },
+    {
+        "id": "56d977a8cc2ddd0c0f6bc3f1",
+        "name": "T-Bone Walker",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Chicago Blues",
+            "Electric Blues",
+            "Bebop",
+            "Jazz",
+            "R&B",
+            "Soul",
+            "Hard Bop",
+            "Swing"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Imperial Records",
+            "Atlantic Records",
+            "Modern Records",
+            "Reprise Records",
+            "Duke Records",
+            "Columbia Records",
+            "Brunswick Records",
+            "Capitol Records",
+            "Charly Records",
+            "Black & Blue Records",
+            "Black & White Records",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/58312",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/58312/image",
+        "albums": [
+            "T-Bone Blues",
+            "Sings The Blues",
+            "I Get So Weary",
+            "Platinum Series: T-Bone Walker",
+            "Singing The Blues",
+            "Stormy Monday",
+            "Low Down Blues",
+            "You're My Best Poker Hand",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1910-05-28",
+            "end": "1975-03-16"
+        },
+        "deezerFans": 236496,
+        "members": []
+    },
+    {
+        "id": "56d8458953a7ddfc01f96fb0",
+        "name": "Jamie Cullum",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Universal Classics and Jazz",
+            "Candid Records",
+            "Verve Records",
+            "Verve Forecast Records",
+            "Deckdisc",
+            "Lioness Records",
+            "Decca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1654",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1654/image",
+        "albums": [
+            "Heard It All Before",
+            "Pointless Nostalgic",
+            "Twentysomething",
+            "Twentysomething (USA Release)",
+            "Catching Tales",
+            "Everlasting Love",
+            "The Pursuit",
+            "Momentum",
+            "Interlude",
+            "Songs on Compilations and Soundtracks",
+            "Live and Unreleased",
+            "Featured Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1979-08-20",
+            "end": ""
+        },
+        "deezerFans": 169189,
+        "members": [
+            "Jamie Cullum Trio"
+        ]
+    },
+    {
+        "id": "56d8246453a7ddfc01f9404c",
+        "name": "Duke Ellington",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Swing",
+            "Big Band"
+        ],
+        "nombre_albums": 35,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/57504",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/57504/image",
+        "albums": [
+            "Reminiscing In Tempo",
+            "Best Of Duke Ellington",
+            "Jazz 'Round Midnight",
+            "Rockin In Rhythm",
+            "Great London Concerts",
+            "16 Most Requested Songs",
+            "1938",
+            "1938-39",
+            "1939",
+            "1939-40",
+            "1940-41",
+            "1924-27",
+            "1933-35",
+            "1935-36",
+            "1936-37",
+            "1937",
+            "1940",
+            "1941",
+            "1942-44",
+            "At Basin Street East",
+            "Best Of Early Ellington",
+            "Cornell University Concert",
+            "Greatest Hits",
+            "Masterpieces 2",
+            "More Duke Ellington Greatest Hits",
+            "Tootin",
+            "Uptown Downbeat",
+            "Vol. 2-1937",
+            "Vol. 2-1938",
+            "Vol. 2-1939",
+            "Vol. 2-1940",
+            "Popular Duke Ellington",
+            "Vol. 2-1945",
+            "Keep It Movin'",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1899-04-29",
+            "end": "1974-05-24"
+        },
+        "deezerFans": 156004,
+        "members": [
+            "Duke Ellington and His Cotton Club Orchestra",
+            "Duke Ellington & His Washingtonians",
+            "Duke Ellington and His Rhythm",
+            "The Duke Ellington Sextet",
+            "Duke Ellington & His Orchestra",
+            "Leonard Feather's Esquire All-Americans"
+        ]
+    },
+    {
+        "id": "56d8068553a7ddfc01f9154b",
+        "name": "Bobby Darin",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Folk Rock",
+            "Vocal",
+            "Swing"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Motown",
+            "Atco Records",
+            "Brunswick Records",
+            "Decca Records",
+            "Atlantic Records",
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3239",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/3239/image",
+        "albums": [
+            "Bobby Darin",
+            "That's All",
+            "This Is Darin",
+            "For Teenagers Only",
+            "Love Swings",
+            "Twist With Bobby Darin",
+            "Two Of A Kind",
+            "Bobby Darin Sings Ray Charles",
+            "Things & Other Things",
+            "You're The Reason I'm Living",
+            "It's You",
+            "18 Yellow Roses & 11 Other Hits",
+            "Winners",
+            "From Hello Dolly To Goodbye Charlie",
+            "Venice Blue",
+            "If I Were A Carpenter",
+            "Bobby Darin Sings Doctor Doolittle",
+            "Something Special",
+            "Bobby Darin Born Walden Robert Cassotto",
+            "Live! At The Desert Inn",
+            "Darin 1936-1973",
+            "Capitol Collectors Series",
+            "The Best Of Bobby Darin Volume One",
+            "The Best Of Bobby Darin Volume Two",
+            "A Touch Of Class",
+            "Sings The Shadow Of Your Smile & In A Broadway Bag",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1936-05-14",
+            "end": "1973-12-20"
+        },
+        "deezerFans": 72772,
+        "members": [
+            "The City Surfers"
+        ]
+    },
+    {
+        "id": "56d8146c53a7ddfc01f928a2",
+        "name": "Coleman Hawkins",
+        "type": "Person",
+        "genres": [
+            "Swing",
+            "Bebop"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 10,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/54803",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/54803/image",
+        "albums": [
+            "The Hawk Flies High",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1904-11-21",
+            "end": "1969-05-19"
+        },
+        "deezerFans": 43376,
+        "members": [
+            "Coleman Hawkins Quartet",
+            "Coleman Hawkins' All American Four",
+            "Coleman Hawkins' 52nd Street All Stars",
+            "Thelonious Monk Septet",
+            "Coleman Hawkins' Swing Four",
+            "Michel Warlop et son orchestre",
+            "Henry Allen - Coleman Hawkins and Their Orchestra",
+            "Coleman Hawkins and His Sax Ensemble",
+            "Coleman Hawkins Quintet",
+            "Coleman Hawkins Septet"
+        ]
+    },
+    {
+        "id": "56d7fea353a7ddfc01f90a2e",
+        "name": "Baden Powell",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Brazilian",
+            "Latin",
+            "Jazz",
+            "Folk",
+            "MPB",
+            "Samba",
+            "Bossa Nova",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/55599",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/55599/image",
+        "albums": [
+            "Os Afro-Sambas",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1937-08-06",
+            "end": "2000-09-26"
+        },
+        "deezerFans": 23178,
+        "members": [
+            "Baden Powell & Trio"
+        ]
+    },
+    {
+        "id": "56d85b4453a7ddfc01f98f69",
+        "name": "Lionel Hampton",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Trad Jazz",
+            "Contemporary Jazz",
+            "Vocal",
+            "Swing",
+            "Big Band",
+            "Blues",
+            "R&B",
+            "Soul"
+        ],
+        "nombre_albums": 25,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Decca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13024",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/13024/image",
+        "albums": [
+            "Lionel Hampton",
+            "Lionel Hampton And His All Stars",
+            "Hallelujah Hamp",
+            "The Genius Of Lionel Hampton",
+            "Silver Vibes",
+            "On Tour",
+            "Lionel Hampton And His Giants",
+            "Steppin' Out Vol. 1 (1942-1945)",
+            "Hamp's Blues",
+            "Stop! I Don't Need No Sympathy!",
+            "Sentimental Journey",
+            "Mostly Blues",
+            "Classics 1937/1939",
+            "Compact Jazz: Lionel Hampton",
+            "Mostly Ballads",
+            "Hamp's Boogie Woogie",
+            "Tribute To Louis Armstrong",
+            "Sunny Side Of The Street",
+            "1944-1945 Broadcasts",
+            "1929-1949",
+            "Satin Doll",
+            "1950",
+            "Jukebox Hits 1943-1950",
+            "Flying Home",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1908-04-20",
+            "end": "2002-08-31"
+        },
+        "deezerFans": 22827,
+        "members": [
+            "The Benny Goodman Quartet",
+            "Lionel Hampton Big Band",
+            "Lionel Hampton Orchestra",
+            "The Benny Goodman Sextet",
+            "Lionel Hampton Sextet",
+            "Louis Armstrong & His Sebastian New Cotton Club Orchestra",
+            "Lionel Hampton Quintet",
+            "Lionel Hampton and His Orchestra",
+            "Lionel Hampton Quartet"
+        ]
+    },
+    {
+        "id": "56d83bac53a7ddfc01f960cf",
+        "name": "Harry Connick, Jr.",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Funk",
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Columbia Records",
+            "Marsalis Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/80912",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/80912/image",
+        "albums": [
+            "Harry Connick, Jr.",
+            "20",
+            "When Harry Met Sally...",
+            "We Are In Love",
+            "Lofty's Roach Souffle",
+            "Blue Light, Red Light",
+            "25",
+            "When My Heart Finds Christmas",
+            "She",
+            "Star Turtle",
+            "To See You",
+            "Come By Me",
+            "30",
+            "Songs I Heard",
+            "Other Hours: Connick On Piano, Volume 1",
+            "Harry For The Holidays",
+            "Only You",
+            "Occasion: Connick On Piano, Volume 2",
+            "Chanson Du Vieux Carré",
+            "Oh, My NOLA",
+            "What A Night! A Christmas Album",
+            "Your Songs",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967-09-11",
+            "end": ""
+        },
+        "deezerFans": 18133,
+        "members": [
+            "Harry Connick, Jr. Trio"
+        ]
+    },
+    {
+        "id": "56d84a1e53a7ddfc01f97644",
+        "name": "Joe Jackson",
+        "type": "Person",
+        "genres": [
+            "Punk Rock",
+            "Ska",
+            "New Wave",
+            "Jazz",
+            "Swing",
+            "Classical"
+        ],
+        "nombre_albums": 26,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "A&M Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/8167",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/8167/image",
+        "albums": [
+            "Look Sharp!",
+            "I'm The Man",
+            "Beat Crazy",
+            "The Harder They Come",
+            "Jumpin' Jive",
+            "Night And Day",
+            "Mike's Murder",
+            "Body And Soul",
+            "Big World",
+            "Will Power",
+            "Tucker",
+            "Blaze Of Glory",
+            "Laughter & Lust",
+            "Night Music",
+            "Heaven & Hell",
+            "Symphony No. 1",
+            "Summer In The City (Live In New York)",
+            "Night And Day II",
+            "Volume 4",
+            "Rain",
+            "Live Music: Europe 2010",
+            "The Duke",
+            "Fast Forward",
+            "Singles",
+            "Songs on Compilations",
+            "Live & Unreleased"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1954-08-11",
+            "end": ""
+        },
+        "deezerFans": 14243,
+        "members": [
+            "Joe Jackson Band"
+        ]
+    },
+    {
+        "id": "56d80fdb53a7ddfc01f9233e",
+        "name": "Chet Atkins",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Classical",
+            "Folk",
+            "Swing",
+            "Western Swing"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "RCA Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7635",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7635/image",
+        "albums": [
+            "Neck & Neck",
+            "East Tennessee Christmas",
+            "Almost Alone",
+            "The Day Finger Pickers Took Over The World",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1924-06-20",
+            "end": "2001-06-30"
+        },
+        "deezerFans": 13871,
+        "members": [
+            "The Nashville String Band"
+        ]
+    },
+    {
+        "id": "56d82d4a53a7ddfc01f94cbe",
+        "name": "Fats Waller",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Dixieland",
+            "Swing",
+            "Ragtime"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/15277",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/15277/image",
+        "albums": [
+            "Classic Jazz Solos From Rare Piano",
+            "The Last Years (1940-1943)",
+            "Low Down Papa",
+            "Fats Waller In London",
+            "The Cream Series",
+            "Fats And His Buddies",
+            "1936-37",
+            "Ain't Misbehavin'",
+            "Honeysuckle Rose",
+            "His Best Recordings 1928-42",
+            "I'm A 100% For You",
+            "Live At The Yacht Club",
+            "Masterpieces 3",
+            "Yacht Club Swing 1938",
+            "1938 - 1939",
+            "1939-1940",
+            "The Alternative Takes In Chronological Order, Volume 2 (1929-1938)",
+            "The Complete Associated Transcription Sessions 1935-1939",
+            "If You Got To Ask, You Ain't Got It!",
+            "Twenty-Four Hours A Day",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1904-05-21",
+            "end": "1943-12-15"
+        },
+        "deezerFans": 13655,
+        "members": [
+            "Fats Waller and His Buddies",
+            "Thomas Waller with Morris's Hot Babies",
+            "Fats Waller and His Rhythm",
+            "Fats Waller and His Orchestra",
+            "Louisiana Sugar Babes"
+        ]
+    },
+    {
+        "id": "56d84a4e53a7ddfc01f97685",
+        "name": "Joe Williams",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Verve Records",
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/70767",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/70767/image",
+        "albums": [
+            "In Good Company",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1918-12-12",
+            "end": "1999-03-29"
+        },
+        "deezerFans": 12662,
+        "members": [
+            "Count Basie & His Orchestra",
+            "The Count Basie Orchestra"
+        ]
+    },
+    {
+        "id": "56d8596c53a7ddfc01f98c8b",
+        "name": "Les Colocs",
+        "type": "Group",
+        "genres": [
+            "Blues",
+            "World Music",
+            "Rock",
+            "Reggae",
+            "Swing",
+            "Francophone"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "BMG Music Canada"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6821",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6821/image",
+        "albums": [
+            "Les Colocs",
+            "Atrocetomique",
+            "Dehors Novembre",
+            "Suite 2116",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990",
+            "end": ""
+        },
+        "deezerFans": 12085,
+        "members": [
+            "Mononc’ Serge"
+        ]
+    },
+    {
+        "id": "56d84b4053a7ddfc01f977d4",
+        "name": "John Pizzarelli",
+        "type": "Person",
+        "genres": [
+            "Bossa Nova",
+            "Jazz",
+            "Swing",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Novus Records",
+            "Stash Records",
+            "Telarc International Corporation",
+            "Chesky Records",
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/8571",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/8571/image",
+        "albums": [
+            "Meets The Beatles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1960-04-06",
+            "end": ""
+        },
+        "deezerFans": 10173,
+        "members": [
+            "The Pizzarellis, Bucky and John",
+            "Buck Pizzarelli and the West Texas Tumbleweeds"
+        ]
+    },
+    {
+        "id": "56d9692ecc2ddd0c0f6bad8a",
+        "name": "Scott Bradlee And Postmodern Jukebox",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Ragtime",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4655583",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4655583/image",
+        "albums": [
+            "Twist Is The New Twerk",
+            "Historical Misappropriation"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-09-19",
+            "end": ""
+        },
+        "deezerFans": 8837,
+        "members": [
+            "Postmodern Jukebox"
+        ]
+    },
+    {
+        "id": "56d97a81cc2ddd0c0f6bc87f",
+        "name": "The Andrews Sisters",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Swing",
+            "Vocal"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/10625",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10625/image",
+        "albums": [
+            "The Andrews Sisters In Hi-Fi",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1937",
+            "end": "1953"
+        },
+        "deezerFans": 7633,
+        "members": [
+            "Patty Andrews",
+            "LaVerne Andrews",
+            "Maxene Andrews"
+        ]
+    },
+    {
+        "id": "56d80b0953a7ddfc01f91c02",
+        "name": "Cab Calloway",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Scat",
+            "Swing",
+            "R&B",
+            "Soul",
+            "Big Band",
+            "Trad Jazz",
+            "Vocal Jazz"
+        ],
+        "nombre_albums": 14,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2591",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2591/image",
+        "albums": [
+            "1930-1931",
+            "1931-1932",
+            "1932",
+            "1932-1934",
+            "1934-1937",
+            "1937-1938",
+            "1938-1939",
+            "1939-1940",
+            "1940",
+            "1940-1941",
+            "1941-1942",
+            "1942-1947",
+            "And The Missourians 1929-1930",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1907-12-25",
+            "end": "1994-11-18"
+        },
+        "deezerFans": 7593,
+        "members": [
+            "Cab Calloway & His Orchestra",
+            "Cab Calloway and His Cab-Jivers"
+        ]
+    },
+    {
+        "id": "56d8035d53a7ddfc01f910fa",
+        "name": "Bill Wyman",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Rock 'N' Roll",
+            "Swing",
+            "R&B",
+            "Jazz",
+            "Blues",
+            "Skiffle"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Rolling Stones Records",
+            "Koch Entertainment",
+            "Velvel Records",
+            "BMG Rights Management"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/160495",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/160495/image",
+        "albums": [
+            "Bill Wyman",
+            "Stuff"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1936-10-24",
+            "end": ""
+        },
+        "deezerFans": 5401,
+        "members": [
+            "Nanker Phelge",
+            "The Rolling Stones"
+        ]
+    },
+    {
+        "id": "56d8479353a7ddfc01f97288",
+        "name": "Jelly Roll Morton",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Ragtime",
+            "Dixieland",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 10,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/57544",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/57544/image",
+        "albums": [
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1885-10-20",
+            "end": "1941-07-10"
+        },
+        "deezerFans": 5224,
+        "members": [
+            "Levee Serenaders",
+            "Jelly-Roll Morton's Jazz Trio",
+            "Jelly Roll Morton’s Red Hot Peppers",
+            "Jelly‐Roll Morton’s Kings of Jazz",
+            "Jelly‐Roll Morton’s Jazz Band",
+            "Jelly‐Roll Morton’s Incomparables",
+            "Jelly‐Roll Morton’s Stomp Kings",
+            "Jelly Roll Morton and His Orchestra",
+            "Jelly‐Roll Morton’s Steamboat Four",
+            "Jelly Roll Morton’s New Orleans Jazzmen"
+        ]
+    },
+    {
+        "id": "56d97bdacc2ddd0c0f6bca10",
+        "name": "The Brian Setzer Orchestra",
+        "type": "Group",
+        "genres": [
+            "Swing",
+            "Swing Revival",
+            "Jump Blues",
+            "Rockabilly",
+            "Rock 'N' Roll"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 17,
+        "recordLabel": [
+            "Hollywood Records",
+            "Interscope Records",
+            "Surfdog Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3494",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3494/image",
+        "albums": [
+            "The Brian Setzer Orchestra",
+            "Guitar Slinger",
+            "The Dirty Boogie",
+            "Vavoom!",
+            "Wolfgang's Big Night Out",
+            "Songs From Lonely Avenue",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990",
+            "end": ""
+        },
+        "deezerFans": 4040,
+        "members": [
+            "Don Roberts",
+            "Matt Zebley",
+            "Craig Woods",
+            "Tim Misica",
+            "Alex Henderson",
+            "Mark W. Winchester",
+            "Brian Setzer",
+            "George McMullen",
+            "Robbie Hioki",
+            "Dennis Farias",
+            "Kevin Norton",
+            "Willie Murillo",
+            "Ray Herrmann",
+            "John Hatton",
+            "Jim Youngstrom",
+            "Bernie Dresel",
+            "Kye Palmer"
+        ]
+    },
+    {
+        "id": "56d81ec353a7ddfc01f93806",
+        "name": "Devil Doll",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Rockabilly",
+            "Jazz",
+            "Swing",
+            "Big Band"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/437992",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/437992/image",
+        "albums": [
+            "Queen Of Pain",
+            "The Return Of Eve"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 3669,
+        "members": []
+    },
+    {
+        "id": "56d95a35cc2ddd0c0f6b9792",
+        "name": "Pokey LaFarge",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Roots",
+            "Blues",
+            "Ragtime",
+            "Swing",
+            "Jazz"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/422233",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/422233/image",
+        "albums": [
+            "Riverboat Soul",
+            "Pokey LaFarge",
+            "Something In The Water",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1983",
+            "end": ""
+        },
+        "deezerFans": 3218,
+        "members": [
+            "Pokey LaFarge and the South City Three"
+        ]
+    },
+    {
+        "id": "56d8132d53a7ddfc01f926c6",
+        "name": "Clarence \"Gatemouth\" Brown",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Cajun",
+            "Country",
+            "R&B",
+            "Soul",
+            "Southern Rock",
+            "Swing"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Aladdin Records",
+            "Peacock Records",
+            "Rounder Records",
+            "Alligator Records",
+            "Barclay Records",
+            "Verve Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/81146",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/81146/image",
+        "albums": [
+            "Sings Louis Jordan",
+            "The Drifter Rides Again",
+            "Down South...in The Bayou Country",
+            "Gate's On The Heat",
+            "Double Live At The Cowboy Bar",
+            "Alright Again!",
+            "Atomic Energy",
+            "One More Mile",
+            "The Nashville Session - 1965",
+            "Standing My Ground",
+            "No Looking Back",
+            "The Man",
+            "Long Way Home",
+            "Gate Swings",
+            "American Music, Texas Style",
+            "Back To Bogalusa",
+            "Clarence 'Gatemouth' Brown Selected Favorites",
+            "Collaboration",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1924-04-18",
+            "end": "2005-09-10"
+        },
+        "deezerFans": 2715,
+        "members": []
+    },
+    {
+        "id": "56d995b6cc2ddd0c0f6bef66",
+        "name": "Wynonie Harris",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Jump Blues",
+            "R&B",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/81837",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/81837/image",
+        "albums": [
+            "Confessin' The Blues / Bloodshot Eyes",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1915-08-24",
+            "end": "1969-06-14"
+        },
+        "deezerFans": 2362,
+        "members": []
+    },
+    {
+        "id": "56d83bb053a7ddfc01f960d7",
+        "name": "Harry James",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/14209",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/14209/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1916-03-15",
+            "end": "1983-07-05"
+        },
+        "deezerFans": 1837,
+        "members": [
+            "Harry James and His Orchestra",
+            "Harry James & His Big Band",
+            "Harry James and the Rhythm Section",
+            "Benny Goodman and His Orchestra"
+        ]
+    },
+    {
+        "id": "56d96ab2cc2ddd0c0f6bafe4",
+        "name": "Seth MacFarlane",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Jazz",
+            "Pop",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/981171",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/981171/image",
+        "albums": [
+            "Music Is Better Than Words",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1973-10-26",
+            "end": ""
+        },
+        "deezerFans": 935,
+        "members": []
+    },
+    {
+        "id": "56d8594153a7ddfc01f98c40",
+        "name": "Leon Redbone",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "R&B",
+            "Soul",
+            "Jazz",
+            "Singer-Songwriter",
+            "Ragtime",
+            "Swing",
+            "Trad Jazz",
+            "Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 1,
+        "recordLabel": [
+            "August Records",
+            "Rounder Records",
+            "Blue Thumb Records",
+            "Warner Bros. Records",
+            "Emerald City Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/134107",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/134107/image",
+        "albums": [
+            "On The Track",
+            "Double Time",
+            "Champagne Charlie",
+            "From Branch To Branch",
+            "Mystery Man",
+            "Red To Blue",
+            "No Regrets",
+            "Christmas Island",
+            "Sugar",
+            "Up A Lazy River",
+            "Whistling In The Wind",
+            "Any Time",
+            "Live At The Olympia Theater",
+            "Collaboration",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-08-26",
+            "end": ""
+        },
+        "deezerFans": 807,
+        "members": []
+    },
+    {
+        "id": "56d83a2a53a7ddfc01f95eda",
+        "name": "Götz Alsmann",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Swing",
+            "World Music"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/81202",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/81202/image",
+        "albums": [
+            "Zazou",
+            "Gestatten...",
+            "Zuckersüß",
+            "Filmreif!",
+            "Tabu!",
+            "Kuss",
+            "Winterwunderwelt",
+            "Mein Geheimnis",
+            "[[Von Kopf Bis Fuß - Eine Hommage An Marlene Dietrich (2013)|Von Kopf bis Fuß - Eine Hommage an Marlene Dietrich (2013)]]",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1957-07-12",
+            "end": ""
+        },
+        "deezerFans": 768,
+        "members": [
+            "Götz Alsmann Band",
+            "Götz Alsmann & The Sentimental Pounders",
+            "Die fidelen Schwager"
+        ]
+    },
+    {
+        "id": "56d8494853a7ddfc01f97508",
+        "name": "Jimmy Dorsey",
+        "type": "Person",
+        "genres": [
+            "Big Band",
+            "Swing",
+            "Dixieland"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/92410",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/92410/image",
+        "albums": [
+            "Jazz Collector Edition",
+            "1939 & 1940",
+            "Great Big Bands",
+            "I Remember You",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1904-02-29",
+            "end": "1957-06-12"
+        },
+        "deezerFans": 722,
+        "members": [
+            "The Charleston Chasers",
+            "Hoagy Carmichael and His Pals",
+            "Jimmy Dorsey & His Orchestra",
+            "California Ramblers",
+            "The Dorsey Brothers Orchestra"
+        ]
+    },
+    {
+        "id": "56d810d253a7ddfc01f92440",
+        "name": "Chris Barber",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Blues",
+            "Skiffle",
+            "Ragtime",
+            "Swing",
+            "Folk",
+            "Trad Jazz"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Pye Records",
+            "Columbia Graphophone Company",
+            "Tempo Records (UK)",
+            "Decca Records",
+            "Fellside Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/66285",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66285/image",
+        "albums": [
+            "Featured",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1930-04-17",
+            "end": ""
+        },
+        "deezerFans": 562,
+        "members": [
+            "Chris Barber’s Jazz Band",
+            "Chris Barber Jazz & Blues Band"
+        ]
+    },
+    {
+        "id": "56d9932acc2ddd0c0f6beb6b",
+        "name": "Webb Pierce",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Honky Tonk",
+            "Rockabilly",
+            "Swing"
+        ],
+        "nombre_albums": 30,
+        "nombre_members": 3,
+        "recordLabel": [
+            "MCA Records",
+            "Decca Records",
+            "Four Star Records",
+            "Plantation Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/90479",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/90479/image",
+        "albums": [
+            "Webb Pierce",
+            "The Wondering Boy",
+            "Just Imagination",
+            "Bound For The Kingdom",
+            "The One And Only...",
+            "Webb!",
+            "Webb With A Beat",
+            "Walking The Streets",
+            "Webb Pierce's Golden Favorites",
+            "Fallen Angel...",
+            "Hideaway Heart",
+            "Cross Country",
+            "I've Got A New Heartache",
+            "Bow Thy Head",
+            "Sands Of Gold",
+            "Memory Number 1",
+            "Country Music Time",
+            "Sweet Memories",
+            "Where'd Ya Stay Last Night",
+            "Fool, Fool, Fool",
+            "Saturday Night",
+            "Sings This Thing",
+            "Love Ain't Never Gonna Be No Better",
+            "Merry-Go-Round World",
+            "Road Show",
+            "I'm Gonna Be A Swinger",
+            "Faith, Hope And Love",
+            "The Wondering Boy: 1951-1958",
+            "Unavailable Sides (1950-1951)",
+            "Collaborations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1921-08-08",
+            "end": "1991-02-24"
+        },
+        "deezerFans": 501,
+        "members": []
+    },
+    {
+        "id": "56d95464cc2ddd0c0f6b8fb4",
+        "name": "Paolo Belli",
+        "type": "Person",
+        "genres": [
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/83521",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/83521/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1962-03-21",
+            "end": ""
+        },
+        "deezerFans": 404,
+        "members": []
+    },
+    {
+        "id": "56d976a5cc2ddd0c0f6bc280",
+        "name": "Suzy Bogguss",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Folk",
+            "Swing"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Capitol Records",
+            "Compadre Records",
+            "EMI",
+            "Liberty Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/211306",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/211306/image",
+        "albums": [
+            "Somewhere Between",
+            "Moment Of Truth",
+            "Aces",
+            "Voices In The Wind",
+            "Something Up My Sleeve",
+            "Greatest Hits",
+            "Simpatico",
+            "Give Me Some Wheels",
+            "Nobody Love, Nobody Gets Hurt",
+            "Suzy Bogguss",
+            "20 Greatest Hits",
+            "Have Yourself A Merry Little Christmas",
+            "Swing",
+            "Sweet Danger",
+            "Songs on Compilations and Soundtracks",
+            "Potentially Bogus Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1956-12-30",
+            "end": ""
+        },
+        "deezerFans": 398,
+        "members": []
+    },
+    {
+        "id": "56d802ca53a7ddfc01f9103c",
+        "name": "Big Joe Turner",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Jazz Blues",
+            "Jump Blues",
+            "Rock 'N' Roll",
+            "Swing"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "National Records",
+            "Decca Records",
+            "Pablo Records",
+            "Vocalion Records",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64429",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64429/image",
+        "albums": [
+            "The Boss Of The Blues",
+            "Rock & Roll",
+            "Rockin' The Blues",
+            "Flip, Flop & Fly",
+            "In The Evening",
+            "The Definitive Black & Blue Sessions: Joe's Back In Town",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1911-05-18",
+            "end": "1985-11-24"
+        },
+        "deezerFans": 394,
+        "members": [
+            "Joe Turner and His Memphis Men"
+        ]
+    },
+    {
+        "id": "56d8596553a7ddfc01f98c7e",
+        "name": "Les Brown",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Big Band",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/77544",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/77544/image",
+        "albums": [
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1912-03-14",
+            "end": "2001-01-24"
+        },
+        "deezerFans": 388,
+        "members": [
+            "Les Brown and His Band of Renown"
+        ]
+    },
+    {
+        "id": "56d8066c53a7ddfc01f9152b",
+        "name": "Bob Wills",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Swing",
+            "Western Swing"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Liberty Records",
+            "Okeh Records",
+            "Columbia Records",
+            "MGM Records",
+            "Vocalion Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/110474",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/110474/image",
+        "albums": [
+            "Mr. Words & Mr. Music",
+            "Sings & Plays",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1905-03-06",
+            "end": "1975-05-13"
+        },
+        "deezerFans": 364,
+        "members": [
+            "Bob Wills & His Texas Playboys"
+        ]
+    },
+    {
+        "id": "56d805e853a7ddfc01f91497",
+        "name": "Bluetones",
+        "type": "",
+        "genres": [
+            "Blues",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/196876",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/196876/image",
+        "albums": [
+            "More Than A Feelin'"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 275,
+        "members": []
+    },
+    {
+        "id": "56d8191453a7ddfc01f92fad",
+        "name": "Dan Hicks",
+        "type": "Group",
+        "genres": [
+            "Jazz",
+            "Country",
+            "Swing",
+            "Bluegrass",
+            "Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Private Music",
+            "Blue Thumb Records",
+            "Epic Records",
+            "Surfdog Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/73492",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/73492/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 272,
+        "members": [
+            "Dan Hicks",
+            "Maryanne Price"
+        ]
+    },
+    {
+        "id": "56d825f653a7ddfc01f94297",
+        "name": "Edmond Hall",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Swing",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/98397",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/98397/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1901-05-15",
+            "end": "1967-02-11"
+        },
+        "deezerFans": 270,
+        "members": [
+            "Edmond Hall Celeste Quartet",
+            "Edmond Hall Sextet",
+            "Edmond Hall & His Cafe Society Orchestra",
+            "Gene Krupa and His Orchestra",
+            "Louis Armstrong & His All-Stars",
+            "Edmond Hall Quartet"
+        ]
+    },
+    {
+        "id": "56d814d653a7ddfc01f92942",
+        "name": "Commander Cody And His Lost Planet Airmen",
+        "type": "Group",
+        "genres": [
+            "Americana",
+            "Blues",
+            "Country Rock",
+            "Jump Blues",
+            "Rock 'N' Roll",
+            "Rockabilly",
+            "Swing"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66200",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/66200/image",
+        "albums": [
+            "Lost In The Ozone",
+            "Hot Licks, Cold Steel & Truckers' Favorites",
+            "Country Casanova",
+            "Live From Deep In The Heart Of Texas",
+            "Commander Cody And His Lost Planet",
+            "Tales From The Ozone",
+            "Flying Dreams",
+            "Lose It Tonight",
+            "Sleazy Roadside Stories",
+            "Aces High",
+            "Hot To Trot",
+            "The Early Years 1967-1970",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 214,
+        "members": [
+            "Commander Cody",
+            "Andy Stein"
+        ]
+    },
+    {
+        "id": "56d8575353a7ddfc01f98939",
+        "name": "Larry Adler",
+        "type": "Person",
+        "genres": [
+            "Swing",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/82384",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/82384/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1914-02-10",
+            "end": "2001-08-07"
+        },
+        "deezerFans": 165,
+        "members": []
+    },
+    {
+        "id": "56d956c3cc2ddd0c0f6b92e1",
+        "name": "Penny & The Swingin' Cats",
+        "type": "Group",
+        "genres": [
+            "Swing",
+            "Jazz",
+            "Rockabilly",
+            "Rock 'N' Roll"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/5515646",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5515646/image",
+        "albums": [
+            "Retro",
+            "Εξωτικό Χαρμάνι"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 156,
+        "members": []
+    },
+    {
+        "id": "56d7f55953a7ddfc01f8fbde",
+        "name": "Alvino Rey",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Big Band",
+            "Swing"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/272999",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/272999/image",
+        "albums": [
+            "That Lonely Feeling",
+            "The Very Best Of Alvino Rey (Nostalgic Memories Volume 92)",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1908-07-01",
+            "end": "2004-02-23"
+        },
+        "deezerFans": 89,
+        "members": []
+    },
+    {
+        "id": "56d80a1f53a7ddfc01f91ad1",
+        "name": "Bully Buhlan",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Pop",
+            "Schlager",
+            "Singer-Songwriter",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/80938",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/80938/image",
+        "albums": [
+            "Lieber Leierkastenmann"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1924-02-03",
+            "end": "1982-11-07"
+        },
+        "deezerFans": 41,
+        "members": []
+    },
+    {
+        "id": "56d826e953a7ddfc01f943d3",
+        "name": "Elana James",
+        "type": "Person",
+        "genres": [
+            "Acoustic",
+            "Folk",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1171634",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1171634/image",
+        "albums": [
+            "Elana James"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970-10-21",
+            "end": ""
+        },
+        "deezerFans": 41,
+        "members": [
+            "Hot Club of Cowtown"
+        ]
+    },
+    {
+        "id": "56d957e5cc2ddd0c0f6b9442",
+        "name": "Peter Petrel",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Schlager",
+            "Volksmusik",
+            "Folk",
+            "Jazz",
+            "Dixieland",
+            "Blues",
+            "Gospel",
+            "Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/168409",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/168409/image",
+        "albums": [
+            "Ich Bin Viel Zu Bescheiden",
+            "Die Großen Erfolge"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1940-04-14",
+            "end": ""
+        },
+        "deezerFans": 38,
+        "members": [
+            "Rentnerband"
+        ]
+    },
+    {
+        "id": "56d834a253a7ddfc01f9576c",
+        "name": "George Barnes",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Blues",
+            "Swing",
+            "Pop",
+            "Rock",
+            "Country"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/453974",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/453974/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1921-07-17",
+            "end": "1977-09-05"
+        },
+        "deezerFans": 36,
+        "members": [
+            "Paul Jordan and His Orchestra"
+        ]
+    },
+    {
+        "id": "56d97de5cc2ddd0c0f6bcca1",
+        "name": "The Electrophonics",
+        "type": "",
+        "genres": [
+            "Blues",
+            "Jump Blues",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1171817",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1171817/image",
+        "albums": [
+            "Feels Like A Million"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 36,
+        "members": []
+    },
+    {
+        "id": "56d93f94ce06f50c0fed8a83",
+        "name": "Milton Brown",
+        "type": "Person",
+        "genres": [
+            "Swing",
+            "Western Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/147747",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/147747/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1903-09-07",
+            "end": "1936-04-18"
+        },
+        "deezerFans": 35,
+        "members": []
+    },
+    {
+        "id": "56d831aa53a7ddfc01f95328",
+        "name": "Freddy Martin",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Classical",
+            "Vocal",
+            "Big Band",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/254551",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/254551/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1906-12-09",
+            "end": "1983-09-30"
+        },
+        "deezerFans": 33,
+        "members": [
+            "The Freddy Martin Orchestra",
+            "Freddy Martin and His Orchestra"
+        ]
+    },
+    {
+        "id": "56d97f41cc2ddd0c0f6bce7c",
+        "name": "The Harlem Hamfats",
+        "type": "Group",
+        "genres": [
+            "Swing",
+            "Dixieland",
+            "Jazz",
+            "Dirty Blues"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Decca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/86906",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/86906/image",
+        "albums": [
+            "Harlem Hamfats Vol. 1: Hamfat Swing",
+            "Songs Featuring The Harlem Hamfats",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1936",
+            "end": "1938"
+        },
+        "deezerFans": 33,
+        "members": [
+            "Odell Rand"
+        ]
+    },
+    {
+        "id": "56d948bdcc2ddd0c0f6b7e00",
+        "name": "Moon Mullican",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Blues",
+            "Rockabilly",
+            "Swing",
+            "Western Swing"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "King Records (United States)",
+            "Coral Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/274471",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/274471/image",
+        "albums": [
+            "Seven Nights To Rock - The King Years, 1946-56",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1909-03-29",
+            "end": "1967-01-01"
+        },
+        "deezerFans": 32,
+        "members": [
+            "Sunshine Boys"
+        ]
+    },
+    {
+        "id": "56d836b153a7ddfc01f959ff",
+        "name": "Glen Gray",
+        "type": "Person",
+        "genres": [
+            "Jazz",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Decca Records",
+            "Capitol Records",
+            "Brunswick Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/86795",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/86795/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1906-06-07",
+            "end": "1963-08-23"
+        },
+        "deezerFans": 28,
+        "members": [
+            "Glen Gray & the Casa Loma Orchestra"
+        ]
+    },
+    {
+        "id": "56d83ec753a7ddfc01f96582",
+        "name": "Hoosier Hot Shots",
+        "type": "Group",
+        "genres": [
+            "Swing",
+            "Jazz",
+            "Novelty"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Oriole Records (U.S.)",
+            "Banner Records",
+            "Vocalion Records",
+            "Decca Records",
+            "Perfect Records",
+            "Conqueror Records",
+            "Romeo Records",
+            "Melotone Records (US)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/282894",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/282894/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1929",
+            "end": "1975"
+        },
+        "deezerFans": 25,
+        "members": []
+    },
+    {
+        "id": "56d9805ccc2ddd0c0f6bcfef",
+        "name": "The King Sisters",
+        "type": "Group",
+        "genres": [
+            "Swing",
+            "Big Band"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "RCA Records",
+            "Bluebird Records",
+            "Warner Bros. Records",
+            "Capitol Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/147944",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/147944/image",
+        "albums": [
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 22,
+        "members": [
+            "Yvonne King Burch",
+            "Marilyn King"
+        ]
+    },
+    {
+        "id": "56d82b3653a7ddfc01f94992",
+        "name": "Evelyn Künneke",
+        "type": "Person",
+        "genres": [
+            "Schlager",
+            "Chanson",
+            "Swing",
+            "Musical",
+            "Cabaret",
+            "Comedy",
+            "Spoken Word"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/168963",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/168963/image",
+        "albums": [
+            "Das Leben Ist Ein Karussell - Ihre Letzen Live-Aufnahmen",
+            "[[Die Alten Schachteln Unterwegs (1999)|Die alten Schachteln unterwegs (1999)]]"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1921-12-15",
+            "end": "2001-04-28"
+        },
+        "deezerFans": 15,
+        "members": []
+    },
+    {
+        "id": "56d8345f53a7ddfc01f9570c",
+        "name": "Gene Pistilli",
+        "type": "Person",
+        "genres": [
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 9,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4422603",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4422603/image",
+        "albums": [
+            "I Still Get Dressed On Sundays"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 5,
+        "members": []
+    },
+    {
+        "id": "56d85adc53a7ddfc01f98edf",
+        "name": "Lily Wilde And Her Jumpin' Jubilee Orchestra",
+        "type": "",
+        "genres": [
+            "Swing",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 9,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1127278",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1127278/image",
+        "albums": [
+            "Insect Ball"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 5,
+        "members": []
+    },
+    {
+        "id": "56d82ddb53a7ddfc01f94db0",
+        "name": "Fess Williams",
+        "type": "Group",
+        "genres": [
+            "Jazz",
+            "Big Band",
+            "Swing"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/290845",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/290845/image",
+        "albums": [
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 4,
+        "members": []
+    },
+    {
+        "id": "56d82f7353a7ddfc01f95024",
+        "name": "Floyd Tillman",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Swing",
+            "Honky Tonk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Decca Records",
+            "Columbia Records",
+            "RCA Records",
+            "Musicor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/176546",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/176546/image",
+        "albums": [
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1914-12-08",
+            "end": "2003-08-22"
+        },
+        "deezerFans": 4,
+        "members": []
+    },
+    {
+        "id": "56d96eb3cc2ddd0c0f6bb616",
+        "name": "Slam Stewart",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Jazz",
+            "Swing",
+            "Bebop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/2732491",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2732491/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1914-09-21",
+            "end": "1987-12-10"
+        },
+        "deezerFans": 1,
+        "members": [
+            "Dizzy Gillespie Sextet",
+            "Art Tatum Trio",
+            "Slam Stewart Trio",
+            "Slim & Slam",
+            "Slam Stewart Quartet"
+        ]
+    }
+]

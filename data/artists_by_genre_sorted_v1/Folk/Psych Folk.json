@@ -1,0 +1,178 @@
+[
+    {
+        "id": "56d81eb653a7ddfc01f937ea",
+        "name": "Devendra Banhart",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Freak Folk",
+            "Psych Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Young God Records",
+            "XL Recordings",
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2689",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2689/image",
+        "albums": [
+            "The Charles C. Leary",
+            "Oh Me Oh My... The Way The Day Goes By The Sun Is Setting Dogs Are Dreaming Lovesongs Of The Christmas Spirit",
+            "The Black Babies",
+            "Rejoicing In The Hands",
+            "Niño Rojo",
+            "Cripple Crow",
+            "Smokey Rolls Down Thunder Canyon",
+            "What Will We Be",
+            "Mala",
+            "Songs as Featured Artists",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-05-30",
+            "end": ""
+        },
+        "deezerFans": 93175,
+        "members": [
+            "Megapuss",
+            "Vetiver"
+        ]
+    },
+    {
+        "id": "56d8392a53a7ddfc01f95d73",
+        "name": "Grizzly Bear",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk",
+            "Psych Folk",
+            "Experimental Rock"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Kanine Records",
+            "Warp (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13760",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13760/image",
+        "albums": [
+            "Horn Of Plenty",
+            "Horn Of Plenty (The Remixes)",
+            "Sorry For The Delay",
+            "Yellow House",
+            "Friend",
+            "Veckatimest",
+            "Shields",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2002",
+            "end": ""
+        },
+        "deezerFans": 78907,
+        "members": [
+            "Daniel Rossen",
+            "Chris Taylor",
+            "Ed Droste",
+            "Christopher Bear"
+        ]
+    },
+    {
+        "id": "56d84ce953a7ddfc01f97a46",
+        "name": "Josephine Foster",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Psych Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Fire Records (UK)",
+            "Locust Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/364779",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/364779/image",
+        "albums": [
+            "Little Life",
+            "Hazel Eyes, I Will Lead You",
+            "A Wolf In Sheep's Clothing",
+            "This Coming Gladness",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1974-04-19",
+            "end": ""
+        },
+        "deezerFans": 2057,
+        "members": [
+            "Born Heller",
+            "The Children's Hour",
+            "Josephine Foster & The Victor Herrero Band",
+            "Josephine Foster and the Supposed"
+        ]
+    },
+    {
+        "id": "56d96332cc2ddd0c0f6ba4c7",
+        "name": "Robyn Hitchcock",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Psych Folk"
+        ],
+        "nombre_albums": 23,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/60391",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/60391/image",
+        "albums": [
+            "Black Snake Dîamond Röle",
+            "Groovy Decay",
+            "I Often Dream Of Trains",
+            "Groovy Decoy",
+            "Invisible Hitchcock",
+            "Eye",
+            "You & Oblivion",
+            "Mossy Liquor",
+            "Moss Elixir",
+            "Storefront Hitchcock",
+            "Jewels For Sophia",
+            "A Star For Bram",
+            "Robyn Sings",
+            "Luxor",
+            "Spooked",
+            "Obliteration Pie",
+            "While Thatcher Mauled Britain",
+            "Shadow Cat",
+            "Tromsø, Kaptein",
+            "Love From London",
+            "The Man Upstairs",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1953-03-03",
+            "end": ""
+        },
+        "deezerFans": 1346,
+        "members": [
+            "Robyn Hitchcock & The Venus 3",
+            "The Soft Boys",
+            "The Hungry Moment",
+            "Robyn Hitchcock and The Egyptians"
+        ]
+    }
+]
