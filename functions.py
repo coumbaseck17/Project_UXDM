@@ -7,7 +7,6 @@ import json
 url = "https://wasabi.i3s.unice.fr"
 params = {}
 
-
 """
     Cette fonction permet d'effectuer une requête GET à l'API avec les paramètres spécifiés.
 """
