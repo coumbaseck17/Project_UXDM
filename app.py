@@ -2,7 +2,6 @@ import json
 
 from flask import Flask, request, jsonify
 import functions
-from functions import FilterType
 
 app = Flask(__name__, instance_relative_config=True)
 

@@ -155,7 +155,7 @@ def fetch_artists_all(url):
 
 
 """
-    Cette fonction permet de stocker dans un fichier les statistiques de chaque genre et sous-genre.
+    Cette fonction permet de stocker dans un fichier les statistiques de chaque sous-genre d'un genre.
 """
 def fetch_details():
     with open('data/artist_all.json', 'r', encoding='utf-8') as json_file:
@@ -559,10 +559,10 @@ def fetch_genre_details_ALL_folder(genreFolder):
 """
     Cette fonction permet de récupérer les artistes selon 
     -genre : le GENRE, exemple => "Rock"
-    -subgenre_or_all : le subgenre, exemple => "Pop Rock" mais aussi peut être égal à "all" ou peut être VIDE si on veut récupérer
+    -subgenre_or_all : le subgenre, exemple => subgenre_or_all="Pop Rock" mais aussi peut être égal à subgenre_or_all="all" OU subgenre_or_all is None si on veut récupérer
      les artistes de tous les sous-genres confondus du GENRE spécifié dans le premier paramètre 
-    -filter_type : le type de Filtre : "type" ou "gender" ou peut être VIDE 
-    -filter_value :la valeur du Filtre : "person" ou "group" ou "" si filter_type= "type"  OU peut être VIDE , 
+    -filter_type : le type de Filtre :  filter_type="type" OU filter_type="gender"  OU filter_type is None
+    -filter_value :la valeur du Filtre : "person" ou "group" ou "" si filter_type= "type" 
     "female" ou "male" si filter_type="gender" 
 """
 
