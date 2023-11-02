@@ -2,13 +2,15 @@
     "genres": {
         "Blues": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 725,
+                "nombre_groupes": 180,
+                "nombre_solos": 524,
+                "nombre_autres": 21,
+                "nombre_actif_groupes": 127,
+                "nombre_actif_solos": 251,
+                "nombre_actif_total": 399,
+                "nombre_actif_autres": 21,
+                "pourcentage_actifs": 55
             },
             "subgenres": {
                 "Blues Rock": {
@@ -41,13 +43,15 @@
         },
         "Country": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 524,
+                "nombre_groupes": 116,
+                "nombre_solos": 366,
+                "nombre_autres": 42,
+                "nombre_actif_groupes": 76,
+                "nombre_actif_solos": 266,
+                "nombre_actif_total": 384,
+                "nombre_actif_autres": 42,
+                "pourcentage_actifs": 73
             },
             "subgenres": {
                 "Country Pop": {
@@ -93,13 +97,15 @@
         },
         "Electronic": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 746,
+                "nombre_groupes": 435,
+                "nombre_solos": 252,
+                "nombre_autres": 59,
+                "nombre_actif_groupes": 367,
+                "nombre_actif_solos": 246,
+                "nombre_actif_total": 672,
+                "nombre_actif_autres": 59,
+                "pourcentage_actifs": 90
             },
             "subgenres": {
                 "Electronic": {
@@ -145,13 +151,15 @@
         },
         "Folk": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 1123,
+                "nombre_groupes": 397,
+                "nombre_solos": 648,
+                "nombre_autres": 78,
+                "nombre_actif_groupes": 308,
+                "nombre_actif_solos": 492,
+                "nombre_actif_total": 878,
+                "nombre_actif_autres": 78,
+                "pourcentage_actifs": 78
             },
             "subgenres": {
                 "Contemporary Folk": {
@@ -236,13 +244,15 @@
         },
         "Hip Hop": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 658,
+                "nombre_groupes": 206,
+                "nombre_solos": 391,
+                "nombre_autres": 61,
+                "nombre_actif_groupes": 177,
+                "nombre_actif_solos": 382,
+                "nombre_actif_total": 620,
+                "nombre_actif_autres": 61,
+                "pourcentage_actifs": 94
             },
             "subgenres": {
                 "Hip Hop": {
@@ -262,13 +272,15 @@
         },
         "Jazz": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 501,
+                "nombre_groupes": 71,
+                "nombre_solos": 414,
+                "nombre_autres": 16,
+                "nombre_actif_groupes": 54,
+                "nombre_actif_solos": 235,
+                "nombre_actif_total": 305,
+                "nombre_actif_autres": 16,
+                "pourcentage_actifs": 60
             },
             "subgenres": {
                 "Jazz": {
@@ -301,13 +313,15 @@
         },
         "Pop": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 2898,
+                "nombre_groupes": 1031,
+                "nombre_solos": 1641,
+                "nombre_autres": 226,
+                "nombre_actif_groupes": 788,
+                "nombre_actif_solos": 1374,
+                "nombre_actif_total": 2388,
+                "nombre_actif_autres": 226,
+                "pourcentage_actifs": 82
             },
             "subgenres": {
                 "Dance-Pop": {
@@ -392,13 +406,15 @@
         },
         "R&B": {
             "details": {
-                "nombre_artists_total": 4302,
-                "nombre_groupes": 2852,
-                "nombre_solos": 1176,
-                "nombre_actif_groupes": 2200,
-                "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_artists_total": 786,
+                "nombre_groupes": 215,
+                "nombre_solos": 522,
+                "nombre_autres": 49,
+                "nombre_actif_groupes": 151,
+                "nombre_actif_solos": 393,
+                "nombre_actif_total": 593,
+                "nombre_actif_autres": 49,
+                "pourcentage_actifs": 75
             },
             "subgenres": {
                 "Funk": {
@@ -447,10 +463,12 @@
                 "nombre_artists_total": 4302,
                 "nombre_groupes": 2852,
                 "nombre_solos": 1176,
+                "nombre_autres": 274,
                 "nombre_actif_groupes": 2200,
                 "nombre_actif_solos": 1023,
-                "nombre_actif_total": 3223,
-                "pourcentage_actifs": 74
+                "nombre_actif_total": 3497,
+                "nombre_actif_autres": 274,
+                "pourcentage_actifs": 81
             },
             "subgenres": {
                 "Alternative Rock": {
