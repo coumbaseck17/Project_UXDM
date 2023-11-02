@@ -1,10 +1,8 @@
 import os
 import urllib
 import time
-from enum import Enum
 import requests
 import json
-
 
 url = "https://wasabi.i3s.unice.fr"
 params = {}
