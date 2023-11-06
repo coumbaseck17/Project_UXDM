@@ -213,6 +213,10 @@ def fetch_details_others():
     nbr_groupes = 0
     nbr_solos = 0
     nbr_actif = 0
+    nbr_autres = 0
+    nbr_actif_group = 0
+    nbr_actif_autres = 0
+    nbr_actif_solos = 0
 
     for item in dataArtist:
         genres = item.get("genres")
@@ -220,25 +224,39 @@ def fetch_details_others():
             print(f"Artist: {item['name']}, Genres: {genres}")
             if item["type"] == "Group":
                 nbr_groupes += 1
+                if not item["lifeSpan"]["ended"]:
+                    nbr_actif_group += 1
+                    nbr_actif += 1
             elif item["type"] == "Person":
                 nbr_solos += 1
-            if not item["lifeSpan"]["ended"]:
-                nbr_actif += 1
+                if not item["lifeSpan"]["ended"]:
+                    nbr_actif_solos += 1
+                    nbr_actif += 1
+            else:
+                nbr_autres += 1
+                if not item["lifeSpan"]["ended"]:
+                    nbr_actif_autres += 1
+                    nbr_actif += 1
 
-    total_artists = nbr_groupes + nbr_solos
+    total_artists = nbr_groupes + nbr_solos + nbr_autres
     if total_artists > 0:
         pourcentage_actif = int((nbr_actif / total_artists) * 100)
     else:
         pourcentage_actif = 0
 
     others_info = {
+        "nombre_artists_total": total_artists,
         "nombre_groupes": nbr_groupes,
         "nombre_solos": nbr_solos,
-        "nombre_actif": nbr_actif,
+        "nombre_autres": nbr_autres,
+        "nombre_actif_groupes": nbr_actif_group,
+        "nombre_actif_solos": nbr_actif_solos,
+        "nombre_actif_total": nbr_actif,
+        "nombre_actif_autres": nbr_actif_autres,
         "pourcentage_actifs": pourcentage_actif
     }
 
-    genre_dir = 'data/details'
+    genre_dir = 'data/details_v1'
     others_file = os.path.join(genre_dir, 'Others.json')
     with open(others_file, 'w', encoding="utf-8") as output_file:
         json.dump(others_info, output_file, indent=4)
@@ -561,9 +579,9 @@ def fetch_genre_details_ALL_folder(genreFolder):
     -genre : le GENRE, exemple => "Rock"
     -subgenre_or_all : le subgenre, exemple => subgenre_or_all="Pop Rock" mais aussi peut être égal à subgenre_or_all="all" OU subgenre_or_all is None si on veut récupérer
      les artistes de tous les sous-genres confondus du GENRE spécifié dans le premier paramètre 
-    -filter_type : le type de Filtre :  filter_type="type" OU filter_type="gender"  OU filter_type is None
+    -filter_type : le type de Filtre :  filter_type="TYPE" OU filter_type="GENDER"  OU filter_type is None
     -filter_value :la valeur du Filtre : "person" ou "group" ou "" si filter_type= "type" 
-    "female" ou "male" si filter_type="gender" 
+    "female" ou "male" ou "" si filter_type="gender" 
 """
 
 

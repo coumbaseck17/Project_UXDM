@@ -26,7 +26,7 @@ app = Flask(__name__, instance_relative_config=True)
 def api_filter_artists():
     genre = request.args.get('genre')
     subgenre = request.args.get('subgenre')
-    filter_type = request.args.get('filter_type', FilterType.NONE)
+    filter_type = request.args.get('filter_type')
     filter_value = request.args.get('filter_value')
     limit = request.args.get('limit')
 
@@ -41,6 +41,14 @@ def get_data():
         data = json.load(json_file)
     print(data)
     return jsonify(data)
+
+@app.route('/api/statistiques/others', methods=['GET'])
+def get_data_others():
+    with open('data/details_v1/Others.json', 'r') as json_file:
+        data = json.load(json_file)
+    print(data)
+    return jsonify(data)
+
 
 
 if __name__ == '__main__':

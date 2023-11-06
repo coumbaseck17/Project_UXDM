@@ -17,5 +17,6 @@ def main():
 """
 artists =functions.filter_artists("Rock","Punk Rock","TYPE","")
 print(artists)
+functions.fetch_details_others()
 if __name__ == "__main__":
     main()
