@@ -1,0 +1,56 @@
+{
+    "Rock": {
+        "nombre_groupes": 2852,
+        "nombre_solos": 1176,
+        "nombre_actif": 3497,
+        "pourcentage_actifs": 81
+    },
+    "Pop": {
+        "nombre_groupes": 1031,
+        "nombre_solos": 1641,
+        "nombre_actif": 2388,
+        "pourcentage_actifs": 82
+    },
+    "Folk": {
+        "nombre_groupes": 397,
+        "nombre_solos": 648,
+        "nombre_actif": 878,
+        "pourcentage_actifs": 78
+    },
+    "Hip Hop": {
+        "nombre_groupes": 206,
+        "nombre_solos": 391,
+        "nombre_actif": 620,
+        "pourcentage_actifs": 94
+    },
+    "Electronic": {
+        "nombre_groupes": 435,
+        "nombre_solos": 252,
+        "nombre_actif": 672,
+        "pourcentage_actifs": 90
+    },
+    "Blues": {
+        "nombre_groupes": 180,
+        "nombre_solos": 524,
+        "nombre_actif": 399,
+        "pourcentage_actifs": 55
+    },
+    "R&B": {
+        "nombre_groupes": 215,
+        "nombre_solos": 522,
+        "nombre_actif": 593,
+        "pourcentage_actifs": 75
+    },
+    "Jazz": {
+        "nombre_groupes": 71,
+        "nombre_solos": 414,
+        "nombre_actif": 305,
+        "pourcentage_actifs": 60
+    },
+    "Country": {
+        "nombre_groupes": 116,
+        "nombre_solos": 366,
+        "nombre_actif": 384,
+        "pourcentage_actifs": 73
+    }
+}

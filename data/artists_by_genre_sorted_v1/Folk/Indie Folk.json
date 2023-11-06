@@ -1,0 +1,3869 @@
+[
+    {
+        "id": "56d94a33cc2ddd0c0f6b8020",
+        "name": "Mumford & Sons",
+        "type": "Group",
+        "genres": [
+            "Folk Rock",
+            "Indie Folk",
+            "Bluegrass"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/288092",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/288092/image",
+        "albums": [
+            "Love Your Ground",
+            "Sigh No More",
+            "Dharohar Project, Laura Marling And Mumford & Sons",
+            "Babel",
+            "Wilder Mind",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007-12",
+            "end": ""
+        },
+        "deezerFans": 584318,
+        "members": [
+            "“Country” Winston Marshall",
+            "Marcus Mumford",
+            "Ted Dwane",
+            "Ben Lovett"
+        ]
+    },
+    {
+        "id": "56d806eb53a7ddfc01f915e6",
+        "name": "Bon Iver",
+        "type": "Group",
+        "genres": [
+            "Folk",
+            "Indie",
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Jagjaguwar",
+            "4AD"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/78668",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/78668/image",
+        "albums": [
+            "For Emma, Forever Ago",
+            "Blood Bank",
+            "Bon Iver, Bon Iver",
+            "Other Releases"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 236222,
+        "members": [
+            "Justin Vernon",
+            "Michael Noyce",
+            "Sean Carey",
+            "Matthew McCaughan"
+        ]
+    },
+    {
+        "id": "56d800e353a7ddfc01f90d6b",
+        "name": "Beirut",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Folk",
+            "Pop",
+            "World Music"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 14,
+        "recordLabel": [
+            "4AD",
+            "Arts & Crafts México",
+            "Ba Da Bing Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3905",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3905/image",
+        "albums": [
+            "[[The Guns Of Brixton / Interior Of A Dutch House (2006)]]",
+            "Gulag Orkestar",
+            "Lon Gisland",
+            "Pompeii",
+            "Elephant Gun",
+            "The Flying Club Cup",
+            "March Of The Zapotec (2009)",
+            "The Rip Tide",
+            "No No No",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 200039,
+        "members": [
+            "Perrin Cloutier",
+            "Kelly Pratt",
+            "Jon Natchez",
+            "Aaron Arntz",
+            "Tracy Pratt",
+            "Nick Petree",
+            "Jason Poranski",
+            "Paul Collins",
+            "Greg Paulus",
+            "Ben Lanz",
+            "Kyle Resnick",
+            "Jeremy Barnes",
+            "Zach Condon",
+            "Kristin Ferebee"
+        ]
+    },
+    {
+        "id": "56d81ab953a7ddfc01f93223",
+        "name": "Daughter",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [
+            "4AD",
+            "Glassnote Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1028626",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1028626/image",
+        "albums": [
+            "His Young Heart",
+            "The Wild Youth",
+            "If You Leave",
+            "Not To Disappear",
+            "Songs on Compilations",
+            "B-sides"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 110326,
+        "members": [
+            "Elena Tonra",
+            "Igor Haefeli",
+            "Remi Aguilella"
+        ]
+    },
+    {
+        "id": "56d82f2a53a7ddfc01f94f8f",
+        "name": "Fleet Foxes",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Bella Union",
+            "Sub Pop",
+            "Arts & Crafts México"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/74444",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/74444/image",
+        "albums": [
+            "The Fleet Foxes",
+            "Sun Giant",
+            "Fleet Foxes",
+            "Helplessness Blues",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2006",
+            "end": "2012"
+        },
+        "deezerFans": 101035,
+        "members": [
+            "Nicholas Peterson",
+            "J. Tillman",
+            "Craig Curran",
+            "Robin Pecknold",
+            "Skyler Skjelset",
+            "Casey Wescott"
+        ]
+    },
+    {
+        "id": "56d7e91e6b60c09814f93e51",
+        "name": "A Banda Mais Bonita Da Cidade",
+        "type": "Group",
+        "genres": [
+            "MPB",
+            "Indie Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4613852",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4613852/image",
+        "albums": [
+            "A Banda Mais Bonita Da Cidade"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009",
+            "end": ""
+        },
+        "deezerFans": 100505,
+        "members": []
+    },
+    {
+        "id": "56d8392a53a7ddfc01f95d73",
+        "name": "Grizzly Bear",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk",
+            "Psych Folk",
+            "Experimental Rock"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Kanine Records",
+            "Warp (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13760",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13760/image",
+        "albums": [
+            "Horn Of Plenty",
+            "Horn Of Plenty (The Remixes)",
+            "Sorry For The Delay",
+            "Yellow House",
+            "Friend",
+            "Veckatimest",
+            "Shields",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2002",
+            "end": ""
+        },
+        "deezerFans": 78907,
+        "members": [
+            "Daniel Rossen",
+            "Chris Taylor",
+            "Ed Droste",
+            "Christopher Bear"
+        ]
+    },
+    {
+        "id": "56d96bd2cc2ddd0c0f6bb1a4",
+        "name": "She & Him",
+        "type": "Group",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/261566",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/261566/image",
+        "albums": [
+            "Volume One",
+            "Volume Two",
+            "A Very She & Him Christmas",
+            "Volume 3",
+            "Classics",
+            "Songs on Singles",
+            "Songs from Compilations and Soundtracks",
+            "Songs Featuring She & Him",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 71655,
+        "members": [
+            "M. Ward",
+            "Zooey Deschanel"
+        ]
+    },
+    {
+        "id": "56d8431953a7ddfc01f96c17",
+        "name": "Iron & Wine",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1653",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1653/image",
+        "albums": [
+            "The Creek Drank The Cradle",
+            "Summer 2002 Tour EP",
+            "The Sea & The Rhythm",
+            "Our Endless Numbered Days",
+            "ITunes Exclusive EP",
+            "Woman King",
+            "In The Reins",
+            "The Shepherd's Dog",
+            "Around The Well",
+            "Kiss Each Other Clean",
+            "Ghost On Ghost",
+            "Archive Series Volume No. 1",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1974-07-26",
+            "end": ""
+        },
+        "deezerFans": 71056,
+        "members": []
+    },
+    {
+        "id": "56d84d5353a7ddfc01f97abb",
+        "name": "José González",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1169",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1169/image",
+        "albums": [
+            "Crosses",
+            "Veneer",
+            "Remain EP",
+            "Stay In The Shade EP",
+            "In Our Nature",
+            "Vestiges & Claws",
+            "Songs Featuring José González",
+            "Songs On Compilations And Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1978-07-31",
+            "end": ""
+        },
+        "deezerFans": 67504,
+        "members": [
+            "Junip"
+        ]
+    },
+    {
+        "id": "56d857d653a7ddfc01f98a22",
+        "name": "Laura Marling",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Pop-Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 1,
+        "recordLabel": [
+            "WayOutWest Records",
+            "Virgin Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/211392",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/211392/image",
+        "albums": [
+            "The London Town EP",
+            "My Manic And I",
+            "Alas I Cannot Swim",
+            "I Speak Because I Can",
+            "A Creature I Don't Know",
+            "Once I Was An Eagle",
+            "Short Movie",
+            "Songs on Compilations",
+            "B-Sides",
+            "Featured Songs",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1990-02-01",
+            "end": ""
+        },
+        "deezerFans": 58152,
+        "members": [
+            "Noah and the Whale"
+        ]
+    },
+    {
+        "id": "56d94f78cc2ddd0c0f6b87ce",
+        "name": "Noah & The Whale",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Alternative Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Mercury Records",
+            "Cherrytree Records",
+            "Young & Lost Club",
+            "Vertigo Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/75628",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/75628/image",
+        "albums": [
+            "2 Bodies 1 Heart",
+            "Shape Of My Heart",
+            "Noah and the Whale Presents the A Sides",
+            "Peaceful, The World Lays Me Down",
+            "The First Days Of Spring",
+            "Last Night On Earth",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2006",
+            "end": "2015-04-01"
+        },
+        "deezerFans": 52305,
+        "members": [
+            "Sam Kinrade",
+            "Michael Petulla",
+            "Jon Carvell",
+            "Doug Fink",
+            "Fred Abbott",
+            "Matt Owens",
+            "Tom Hobden",
+            "Charlie Fink",
+            "Laura Marling"
+        ]
+    },
+    {
+        "id": "56d7f8ff53a7ddfc01f9018a",
+        "name": "AnnenMayKantereit",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock",
+            "Pop Rock"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/9068122",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/9068122/image",
+        "albums": [
+            "AMK",
+            "Wird Schon Irgendwie Gehen",
+            "Alles Nix Konkretes",
+            "Live and Unreleased Songs",
+            "Songs featuring AnnenMayKantereit"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 51169,
+        "members": [
+            "Henning May",
+            "Severin Kantereit",
+            "Christopher Annen"
+        ]
+    },
+    {
+        "id": "56d97c94cc2ddd0c0f6bcae4",
+        "name": "The Civil Wars",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/409894",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/409894/image",
+        "albums": [
+            "Poison & Wine",
+            "Tracks In The Snow",
+            "Barton Hollow",
+            "The Civil Wars",
+            "Songs On Compilations And Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2009",
+            "end": "2014-08-05"
+        },
+        "deezerFans": 37627,
+        "members": [
+            "Joy Williams",
+            "John Paul White"
+        ]
+    },
+    {
+        "id": "56d7f3ae53a7ddfc01f8f8e4",
+        "name": "Alela Diane",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Rough Trade Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/56202",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/56202/image",
+        "albums": [
+            "Forest Parade",
+            "The Pirate's Gospel",
+            "Songs Whistled Through White Teeth",
+            "To Be Still",
+            "Alela And Alina",
+            "Alela Diane & Wild Divine",
+            "About Farewell"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1983-04-20",
+            "end": ""
+        },
+        "deezerFans": 34292,
+        "members": []
+    },
+    {
+        "id": "56d9777bcc2ddd0c0f6bc3d4",
+        "name": "Sóley",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/82129",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/82129/image",
+        "albums": [
+            "Theater Island",
+            "We Sink",
+            "Ask The Deep"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 31427,
+        "members": [
+            "Seabear"
+        ]
+    },
+    {
+        "id": "56d97f44cc2ddd0c0f6bce86",
+        "name": "The Head And The Heart",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Heavenly Recordings",
+            "Kobalt Label Services",
+            "Sub Pop"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1065098",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1065098/image",
+        "albums": [
+            "The Head And The Heart",
+            "Let's Be Still",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2009",
+            "end": ""
+        },
+        "deezerFans": 26198,
+        "members": [
+            "Jonathan Russell",
+            "Josiah Johnson",
+            "Kenny Hensley",
+            "Tyler Williams",
+            "Charity Thielen"
+        ]
+    },
+    {
+        "id": "56d85f1953a7ddfc01f9952a",
+        "name": "Lucy Rose",
+        "type": "Person",
+        "genres": [
+            "Folk Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/412099",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/412099/image",
+        "albums": [
+            "Like I Used To",
+            "Work It Out"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-06-20",
+            "end": ""
+        },
+        "deezerFans": 20899,
+        "members": []
+    },
+    {
+        "id": "56d8003b53a7ddfc01f90ca2",
+        "name": "Bear's Den",
+        "type": "Group",
+        "genres": [
+            "Folk Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1690336",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1690336/image",
+        "albums": [
+            "Without/Within",
+            "Islands"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2012-03-12",
+            "end": ""
+        },
+        "deezerFans": 19121,
+        "members": []
+    },
+    {
+        "id": "56d97aa8cc2ddd0c0f6bc89f",
+        "name": "The Antlers",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk",
+            "Slowcore"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Fall Records",
+            "Frenchkiss Records",
+            "ANTI-",
+            "Transgressive Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/300265",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/300265/image",
+        "albums": [
+            "Uprooted",
+            "In The Attic Of The Universe",
+            "Cold War",
+            "New York Hospitals",
+            "Hospice",
+            "Burst Apart",
+            "(Together)",
+            "Undersea",
+            "Familiars"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 15648,
+        "members": [
+            "Peter Silberman",
+            "Michael Lerner",
+            "Darby Cicci"
+        ]
+    },
+    {
+        "id": "56d81ed453a7ddfc01f9381b",
+        "name": "DeVotchKa",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Gypsy Punk"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 1,
+        "recordLabel": [
+            "ANTI-",
+            "Ace Fu Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4657",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4657/image",
+        "albums": [
+            "SuperMelodrama",
+            "Una Volta",
+            "How It Ends",
+            "Curse Your Little Heart",
+            "[[Little Miss Sunshine (2006)|Little Miss Sunshine (2006)]]",
+            "A Mad & Faithful Telling",
+            "100 Lovers",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1997",
+            "end": ""
+        },
+        "deezerFans": 12518,
+        "members": []
+    },
+    {
+        "id": "56d9577acc2ddd0c0f6b93cd",
+        "name": "Pete Yorn",
+        "type": "Person",
+        "genres": [
+            "Alternative Rock",
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2205",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2205/image",
+        "albums": [
+            "Musicforthemorningafter",
+            "Day I Forgot",
+            "Live From New Jersey",
+            "Nightcrawler",
+            "Back & Fourth",
+            "Break Up",
+            "Pete Yorn",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1974-07-27",
+            "end": ""
+        },
+        "deezerFans": 9712,
+        "members": []
+    },
+    {
+        "id": "56d83d8153a7ddfc01f9636f",
+        "name": "Here We Go Magic",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Western Vinyl",
+            "Secretly Canadian"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/401911",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/401911/image",
+        "albums": [
+            "Here We Go Magic",
+            "Pigeons",
+            "The January EP",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 9426,
+        "members": [
+            "Jennifer Turner",
+            "Luke Temple"
+        ]
+    },
+    {
+        "id": "56d96990cc2ddd0c0f6bae27",
+        "name": "Seabear",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Morr Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/14588",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/14588/image",
+        "albums": [
+            "Singing Arc",
+            "The Ghost_That_Carried_Us_Away",
+            "We_Built_A_Fire",
+            "While The Fire Dies EP",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 7586,
+        "members": [
+            "Sindri Már Sigfússon",
+            "Sóley"
+        ]
+    },
+    {
+        "id": "56d7eef456847be81b3e8b95",
+        "name": "Adna",
+        "type": "Person",
+        "genres": [
+            "Pop Rock",
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1671410",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1671410/image",
+        "albums": [
+            "Night",
+            "Run, Lucifer"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 6513,
+        "members": []
+    },
+    {
+        "id": "56d94a8ecc2ddd0c0f6b80ce",
+        "name": "My Brightest Diamond",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Asthmatic Kitty"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13453",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/13453/image",
+        "albums": [
+            "Bring Me The Workhorse",
+            "A Thousand Shark's Teeth",
+            "All Things Will Unwind",
+            "This Is My Hand",
+            "Songs from Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1974-04-22",
+            "end": ""
+        },
+        "deezerFans": 6504,
+        "members": []
+    },
+    {
+        "id": "56d93afdce06f50c0fed834e",
+        "name": "Matt Costa",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Brushfire Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/75099",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/75099/image",
+        "albums": [
+            "Songs We Sing",
+            "Unfamiliar Faces",
+            "Mobile Chateau",
+            "Matt Costa",
+            "The Elasmosaurus",
+            "Misc. Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1982-06-16",
+            "end": ""
+        },
+        "deezerFans": 6477,
+        "members": []
+    },
+    {
+        "id": "56d96991cc2ddd0c0f6bae28",
+        "name": "Sea Wolf",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "MapleMusic Recordings",
+            "Albert Productions",
+            "Dangerbird Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/65872",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/65872/image",
+        "albums": [
+            "Get To The River Before It Runs Too Low",
+            "Leaves In The River",
+            "White Water, White Bloom",
+            "Old World Romance",
+            "Song Spells, No. 1: Cedarsmoke",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 6365,
+        "members": [
+            "Alex Church"
+        ]
+    },
+    {
+        "id": "56d820be53a7ddfc01f93aa0",
+        "name": "Dispatch",
+        "type": "Group",
+        "genres": [
+            "Jam Band",
+            "Indie Folk",
+            "Roots Rock",
+            "Reggae",
+            "Rap Rock",
+            "Ska"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Universal Records (defunct record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3342",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3342/image",
+        "albums": [
+            "Silent Steeples",
+            "Bang Bang",
+            "Four-Day Trials",
+            "Who Are We Living For?",
+            "Gut The Van",
+            "All Points Bulletin",
+            "Dispatch EP",
+            "Circles Around The Sun",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1996",
+            "end": ""
+        },
+        "deezerFans": 5824,
+        "members": [
+            "Braddigan",
+            "Chad Urmston",
+            "Pete Francis Heimbold"
+        ]
+    },
+    {
+        "id": "56d94a02cc2ddd0c0f6b7fc8",
+        "name": "Mrs. Greenbird",
+        "type": "Group",
+        "genres": [
+            "Folk",
+            "Folk Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4073481",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4073481/image",
+        "albums": [
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010-10",
+            "end": ""
+        },
+        "deezerFans": 5629,
+        "members": [
+            "Sarah Nücken",
+            "Steffen Brückner"
+        ]
+    },
+    {
+        "id": "56d84d2f53a7ddfc01f97a80",
+        "name": "Josh Rouse",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Indie Folk"
+        ],
+        "nombre_albums": 14,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Bedroom Classics",
+            "Rykodisc",
+            "Yep Roc Records",
+            "Nettwerk"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4545",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4545/image",
+        "albums": [
+            "Dressed Up Like Nebraska",
+            "Chester",
+            "Home",
+            "Bedroom Classics",
+            "Under Cold Blue Stars",
+            "1972",
+            "The Smooth Sounds Of Josh Rouse",
+            "Nashville",
+            "Bedroom Classics, Vol. 2",
+            "Subtitulo",
+            "She's Spanish, I'm American EP",
+            "Country Mouse City House",
+            "The Happiness Waltz",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1972-03-09",
+            "end": ""
+        },
+        "deezerFans": 5330,
+        "members": []
+    },
+    {
+        "id": "56d85f5f53a7ddfc01f9959c",
+        "name": "Luke Sital-Singh",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Raygun Records",
+            "Parlophone"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4086166",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4086166/image",
+        "albums": [
+            "Fail For You",
+            "Old Flint",
+            "The Fire Inside",
+            "The Breakneck Speed Of Tomorrow"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1988-03-11",
+            "end": ""
+        },
+        "deezerFans": 5128,
+        "members": []
+    },
+    {
+        "id": "56d974c9cc2ddd0c0f6bbf5e",
+        "name": "Stornoway",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock",
+            "Britpop"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Cooking Vinyl"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/287196",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/287196/image",
+        "albums": [
+            "Zorbing",
+            "Unfaithful",
+            "I Saw You Blink",
+            "Beachcomber's Windowsill",
+            "Tales From Terra Firma",
+            "Bonxie"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 5111,
+        "members": []
+    },
+    {
+        "id": "56d85c5753a7ddfc01f99132",
+        "name": "Lola Marsh",
+        "type": "",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Anova Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7692854",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/7692854/image",
+        "albums": [
+            "Sirens",
+            "You're Mine"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 5040,
+        "members": []
+    },
+    {
+        "id": "56d96641cc2ddd0c0f6ba913",
+        "name": "S. Carey",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Jagjaguwar"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/555091",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/555091/image",
+        "albums": [
+            "All We Grow",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 4643,
+        "members": []
+    },
+    {
+        "id": "56d81d5553a7ddfc01f935e6",
+        "name": "Deer Tick",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Feow! Records",
+            "Partisan Records",
+            "Loose Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/389788",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/389788/image",
+        "albums": [
+            "War Elephant",
+            "Born On Flag Day",
+            "The Black Dirt Sessions",
+            "Divine Providence",
+            "Tim EP",
+            "Negativity",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 4634,
+        "members": [
+            "John McAuley",
+            "John McAuley",
+            "Ian O'Neil"
+        ]
+    },
+    {
+        "id": "56d80d7c53a7ddfc01f91fad",
+        "name": "Cass McCombs",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Indie Folk",
+            "Alternative Country",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Domino Recording Company"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1594",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1594/image",
+        "albums": [
+            "Not The Way",
+            "A",
+            "Prefection",
+            "Dropping The Writ",
+            "Catacombs",
+            "Wit's End",
+            "Humor Risk"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-11-13",
+            "end": ""
+        },
+        "deezerFans": 4124,
+        "members": []
+    },
+    {
+        "id": "56d7ffd753a7ddfc01f90bf7",
+        "name": "Basia Bulat",
+        "type": "Person",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Rough Trade Records",
+            "Secret City Records",
+            "Hardwood Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13882",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/13882/image",
+        "albums": [
+            "Oh, My Darling",
+            "Heart Of My Own",
+            "Tall Tall Shadow",
+            "Good Advice",
+            "Songs from Singles and EPs",
+            "Songs from Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984-04-13",
+            "end": ""
+        },
+        "deezerFans": 3975,
+        "members": []
+    },
+    {
+        "id": "56d8079253a7ddfc01f916d6",
+        "name": "Bowerbirds",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Dead Oceans"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/68274",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/68274/image",
+        "albums": [
+            "Danger At Sea",
+            "Hymns For A Dark Horse",
+            "Upper Air",
+            "The Clearing"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 3691,
+        "members": [
+            "Mark Paulson",
+            "Phil Moore",
+            "Beth Tacular"
+        ]
+    },
+    {
+        "id": "56d94a89cc2ddd0c0f6b80c3",
+        "name": "My Baby",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Blues"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/155874",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/155874/image",
+        "albums": [
+            "Loves Voodoo!",
+            "Shamanaid"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2012",
+            "end": ""
+        },
+        "deezerFans": 3691,
+        "members": []
+    },
+    {
+        "id": "56d94c6acc2ddd0c0f6b834b",
+        "name": "Nathaniel Rateliff",
+        "type": "Group",
+        "genres": [
+            "Soul",
+            "Gospel",
+            "Folk Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Decca Records",
+            "Rounder Records",
+            "Stax Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/401644",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/401644/image",
+        "albums": [
+            "In Memory of Loss",
+            "Falling Faster Than You Can Run",
+            "Nathaniel Rateliff & The Night Sweats"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 3650,
+        "members": []
+    },
+    {
+        "id": "56d846bf53a7ddfc01f97177",
+        "name": "Jaymay",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Jaymay Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/121642",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/121642/image",
+        "albums": [
+            "Lvng Rm EP",
+            "Sea Green, See Blue",
+            "Autumn Fallin'",
+            "1 & !",
+            "Long Walk To Never",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-01-03",
+            "end": ""
+        },
+        "deezerFans": 2949,
+        "members": []
+    },
+    {
+        "id": "56d83ee953a7ddfc01f965c8",
+        "name": "Horse Feathers",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Kill Rock Stars"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/389648",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/389648/image",
+        "albums": [
+            "Words Are Dead",
+            "House With No Home",
+            "Thistled Spring"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 2722,
+        "members": [
+            "Sam Cooper",
+            "Catherine Odell",
+            "Nathan Crockett",
+            "Peter Broderick",
+            "Justin Ringle"
+        ]
+    },
+    {
+        "id": "56d984f3cc2ddd0c0f6bd67a",
+        "name": "The Swell Season",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "ANTI-"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/74005",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/74005/image",
+        "albums": [
+            "The Swell Season",
+            "Strict Joy",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2005",
+            "end": ""
+        },
+        "deezerFans": 2676,
+        "members": [
+            "Glen Hansard",
+            "Markéta Irglová"
+        ]
+    },
+    {
+        "id": "56d98110cc2ddd0c0f6bd0f1",
+        "name": "The Low Anthem",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Nonesuch Records",
+            "Bella Union",
+            "Elektra Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/173587",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/173587/image",
+        "albums": [
+            "The Low Anthem",
+            "What The Crow Brings",
+            "Oh My God, Charlie Darwin",
+            "Smart Flesh",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 2568,
+        "members": [
+            "Ben Knox Miller",
+            "Daniel Lefkowitz",
+            "Jeffrey Prystowsky",
+            "Jocie Adams"
+        ]
+    },
+    {
+        "id": "56d85def53a7ddfc01f9937a",
+        "name": "Lou Barlow",
+        "type": "Person",
+        "genres": [
+            "Lo-Fi",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Sub Pop",
+            "Domino Recording Company",
+            "Lo-fi music",
+            "Smells Like Records",
+            "City Slang",
+            "Merge Records",
+            "Mint Records",
+            "Joyful Noise Recordings",
+            "Shrimper Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4723",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4723/image",
+        "albums": [
+            "Emoh",
+            "Goodnight Unknown",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1966-07-17",
+            "end": ""
+        },
+        "deezerFans": 2555,
+        "members": [
+            "The Folk Implosion",
+            "Lou Barlow and Friends",
+            "Dinosaur Jr.",
+            "Deep Wound",
+            "Deluxx Folk Implosion",
+            "Sebadoh"
+        ]
+    },
+    {
+        "id": "56d85a1753a7ddfc01f98d86",
+        "name": "Lia Ices",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/330110",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/330110/image",
+        "albums": [
+            "Necima",
+            "Grown Unknown"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 2272,
+        "members": []
+    },
+    {
+        "id": "56d8476b53a7ddfc01f97278",
+        "name": "Jeffrey Lewis",
+        "type": "Person",
+        "genres": [
+            "Anti-Folk",
+            "Acoustic",
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Rough Trade Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5408",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/5408/image",
+        "albums": [
+            "The Last Time I Did Acid I Went Insane",
+            "It's The Ones Who've Cracked That The Light Shines Through",
+            "City & Eastern Songs",
+            "12 Crass Songs",
+            "'Em Are I",
+            "Manhattan",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-11-20",
+            "end": ""
+        },
+        "deezerFans": 2229,
+        "members": [
+            "Jeffrey Lewis & The Junkyard",
+            "Jeffrey Lewis & Los Bolts"
+        ]
+    },
+    {
+        "id": "56d97e33cc2ddd0c0f6bcd13",
+        "name": "The Felice Brothers",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk",
+            "Electropop"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Fat Possum Records",
+            "Loose Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/258404",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/258404/image",
+        "albums": [
+            "Iantown",
+            "Through These Reins And Gone",
+            "Tonight At The Arizona",
+            "Adventures Of The Felice Brothers Vol. 1",
+            "The Felice Brothers",
+            "Yonder Is The Clock",
+            "Celebration, Florida",
+            "God Bless You Amigo",
+            "Favorite Waitress",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 2149,
+        "members": [
+            "James Felice",
+            "Ian Felice",
+            "Christmas",
+            "Simone Felice",
+            "Greg Farley"
+        ]
+    },
+    {
+        "id": "56d94106ce06f50c0fed8ca2",
+        "name": "Mojave 3",
+        "type": "Group",
+        "genres": [
+            "Indie Pop",
+            "Dream Pop",
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 5,
+        "recordLabel": [
+            "4AD"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4009",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4009/image",
+        "albums": [
+            "Ask Me Tomorrow",
+            "Out Of Tune",
+            "Excuses For Travellers",
+            "Spoon And Rafter",
+            "Puzzles Like You",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1994",
+            "end": ""
+        },
+        "deezerFans": 2125,
+        "members": [
+            "Simon Rowe",
+            "Neil Halstead",
+            "Ian McCutcheon",
+            "Rachel Goswell",
+            "Alan Forrester"
+        ]
+    },
+    {
+        "id": "56d964fdcc2ddd0c0f6ba74a",
+        "name": "Roy Harper",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Rock",
+            "Alternative Rock",
+            "Progressive Folk",
+            "Indie Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 28,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Harvest Records",
+            "Beggars Banquet Records",
+            "Chrysalis Records",
+            "I.R.S. Records",
+            "Bella Union",
+            "Science Friction",
+            "Columbia Records",
+            "Liberty Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/128235",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/128235/image",
+        "albums": [
+            "Sophisticated Beggar",
+            "Come Out Fighting Ghengis Smith",
+            "Folkjokeopus",
+            "Flat Baroque And Berserk",
+            "Stormcock",
+            "Lifemask",
+            "Flashes From The Archives Of Oblivion",
+            "Valentine",
+            "HQ",
+            "Bullinamingvase",
+            "The Unknown Soldier",
+            "Work Of Heart",
+            "Born In Captivity",
+            "Whatever Happened To Jugula",
+            "In Between Every Line",
+            "Loony On The Bus",
+            "...Descendants Of Smith",
+            "Once",
+            "Death Or Glory?",
+            "Unhinged",
+            "Commercial Breaks",
+            "An Introduction To .....",
+            "The Dream Society",
+            "The Green Man",
+            "Hats Off",
+            "Royal Festival Hall Live 2001",
+            "Counter Culture",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1941-06-12",
+            "end": ""
+        },
+        "deezerFans": 2108,
+        "members": []
+    },
+    {
+        "id": "56d9941ecc2ddd0c0f6bed29",
+        "name": "Will Oldham",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Drag City (record label)",
+            "Domino Recording Company",
+            "Spunk (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1628",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1628/image",
+        "albums": [
+            "Joya",
+            "Black/Rich Music",
+            "All Most Heaven",
+            "Guarapero: Lost Blues 2",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970-12-24",
+            "end": ""
+        },
+        "deezerFans": 2100,
+        "members": [
+            "Amalgamated Sons of Rest",
+            "Chivalrous Amoekons",
+            "Boxhead Ensemble",
+            "Havanarama",
+            "The Pieces of Shit"
+        ]
+    },
+    {
+        "id": "56d9395bce06f50c0fed80db",
+        "name": "Mark Kozelek",
+        "type": "Person",
+        "genres": [
+            "Folk Rock",
+            "Indie Folk",
+            "Slowcore"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Caldo Verde Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7158",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7158/image",
+        "albums": [
+            "Rock 'N' Roll Singer",
+            "What's Next To The Moon",
+            "If You Want Blood",
+            "White Christmas Live",
+            "Little Drummer Boy Live",
+            "Nights LP",
+            "7 Songs Belfast",
+            "The Finally LP",
+            "Find Me, Ruben Olivares: Live In Spain",
+            "Lost Verses Live",
+            "Live At Union Chapel & Södra Teatern"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967-01-24",
+            "end": ""
+        },
+        "deezerFans": 1998,
+        "members": [
+            "Red House Painters",
+            "Sun Kil Moon"
+        ]
+    },
+    {
+        "id": "56d84c2053a7ddfc01f978ed",
+        "name": "Jolie Holland",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Alternative Country"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "ANTI-"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1646",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1646/image",
+        "albums": [
+            "Catalpa",
+            "Escondida",
+            "Springtime Can Kill You",
+            "The Living And The Dead",
+            "Pint Of Blood",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-09-11",
+            "end": ""
+        },
+        "deezerFans": 1955,
+        "members": [
+            "The Be Good Tanyas"
+        ]
+    },
+    {
+        "id": "56d97c42cc2ddd0c0f6bca96",
+        "name": "The Cave Singers",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Matador Records",
+            "Jagjaguwar"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/75943",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/75943/image",
+        "albums": [
+            "Invitation Songs",
+            "Welcome Joy",
+            "No Witch",
+            "Naomi"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 1953,
+        "members": [
+            "Peter Quirk",
+            "Marty Lund",
+            "Derek Fudesco"
+        ]
+    },
+    {
+        "id": "56d80ae753a7ddfc01f91bc6",
+        "name": "C Duncan",
+        "type": "Person",
+        "genres": [
+            "Dream Pop",
+            "Indie Folk",
+            "Indie Pop",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "FatCat Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7141693",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7141693/image",
+        "albums": [
+            "Architect"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-07-29",
+            "end": ""
+        },
+        "deezerFans": 1888,
+        "members": []
+    },
+    {
+        "id": "56d84f4453a7ddfc01f97d27",
+        "name": "Justin Vernon",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Folk",
+            "Indie",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1234202",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1234202/image",
+        "albums": [
+            "Home Is",
+            "Self Record",
+            "Hazeltons",
+            "Songs on Compilations",
+            "Songs featuring Justin Vernon",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981-04-30",
+            "end": ""
+        },
+        "deezerFans": 1790,
+        "members": [
+            "Bon Iver",
+            "DeYarmond Edison",
+            "Mount Vernon",
+            "Volcano Choir"
+        ]
+    },
+    {
+        "id": "56d948a2cc2ddd0c0f6b7dbd",
+        "name": "Monsters Of Folk",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Shangri-La Music",
+            "Rough Trade Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/282495",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/282495/image",
+        "albums": [
+            "Monsters Of Folk",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 1648,
+        "members": [
+            "M. Ward"
+        ]
+    },
+    {
+        "id": "56d7f17556847be81b3e8f75",
+        "name": "Alejandro Y María Laura",
+        "type": "",
+        "genres": [
+            "Pop Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/5935927",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5935927/image",
+        "albums": [
+            "Paracaídas"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1641,
+        "members": []
+    },
+    {
+        "id": "56d980f2cc2ddd0c0f6bd0b0",
+        "name": "The Lone Bellow",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4073430",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4073430/image",
+        "albums": [
+            "The Lone Bellow",
+            "Then Came The Morning"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 1616,
+        "members": []
+    },
+    {
+        "id": "56d837a253a7ddfc01f95b39",
+        "name": "Good Old War",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Nettwerk"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/402787",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/402787/image",
+        "albums": [
+            "Only Way To Be Alone",
+            "Good Old War",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 1600,
+        "members": [
+            "Keith Goodwin",
+            "Tim Arnold",
+            "Daniel Schwartz"
+        ]
+    },
+    {
+        "id": "56d9882acc2ddd0c0f6bdb1f",
+        "name": "Tift Merritt",
+        "type": "Person",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Fantasy Records",
+            "Universal Music Group Nashville",
+            "Yep Roc Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7479",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/7479/image",
+        "albums": [
+            "Bramble Rose",
+            "Tambourine",
+            "Another Country",
+            "See You On The Moon",
+            "Traveling Alone",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-01-08",
+            "end": ""
+        },
+        "deezerFans": 1376,
+        "members": []
+    },
+    {
+        "id": "56d96363cc2ddd0c0f6ba51b",
+        "name": "Rocky Votolato",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter",
+            "Alternative Country"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Second Nature Recordings",
+            "Status Recordings",
+            "Barsuk Records",
+            "No Sleep Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/9060",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/9060/image",
+        "albums": [
+            "Rocky Votolato",
+            "A Brief History",
+            "Burning My Travels Clean",
+            "Suicide Medicine",
+            "Light And Sound EP",
+            "Makers",
+            "End Like This",
+            "The Brag And Cuss",
+            "True Devotion",
+            "Television Of Saints"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-03-08",
+            "end": ""
+        },
+        "deezerFans": 1273,
+        "members": [
+            "Waxwing"
+        ]
+    },
+    {
+        "id": "56d83d3853a7ddfc01f962e6",
+        "name": "Hellsongs",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop",
+            "Lounge Music"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/303056",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/303056/image",
+        "albums": [
+            "Lounge",
+            "Hymns In The Key Of 666",
+            "Pieces Of Heaven, A Glimpse Of Hell",
+            "Minor Misdemeanors",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 1203,
+        "members": []
+    },
+    {
+        "id": "56d95370cc2ddd0c0f6b8e39",
+        "name": "Over The Rhine",
+        "type": "Group",
+        "genres": [
+            "Folk",
+            "Indie Folk",
+            "Americana"
+        ],
+        "nombre_albums": 23,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Back Porch Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4110",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4110/image",
+        "albums": [
+            "Till We Have Faces",
+            "Patience",
+            "Eve",
+            "Good Dog Bad Dog",
+            "The Darkest Night Of The Year",
+            "Besides",
+            "Amateur Shortwave Radio",
+            "Films For Radio",
+            "The Cutting Room Floor",
+            "Ohio",
+            "Changes Come",
+            "Drunkard's Prayer",
+            "Live From Nowhere Volume One",
+            "Snow Angels",
+            "Discount Fireworks",
+            "Live From Nowhere Volume Two",
+            "The Trumpet Child",
+            "Live From Nowhere Volume Three",
+            "Live From Nowhere Volume Four",
+            "The Long Surrender",
+            "Meet Me At The Edge Of The World",
+            "Blood Oranges In The Snow",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989",
+            "end": ""
+        },
+        "deezerFans": 1195,
+        "members": [
+            "Linford Detweiler",
+            "Karin Bergquist",
+            "Ric Hordinski",
+            "Brian Kelley"
+        ]
+    },
+    {
+        "id": "56d8485c53a7ddfc01f973e7",
+        "name": "Jessica Lea Mayfield",
+        "type": "Person",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/396977",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/396977/image",
+        "albums": [
+            "White Lies EP",
+            "With Blasphemy So Heartfelt",
+            "Tell Me"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1989-08-27",
+            "end": ""
+        },
+        "deezerFans": 1166,
+        "members": []
+    },
+    {
+        "id": "56d94a78cc2ddd0c0f6b809d",
+        "name": "Musée Mécanique",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/343976",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/343976/image",
+        "albums": [
+            "Hold This Ghost"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 1164,
+        "members": []
+    },
+    {
+        "id": "56d97d63cc2ddd0c0f6bcbd0",
+        "name": "The Deep Dark Woods",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Alternative Country"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Six Shooter Records",
+            "Sugar Hill Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/404906",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/404906/image",
+        "albums": [
+            "The Deep Dark Woods",
+            "Hang Me, Oh Hang Me",
+            "Winter Hours"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1088,
+        "members": []
+    },
+    {
+        "id": "56d93c76ce06f50c0fed85b4",
+        "name": "Megafaun",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Alternative Country"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/67314",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/67314/image",
+        "albums": [
+            "Bury The Square",
+            "Gather, Form & Fly",
+            "Heretofore",
+            "Megafaun"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006-08",
+            "end": ""
+        },
+        "deezerFans": 1052,
+        "members": [
+            "Brad Cook",
+            "Phil Cook",
+            "Joe Westerlund"
+        ]
+    },
+    {
+        "id": "56d83c1153a7ddfc01f96158",
+        "name": "Hayden",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/10626",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/10626/image",
+        "albums": [
+            "Everything I Long For",
+            "Mild And Hazy",
+            "Moving Careful",
+            "Carry On Mentality",
+            "The Closer I Get",
+            "Skyscraper National Park",
+            "Live At Convocation Hall",
+            "Elk-Lake Serenade",
+            "In Field & Town",
+            "The Place Where We Lived",
+            "Songs from Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1971-02-12",
+            "end": ""
+        },
+        "deezerFans": 1050,
+        "members": []
+    },
+    {
+        "id": "56d83ecd53a7ddfc01f9658b",
+        "name": "Hop Along",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Anti-Folk",
+            "Experimental"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/520732",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/520732/image",
+        "albums": [
+            "Freshman Year",
+            "Wretches",
+            "Is Something Wrong?",
+            "Get Disowned",
+            "Painted Shut",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2005",
+            "end": ""
+        },
+        "deezerFans": 917,
+        "members": [
+            "Dominic Angelella"
+        ]
+    },
+    {
+        "id": "56d98092cc2ddd0c0f6bd03b",
+        "name": "The Last Bison",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4043552",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4043552/image",
+        "albums": [
+            "Quill",
+            "Inheritance",
+            "Sleigh Ride",
+            "VA"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 813,
+        "members": [
+            "Amos Housworth"
+        ]
+    },
+    {
+        "id": "56d8326153a7ddfc01f95437",
+        "name": "Fruit Bats",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Perishable Records",
+            "Sub Pop"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/317813",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/317813/image",
+        "albums": [
+            "Echolocation",
+            "Mouthfuls",
+            "Spelled In Bones",
+            "The Ruminant Band",
+            "Tripper"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1997",
+            "end": ""
+        },
+        "deezerFans": 773,
+        "members": [
+            "Eric Johnson"
+        ]
+    },
+    {
+        "id": "56d85bbf53a7ddfc01f9903a",
+        "name": "Little Scream",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Secretly Canadian",
+            "Outside Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/656309",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/656309/image",
+        "albums": [
+            "The Golden Record"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 773,
+        "members": []
+    },
+    {
+        "id": "56d85c9553a7ddfc01f9916b",
+        "name": "Loney, Dear",
+        "type": "Person",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Polyvinyl Record Co.",
+            "Sub Pop"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/211447",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/211447/image",
+        "albums": [
+            "The Year Of River Fontana",
+            "Citadel Band",
+            "Loney, Noir",
+            "Sologne",
+            "Dear John",
+            "Hall Music"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1979",
+            "end": ""
+        },
+        "deezerFans": 763,
+        "members": []
+    },
+    {
+        "id": "56d8582353a7ddfc01f98a7c",
+        "name": "Lavender Diamond",
+        "type": "Group",
+        "genres": [
+            "Dream Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Paracadute",
+            "Matador Records",
+            "Rough Trade Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13070",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13070/image",
+        "albums": [
+            "The Cavalry Of Light",
+            "Imagine Our Love",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 756,
+        "members": [
+            "Becky Stark",
+            "Steve Gregoropoulos",
+            "Jeffrey Rosenberg",
+            "Ron Regé, Jr."
+        ]
+    },
+    {
+        "id": "56d853e453a7ddfc01f98455",
+        "name": "Kiss & Drive",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1423377",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1423377/image",
+        "albums": [
+            "My Mood Changes"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 692,
+        "members": []
+    },
+    {
+        "id": "56d9862ecc2ddd0c0f6bd81e",
+        "name": "The Watson Twins",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Team Love Records",
+            "Vanguard Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/211295",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/211295/image",
+        "albums": [
+            "Fire Songs",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 605,
+        "members": [
+            "Chandra Watson",
+            "Leigh Watson"
+        ]
+    },
+    {
+        "id": "56d95a7fcc2ddd0c0f6b97f2",
+        "name": "Poor Moon",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Bella Union",
+            "Sub Pop"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1675368",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1675368/image",
+        "albums": [
+            "Illusion",
+            "Poor Moon"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 600,
+        "members": [
+            "Christian Wargo",
+            "Casey Wescott"
+        ]
+    },
+    {
+        "id": "56d7f66d53a7ddfc01f8fd9d",
+        "name": "Amy Millan",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop",
+            "Alternative Country"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Arts & Crafts Productions"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16213",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/16213/image",
+        "albums": [
+            "Honey From The Tombs",
+            "Masters Of The Burial"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1973-12-03",
+            "end": ""
+        },
+        "deezerFans": 558,
+        "members": [
+            "Broken Social Scene",
+            "Stars"
+        ]
+    },
+    {
+        "id": "56d857cb53a7ddfc01f98a05",
+        "name": "Laura Cantrell",
+        "type": "Person",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5540",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5540/image",
+        "albums": [
+            "Not The Tremblin' Kind",
+            "When The Roses Bloom Again",
+            "Humming By The Flowered Vine",
+            "Trains And Boats And Planes",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967-07-16",
+            "end": ""
+        },
+        "deezerFans": 558,
+        "members": []
+    },
+    {
+        "id": "56d93f9fce06f50c0fed8a93",
+        "name": "Mimicking Birds",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/441562",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/441562/image",
+        "albums": [
+            "Mimicking Birds",
+            "Eons"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 504,
+        "members": []
+    },
+    {
+        "id": "56d82aa553a7ddfc01f9489f",
+        "name": "Essie Jain",
+        "type": "Person",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1012945",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/1012945/image",
+        "albums": [
+            "We Made This Ourselves",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 490,
+        "members": []
+    },
+    {
+        "id": "56d96f77cc2ddd0c0f6bb73c",
+        "name": "Smog",
+        "type": "",
+        "genres": [
+            "Lo-Fi",
+            "Indie Folk",
+            "Alternative Country"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Drag City (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/78903",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/78903/image",
+        "albums": [
+            "Sewn To The Sky",
+            "Floating",
+            "Julius Caesar",
+            "Burning Kingdom",
+            "Wild Love",
+            "The Doctor Came At Dawn",
+            "Kicking A Couple Around",
+            "Red Apple Falls",
+            "Knock Knock",
+            "Dongs Of Sevotion",
+            "The Manta Rays Of Time",
+            "Rain On Lens",
+            "Accumulation: None",
+            "Supper",
+            "A River Ain't Too Much To Love",
+            "Woke On A Whaleheart",
+            "Sometimes I Wish We Were An Eagle",
+            "Rough Travel For A Rare Thing",
+            "Apocalypse",
+            "Dream River",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 471,
+        "members": []
+    },
+    {
+        "id": "56d8275253a7ddfc01f9444f",
+        "name": "Eleni Mandell",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Yep Roc Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13469",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/13469/image",
+        "albums": [
+            "Wishbone",
+            "Thrill",
+            "Snakebite",
+            "Country For True Lovers",
+            "Maybe, Yes",
+            "Afternoon",
+            "Miracle Of Five",
+            "Artificial Fire",
+            "I Can See The Future",
+            "Let's Fly A Kite",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969-10",
+            "end": ""
+        },
+        "deezerFans": 443,
+        "members": [
+            "The Living Sisters"
+        ]
+    },
+    {
+        "id": "56d8160153a7ddfc01f92b03",
+        "name": "Cotton Jones",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/402128",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/402128/image",
+        "albums": [
+            "Paranoid Cocoon",
+            "Tall Hours In The Glowstream"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2005",
+            "end": ""
+        },
+        "deezerFans": 422,
+        "members": []
+    },
+    {
+        "id": "56d93d99ce06f50c0fed876a",
+        "name": "Meursault",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Song, by Toad Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/392260",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/392260/image",
+        "albums": [
+            "Pissing On Bonfires/Kissing With Tongues",
+            "All Creatures Will Make Merry",
+            "Something For The Weakened"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 420,
+        "members": []
+    },
+    {
+        "id": "56d97df5cc2ddd0c0f6bccc4",
+        "name": "The Essex Green",
+        "type": "",
+        "genres": [
+            "Psychedelic Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Kindercore Records",
+            "Merge Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/11007",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/11007/image",
+        "albums": [
+            "Everything Is Green",
+            "The Long Goodbye",
+            "Cannibal Sea"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 415,
+        "members": []
+    },
+    {
+        "id": "56d840e353a7ddfc01f968ab",
+        "name": "Ida",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 10,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Polyvinyl Record Co."
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/67297",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/67297/image",
+        "albums": [
+            "Tales Of Brave Ida",
+            "I Know About You",
+            "Ten Small Paces",
+            "Will You Find Me",
+            "Live At Carnegie Hall",
+            "The Braille Night",
+            "Heart Like A River",
+            "Lovers Prayers",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1992",
+            "end": ""
+        },
+        "deezerFans": 399,
+        "members": [
+            "Elizabeth Mitchell",
+            "Daniel Littleton",
+            "Michael \"Miggy\" Littleton",
+            "Karla Schickele"
+        ]
+    },
+    {
+        "id": "56d8049553a7ddfc01f91281",
+        "name": "Black Prairie",
+        "type": "Group",
+        "genres": [
+            "Folk",
+            "Indie Folk",
+            "Bluegrass"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sugar Hill Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/369397",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/369397/image",
+        "albums": [
+            "Feast Of The Hunters' Moon",
+            "Songs On Compilations And Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2007",
+            "end": ""
+        },
+        "deezerFans": 376,
+        "members": []
+    },
+    {
+        "id": "56d81a7e53a7ddfc01f931d4",
+        "name": "Darren Hanlon",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Candle Records",
+            "Yep Roc Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/370454",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/370454/image",
+        "albums": [
+            "Early Days",
+            "Hello Stranger",
+            "Little Chills",
+            "Fingertips And Mountaintops",
+            "Pointing Ray Guns At Pagans",
+            "I Will Love You At All",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 368,
+        "members": []
+    },
+    {
+        "id": "56d96be6cc2ddd0c0f6bb1c6",
+        "name": "Sheep, Dog & Wolf",
+        "type": "",
+        "genres": [
+            "Indie Folk",
+            "Jazz"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/6885337",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6885337/image",
+        "albums": [
+            "Egospect"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 359,
+        "members": []
+    },
+    {
+        "id": "56d9767ecc2ddd0c0f6bc238",
+        "name": "Sus Dungo",
+        "type": "Group",
+        "genres": [
+            "Ambient",
+            "Indie Folk",
+            "Indie Pop",
+            "Post-Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/7968764",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/7968764/image",
+        "albums": [
+            "Rasā Pēdas",
+            "Down The River",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2010",
+            "end": ""
+        },
+        "deezerFans": 356,
+        "members": [
+            "Diāna Čepurnaja",
+            "Elizabete Lāce"
+        ]
+    },
+    {
+        "id": "56d80bcd53a7ddfc01f91d3b",
+        "name": "Canada",
+        "type": "Group",
+        "genres": [
+            "Indie Folk",
+            "Indie Pop"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Quite Scientific"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/15835",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/15835/image",
+        "albums": [
+            "This Cursed House"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2004",
+            "end": ""
+        },
+        "deezerFans": 343,
+        "members": []
+    },
+    {
+        "id": "56d95387cc2ddd0c0f6b8e5c",
+        "name": "Owl John",
+        "type": "Person",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6176756",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/6176756/image",
+        "albums": [
+            "Owl John"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 289,
+        "members": []
+    },
+    {
+        "id": "56d85bfc53a7ddfc01f9908b",
+        "name": "Liz Durrett",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Alternative Country"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Warm Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/270653",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/270653/image",
+        "albums": [
+            "Husk",
+            "The Mezzanine",
+            "Outside Our Gates",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1978",
+            "end": ""
+        },
+        "deezerFans": 269,
+        "members": []
+    },
+    {
+        "id": "56d814e253a7ddfc01f92957",
+        "name": "Communist Daughter",
+        "type": "",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/365060",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/365060/image",
+        "albums": [
+            "Soundtrack To The End",
+            "Lions & Lambs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 264,
+        "members": []
+    },
+    {
+        "id": "56d85c0453a7ddfc01f9909b",
+        "name": "Liza Anne",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Country"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/5436386",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/5436386/image",
+        "albums": [
+            "I'm A Bird",
+            "The Colder Months",
+            "Two"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 260,
+        "members": []
+    },
+    {
+        "id": "56d81cf253a7ddfc01f93524",
+        "name": "Death Vessel",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Sub Pop",
+            "ATP Recordings"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/81445",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/81445/image",
+        "albums": [
+            "Stay Close",
+            "Nothing Is Precious Enough For Us",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 251,
+        "members": []
+    },
+    {
+        "id": "56d82dd853a7ddfc01f94da8",
+        "name": "Ferraby Lionheart",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Lights & Buttons",
+            "Thirty Tigers",
+            "Nettwerk"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/390618",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/390618/image",
+        "albums": [
+            "EP",
+            "Catch The Brass Ring",
+            "The Jack Of Hearts"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-05-01",
+            "end": ""
+        },
+        "deezerFans": 231,
+        "members": []
+    },
+    {
+        "id": "56d85f5b53a7ddfc01f9958e",
+        "name": "Luke Doucet",
+        "type": "Person",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk",
+            "Indie Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Six Shooter Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/330560",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/330560/image",
+        "albums": [
+            "Aloha, Manitoba",
+            "Outlaws (Live And Unreleased)",
+            "Broken (And Other Rogue States)",
+            "Fokestar",
+            "Blood's Too Rich",
+            "Steel City Trawler"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1973-06-09",
+            "end": ""
+        },
+        "deezerFans": 200,
+        "members": [
+            "Whitehorse"
+        ]
+    },
+    {
+        "id": "56d8333553a7ddfc01f9556d",
+        "name": "Gabriel Kahane",
+        "type": "Person",
+        "genres": [
+            "Indie Folk",
+            "Singer-Songwriter",
+            "Classical"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/147474",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/147474/image",
+        "albums": [
+            "Gabriel Kahane",
+            "Where Are The Arms",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1981",
+            "end": ""
+        },
+        "deezerFans": 157,
+        "members": []
+    },
+    {
+        "id": "56d94ba3cc2ddd0c0f6b826c",
+        "name": "Nana Grizol",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Orange Twin Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1280956",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1280956/image",
+        "albums": [
+            "Love It Love It",
+            "Ruth"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 156,
+        "members": []
+    },
+    {
+        "id": "56d972dccc2ddd0c0f6bbc8e",
+        "name": "Starlet",
+        "type": "",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1230692",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1230692/image",
+        "albums": [
+            "Stay On My Side",
+            "When Sun Falls On My Feet",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 120,
+        "members": []
+    },
+    {
+        "id": "56d8415053a7ddfc01f96953",
+        "name": "Illinois",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Rockhampton Records",
+            "Ace Fu Records",
+            "+1 Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/154157",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/154157/image",
+        "albums": [
+            "The Revenge Of Some Kid",
+            "What The Hell Do I Know?",
+            "The Adventures Of Kid Catastrophe",
+            "Lemonade Stand"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 110,
+        "members": []
+    },
+    {
+        "id": "56d98196cc2ddd0c0f6bd1cb",
+        "name": "The Migrant",
+        "type": "Person",
+        "genres": [
+            "Experimental",
+            "Indie Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/562520",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/562520/image",
+        "albums": [
+            "Travels In Lowland",
+            "Amerika",
+            "Flood"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 103,
+        "members": []
+    },
+    {
+        "id": "56d980edcc2ddd0c0f6bd0a6",
+        "name": "The Living Sisters",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Indie Folk"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Vanguard Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/504737",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/504737/image",
+        "albums": [
+            "Love To Live"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2006",
+            "end": ""
+        },
+        "deezerFans": 86,
+        "members": [
+            "Becky Stark",
+            "Inara George",
+            "Alex Lilly",
+            "Eleni Mandell"
+        ]
+    },
+    {
+        "id": "56d84b7453a7ddfc01f97819",
+        "name": "John Wesley Harding",
+        "type": "Person",
+        "genres": [
+            "Folk Rock",
+            "Indie Folk"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66086",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66086/image",
+        "albums": [
+            "It Happened One Night",
+            "Here Comes The Groom",
+            "The Name Above The Title",
+            "Why We Fight",
+            "Dynablob",
+            "John Wesley Harding's New Deal",
+            "Dynablob 2: It Happened Every Night",
+            "Awake",
+            "Trad Arr Jones",
+            "Dynablob 3: 26th March 1999",
+            "The Confessions Of St. Ace",
+            "Swings And Roundabouts (Dynablob 4)",
+            "Adam's Apple",
+            "Who Was Changed And Who Was Dead",
+            "The Sound Of His Own Voice",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1965-10-22",
+            "end": ""
+        },
+        "deezerFans": 84,
+        "members": []
+    },
+    {
+        "id": "56d9804fcc2ddd0c0f6bcfd0",
+        "name": "The Kennedys",
+        "type": "Group",
+        "genres": [
+            "Indie Pop",
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 2,
+        "recordLabel": [
+            "music.com/",
+            "Rounder Records",
+            "The Kennedys, LLC",
+            "Jiffyjam Records",
+            "Varèse Sarabande"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/391627",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/391627/image",
+        "albums": [
+            "River Of Fallen Stars",
+            "Angel Fire",
+            "Get It Right",
+            "Better Dreams",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1994",
+            "end": ""
+        },
+        "deezerFans": 79,
+        "members": []
+    },
+    {
+        "id": "56d7f62953a7ddfc01f8fd49",
+        "name": "Among The Oak & Ash",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/288326",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/288326/image",
+        "albums": [
+            "Among The Oak & Ash",
+            "Devil Ship"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 74,
+        "members": [
+            "Garrison Starr",
+            "Josh Joplin"
+        ]
+    },
+    {
+        "id": "56d80ba453a7ddfc01f91cef",
+        "name": "Cambio Sun",
+        "type": "",
+        "genres": [
+            "Indie Folk",
+            "Alternative Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/7022035",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/7022035/image",
+        "albums": [
+            "Retisent"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 68,
+        "members": []
+    },
+    {
+        "id": "56d82dca53a7ddfc01f94d91",
+        "name": "Fern Knight",
+        "type": "Group",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1261194",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1261194/image",
+        "albums": [
+            "Seven Years Of Severed Limbs",
+            "Music For Witches And Alchemists",
+            "Fern Knight",
+            "Castings"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 55,
+        "members": []
+    },
+    {
+        "id": "56d80b6f53a7ddfc01f91c92",
+        "name": "Calexico And Iron & Wine",
+        "type": "",
+        "genres": [
+            "Indie Folk",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "EMI",
+            "Our Soil, Our Strength",
+            "Quarterstick Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/10469831",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/10469831/image",
+        "albums": [
+            "In The Reins",
+            "Songs from Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 25,
+        "members": []
+    },
+    {
+        "id": "56d97bf4cc2ddd0c0f6bca27",
+        "name": "The Brook Lee Catastrophe",
+        "type": "",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/813797",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/813797/image",
+        "albums": [
+            "Mistakes Pt. 1",
+            "The Weight Of Waiting",
+            "American Hotel",
+            "Motel Americana"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 11,
+        "members": []
+    },
+    {
+        "id": "56d8247e53a7ddfc01f94085",
+        "name": "Dusk (GR)",
+        "type": "",
+        "genres": [
+            "Indie Folk",
+            "Indie Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 12,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1693766",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1693766/image",
+        "albums": [
+            "The Debut Of Crossing The Lines"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 10,
+        "members": []
+    },
+    {
+        "id": "56d8088353a7ddfc01f91864",
+        "name": "Brian Dewan",
+        "type": "Person",
+        "genres": [
+            "Indie Folk"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/62910",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/62910/image",
+        "albums": [
+            "Tells The Story",
+            "Brian Dewan",
+            "The Operating Theater",
+            "Words Of Wisdom",
+            "Songs from Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 4,
+        "members": []
+    }
+]

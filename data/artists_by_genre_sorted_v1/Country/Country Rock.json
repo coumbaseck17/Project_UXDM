@@ -1,0 +1,3352 @@
+[
+    {
+        "id": "56d806f053a7ddfc01f915e9",
+        "name": "Bon Jovi",
+        "type": "Group",
+        "genres": [
+            "Glam Metal",
+            "Hard Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 22,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Mercury Records",
+            "Island Records",
+            "Universal Music Group Nashville"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/637",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/637/image",
+        "albums": [
+            "Bon Jovi",
+            "7800 Degrees Fahrenheit",
+            "Slippery When Wet",
+            "New Jersey",
+            "Keep The Faith",
+            "Cross Road",
+            "These Days",
+            "Crush",
+            "One Wild Night Live 1985-2001",
+            "Bounce",
+            "This Left Feels Right: Greatest Hits With A Twist",
+            "100,000 Bon Jovi Fans Can't Be Wrong...",
+            "Have A Nice Day",
+            "Lost Highway",
+            "The Circle",
+            "Greatest Hits",
+            "What About Now",
+            "Burning Bridges",
+            "Live and Unreleased Songs",
+            "Songs on Compilations and Soundtracks",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1983",
+            "end": ""
+        },
+        "deezerFans": 2854949,
+        "members": [
+            "David Bryan",
+            "Richie Sambora",
+            "Jon Bon Jovi",
+            "Phil X",
+            "Dave “The Snake” Sabo",
+            "Tico Torres",
+            "Alec John Such"
+        ]
+    },
+    {
+        "id": "56d98b4acc2ddd0c0f6bdf7c",
+        "name": "Train",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Alternative Rock",
+            "Pop",
+            "Pop Rock",
+            "Roots Rock",
+            "Country Rock",
+            "Alternative Country"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Aware Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/685",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/685/image",
+        "albums": [
+            "Train",
+            "One And A Half",
+            "Drops Of Jupiter",
+            "My Private Nation",
+            "Live In Atlanta",
+            "Alive At Last",
+            "For Me, It's You",
+            "Save Me, San Francisco",
+            "California 37",
+            "Bulletproof Picasso",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1994",
+            "end": ""
+        },
+        "deezerFans": 935852,
+        "members": [
+            "Scott Underwood",
+            "Pat Monahan",
+            "Jimmy Stafford",
+            "Charlie Colin",
+            "Brandon Bush",
+            "Rob Hotchkiss",
+            "Johnny Colt"
+        ]
+    },
+    {
+        "id": "56d8168c53a7ddfc01f92bf3",
+        "name": "Creedence Clearwater Revival",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Swamp Rock",
+            "Pop",
+            "Rock 'N' Roll",
+            "Southern Rock",
+            "Blues Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Fantasy Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2468",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2468/image",
+        "albums": [
+            "Creedence Clearwater Revival",
+            "Bayou Country",
+            "Green River",
+            "Willy And The Poor Boys",
+            "Cosmo's Factory",
+            "Pendulum",
+            "Mardi Gras",
+            "Chronicle, Volume Two"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1959",
+            "end": "1972"
+        },
+        "deezerFans": 472361,
+        "members": [
+            "Tom Fogerty",
+            "Stu Cook",
+            "John Fogerty",
+            "Doug Clifford"
+        ]
+    },
+    {
+        "id": "56d8251053a7ddfc01f94145",
+        "name": "Eagles",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Geffen Records",
+            "Capitol Records",
+            "Universal Music Group Nashville",
+            "Asylum Records",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/210",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/210/image",
+        "albums": [
+            "Eagles",
+            "Desperado",
+            "On The Border",
+            "One Of These Nights",
+            "Hotel California",
+            "Their Greatest Hits (1971-1975)",
+            "The Long Run",
+            "Eagles Live",
+            "Eagles Greatest Hits, Vol. 2",
+            "The Best Of Eagles",
+            "Hell Freezes Over",
+            "The Very Best Of The Eagles",
+            "Selected Songs From Selected Works",
+            "Selected Works 1972-1999",
+            "The Very Best Of The Eagles",
+            "Farewell I - Live From Melbourne",
+            "Long Road Out Of Eden"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1971",
+            "end": "2016-02-15"
+        },
+        "deezerFans": 288561,
+        "members": [
+            "Randy Meisner",
+            "Timothy B. Schmit",
+            "Don Felder",
+            "Bernie Leadon",
+            "Glenn Frey",
+            "Don Henley",
+            "Joe Walsh"
+        ]
+    },
+    {
+        "id": "56d94d21cc2ddd0c0f6b8434",
+        "name": "Neil Young",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Country",
+            "Country Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 58,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Reprise Records",
+            "Atlantic Records Group",
+            "Warner Bros. Records",
+            "Geffen Records",
+            "Atco Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1379",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1379/image",
+        "albums": [
+            "Neil Young",
+            "Everybody Knows This Is Nowhere",
+            "After The Gold Rush",
+            "Journey Through The Past",
+            "Harvest",
+            "Time Fades Away",
+            "On The Beach",
+            "Zuma",
+            "Tonight's The Night",
+            "Long May You Run",
+            "American Stars 'n Bars",
+            "Decade",
+            "Comes A Time",
+            "Rust Never Sleeps",
+            "Live Rust",
+            "Hawks & Doves",
+            "Re-ac-tor",
+            "Trans",
+            "Everybody's Rockin'",
+            "Old Ways",
+            "Landing On Water",
+            "Life",
+            "This Note's For You",
+            "Eldorado",
+            "Freedom",
+            "Ragged Glory",
+            "Weld",
+            "Harvest Moon",
+            "Lucky Thirteen",
+            "Unplugged",
+            "Sleeps With Angels",
+            "Mirror Ball",
+            "Broken Arrow",
+            "Dead Man (Soundtrack)",
+            "Year Of The Horse",
+            "Silver & Gold",
+            "Road Rock, Vol. 1",
+            "Are You Passionate?",
+            "Greendale",
+            "Prairie Wind",
+            "Living With War",
+            "Live At Massey Hall 1971",
+            "Chrome Dreams II",
+            "Sugar Mountain - Live At Canterbury House 1968",
+            "Fork In The Road",
+            "Dreamin' Man",
+            "Le Noise",
+            "A Treasure",
+            "Americana",
+            "Psychedelic Pill",
+            "A Letter Home",
+            "Storytone",
+            "The Monsanto Years",
+            "Bluenote Café",
+            "Live and Unreleased Songs",
+            "Songs featuring Neil Young",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1945-11-12",
+            "end": ""
+        },
+        "deezerFans": 266225,
+        "members": [
+            "Buffalo Springfield",
+            "Neil Young & His Electric Band",
+            "Crosby, Stills, Nash & Young",
+            "The Squires",
+            "The Volume Dealers",
+            "The Shocking Pinks",
+            "The Shocking Pinks",
+            "The Shocking Pinks",
+            "The Stills–Young Band"
+        ]
+    },
+    {
+        "id": "56d93e98ce06f50c0fed88d1",
+        "name": "Mick Jagger",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Blues",
+            "Blues Rock",
+            "R&B",
+            "Rock 'N' Roll",
+            "Country Rock",
+            "Dance-Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/7231",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7231/image",
+        "albums": [
+            "She's The Boss",
+            "Primitive Cool",
+            "Wandering Spirit",
+            "Goddess In The Doorway",
+            "Alfie",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1943-07-26",
+            "end": ""
+        },
+        "deezerFans": 200328,
+        "members": [
+            "Nanker Phelge",
+            "The Glimmer Twins",
+            "SuperHeavy",
+            "The Rolling Stones"
+        ]
+    },
+    {
+        "id": "56d99488cc2ddd0c0f6beda0",
+        "name": "Willie Nelson",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Outlaw Country",
+            "Alternative Country"
+        ],
+        "nombre_albums": 103,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Atlantic Records",
+            "Columbia Records",
+            "Island Records",
+            "Liberty Records",
+            "RCA Records",
+            "Universal Music Group Nashville"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2947",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2947/image",
+        "albums": [
+            "And Then I Wrote",
+            "Here's Willie Nelson",
+            "Country Willie: His Own Songs",
+            "Country Favorites, Willie Nelson Style",
+            "Country Music Concert",
+            "Make Way For Willie Nelson",
+            "The Party's Over And Other Great Willie Nelson Songs",
+            "Texas In My Soul",
+            "Good Times",
+            "My Own Peculiar Way",
+            "Both Sides Now",
+            "Laying My Burdens Down",
+            "Willie Nelson & Family",
+            "Yesterday's Wine",
+            "The Words Don't Fit The Picture",
+            "The Willie Way",
+            "Shotgun Willie",
+            "Phases And Stages",
+            "Spotlight On Willie Nelson",
+            "Red Headed Stranger",
+            "The Sound In Your Mind",
+            "The Troublemaker",
+            "The Longhorn Jamboree Presents: Willie Nelson & His Friends",
+            "To Lefty From Willie",
+            "Willie - Before His Time",
+            "There'll Be No Teardrops Tonight",
+            "Stardust",
+            "Face Of A Fighter",
+            "One For The Road",
+            "Sings Kristofferson",
+            "Pretty Paper",
+            "[[The Electric Horseman (1979)|The Electric Horseman (1979)]]",
+            "[[Honeysuckle Rose (1980)|Honeysuckle Rose (1980)]]",
+            "San Antonio Rose",
+            "Somewhere Over The Rainbow",
+            "Greatest Hits (& Some That Will Be)",
+            "Always On My Mind",
+            "Pancho & Lefty",
+            "Diamonds In The Rough",
+            "In The Jailhouse Now",
+            "Old Friends",
+            "WWII",
+            "Take It To The Limit",
+            "Tougher Than Leather",
+            "Without A Song",
+            "Angel Eyes",
+            "City Of New Orleans",
+            "Music From Songwriter",
+            "Funny How Time Slips Away",
+            "Angel Eyes",
+            "Brand On My Heart",
+            "Half Nelson",
+            "Me & Paul",
+            "Partners",
+            "The Promiseland",
+            "Island In The Sea",
+            "Sings 28 Great Songs",
+            "What A Wonderful World",
+            "A Horse Called Music",
+            "Born For Trouble",
+            "The IRS Tapes: Who'll Buy My Memories",
+            "Across The Borderline",
+            "Moonlight Becomes You",
+            "Healing Hands Of Time",
+            "The Essential Willie Nelson",
+            "Six Hours At Pedernales",
+            "Revolutions Of Time...The Journey 1975/1993",
+            "Just One Love",
+            "Spirit",
+            "Christmas With Willie Nelson",
+            "Teatro",
+            "Milk Cow Blues",
+            "Rainbow Connection",
+            "Stars & Guitars",
+            "The Great Divide",
+            "Willie Nelson & Friends: Live And Kickin'",
+            "It Always Will Be",
+            "Outlaws And Angels",
+            "Countryman",
+            "Songs For Tsunami Relief: Austin To South Asia",
+            "You Don't Know Me: The Songs Of Cindy Walker",
+            "Songbird",
+            "Last Of The Breed",
+            "16 Biggest Hits, Volume II",
+            "Moment Of Forever",
+            "Two Men With The Blues",
+            "American Classic",
+            "Lost Highway",
+            "Willie And The Wheel",
+            "Country Music",
+            "Here We Go Again: Celebrating The Genius Of Ray Charles",
+            "Remember Me, Vol. 1",
+            "Heroes",
+            "Let's Face The Music And Dance",
+            "To All The Girls..",
+            "Band Of Brothers",
+            "Willie's Stash, Vol. 1: December Day",
+            "Django & Jimmie",
+            "Summertime: Willie Nelson Sings Gershwin",
+            "Songs on Willie Nelson's Compilations",
+            "Songs on Soundtracks and Compilations",
+            "Songs Featuring Willie Nelson",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1933-04-30",
+            "end": ""
+        },
+        "deezerFans": 168145,
+        "members": [
+            "Artists Of Then, Now & Forever",
+            "The Offenders",
+            "The Highwaymen"
+        ]
+    },
+    {
+        "id": "56d8462b53a7ddfc01f970a9",
+        "name": "Jason Aldean",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Broken Bow Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7830",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/7830/image",
+        "albums": [
+            "Jason Aldean",
+            "Relentless",
+            "Wide Open",
+            "My Kinda Party",
+            "Night Train",
+            "Old Boots, New Dirt",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977-02-28",
+            "end": ""
+        },
+        "deezerFans": 149642,
+        "members": []
+    },
+    {
+        "id": "56d828f453a7ddfc01f94651",
+        "name": "Emmylou Harris",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Folk",
+            "Country Rock",
+            "Bluegrass",
+            "Rock",
+            "Pop"
+        ],
+        "nombre_albums": 46,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Reprise Records",
+            "Asylum Records",
+            "Warner Bros. Records",
+            "Elektra Records",
+            "Rhino Entertainment",
+            "Nonesuch Records",
+            "Jubilee Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3545",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/3545/image",
+        "albums": [
+            "Gliding Bird",
+            "Pieces Of The Sky",
+            "Elite Hotel",
+            "Luxury Liner",
+            "Quarter Moon In A Ten Cent Town",
+            "Profile: Best Of Emmylou Harris",
+            "Blue Kentucky Girl",
+            "Light Of The Stable",
+            "Roses In The Snow",
+            "Evangeline",
+            "Cimarron",
+            "Last Date",
+            "White Shoes",
+            "The Ballad Of Sally Rose",
+            "Thirteen",
+            "Angel Band",
+            "Trio",
+            "Bluebird",
+            "Brand New Dance",
+            "Duets",
+            "At The Ryman",
+            "Trails End",
+            "Cowgirl's Prayer",
+            "Songs Of The West",
+            "Wrecking Ball",
+            "Nashville Duets",
+            "Portraits",
+            "Spyboy",
+            "Trio II",
+            "Western Wall - The Tucson Sessions",
+            "Red Dirt Girl",
+            "Singing With Emmylou, Vol. 1",
+            "Anthology",
+            "Producer's Cut",
+            "Singin' With Emmylou, Vol. 2",
+            "Stumble Into Grace",
+            "All The Roadrunning",
+            "Real Live Roadrunning",
+            "Songbird: Rare Tracks & Forgotten Gems",
+            "All I Intend To Be",
+            "Hard Bargain",
+            "Old Yellow Moon",
+            "The Traveling Kind",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Emmylou Harris",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1947-04-02",
+            "end": ""
+        },
+        "deezerFans": 41687,
+        "members": []
+    },
+    {
+        "id": "56d992d8cc2ddd0c0f6beaee",
+        "name": "Waylon Jennings",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Outlaw Country",
+            "Country Rock",
+            "Progressive Country"
+        ],
+        "nombre_albums": 74,
+        "nombre_members": 3,
+        "recordLabel": [
+            "RCA Records",
+            "Epic Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/8955",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/8955/image",
+        "albums": [
+            "JD's",
+            "Folk-Country",
+            "Leavin' Town",
+            "Nashville Rebel",
+            "Love Of The Common People",
+            "Waylon Sings Ol' Harlan",
+            "The One And Only",
+            "Hangin' On",
+            "Jewels",
+            "Only The Greatest",
+            "Country-Folk",
+            "Just To Satisfy You",
+            "Waylon Jennings",
+            "Don't Think Twice",
+            "[[Ned Kelly (1970)|Ned Kelly (1970)]]",
+            "The Best Of Waylon Jennings",
+            "Waylon",
+            "Singer Of Sad Songs",
+            "The Taker/Tulsa",
+            "Cedartown, Georgia",
+            "Good Hearted Woman",
+            "Heartaches By The Number",
+            "Ladies Love Outlaws",
+            "Lonesome, On'ry And Mean",
+            "Honky Tonk Heroes",
+            "Only Daddy That'll Walk The Line",
+            "The Ramblin' Man",
+            "This Time",
+            "Dreaming My Dreams",
+            "Mackintosh & T.J.",
+            "Are You Ready For The Country",
+            "Wanted! The Outlaws",
+            "Waylon Live",
+            "Ol' Waylon",
+            "I've Always Been Crazy",
+            "Waylon & Willie",
+            "[[White Mansions (1978)|White Mansions (1978)]]",
+            "Greatest Hits",
+            "What Goes Around Comes Around",
+            "Music Man",
+            "Leather & Lace",
+            "Black On Black",
+            "WWII",
+            "It's Only Rock And Roll",
+            "Waylon And Company",
+            "A Couple More Years",
+            "Greatest Hits, Vol. 2",
+            "Never Could Toe The Mark",
+            "Collector's Series",
+            "Turn The Page",
+            "Will The Wolf Survive",
+            "Sweet Mother Texas",
+            "The Best Of Waylon",
+            "Hangin' Tough",
+            "A Man Called Hoss",
+            "Full Circle",
+            "The Eagle",
+            "Clean Shirt",
+            "Too Dumb For New York City, Too Ugly For L.A.",
+            "Cowboys, Sisters, Rascals & Dirt",
+            "Thanks To Buddy",
+            "Waymore's Blues (Part II)",
+            "Clovis To Phoenix - The Early Years",
+            "Ol' Waylon Sings Ol' Hank",
+            "Right For The Time",
+            "Closing In On The Fire",
+            "20th Century Masters: The Best Of Waylon Jennings - Millennium Collection",
+            "Never Say Die",
+            "Country Stars & Stripes",
+            "Platinum & Gold Collection",
+            "The Complete MCA Recordings",
+            "Ultimate Waylon Jennings",
+            "Waylon Forever",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1937-06-15",
+            "end": "2002-02-13"
+        },
+        "deezerFans": 39616,
+        "members": [
+            "Old Dogs",
+            "The Highwaymen",
+            "The Crickets"
+        ]
+    },
+    {
+        "id": "56d80b4d53a7ddfc01f91c6e",
+        "name": "Cake",
+        "type": "Group",
+        "genres": [
+            "Alternative Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 9,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Upbeat Records",
+            "Columbia Records",
+            "Capricorn Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/428",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/428/image",
+        "albums": [
+            "Motorcade Of Generosity",
+            "Fashion Nugget",
+            "Prolonging The Magic",
+            "Comfort Eagle",
+            "Pressure Chief",
+            "B-Sides And Rarities",
+            "Showroom Of Compassion",
+            "Misc. Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1992",
+            "end": ""
+        },
+        "deezerFans": 33734,
+        "members": [
+            "Pete McNeal",
+            "Frank French",
+            "Victor Damiani",
+            "John McCrea",
+            "Greg Brown",
+            "Xan McCurdy",
+            "Todd Roper",
+            "Gabriel Nelson",
+            "Vincent DiFiore",
+            "Paulo Baldi"
+        ]
+    },
+    {
+        "id": "56d824a153a7ddfc01f940be",
+        "name": "Dwight Yoakam",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Bluegrass"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Reprise Records",
+            "Warner Bros. Records",
+            "New West Records",
+            "Entertainment One Music"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12152",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/12152/image",
+        "albums": [
+            "Guitars, Cadillacs, Etc., Etc.",
+            "Hillbilly Deluxe",
+            "Buenas Noches From A Lonely Room",
+            "Just Lookin' For A Hit",
+            "If There Was A Way",
+            "La Croix D'Amour",
+            "This Time",
+            "Dwight Live",
+            "Gone",
+            "Come On Christmas",
+            "Under The Covers",
+            "A Long Way Home",
+            "Last Chance For A Thousand Years: Greatest Hits From The 90's",
+            "Dwightyoakamacoustic.net",
+            "Tomorrow's Sounds Today",
+            "South Of Heaven, West Of Hell",
+            "Reprise Please Baby: The Warner Bros. Years",
+            "In Others' Words",
+            "Population Me",
+            "Dwight's Used Records",
+            "Blame The Vain",
+            "Dwight Sings Buck",
+            "3 Pears",
+            "Second Hand Heart",
+            "Songs On Soundtracks And Compilations",
+            "Songs Featuring Dwight Yoakam",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1956-10-23",
+            "end": ""
+        },
+        "deezerFans": 30976,
+        "members": [
+            "Buzzin' Cousins"
+        ]
+    },
+    {
+        "id": "56d98a77cc2ddd0c0f6bde45",
+        "name": "Tony Joe White",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Monument Records",
+            "Polydor Records",
+            "Warner Bros.",
+            "Yep Roc Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64750",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64750/image",
+        "albums": [
+            "Black And White",
+            "...Continued",
+            "Tony Joe",
+            "Tony Joe White.",
+            "The Train I'm On",
+            "Homemade Ice Cream",
+            "The Real Thang",
+            "Dangerous",
+            "Closer To The Truth",
+            "Lake Placid Blues",
+            "One Hot July",
+            "The Beginning",
+            "Live From Austin, TX",
+            "Uncovered",
+            "The Shine"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1943-07-23",
+            "end": ""
+        },
+        "deezerFans": 28416,
+        "members": []
+    },
+    {
+        "id": "56d97c3fcc2ddd0c0f6bca8c",
+        "name": "The Byrds",
+        "type": "Group",
+        "genres": [
+            "Folk Rock",
+            "Psychedelic Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Elektra Records",
+            "Asylum Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2939",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2939/image",
+        "albums": [
+            "Mr. Tambourine Man",
+            "Turn! Turn! Turn!",
+            "Fifth Dimension",
+            "Younger Than Yesterday",
+            "The Byrds' Greatest Hits",
+            "The Notorious Byrd Brothers",
+            "Sweetheart Of The Rodeo",
+            "Dr. Byrds & Mr. Hyde",
+            "Ballad Of Easy Rider",
+            "(Untitled)",
+            "Byrdmaniax",
+            "Farther Along",
+            "Byrds",
+            "Songs on Compilations and Soundtracks",
+            "The Best Of The Byrds: Greatest Hits, Volume II",
+            "...In The Beginning (Recordings From 1964)",
+            "The Byrds",
+            "The Essential Byrds",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1964",
+            "end": "1973"
+        },
+        "deezerFans": 28290,
+        "members": [
+            "Chris Hillman",
+            "Gene Clark",
+            "Roger McGuinn",
+            "Gene Parsons",
+            "Clarence White",
+            "Michael Clarke",
+            "John Guerin",
+            "Gram Parsons",
+            "John York",
+            "David Crosby",
+            "Kevin Kelley",
+            "Skip Battin"
+        ]
+    },
+    {
+        "id": "56d8086f53a7ddfc01f91836",
+        "name": "Bret Michaels",
+        "type": "Person",
+        "genres": [
+            "Americana",
+            "Rock",
+            "Glam Metal",
+            "Hard Rock",
+            "Country Rock",
+            "Country"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Capitol Records",
+            "VH1 Classic"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/99755",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/99755/image",
+        "albums": [
+            "Songs Of Life",
+            "Freedom Of Sound",
+            "Rock My World",
+            "Custom Built",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1963-03-15",
+            "end": ""
+        },
+        "deezerFans": 24243,
+        "members": [
+            "Poison"
+        ]
+    },
+    {
+        "id": "56d83b1b53a7ddfc01f95ff9",
+        "name": "Hank Williams, Jr.",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Blues",
+            "Country Rock",
+            "Southern Rock"
+        ],
+        "nombre_albums": 67,
+        "nombre_members": 6,
+        "recordLabel": [
+            "MGM Records",
+            "Warner Bros. Records",
+            "Curb Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16448",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/16448/image",
+        "albums": [
+            "Sings The Songs Of Hank Williams",
+            "Your Cheatin' Heart",
+            "Father & Son",
+            "Ballads Of The Hills And Plains",
+            "Country Shadows",
+            "Hank Williams, Sr. And Hank Williams, Jr. - Again",
+            "Blue's My Name",
+            "My Own Way",
+            "A Time To Sing",
+            "My Songs",
+            "Luke The Drifter, Jr.",
+            "Luke The Drifter, Jr. Vol. 2",
+            "Songs My Father Left Me",
+            "Live At Cobo Hall",
+            "Singing My Songs (Johnny Cash)",
+            "Luke The Drifter, Jr., Vol. 3",
+            "Removing The Shadow",
+            "Sunday Morning",
+            "All For The Love Of Sunshine",
+            "I've Got A Right To Cry/They All Used To Belong To Me",
+            "Sweet Dreams",
+            "Eleven Roses",
+            "Send Me Some Lovin' And Whole Lotta Loving",
+            "The Legend Of Hank Williams In Song And Story",
+            "After You/Pride's Not Hard To Swallow",
+            "The Last Love Song",
+            "Living Proof",
+            "Insights Into Hank Williams In Song And Story",
+            "Bocephus",
+            "Hank Williams, Jr. & Friends",
+            "One Night Stands",
+            "The New South",
+            "Family Tradition",
+            "Whiskey Bent And Hell Bound",
+            "Habits Old And New",
+            "Rowdy",
+            "The Pressure Is On",
+            "High Notes",
+            "Strong Stuff",
+            "Man Of Steel",
+            "Major Moves",
+            "Five-O",
+            "Montana Cafe",
+            "Hank Live",
+            "Born To Boogie",
+            "Wild Streak",
+            "Lone Wolf",
+            "America (The Way I See It)",
+            "Pure Hank",
+            "Maverick",
+            "The Best Of Hank Williams Jr. Volume One: Roots And Branches",
+            "Out Of Left Field",
+            "A Tribute To My Father",
+            "Hog Wild",
+            "Gospel Favorites",
+            "A.K.A. Wham Bam Sam",
+            "Three Hanks: Men With Broken Hearts",
+            "Stormy",
+            "The Complete Hank Williams Jr.",
+            "The Almeria Club Recordings",
+            "I'm One Of You",
+            "That's How They Do It In Dixie: The Essential Collection",
+            "127 Rose Avenue",
+            "Old School New Rules",
+            "It's About Time",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-05-26",
+            "end": ""
+        },
+        "deezerFans": 22569,
+        "members": []
+    },
+    {
+        "id": "56d8227153a7ddfc01f93d61",
+        "name": "Don Williams",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Pop"
+        ],
+        "nombre_albums": 57,
+        "nombre_members": 1,
+        "recordLabel": [
+            "ABC Records",
+            "Sugar Hill Records",
+            "Dot Records",
+            "MCA Records",
+            "Capitol Records",
+            "Giant Records (Warner)",
+            "RCA Records",
+            "Entertainment One Music",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/71872",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/71872/image",
+        "albums": [
+            "Don Williams, Volume One",
+            "Don Williams, Volume Two",
+            "Don Williams, Vol. 3",
+            "Best Of Don Williams, Vol 3",
+            "Don Williams Greatest Hits (Volume 1)",
+            "The Best Of Don Williams (RCA)",
+            "You're My Best Friend",
+            "Greatest Country Hits",
+            "Harmony",
+            "Country Boy",
+            "Visions",
+            "Expressions",
+            "Best Of Don Williams, Vol 2",
+            "New Horizons",
+            "Portrait",
+            "I Believe In You",
+            "Especially For You",
+            "Listen To The Radio",
+            "Yellow Moon",
+            "Cafe Carolina",
+            "Don Williams",
+            "The Very Best Of Don Williams",
+            "Greatest Hits, Vol 4",
+            "Lovers & Best Friends",
+            "New Moves",
+            "Sings Bob McDill",
+            "Don Williams 20 Greatest Hits",
+            "Traces",
+            "One Good Well",
+            "Prime Cuts",
+            "The Very Best Of Don Williams",
+            "True Love",
+            "Currents",
+            "Don Williams Greatest Hits",
+            "Till The Rivers All Run Dry",
+            "I've Got A Winner In You",
+            "Some Broken Hearts Never Mend",
+            "An Evening With Don Williams - Best Of Live",
+            "Best Of Don Williams",
+            "Borrowed Tales",
+            "Flatlands",
+            "Lord, I Hope This Day Is Good",
+            "The Ultimate Don Williams",
+            "I Turned The Page",
+            "Pretty Little Baby Child",
+            "Couble Barrel Country",
+            "The Best Of Don Williams: (A Compilation)",
+            "Anthology",
+            "The Best Of Don Williams, The Millennium Collection",
+            "Don Williams Live Greatest Hits Volume 2",
+            "Love Songs",
+            "The Best Of Don Williams: The Millennium Collection, Vol. 2",
+            "Follow Me Back Home",
+            "Silver Turns To Gold",
+            "Just A Country Boy",
+            "The Definitive Collection",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1939-05-27",
+            "end": ""
+        },
+        "deezerFans": 20602,
+        "members": [
+            "Pozo-Seco Singers"
+        ]
+    },
+    {
+        "id": "56d97e03cc2ddd0c0f6bcccf",
+        "name": "The Everly Brothers",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 29,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Mercury Records",
+            "Razor & Tie",
+            "London Records",
+            "Warner Bros. Records",
+            "RCA Records",
+            "Cadence Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1883",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1883/image",
+        "albums": [
+            "The Everly Brothers",
+            "Songs Our Daddy Taught Us",
+            "The Everly Brothers' Best",
+            "It's Everly Time",
+            "A Date With The Everly Brothers",
+            "Both Sides Of An Evening",
+            "Instant Party!",
+            "The Everly Brothers Sing Great Country Hits",
+            "Gone Gone Gone",
+            "Rock'n Soul",
+            "Beat & Soul",
+            "In Our Image",
+            "Two Yanks In England",
+            "The Hit Sound Of The Everly Brothers",
+            "The Everly Brothers Sing",
+            "Roots",
+            "Stories We Could Tell",
+            "Pass The Chicken & Listen",
+            "The New Album",
+            "EB 84",
+            "Born Yesterday",
+            "Some Hearts",
+            "Perfect Harmony",
+            "Heartaches & Harmonies",
+            "The Definitive Everly Brothers",
+            "Give Me A Future",
+            "Rock'n Soul/Beat & Soul",
+            "Everly Brothers: Hits Of The '50s",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1957",
+            "end": "2014-01-03"
+        },
+        "deezerFans": 17265,
+        "members": [
+            "Phil Everly",
+            "Phil Everly",
+            "Don Everly",
+            "Don Everly"
+        ]
+    },
+    {
+        "id": "56d809fa53a7ddfc01f91a89",
+        "name": "Buffalo Springfield",
+        "type": "Group",
+        "genres": [
+            "Psychedelic Rock",
+            "Folk Rock",
+            "Rock",
+            "Hard Rock",
+            "Country Rock",
+            "Pop"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Atco Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/905",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/905/image",
+        "albums": [
+            "Buffalo Springfield",
+            "Buffalo Springfield Again",
+            "Last Time Around",
+            "Box Set",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1966",
+            "end": "1968"
+        },
+        "deezerFans": 15207,
+        "members": [
+            "Stephen Stills",
+            "Neil Young",
+            "Bruce Palmer",
+            "Doug Hastings",
+            "Jim Messina",
+            "Richie Furay",
+            "Dewey Martin",
+            "David Crosby"
+        ]
+    },
+    {
+        "id": "56d85b1853a7ddfc01f98f22",
+        "name": "Linda Ronstadt",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Folk",
+            "Pop Rock"
+        ],
+        "nombre_albums": 34,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Verve Records",
+            "Capitol Records",
+            "Rhinoceros",
+            "Asylum Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/7214",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/7214/image",
+        "albums": [
+            "Hand Sown... Home Grown",
+            "Silk Purse",
+            "Linda Ronstadt",
+            "Don't Cry Now",
+            "Heart Like A Wheel",
+            "Prisoner In Disguise",
+            "Hasten Down The Wind",
+            "Simple Dreams",
+            "Living In The USA",
+            "Mad Love",
+            "Greatest Hits Vol. II",
+            "Get Closer",
+            "What's New",
+            "Lush Life",
+            "For Sentimental Reasons",
+            "Canciones De Mi Padre",
+            "Trio",
+            "Cry Like A Rainstorm - Howl Like The Wind",
+            "Más Canciones",
+            "Frenesí",
+            "Winter Light",
+            "Greatest Hits",
+            "Feels Like Home",
+            "Dedicated To The One I Love",
+            "We Ran",
+            "Trio II",
+            "Western Wall: The Tucson Session",
+            "Box Set",
+            "A Merry Little Christmas",
+            "Hummin' To Myself",
+            "Adieu False Heart",
+            "Collector's Edition",
+            "Songs from Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1946-07-15",
+            "end": ""
+        },
+        "deezerFans": 13339,
+        "members": [
+            "The Stone Poneys"
+        ]
+    },
+    {
+        "id": "56d8068c53a7ddfc01f91559",
+        "name": "Bobby Helms",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Rock",
+            "Pop Rock",
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Decca Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16032",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/16032/image",
+        "albums": [
+            "The Best Of Bobby Helms",
+            "Bobby Helms Sings To My Special Angel",
+            "Bobby Helms",
+            "Bobby Helms Sings Fraulein",
+            "Jingle Bell Rock",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1933-08-15",
+            "end": "1997-06-19"
+        },
+        "deezerFans": 12754,
+        "members": []
+    },
+    {
+        "id": "56d8225853a7ddfc01f93d43",
+        "name": "Don McLean",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Folk Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 2,
+        "recordLabel": [
+            "EMI America Records",
+            "United Artists Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2224",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2224/image",
+        "albums": [
+            "Tapestry",
+            "American Pie",
+            "Don McLean",
+            "Playin' Favorites",
+            "Homeless Brother",
+            "Solo",
+            "Prime Time",
+            "Chain Lightning",
+            "Believers",
+            "Love Tracks",
+            "For The Memories",
+            "And I Love You So",
+            "Headroom",
+            "Classics",
+            "The River Of Love",
+            "For The Memories",
+            "American Pie: The Greatest Hits",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1945-10-02",
+            "end": ""
+        },
+        "deezerFans": 12718,
+        "members": []
+    },
+    {
+        "id": "56d849b653a7ddfc01f975ab",
+        "name": "Joan Osborne",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Folk",
+            "Country Rock",
+            "Blues",
+            "Singer-Songwriter"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Interscope Records",
+            "Mercury Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/885",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/885/image",
+        "albums": [
+            "Soul Show: Live At Delta 88",
+            "Relish",
+            "Early Recordings",
+            "Righteous Love",
+            "How Sweet It Is",
+            "Christmas Means Love",
+            "Pretty Little Stranger",
+            "Breakfast In Bed",
+            "Little Wild One",
+            "Bring It On Home",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1963-07-08",
+            "end": ""
+        },
+        "deezerFans": 10520,
+        "members": [
+            "Trigger Hippy",
+            "Phil Lesh & Friends"
+        ]
+    },
+    {
+        "id": "56d84e3e53a7ddfc01f97bc1",
+        "name": "Juice Newton",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Pop"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Capitol Records",
+            "RCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13743",
+        "gender": "Female",
+        "picture": "http://api.deezer.com/artist/13743/image",
+        "albums": [
+            "Well Kept Secret",
+            "Take Heart",
+            "Juice",
+            "Quiet Lies",
+            "Dirty Looks",
+            "Can't Wait All Night",
+            "Old Flame",
+            "Ain't Gonna Cry",
+            "The Trouble With Angels",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1952-02-18",
+            "end": ""
+        },
+        "deezerFans": 9053,
+        "members": [
+            "Country Choir"
+        ]
+    },
+    {
+        "id": "56d8164753a7ddfc01f92b5e",
+        "name": "Cowboy Junkies",
+        "type": "Group",
+        "genres": [
+            "Americana",
+            "Alternative Country",
+            "Blues Rock",
+            "Country",
+            "Country Rock",
+            "Folk Rock",
+            "Indie Rock",
+            "Psychedelic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 20,
+        "nombre_members": 4,
+        "recordLabel": [
+            "RCA Records",
+            "Latent Recordings",
+            "Zoë Records",
+            "Geffen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1042",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1042/image",
+        "albums": [
+            "Whites Off Earth Now!!",
+            "The Trinity Session",
+            "The Caution Horses",
+            "Black Eyed Man",
+            "Pale Sun Crescent Moon",
+            "200 More Miles: Live Performances 1985-1994",
+            "Angel Mine",
+            "Lay It Down",
+            "Studio: Selected Studio Recordings 1986-1995",
+            "Miles From Our Home",
+            "Rarities, B-Sides And Slow, Sad Waltzes",
+            "Waltz Across America",
+            "Open",
+            "In The Time Before Llamas",
+            "One Soul Now",
+            "Early 21st Century Blues",
+            "At The End Of Paths Taken",
+            "The Nomad Series",
+            "Songs only played live",
+            "Songs on Compilations and Soundtracks"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1985",
+            "end": ""
+        },
+        "deezerFans": 8863,
+        "members": [
+            "Michael Timmins",
+            "Margo Timmins",
+            "Alan Anton",
+            "Peter Timmins"
+        ]
+    },
+    {
+        "id": "56d94f37cc2ddd0c0f6b8759",
+        "name": "Nitty Gritty Dirt Band",
+        "type": "Group",
+        "genres": [
+            "Country",
+            "Folk",
+            "Folk Rock",
+            "Bluegrass",
+            "Country Rock",
+            "Country Pop"
+        ],
+        "nombre_albums": 32,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Sugar Hill Records",
+            "Capitol Records",
+            "Dualtone Records",
+            "United Artists Records",
+            "Liberty Records",
+            "MCA Records",
+            "DreamWorks Records",
+            "EMI America Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/131702",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/131702/image",
+        "albums": [
+            "The Nitty Gritty Dirt Band",
+            "Ricochet",
+            "Rare Junk",
+            "Alive!",
+            "Uncle Charlie & His Dog Teddy",
+            "All The Good Times",
+            "Will The Circle Be Unbroken",
+            "Stars & Stripes Forever",
+            "Symphonion Dream",
+            "Dirt, Silver And Gold",
+            "The Dirt Band",
+            "An American Dream",
+            "Make A Little Magic",
+            "Jealousy",
+            "Let's Go",
+            "Plain Dirt Fashion",
+            "Partners, Brothers And Friends",
+            "Hold On",
+            "Workin' Band",
+            "Will The Circle Be Unbroken, Vol. 2",
+            "Greatest Hits",
+            "The Rest Of The Dream",
+            "Live Two Five",
+            "Not Fade Away",
+            "Acoustic",
+            "The Christmas Album",
+            "Bang Bang Bang",
+            "Will The Circle Be Unbroken, Vol. 3",
+            "Welcome To Woody Creek",
+            "Speed Of Life",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1966",
+            "end": ""
+        },
+        "deezerFans": 6758,
+        "members": [
+            "Bob Carpenter",
+            "Jim Photoglo",
+            "Jimmy Ibbotson",
+            "Bernie Leadon",
+            "Jackson Browne",
+            "John McEuen",
+            "Al Garth",
+            "Jeff Hanna",
+            "Merel Bregante",
+            "Jimmie Fadden"
+        ]
+    },
+    {
+        "id": "56d805cb53a7ddfc01f91462",
+        "name": "Blue Rodeo",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Rock",
+            "Alternative Country"
+        ],
+        "nombre_albums": 18,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Warner Music Group",
+            "Rounder Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3423",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3423/image",
+        "albums": [
+            "Outskirts",
+            "Diamond Mine",
+            "Casino",
+            "Lost Together",
+            "Five Days In July",
+            "Nowhere To Here",
+            "Tremolo",
+            "Just Like A Vacation",
+            "The Days In Between",
+            "Greatest Hits, Vol. 1",
+            "Palace Of Gold",
+            "Are You Ready",
+            "Small Miracles",
+            "Blue Road",
+            "The Things We Left Behind",
+            "In Our Nature",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1984",
+            "end": ""
+        },
+        "deezerFans": 6609,
+        "members": [
+            "Bazil Donovan",
+            "Kim Deschamps",
+            "Mark French",
+            "Cleave Anderson",
+            "Greg Keelor",
+            "Jim Cuddy",
+            "Bob Egan",
+            "Colin Cripps",
+            "Glenn Milchem",
+            "Bob Wiseman"
+        ]
+    },
+    {
+        "id": "56d8281753a7ddfc01f94541",
+        "name": "Elvin Bishop",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Country Rock",
+            "Rock"
+        ],
+        "nombre_albums": 5,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Blind Pig Records",
+            "Delta Groove Productions",
+            "Alligator Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6143",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/6143/image",
+        "albums": [
+            "Let It Flow",
+            "Juke Joint Jump",
+            "Struttin' My Stuff",
+            "Big Fun",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1942-10-21",
+            "end": ""
+        },
+        "deezerFans": 5769,
+        "members": [
+            "The Paul Butterfield Blues Band",
+            "The Elvin Bishop Group",
+            "The Elvin Bishop Band"
+        ]
+    },
+    {
+        "id": "56d8481453a7ddfc01f97367",
+        "name": "Jerry Garcia",
+        "type": "Person",
+        "genres": [
+            "Folk Rock",
+            "Jam Band",
+            "Bluegrass",
+            "Country Rock",
+            "Rock 'N' Roll",
+            "Psychedelic Rock",
+            "R&B",
+            "Blues Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Warner Bros. Records",
+            "Arista Records",
+            "Rhino Entertainment",
+            "David Grisman",
+            "Grateful Dead Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/144331",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/144331/image",
+        "albums": [
+            "Garcia",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1942-08-01",
+            "end": "1995-08-09"
+        },
+        "deezerFans": 3706,
+        "members": [
+            "Jerry Garcia Band",
+            "Great American String Band",
+            "Grateful Dead",
+            "Hart Valley Drifters",
+            "Hart Valley Drifters",
+            "Old & In the Way"
+        ]
+    },
+    {
+        "id": "56d94e30cc2ddd0c0f6b85de",
+        "name": "Nick Lowe",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Rock 'N' Roll",
+            "Country Rock",
+            "New Wave",
+            "Pub Rock",
+            "Power Pop",
+            "Singer-Songwriter",
+            "Roots Rock"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Reprise Records",
+            "Columbia Records",
+            "Radar Records",
+            "Proper Records",
+            "Demon Music Group",
+            "F-Beat Records",
+            "Yep Roc Records",
+            "Stiff Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/12625",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/12625/image",
+        "albums": [
+            "Jesus Of Cool",
+            "Labour Of Lust",
+            "Nick The Knife",
+            "The Abominable Showman",
+            "Nick Lowe And His Cowboy Outfit",
+            "The Rose Of England",
+            "Pinker And Prouder Than Previous",
+            "Party Of One",
+            "Wilderness Years",
+            "The Impossible Bird",
+            "Dig My Mood",
+            "The Convincer",
+            "At My Age",
+            "The Old Magic",
+            "Quality Street: A Seasonal Selection For All The Family",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-03-24",
+            "end": ""
+        },
+        "deezerFans": 2460,
+        "members": [
+            "Nick Lowe & His Noise to Go",
+            "Little Village",
+            "Nick Lowe and His Cowboy Outfit",
+            "Nick Lowe & His Band",
+            "Rockpile",
+            "Brinsley Schwarz"
+        ]
+    },
+    {
+        "id": "56d95a12cc2ddd0c0f6b9759",
+        "name": "Poco",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Rock",
+            "Folk Rock",
+            "Soft Rock"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 18,
+        "recordLabel": [
+            "MCA Records",
+            "ABC Records",
+            "Epic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/66231",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/66231/image",
+        "albums": [
+            "Pickin' Up The Pieces",
+            "Poco",
+            "Deliverin'",
+            "From The Inside",
+            "A Good Feelin' To Know",
+            "Crazy Eyes",
+            "Seven",
+            "Cantamos",
+            "Head Over Heels",
+            "Live",
+            "Rose Of Cimarron",
+            "Indian Summer",
+            "Legend",
+            "Under The Gun",
+            "Blue And Gray",
+            "Cowboys & Englishmen",
+            "Ghost Town",
+            "Inamorata",
+            "Legacy",
+            "Running Horse",
+            "Bareback At Big Sky",
+            "Alive In The Heart Of The Night",
+            "The Wildwood Sessions",
+            "All Fired Up",
+            "Songs on Compilations and Soundtracks",
+            "Singles",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1968",
+            "end": ""
+        },
+        "deezerFans": 2205,
+        "members": [
+            "Randy Meisner",
+            "Randy Meisner",
+            "Kim Bullard",
+            "Charlie Harrison",
+            "Timothy B. Schmit",
+            "Steve Chapman",
+            "Steve Chapman",
+            "Richard Neville",
+            "Jack Sundrud",
+            "Jack Sundrud",
+            "Jack Sundrud",
+            "Rusty Young",
+            "Jim Messina",
+            "Jim Messina",
+            "Paul Cotton",
+            "Paul Cotton",
+            "Richie Furay",
+            "Richie Furay"
+        ]
+    },
+    {
+        "id": "56d98264cc2ddd0c0f6bd2e6",
+        "name": "The Notting Hillbillies",
+        "type": "Group",
+        "genres": [
+            "Blues",
+            "Country Rock",
+            "Americana"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Vertigo Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/13403",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/13403/image",
+        "albums": [
+            "Missing...Presumed Having A Good Time"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1986",
+            "end": "1993"
+        },
+        "deezerFans": 2147,
+        "members": [
+            "Guy E. Fletcher",
+            "Brendan Croker",
+            "Mark Knopfler"
+        ]
+    },
+    {
+        "id": "56d8236653a7ddfc01f93eb6",
+        "name": "Dr. Hook & The Medicine Show",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country Rock",
+            "Soft Rock"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/71920",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/71920/image",
+        "albums": [
+            "Dr. Hook And The Medicine Show",
+            "Sloppy Seconds",
+            "Belly Up!",
+            "The Ballad Of Lucy Jordon",
+            "Bankrupt",
+            "A Little Bit More",
+            "Makin' Love And Music",
+            "Pleasure & Pain",
+            "Sometimes You Win",
+            "Rising",
+            "Players In The Dark",
+            "Let Me Drink From Your Well",
+            "The Wild Colonial Boys",
+            "Pleasure & Pain: The History Of Dr. Hook",
+            "36 All-Time Greatest Hits",
+            "Love Songs",
+            "The Essential Dr. Hook And The Medicine Show",
+            "The Best Of The Best",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "1985"
+        },
+        "deezerFans": 1900,
+        "members": [
+            "Ray Sawyer",
+            "Dennis Locorriere"
+        ]
+    },
+    {
+        "id": "56d7f12a56847be81b3e8efb",
+        "name": "Albert Lee",
+        "type": "Person",
+        "genres": [
+            "Blues",
+            "Rock",
+            "Country Rock",
+            "Southern Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "MCA Inc.",
+            "A&M Records",
+            "Sugar Hill Records",
+            "Castle Communications",
+            "Polydor Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/88131",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/88131/image",
+        "albums": [
+            "Hiding",
+            "Albert Lee",
+            "Black Claw & Country Fever",
+            "Heartbreak Hill",
+            "Road Runner",
+            "Like This",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1943-12-21",
+            "end": ""
+        },
+        "deezerFans": 1620,
+        "members": [
+            "Heads Hands & Feet",
+            "Albert Lee & Hogan's Heroes"
+        ]
+    },
+    {
+        "id": "56d853c253a7ddfc01f98419",
+        "name": "Kiosk",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Blues Rock",
+            "Alternative Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/441600",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/441600/image",
+        "albums": [
+            "Ordinary Man",
+            "Amor De La Velocidad",
+            "Global Zoo",
+            "Triple Distilled",
+            "Outcome Of Negotiations",
+            "Parallel Establishments",
+            "Call A Cab"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2003",
+            "end": ""
+        },
+        "deezerFans": 1443,
+        "members": []
+    },
+    {
+        "id": "56d963a7cc2ddd0c0f6ba573",
+        "name": "Roger McGuinn",
+        "type": "Person",
+        "genres": [
+            "Folk Rock",
+            "Country Rock",
+            "Folk"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2080",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/2080/image",
+        "albums": [
+            "Roger McGuinn",
+            "Peace On You",
+            "Roger McGuinn & Band",
+            "Cardiff Rose",
+            "Thunderbyrd",
+            "McGuinn & Hillman",
+            "Back From Rio",
+            "Live From Mars",
+            "Treasures From The Folk Den",
+            "Limited Edition",
+            "22 Timeless Tracks From The Folk Den Project",
+            "CCD",
+            "Songs from The Folk Den Project",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1942-07-13",
+            "end": ""
+        },
+        "deezerFans": 1342,
+        "members": [
+            "The City Surfers",
+            "The Byrds",
+            "McGuinn, Clark & Hillman",
+            "The New Christy Minstrels"
+        ]
+    },
+    {
+        "id": "56d83d0b53a7ddfc01f962c5",
+        "name": "Hellbillies",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 5,
+        "recordLabel": [
+            "EMI"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/244160",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/244160/image",
+        "albums": [
+            "Sylvspente Boots",
+            "Pela Stein",
+            "Lakafant",
+            "Drag",
+            "LIVe LAGA",
+            "Sol Over Livet",
+            "Urban Twang",
+            "CoolTur",
+            "Niende",
+            "Røta - Hellbillies' Beste",
+            "Spissrotgang",
+            "Leite Etter Lykka",
+            "Tretten",
+            "LEVANDE LIVe",
+            "Songs from Compilations"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 1300,
+        "members": []
+    },
+    {
+        "id": "56d8345b53a7ddfc01f95705",
+        "name": "Gene Clark",
+        "type": "Person",
+        "genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Country"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 4,
+        "recordLabel": [
+            "A&M Records",
+            "Capitol Records",
+            "Asylum Records",
+            "Takoma Records",
+            "RSO Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/66382",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66382/image",
+        "albums": [
+            "Gene Clark With The Gosdin Brothers",
+            "The Fantastic Expedition Of Dillard & Clark",
+            "Through The Morning, Through The Night",
+            "White Light",
+            "Early L.A. Sessions",
+            "Roadmaster",
+            "No Other",
+            "Two Sides To Every Story",
+            "Firebyrd",
+            "So Rebellious A Lover",
+            "Echoes",
+            "Silhouetted In Light: Live In Concert",
+            "Flying High",
+            "Gypsy Angel: The Gene Clark Demos 1983-1990",
+            "Under The Silvery Moon",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1944-11-17",
+            "end": "1991-05-24"
+        },
+        "deezerFans": 1185,
+        "members": [
+            "Dillard & Clark",
+            "The Byrds",
+            "McGuinn, Clark & Hillman",
+            "The New Christy Minstrels"
+        ]
+    },
+    {
+        "id": "56d823d753a7ddfc01f93f57",
+        "name": "Drew Holcomb & The Neighbors",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Dualtone Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/890426",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/890426/image",
+        "albums": [
+            "Chasing Someday",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 984,
+        "members": [
+            "Ellie Holcomb",
+            "Drew Holcomb"
+        ]
+    },
+    {
+        "id": "56d8162153a7ddfc01f92b34",
+        "name": "Court Yard Hounds",
+        "type": "",
+        "genres": [
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/396837",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/396837/image",
+        "albums": [
+            "Court Yard Hounds",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 934,
+        "members": []
+    },
+    {
+        "id": "56d81f5a53a7ddfc01f938c5",
+        "name": "Dickey Betts & Great Southern",
+        "type": "Group",
+        "genres": [
+            "Southern Rock",
+            "Country Rock",
+            "Blues",
+            "Blues Rock",
+            "Country",
+            "Jazz Fusion"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/77520",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/77520/image",
+        "albums": [
+            "Dickey Betts And Great Southern",
+            "Let's Get Together",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1976",
+            "end": ""
+        },
+        "deezerFans": 762,
+        "members": [
+            "Dickey Betts"
+        ]
+    },
+    {
+        "id": "56d98ccdcc2ddd0c0f6be1c7",
+        "name": "Turnpike Troubadours",
+        "type": "Group",
+        "genres": [
+            "Acoustic",
+            "Folk Rock",
+            "Roots",
+            "Country Rock"
+        ],
+        "nombre_albums": 4,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/647557",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/647557/image",
+        "albums": [
+            "Bossier City",
+            "Diamonds & Gasoline",
+            "Goodbye Normal Street",
+            "Turnpike Troubadours"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 679,
+        "members": []
+    },
+    {
+        "id": "56d85f5b53a7ddfc01f9958d",
+        "name": "Lukas Nelson & Promise Of The Real",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Rock 'N' Roll",
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4061988",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4061988/image",
+        "albums": [
+            "Brando's Paradise Sessions EP",
+            "Lukas Nelson & Promise Of The Real",
+            "Live Endings",
+            "Wasted",
+            "Realer Bootlegs Vol. 1",
+            "The Monsanto Years"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2008",
+            "end": ""
+        },
+        "deezerFans": 638,
+        "members": [
+            "Lukas Nelson",
+            "Corey McCormick",
+            "Anthony LoGerfo",
+            "Tato Melgar",
+            "Merlyn Kelly"
+        ]
+    },
+    {
+        "id": "56d97b1ecc2ddd0c0f6bc929",
+        "name": "The Beau Brummels",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Garage Rock",
+            "Pop",
+            "Pop Rock",
+            "Rock"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Louis Dorren",
+            "Vault Records",
+            "Autumn Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/15040",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/15040/image",
+        "albums": [
+            "Introducing The Beau Brummels",
+            "Volume 2",
+            "Beau Brummels 66",
+            "Triangle",
+            "Bradley's Barn",
+            "From The Vaults",
+            "The Best Of The Beau Brummels: 1964-1968",
+            "Autumn Of Their Years",
+            "San Fran Sessions",
+            "Live!",
+            "Magic Hollow",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1964",
+            "end": "1968"
+        },
+        "deezerFans": 636,
+        "members": [
+            "John Petersen",
+            "Declan Mulligan",
+            "Ron Meagher",
+            "Ron Elliott",
+            "Don Irving",
+            "Sal Valentino"
+        ]
+    },
+    {
+        "id": "56d82e9553a7ddfc01f94ecc",
+        "name": "Firefall",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Rock",
+            "Pop Rock",
+            "Soft Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64404",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/64404/image",
+        "albums": [
+            "Firefall",
+            "Luna Sea",
+            "Elan",
+            "Undertow",
+            "Clouds Across The Sun",
+            "Break Of Dawn",
+            "Mirror Of The World",
+            "Greatest Hits"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975",
+            "end": ""
+        },
+        "deezerFans": 533,
+        "members": [
+            "Larry Burnett",
+            "Jock Bartley",
+            "Rick Roberts",
+            "Michael Clarke",
+            "Mark Andes"
+        ]
+    },
+    {
+        "id": "56d94dcacc2ddd0c0f6b853e",
+        "name": "New Riders Of The Purple Sage",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Bluegrass"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 2,
+        "recordLabel": [
+            "A&M Records",
+            "Columbia Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/70609",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/70609/image",
+        "albums": [
+            "New Riders Of The Purple Sage",
+            "Powerglide",
+            "Gypsy Cowboy",
+            "The Adventures Of Panama Red",
+            "Home, Home On The Road",
+            "Brujo",
+            "Oh, What A Mighty Time",
+            "New Riders",
+            "Who Are Those Guys ?",
+            "Marin County Line",
+            "Before Time Began",
+            "Keep On Keepin' On",
+            "Where I Come From",
+            "17 Pine Avenue",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969",
+            "end": ""
+        },
+        "deezerFans": 457,
+        "members": [
+            "John Dawson",
+            "David Nelson"
+        ]
+    },
+    {
+        "id": "56d8200253a7ddfc01f939b9",
+        "name": "Dillard & Clark",
+        "type": "Group",
+        "genres": [
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/152102",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/152102/image",
+        "albums": [
+            "The Fantastic Expedition Of Dillard & Clark",
+            "Through The Morning, Through The Night"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "1969"
+        },
+        "deezerFans": 451,
+        "members": [
+            "Gene Clark",
+            "Doug Dillard"
+        ]
+    },
+    {
+        "id": "56d7ffa353a7ddfc01f90bac",
+        "name": "Barrett Baber",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 15,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4987270",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/4987270/image",
+        "albums": [
+            "Colt Square Sessions",
+            "Battlefield Us",
+            "Falling Again",
+            "The Voice: The Complete Season 9 Collection",
+            "Singles",
+            "Live and Unreleased Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1980-05-18",
+            "end": ""
+        },
+        "deezerFans": 424,
+        "members": []
+    },
+    {
+        "id": "56d84c4953a7ddfc01f97948",
+        "name": "Jonas Fjeld",
+        "type": "Person",
+        "genres": [
+            "Country Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/244696",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/244696/image",
+        "albums": [
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1952",
+            "end": ""
+        },
+        "deezerFans": 280,
+        "members": [
+            "Jonas Fjeld Rock n' Rolf Band"
+        ]
+    },
+    {
+        "id": "56d93e2bce06f50c0fed8839",
+        "name": "Michael Nesmith",
+        "type": "Person",
+        "genres": [
+            "Country",
+            "Country Rock",
+            "Rock",
+            "Folk"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/76767",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/76767/image",
+        "albums": [
+            "Magnetic South",
+            "Loose Salute",
+            "Nevada Fighter",
+            "Tantamount To Treason",
+            "And The Hits Just Keep On Comin'",
+            "Pretty Much Your Standard Ranch Stash",
+            "The Prison",
+            "From A Radio Engine To The Photon Wing",
+            "Infinite Rider On The Big Dogma",
+            "The Newer Stuff",
+            "The Older Stuff",
+            "Tropical Campfires",
+            "The Garden",
+            "Rays",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1942-12-30",
+            "end": ""
+        },
+        "deezerFans": 233,
+        "members": [
+            "Michael Nesmith & The Second National Band",
+            "The Monkees",
+            "Michael Nesmith & The First National Band"
+        ]
+    },
+    {
+        "id": "56d93757ce06f50c0fed7e0b",
+        "name": "Manassas",
+        "type": "Group",
+        "genres": [
+            "Blues Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Rhino Entertainment",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/290923",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/290923/image",
+        "albums": [
+            "Manassas",
+            "Down The Road",
+            "Pieces"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1971",
+            "end": "1973"
+        },
+        "deezerFans": 226,
+        "members": [
+            "Chris Hillman",
+            "Stephen Stills",
+            "Calvin Samuels",
+            "Al Perkins"
+        ]
+    },
+    {
+        "id": "56d814d653a7ddfc01f92942",
+        "name": "Commander Cody And His Lost Planet Airmen",
+        "type": "Group",
+        "genres": [
+            "Americana",
+            "Blues",
+            "Country Rock",
+            "Jump Blues",
+            "Rock 'N' Roll",
+            "Rockabilly",
+            "Swing"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66200",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/66200/image",
+        "albums": [
+            "Lost In The Ozone",
+            "Hot Licks, Cold Steel & Truckers' Favorites",
+            "Country Casanova",
+            "Live From Deep In The Heart Of Texas",
+            "Commander Cody And His Lost Planet",
+            "Tales From The Ozone",
+            "Flying Dreams",
+            "Lose It Tonight",
+            "Sleazy Roadside Stories",
+            "Aces High",
+            "Hot To Trot",
+            "The Early Years 1967-1970",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 214,
+        "members": [
+            "Commander Cody",
+            "Andy Stein"
+        ]
+    },
+    {
+        "id": "56d802e853a7ddfc01f91074",
+        "name": "Big Talk",
+        "type": "Group",
+        "genres": [
+            "Indie Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Epitaph Records",
+            "PledgeMusic"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1224999",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1224999/image",
+        "albums": [
+            "Big Talk"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "2011",
+            "end": ""
+        },
+        "deezerFans": 208,
+        "members": [
+            "Ronnie Vannucci Jr."
+        ]
+    },
+    {
+        "id": "56d85c8053a7ddfc01f99157",
+        "name": "Lone Justice",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Country Rock",
+            "Cowpunk",
+            "Rockabilly",
+            "Roots Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Geffen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/110627",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/110627/image",
+        "albums": [
+            "Lone Justice",
+            "Shelter",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1982",
+            "end": "1987"
+        },
+        "deezerFans": 185,
+        "members": [
+            "Ryan Hedgecock",
+            "Don Heffington",
+            "Shane Fontayne",
+            "Marvin Etzioni",
+            "Gregg Sutton",
+            "Bruce Brody",
+            "Maria McKee"
+        ]
+    },
+    {
+        "id": "56d8336053a7ddfc01f955af",
+        "name": "Gallagher & Lyle",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Folk Rock",
+            "Country Rock",
+            "Pop Rock",
+            "Adult Contemporary",
+            "Celtic Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/183026",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/183026/image",
+        "albums": [
+            "Breakaway"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1967",
+            "end": "1979"
+        },
+        "deezerFans": 181,
+        "members": [
+            "Benny Gallagher",
+            "Graham Lyle"
+        ]
+    },
+    {
+        "id": "56d81e6653a7ddfc01f93775",
+        "name": "Desert Rose Band",
+        "type": "Group",
+        "genres": [
+            "Country",
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Curb Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/406642",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/406642/image",
+        "albums": [
+            "The Desert Rose Band",
+            "Running",
+            "Pages Of Life",
+            "True Love",
+            "A Dozen Roses: Greatest Hits",
+            "Life Goes On",
+            "Traditional",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1985",
+            "end": "1993"
+        },
+        "deezerFans": 111,
+        "members": [
+            "Chris Hillman",
+            "John Jorgenson",
+            "Bill Bryson",
+            "Steve Duncan",
+            "Herb Pedersen"
+        ]
+    },
+    {
+        "id": "56d851a553a7ddfc01f980b2",
+        "name": "Keith Carradine",
+        "type": "Person",
+        "genres": [
+            "Singer-Songwriter",
+            "Ballad",
+            "Country Rock",
+            "Pop Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/66376",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/66376/image",
+        "albums": [
+            "I'm Easy",
+            "Lost And Found",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-08-08",
+            "end": ""
+        },
+        "deezerFans": 98,
+        "members": []
+    },
+    {
+        "id": "56d9599ecc2ddd0c0f6b96a5",
+        "name": "Plainsong",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/145777",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/145777/image",
+        "albums": [
+            "In Search Of Amelia Earhart",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1972",
+            "end": "2012"
+        },
+        "deezerFans": 40,
+        "members": [
+            "Iain Matthews",
+            "Clive Gregson",
+            "Mark Griffiths",
+            "Julian Dawson",
+            "Julian Dawson",
+            "Andy Roberts"
+        ]
+    },
+    {
+        "id": "56d94acbcc2ddd0c0f6b8146",
+        "name": "Mylon LeFevre",
+        "type": "Person",
+        "genres": [
+            "Contemporary Christian",
+            "Country Rock",
+            "Folk Rock",
+            "Gospel",
+            "Pop",
+            "Psychedelic Rock",
+            "Rock",
+            "Soft Rock"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 1,
+        "recordLabel": [
+            "Star Song Communications",
+            "Columbia Records",
+            "Warner Bros. Records",
+            "Mercury Records",
+            "Cotillion Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/241579",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/241579/image",
+        "albums": [
+            "Your Only Tomorrow",
+            "Mylon",
+            "Holy Smoke",
+            "Over The Influence",
+            "On The Road To Freedom",
+            "Weak At The Knees",
+            "Love Rustler",
+            "Rock 'N' Roll Resurrection",
+            "Brand New Start",
+            "More",
+            "Live Forever",
+            "Sheep In Wolves Clothing",
+            "Look Up",
+            "Crack The Sky",
+            "Face The Music",
+            "Big World",
+            "Crank It Up",
+            "A Decade Of Love",
+            "Faith, Hope, And Love",
+            "Bow Down",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1944-10-06",
+            "end": ""
+        },
+        "deezerFans": 34,
+        "members": [
+            "Mylon LeFevre & Broken Heart"
+        ]
+    },
+    {
+        "id": "56d97a72cc2ddd0c0f6bc86f",
+        "name": "The Amazing Rhythm Aces",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Soft Rock",
+            "Southern Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Columbia Records",
+            "ABC Records",
+            "Warner Bros. Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5242081",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5242081/image",
+        "albums": [
+            "Stacked Deck",
+            "Too Stuffed To Jump",
+            "Toucan Do It Too",
+            "Burning The Ballroom Down",
+            "The Amazing Rhythm Aces",
+            "How The Hell Do You Spell Rythum?",
+            "Out Of The Blue",
+            "Chock Full Of Country Goodness"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 34,
+        "members": []
+    },
+    {
+        "id": "56d805bc53a7ddfc01f9144c",
+        "name": "Blue Giant",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Indie Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Amore!Phonics",
+            "Vanguard Records",
+            "Jealous Butcher"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/535130",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/535130/image",
+        "albums": [
+            "Target Heart",
+            "Blue Giant"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 32,
+        "members": []
+    },
+    {
+        "id": "56d8161a53a7ddfc01f92b2a",
+        "name": "Country Dick Montana",
+        "type": "Person",
+        "genres": [
+            "Country Rock",
+            "Americana",
+            "Roots Rock",
+            "Cowpunk"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/151104",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/151104/image",
+        "albums": [
+            "The Devil Lied To Me",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1955-05-17",
+            "end": "1995-11-08"
+        },
+        "deezerFans": 32,
+        "members": []
+    },
+    {
+        "id": "56d83d7253a7ddfc01f96356",
+        "name": "Herb Pedersen",
+        "type": "",
+        "genres": [
+            "Country",
+            "Bluegrass",
+            "Progressive Bluegrass",
+            "Folk",
+            "Folk Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Elektra Records",
+            "Sugar Hill Records",
+            "Curb Records",
+            "David Grisman",
+            "Rhino Entertainment",
+            "Epic Records",
+            "Reprise Records",
+            "MCA Records",
+            "Back Porch Records",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/418974",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/418974/image",
+        "albums": [
+            "Southwest",
+            "Lonesome Feeling",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 30,
+        "members": []
+    },
+    {
+        "id": "56d93c1ace06f50c0fed8532",
+        "name": "McGuinn, Clark & Hillman",
+        "type": "Group",
+        "genres": [
+            "Folk Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/241800",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/241800/image",
+        "albums": [
+            "McGuinn, Clark & Hillman",
+            "City"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1977",
+            "end": ""
+        },
+        "deezerFans": 27,
+        "members": [
+            "Chris Hillman",
+            "Gene Clark",
+            "Roger McGuinn"
+        ]
+    },
+    {
+        "id": "56d7fbfa53a7ddfc01f9063f",
+        "name": "Ass Ponys",
+        "type": "Group",
+        "genres": [
+            "Alternative Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 6,
+        "nombre_members": 1,
+        "recordLabel": [
+            "A&M Records",
+            "Checkered Past Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/104498",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/104498/image",
+        "albums": [
+            "Mr. Superlove",
+            "Grim",
+            "Electric Rock Music",
+            "The Known Universe",
+            "Some Stupid With A Flare Gun",
+            "Lohio"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1988",
+            "end": "2005"
+        },
+        "deezerFans": 21,
+        "members": [
+            "Chuck Cleaver"
+        ]
+    },
+    {
+        "id": "56d8081d53a7ddfc01f917b9",
+        "name": "Brave Belt",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/557792",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/557792/image",
+        "albums": [
+            "Brave Belt",
+            "Brave Belt II"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1970",
+            "end": "1973"
+        },
+        "deezerFans": 18,
+        "members": [
+            "Robbie Bachman",
+            "Randy Bachman",
+            "Chad Allan"
+        ]
+    },
+    {
+        "id": "56d85ec753a7ddfc01f994cb",
+        "name": "Lucia Marconi And The Carpool To Nashville",
+        "type": "",
+        "genres": [
+            "Country",
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1254558",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1254558/image",
+        "albums": [
+            "Butterfly",
+            "Running In The Wind"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 7,
+        "members": []
+    },
+    {
+        "id": "56d8005353a7ddfc01f90cbc",
+        "name": "Beat Farmers",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Americana",
+            "Roots Rock",
+            "Cowpunk"
+        ],
+        "nombre_albums": 11,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Curb Records",
+            "Rhino Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5589116",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5589116/image",
+        "albums": [
+            "Tales Of The New West",
+            "Glad 'N' Greasy",
+            "Van Go",
+            "The Pursuit Of Happiness",
+            "Poor And Famous",
+            "Loud And Plowed And...Live!!",
+            "Viking Lullabys",
+            "Best Of The Beat Farmers",
+            "Manifold",
+            "Live At The Spring Valley Inn, 1983",
+            "Tales Of The New West"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1983",
+            "end": "1995"
+        },
+        "deezerFans": 4,
+        "members": [
+            "Stephen McCarthy",
+            "Joey Harris"
+        ]
+    },
+    {
+        "id": "56d97f34cc2ddd0c0f6bce5f",
+        "name": "The Guthries",
+        "type": "Group",
+        "genres": [
+            "Country Rock",
+            "Alternative Country"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/4351965",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4351965/image",
+        "albums": [
+            "Off Windmill",
+            "The Guthries"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 3,
+        "members": [
+            "Ruth Minnikin"
+        ]
+    },
+    {
+        "id": "56d97188cc2ddd0c0f6bba8d",
+        "name": "Sparkler",
+        "type": "",
+        "genres": [
+            "Rock",
+            "Country Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/367625",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/367625/image",
+        "albums": [
+            "Magnifying Glass",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 2,
+        "members": []
+    }
+]

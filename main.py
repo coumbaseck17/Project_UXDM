@@ -1,27 +1,22 @@
+
 import functions
 url = "https://wasabi.i3s.unice.fr"
 
 def main():
 
 
-    # Paramètres de la requête
-    params = {
-        "limit": "10"
-    }
+    """Appel de la fonction pour récupérer les données de l'API"""
 
-    # Appel de la fonction pour récupérer les données de l'API
-    popularity_data = functions.fetch_genre_popularity(url)
-
-    #genre_data = functions.fetch_genre_song(url)
-
-    if popularity_data:
-        # Utilisez les données récupérées comme bon vous semble
-        print(popularity_data)
-
-    #if genre_data :
-
-        #print(genre_data)
-
-
+""""" Appel fonctions déjà appelées
+    functions.fetch_details_artists_sorted()
+    functions.fetch_genre_details_ALL()
+    data_directory = "data/details_v1"
+    output_file = "data/details_v1/all_data_details.json"
+    functions.consolidate_genre_details(data_directory, output_file)
+    functions.fetch_details_artists_sorted()
+"""
+artists =functions.filter_artists("Rock","Punk Rock","TYPE","")
+print(artists)
+functions.fetch_details_others()
 if __name__ == "__main__":
     main()

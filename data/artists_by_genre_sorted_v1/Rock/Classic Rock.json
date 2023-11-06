@@ -1,0 +1,2240 @@
+[
+    {
+        "id": "56d95932cc2ddd0c0f6b961d",
+        "name": "Pink Floyd",
+        "type": "Group",
+        "genres": [
+            "Psychedelic Rock",
+            "Space Rock",
+            "Progressive Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 27,
+        "nombre_members": 6,
+        "recordLabel": [
+            "Harvest Records",
+            "EMI",
+            "Capitol Records",
+            "Parlophone",
+            "Columbia Records",
+            "Columbia Graphophone Company"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/860",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/860/image",
+        "albums": [
+            "Arnold Layne",
+            "See Emily Play",
+            "The Piper At The Gates Of Dawn",
+            "Apples And Oranges",
+            "It Would Be So Nice",
+            "A Saucerful Of Secrets",
+            "Point Me At The Sky",
+            "Soundtrack From The Film More",
+            "Ummagumma",
+            "Atom Heart Mother",
+            "Meddle",
+            "Obscured By Clouds",
+            "The Dark Side Of The Moon",
+            "Wish You Were Here",
+            "Animals",
+            "The Wall",
+            "The Final Cut",
+            "A Momentary Lapse Of Reason",
+            "Tonite Let's All Make Love In London...Plus",
+            "The Division Bell",
+            "The Endless River",
+            "1965",
+            "[[Pink Floyd/Compilation And Live Albums|Compilation and Live Albums]]",
+            "[[Pink Floyd/Films|Films]]",
+            "A Tree Full Of Secrets",
+            "Building The Wall",
+            "[[Pink Floyd/Records of Indeterminate/Illegitimate Origin|Records of Indeterminate/Illegitimate Origin]]"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1965",
+            "end": "2014"
+        },
+        "deezerFans": 3436708,
+        "members": [
+            "Roger Waters",
+            "Syd Barrett",
+            "David Gilmour",
+            "Richard Wright",
+            "Richard Wright",
+            "Nick Mason"
+        ]
+    },
+    {
+        "id": "56d7ef5d56847be81b3e8c34",
+        "name": "Aerosmith",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Rock",
+            "Blues"
+        ],
+        "nombre_albums": 32,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Geffen Records",
+            "Columbia Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1005",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1005/image",
+        "albums": [
+            "Aerosmith",
+            "Get Your Wings",
+            "Toys In The Attic",
+            "Rocks",
+            "Draw The Line",
+            "Live! Bootleg",
+            "Night In The Ruts",
+            "Greatest Hits",
+            "Rock In A Hard Place",
+            "Done With Mirrors",
+            "Classics Live I",
+            "Classics Live II",
+            "Permanent Vacation",
+            "Gems",
+            "Pump",
+            "Pandora's Box",
+            "Get A Grip",
+            "Big Ones",
+            "Box Of Fire",
+            "Pandora's Toys",
+            "Nine Lives",
+            "A Little South Of Sanity",
+            "Just Push Play",
+            "Young Lust: The Aerosmith Anthology",
+            "O, Yeah! The Ultimate Aerosmith Hits",
+            "Honkin' On Bobo",
+            "Rockin' The Joint",
+            "Devil's Got A New Disguise - The Very Best Of Aerosmith",
+            "The Essential Aerosmith",
+            "Music From Another Dimension!",
+            "Songs from:",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970",
+            "end": ""
+        },
+        "deezerFans": 3211628,
+        "members": [
+            "Brad Whitford",
+            "Brad Whitford",
+            "Joey Kramer",
+            "Jimmy Crespo",
+            "Steven Tyler",
+            "Tom Hamilton",
+            "Ray Tabano",
+            "Joe Perry",
+            "Joe Perry",
+            "Rick Dufay"
+        ]
+    },
+    {
+        "id": "56d97da3cc2ddd0c0f6bcc3c",
+        "name": "The Doors",
+        "type": "Group",
+        "genres": [
+            "Blues",
+            "Classic Rock",
+            "Psychedelic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 22,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Elektra Records",
+            "Rhino Entertainment"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/847",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/847/image",
+        "albums": [
+            "The Doors",
+            "Strange Days",
+            "Waiting For The Sun",
+            "The Soft Parade",
+            "Absolutely Live",
+            "Morrison Hotel",
+            "L.A. Woman",
+            "Other Voices",
+            "Full Circle",
+            "An American Prayer",
+            "Alive, She Cried",
+            "The Best Of The Doors",
+            "In Concert",
+            "Box Set",
+            "Essential Rarities",
+            "Bright Midnight: Live In America",
+            "Live In Detroit",
+            "Legacy: The Absolute Best",
+            "Live In Boston",
+            "The Platinum Collection",
+            "Live In Pittsburgh 1970",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1965",
+            "end": "1972"
+        },
+        "deezerFans": 2077365,
+        "members": [
+            "John Densmore",
+            "Robby Krieger",
+            "Jim Morrison",
+            "Ray Manzarek"
+        ]
+    },
+    {
+        "id": "56d84aff53a7ddfc01f9778b",
+        "name": "John Lennon",
+        "type": "Person",
+        "genres": [
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 13,
+        "nombre_members": 3,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/226",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/226/image",
+        "albums": [
+            "John Lennon/Plastic Ono Band",
+            "Imagine",
+            "Live In New York City",
+            "Some Time In New York City",
+            "Mind Games",
+            "Walls And Bridges",
+            "Rock 'N' Roll",
+            "Shaved Fish",
+            "Menlove Ave.",
+            "John Lennon Anthology",
+            "Wonsaponatime",
+            "Acoustic",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1940-10-09",
+            "end": "1980-12-08"
+        },
+        "deezerFans": 1479820,
+        "members": [
+            "Plastic Ono Band",
+            "The Quarrymen",
+            "The Beatles"
+        ]
+    },
+    {
+        "id": "56d8588d53a7ddfc01f98b26",
+        "name": "Led Zeppelin",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Blues Rock",
+            "Folk Rock",
+            "Hard Rock",
+            "Classic Rock",
+            "Progressive Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Atlantic Records",
+            "Swan Song Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/848",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/848/image",
+        "albums": [
+            "Led Zeppelin",
+            "Led Zeppelin II",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses Of The Holy",
+            "Physical Graffiti",
+            "Presence",
+            "The Song Remains The Same",
+            "In Through The Out Door",
+            "Coda",
+            "BBC Sessions",
+            "Early Days: The Best Of Led Zeppelin, Volume 1",
+            "How The West Was Won",
+            "Celebration Day",
+            "Other Releases"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "1980-09-25"
+        },
+        "deezerFans": 1352202,
+        "members": [
+            "John Paul Jones",
+            "Jimmy Page",
+            "John Bonham",
+            "Robert Plant"
+        ]
+    },
+    {
+        "id": "56d98664cc2ddd0c0f6bd866",
+        "name": "The Who",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 28,
+        "nombre_members": 13,
+        "recordLabel": [
+            "Virgin Records",
+            "MCA Records",
+            "Brunswick Records",
+            "Decca Records",
+            "Reaction Records",
+            "Track Records",
+            "Polydor Records",
+            "Atco Records",
+            "Universal Republic Records",
+            "Warner Bros. Records",
+            "Geffen Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/817",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/817/image",
+        "albums": [
+            "The Who Sings My Generation",
+            "A Quick One",
+            "The Who Sell Out",
+            "Magic Bus: The Who On Tour",
+            "Tommy",
+            "Live At Leeds",
+            "Meaty Beaty Big And Bouncy",
+            "Who's Next",
+            "Odds & Sods",
+            "Quadrophenia",
+            "The Who By Numbers",
+            "Tommy Soundtrack",
+            "Who Are You",
+            "The Kids Are Alright",
+            "Face Dances",
+            "It's Hard",
+            "Two's Missing",
+            "Join Together",
+            "BBC Sessions",
+            "Live At The Royal Albert Hall",
+            "Then And Now",
+            "Endless Wire",
+            "Songs on Compilations and Soundtracks",
+            "Quadrophenia Soundtrack",
+            "Join Together",
+            "Thirty Years Of Maximum R&B",
+            "Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-02",
+            "end": ""
+        },
+        "deezerFans": 1296608,
+        "members": [
+            "Pino Palladino",
+            "Chris Stainton",
+            "Simon Townshend",
+            "Simon Townshend",
+            "John Entwistle",
+            "Roger Daltrey",
+            "Kenney Jones",
+            "Keith Moon",
+            "Loren Gold",
+            "Frank Simes",
+            "John \"Rabbit\" Bundrick",
+            "Zak Starkey",
+            "Pete Townshend"
+        ]
+    },
+    {
+        "id": "56d8281653a7ddfc01f9453f",
+        "name": "Elton John",
+        "type": "Person",
+        "genres": [
+            "Pop Rock",
+            "Adult Contemporary",
+            "Rock",
+            "Glam Rock",
+            "Soft Rock",
+            "R&B",
+            "Classic Rock"
+        ],
+        "nombre_albums": 65,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/413",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/413/image",
+        "albums": [
+            "Empty Sky",
+            "Elton John",
+            "Tumbleweed Connection",
+            "Friends",
+            "17-11-70",
+            "Madman Across The Water",
+            "Honky Château",
+            "Don't Shoot Me I'm Only The Piano Player",
+            "Goodbye Yellow Brick Road",
+            "Caribou",
+            "Greatest Hits",
+            "Captain Fantastic And The Brown Dirt Cowboy",
+            "Rock Of The Westies",
+            "Here And There",
+            "Don't Go Breaking My Heart",
+            "Blue Moves",
+            "The Goaldigger's Song",
+            "Elton John's Greatest Hits Volume II",
+            "A Single Man",
+            "The Thom Bell Sessions",
+            "Victim Of Love",
+            "Lady Samantha",
+            "Les Aveux",
+            "21 At 33",
+            "The Fox",
+            "Jump Up!",
+            "Too Low For Zero",
+            "The New Collection",
+            "Breaking Hearts",
+            "Ice On Fire",
+            "Leather Jackets",
+            "Live In Australia With The Melbourne Symphony Orchestra",
+            "Elton John's Greatest Hits Volume III 1979-1987",
+            "Reg Strikes Back",
+            "Sleeping With The Past",
+            "To Be Continued...",
+            "The Very Best Of Elton John",
+            "The One",
+            "Rare Masters",
+            "Greatest Hits 1976-1986",
+            "Dick James Demos, Volume 1",
+            "Dick James Demos, Volume 2",
+            "Duets",
+            "Chartbusters Go Pop",
+            "The Unsurpassed Dick James Demos, Volume 3",
+            "Prologue",
+            "Made In England",
+            "Love Songs",
+            "The Big Picture",
+            "16 Legendary Covers",
+            "The Muse",
+            "The Road To El Dorado",
+            "One Night Only: The Greatest Hits",
+            "Songs From The West Coast",
+            "Greatest Hits 1970-2002",
+            "Peachtree Road",
+            "Electricity",
+            "The Captain & The Kid",
+            "The Diving Board",
+            "Wonderful Crazy Night",
+            "B-Sides",
+            "Songs on Compilations and Soundtracks",
+            "Live and Unreleased Songs",
+            "Songs Featuring Elton John",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1947-03-25",
+            "end": ""
+        },
+        "deezerFans": 1059878,
+        "members": [
+            "Elton John Band"
+        ]
+    },
+    {
+        "id": "56d955eccc2ddd0c0f6b91ce",
+        "name": "Paul McCartney",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Pop",
+            "Classical"
+        ],
+        "nombre_albums": 31,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Polydor Records",
+            "Hear Music",
+            "Parlophone",
+            "Columbia Records",
+            "Capitol Records",
+            "Apple Records",
+            "Decca Records",
+            "Swan Records (jazz label)",
+            "Vee-Jay Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1446",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1446/image",
+        "albums": [
+            "McCartney",
+            "Ram",
+            "McCartney II",
+            "Tug Of War",
+            "Pipes Of Peace",
+            "Give My Regards To Broad Street",
+            "Press To Play",
+            "Flowers In The Dirt",
+            "Tripping The Live Fantastic",
+            "Tripping The Live Fantastic - Highlights",
+            "Unplugged (The Official Bootleg)",
+            "Paul McCartney's Liverpool Oratorio",
+            "Снова В СССР",
+            "Off The Ground",
+            "Paul Is Live",
+            "Flaming Pie",
+            "Run Devil Run",
+            "Wingspan: Hits And History",
+            "Driving Rain",
+            "Back In The U.S. - Live 2002",
+            "Back In The World - Live",
+            "Chaos And Creation In The Backyard",
+            "Ecce Cor Meum",
+            "Memory Almost Full",
+            "Amoeba's Secret",
+            "Good Evening New York City",
+            "Kisses On The Bottom",
+            "New",
+            "Songs on Compilations and Soundtracks",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1942-06-18",
+            "end": ""
+        },
+        "deezerFans": 1023777,
+        "members": [
+            "The Fireman",
+            "The Quarrymen",
+            "The Beatles",
+            "Wings"
+        ]
+    },
+    {
+        "id": "56d8490c53a7ddfc01f974d6",
+        "name": "Jimi Hendrix",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Psychedelic Rock",
+            "Hard Rock",
+            "Blues Rock",
+            "Psychedelic Rock",
+            "Acid Rock"
+        ],
+        "nombre_albums": 19,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Sony Music Entertainment",
+            "Legacy Recordings",
+            "Polydor Records",
+            "MCA Records",
+            "Track Records",
+            "Capitol Records",
+            "Barclay Records",
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/849",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/849/image",
+        "albums": [
+            "Band Of Gypsys",
+            "The Cry Of Love",
+            "Rainbow Bridge",
+            "War Heroes",
+            "Loose Ends",
+            "Crash Landing",
+            "Midnight Lightning",
+            "Nine To The Universe",
+            "Doriella Du Fontaine",
+            "The Ultimate Experience",
+            "Blues",
+            "Voodoo Soup",
+            "First Rays Of The New Rising Sun",
+            "South Saturn Delta",
+            "Live At The Fillmore East",
+            "Live At Woodstock",
+            "Valleys Of Neptune",
+            "People, Hell & Angels",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1942-11-27",
+            "end": "1970-09-18"
+        },
+        "deezerFans": 839719,
+        "members": [
+            "Gypsy Sun and Rainbows",
+            "The Jimi Hendrix Experience",
+            "Little Richard Show",
+            "Curtis Knight and The Squires",
+            "Band of Gypsys"
+        ]
+    },
+    {
+        "id": "56d98029cc2ddd0c0f6bcf85",
+        "name": "The Jimi Hendrix Experience",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Psychedelic Rock",
+            "Acid Rock",
+            "Hard Rock",
+            "Blues Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 3,
+        "recordLabel": [
+            "Reprise Records",
+            "Polydor Records",
+            "Barclay Records",
+            "MCA Records",
+            "Track Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/850",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/850/image",
+        "albums": [
+            "Are You Experienced",
+            "Axis: Bold As Love",
+            "Electric Ladyland",
+            "BBC Sessions",
+            "The Jimi Hendrix Experience",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1966",
+            "end": "1969-06"
+        },
+        "deezerFans": 517725,
+        "members": [
+            "Jimi Hendrix",
+            "Mitch Mitchell",
+            "Noel Redding"
+        ]
+    },
+    {
+        "id": "56d98074cc2ddd0c0f6bd003",
+        "name": "The Kinks",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 39,
+        "nombre_members": 17,
+        "recordLabel": [
+            "Entertainment One Music",
+            "MCA Records",
+            "Konk (recording studio)",
+            "Cameo-Parkway Records",
+            "Pye Records",
+            "RCA Records",
+            "Sony Music Entertainment",
+            "Universal Records (defunct record label)",
+            "Reprise Records",
+            "London Records",
+            "Arista Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1415",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1415/image",
+        "albums": [
+            "Kinks",
+            "Kinda Kinks",
+            "Kinks-Size",
+            "Kinkdom",
+            "The Kink Kontroversy",
+            "Face To Face",
+            "Something Else By The Kinks",
+            "Live At Kelvin Hall",
+            "The Kinks Are The Village Green Preservation Society",
+            "Arthur (Or The Decline And Fall Of The British Empire)",
+            "Lola Versus Powerman And The Moneygoround, Part One",
+            "Percy",
+            "Muswell Hillbillies",
+            "The Kink Kronikles",
+            "Everybody's In Show-Biz",
+            "The Great Lost Kinks Album",
+            "Preservation Act 1",
+            "Preservation Act 2",
+            "Soap Opera",
+            "Schoolboys In Disgrace",
+            "Sleepwalker",
+            "Misfits",
+            "Low Budget",
+            "One For The Road",
+            "Give The People What They Want",
+            "State Of Confusion",
+            "Word Of Mouth",
+            "Think Visual",
+            "Come Dancing With The Kinks",
+            "Live: The Road",
+            "UK Jive",
+            "Lost & Found (1986-89)",
+            "Phobia",
+            "Waterloo Sunset '94",
+            "To The Bone",
+            "The Singles Collection",
+            "BBC Sessions 1964-1977",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1964",
+            "end": "1996"
+        },
+        "deezerFans": 433183,
+        "members": [
+            "John Dalton",
+            "John Dalton",
+            "John Dalton",
+            "Mick Avory",
+            "Mark Haley",
+            "Dave Davies",
+            "Andy Pyle",
+            "Nicky Hopkins",
+            "Pete Quaife",
+            "Pete Quaife",
+            "John Gosling",
+            "Ray Davies",
+            "Jim Rodford",
+            "Gordon John Edwards",
+            "Ian Gibbons",
+            "Ian Gibbons",
+            "Bob Henrit"
+        ]
+    },
+    {
+        "id": "56d85ffb53a7ddfc01f99673",
+        "name": "Lynyrd Skynyrd",
+        "type": "Group",
+        "genres": [
+            "Southern Rock",
+            "Blues Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 21,
+        "recordLabel": [
+            "Sanctuary Records Group",
+            "MCA Records",
+            "Atlantic Records",
+            "Roadrunner Records",
+            "Universal Records (defunct record label)",
+            "Capricorn Records",
+            "CMC International"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/816",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/816/image",
+        "albums": [
+            "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+            "Second Helping",
+            "Nuthin' Fancy",
+            "Gimme Back My Bullets",
+            "One More From The Road",
+            "Street Survivors",
+            "Skynyrd's First ...And  Last",
+            "Best Of The Rest",
+            "Legend",
+            "Southern By The Grace Of God",
+            "Lynyrd Skynyrd 1991",
+            "Lynyrd Skynyrd",
+            "The Last Rebel",
+            "Endangered Species",
+            "Twenty",
+            "Lyve From Steel Town",
+            "Edge Of Forever",
+            "Collectybles",
+            "Christmas Time Again",
+            "Vicious Cycle",
+            "Lynyrd Skynyrd Lyve: The Vicious Cycle Tour",
+            "God And Guns",
+            "Last Of A Dyin' Breed",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964",
+            "end": ""
+        },
+        "deezerFans": 411340,
+        "members": [
+            "Billy Powell",
+            "Cassie Gaines",
+            "Carol Chase",
+            "Gary Rossington",
+            "Leon Wilkeson",
+            "Alias",
+            "Ronnie Van Zant",
+            "Artimus Pyle",
+            "Allen Collins",
+            "Michael Cartellone",
+            "Steve Gaines",
+            "Johnny Van Zant",
+            "JoJo Billingsley",
+            "Ean Evans",
+            "Bob Burns",
+            "Rickey Medlocke",
+            "Leslie Hawkins",
+            "Ed King",
+            "Dale Krantz-Rossington",
+            "Hughie Thomasson",
+            "Larry Junstrom"
+        ]
+    },
+    {
+        "id": "56d8347753a7ddfc01f9572d",
+        "name": "Genesis",
+        "type": "Group",
+        "genres": [
+            "Progressive Rock",
+            "Classic Rock",
+            "Pop Rock",
+            "Pop"
+        ],
+        "nombre_albums": 24,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Atlantic Records",
+            "Universal Music Group",
+            "Virgin EMI Records",
+            "Charisma Records",
+            "Atco Records",
+            "Decca Records",
+            "London Records",
+            "EMI Records",
+            "Vertigo Records",
+            "Virgin Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3037",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3037/image",
+        "albums": [
+            "From Genesis To Revelation",
+            "Trespass",
+            "Nursery Cryme",
+            "Foxtrot",
+            "Selling England By The Pound",
+            "The Lamb Lies Down On Broadway",
+            "A Trick Of The Tail",
+            "Wind & Wuthering",
+            "Spot The Pigeon",
+            "...And Then There Were Three...",
+            "Duke",
+            "Abacab",
+            "3 X 3",
+            "Genesis",
+            "Invisible Touch",
+            "We Can't Dance",
+            "The Way We Walk, Volume One: The Shorts",
+            "The Way We Walk, Volume Two: The Longs",
+            "...Calling All Stations...",
+            "Archive 1967-75",
+            "Archive Number 2 1976-1992",
+            "Live Over Europe 2007",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967",
+            "end": ""
+        },
+        "deezerFans": 318416,
+        "members": [
+            "Jonathan Silver",
+            "John Mayhew",
+            "Mick Barnard",
+            "Phil Collins",
+            "Phil Collins",
+            "Ray Wilson",
+            "Mike Rutherford",
+            "Tony Banks",
+            "Peter Gabriel",
+            "Chris Stewart",
+            "Anthony Phillips",
+            "Steve Hackett"
+        ]
+    },
+    {
+        "id": "56d97a9dcc2ddd0c0f6bc88b",
+        "name": "The Animals",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Blues Rock"
+        ],
+        "nombre_albums": 17,
+        "nombre_members": 8,
+        "recordLabel": [
+            "Columbia Graphophone Company",
+            "MGM Records",
+            "Atco Records",
+            "Jet Records",
+            "I.R.S. Records",
+            "Decca Records",
+            "Atlantic Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3350",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3350/image",
+        "albums": [
+            "The Animals",
+            "The Animals On Tour",
+            "Animal Tracks",
+            "The Best Of The Animals",
+            "The Most Of The Animals",
+            "Animalisms",
+            "Animalization",
+            "Animalism",
+            "The Most Of The Animals",
+            "Night Time Is The Right Time",
+            "Before We Were So Rudely Interrupted",
+            "Ark",
+            "Greatest Hits Live (Rip It To Shreds)",
+            "The Best Of The Animals",
+            "Original Hits",
+            "Retrospective",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1963",
+            "end": "1983"
+        },
+        "deezerFans": 123173,
+        "members": [
+            "Alan Price",
+            "Hilton Valentine",
+            "Barry Jenkins",
+            "John Steel",
+            "Dave Rowberry",
+            "Bryan \"Chas\" Chandler",
+            "Eric Burdon",
+            "Mick Gallagher"
+        ]
+    },
+    {
+        "id": "56d989cccc2ddd0c0f6bdd58",
+        "name": "Tom Petty And The Heartbreakers",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Backstreet Records",
+            "Warner Bros. Records",
+            "MCA Records",
+            "Shelter Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2110",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2110/image",
+        "albums": [
+            "Tom Petty And The Heartbreakers",
+            "You're Gonna Get It!",
+            "Damn The Torpedoes",
+            "Hard Promises",
+            "Long After Dark",
+            "Southern Accents",
+            "Pack Up The Plantation - Live!",
+            "Let Me Up (I've Had Enough)",
+            "Into The Great Wide Open",
+            "Greatest Hits",
+            "Playback",
+            "Songs And Music From \"She's The One\"",
+            "Echo",
+            "Anthology: Through The Years",
+            "The Last DJ",
+            "Live At The Olympic: The Last DJ And More",
+            "The Live Anthology",
+            "Mojo",
+            "Hypnotic Eye",
+            "Songs on Compilations and Soundtracks",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1976",
+            "end": ""
+        },
+        "deezerFans": 95037,
+        "members": [
+            "Mike Campbell",
+            "Tom Petty",
+            "Ron Blair",
+            "Ron Blair",
+            "Benmont Tench",
+            "Steve Ferrone",
+            "Howie Epstein",
+            "Scott Thurston",
+            "Stan Lynch"
+        ]
+    },
+    {
+        "id": "56d8077453a7ddfc01f916ab",
+        "name": "Boston",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Arena Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 16,
+        "recordLabel": [
+            "Artemis Records",
+            "MCA Records",
+            "Epic Records",
+            "Frontiers Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3339",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/3339/image",
+        "albums": [
+            "Boston",
+            "Don't Look Back",
+            "Third Stage",
+            "Walk On",
+            "Greatest Hits",
+            "Corporate America",
+            "Life, Love & Hope",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975",
+            "end": ""
+        },
+        "deezerFans": 69018,
+        "members": [
+            "Tommy DeCarlo",
+            "Anthony Cosmo",
+            "Barry Goudreau and Fran Cosmo",
+            "Fran Cosmo",
+            "Kimberly Dahme",
+            "Tom Scholz",
+            "Jeff Neal",
+            "Michael Sweet",
+            "Brad Delp",
+            "Brad Delp",
+            "Gary Pihl",
+            "Barry Goudreau",
+            "Jim Masdea",
+            "Jim Masdea",
+            "Sib Hashian",
+            "Fran Sheehan"
+        ]
+    },
+    {
+        "id": "56d8170553a7ddfc01f92c87",
+        "name": "Crosby, Stills, Nash & Young",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 4,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/5367",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5367/image",
+        "albums": [
+            "Déjà Vu",
+            "4 Way Street",
+            "So Far",
+            "American Dream",
+            "Looking Forward",
+            "Déjà Vu Live",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1969",
+            "end": ""
+        },
+        "deezerFans": 53923,
+        "members": [
+            "Graham Nash",
+            "Stephen Stills",
+            "Neil Young",
+            "David Crosby"
+        ]
+    },
+    {
+        "id": "56d97570cc2ddd0c0f6bc054",
+        "name": "Styx",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Classic Rock",
+            "Progressive Rock"
+        ],
+        "nombre_albums": 38,
+        "nombre_members": 12,
+        "recordLabel": [
+            "Sanctuary Records Group",
+            "Interscope Records",
+            "A&M Records",
+            "Wooden Nickel Records",
+            "CMC International",
+            "Universal Music Enterprises"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5660",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/5660/image",
+        "albums": [
+            "Styx",
+            "Styx II",
+            "The Serpent Is Rising",
+            "Man Of Miracles",
+            "Equinox",
+            "Crystal Ball",
+            "The Grand Illusion",
+            "The Best Of Styx",
+            "Pieces Of Eight",
+            "Cornerstone",
+            "Lady",
+            "Paradise Theatre",
+            "Kilroy Was Here",
+            "Caught In The Act",
+            "Classics Volume 15",
+            "Edge Of The Century",
+            "Greatest Hits",
+            "Greatest Hits Part 2",
+            "Return To Paradise",
+            "The Best Of Styx",
+            "Brave New World",
+            "Extended Versions",
+            "Singles Collection",
+            "Styx World: Live 2001",
+            "Tribute To Styx",
+            "20th Century Masters: Millennium Collection The Best Of Styx",
+            "At The River's Edge: Live In St. Louis",
+            "The Best Of Times: The Best Of Styx",
+            "Rockers",
+            "21st Century Live",
+            "Cyclorama",
+            "Music Of Styx: Live With Symphony Orchestra",
+            "Come Sail Away: The Styx Anthology",
+            "Yesterday & Today",
+            "Big Bang Theory",
+            "The World's Greatest Tribute To Styx",
+            "One With Everything",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970",
+            "end": ""
+        },
+        "deezerFans": 34311,
+        "members": [
+            "James Young",
+            "John Curulewski",
+            "Ricky Phillips",
+            "John Panozzo",
+            "Glen Burtnik",
+            "Glen Burtnik",
+            "Dennis DeYoung",
+            "Chuck Panozzo",
+            "Todd Sucherman",
+            "Tommy Shaw",
+            "Tommy Shaw",
+            "Gowan"
+        ]
+    },
+    {
+        "id": "56d8346153a7ddfc01f95712",
+        "name": "Gene Simmons",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Heavy Metal",
+            "Classic Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/16092",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/16092/image",
+        "albums": [
+            "Gene Simmons",
+            "Asshole",
+            "Featured Artist"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-08-25",
+            "end": ""
+        },
+        "deezerFans": 29570,
+        "members": [
+            "Wicked Lester",
+            "Bullfrog Bheer",
+            "Rainbow",
+            "KISS"
+        ]
+    },
+    {
+        "id": "56d97f8ccc2ddd0c0f6bcec5",
+        "name": "The Hollies",
+        "type": "Group",
+        "genres": [
+            "Beat",
+            "Pop",
+            "Pop Rock",
+            "Psychedelic Pop",
+            "Soft Rock",
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 40,
+        "nombre_members": 10,
+        "recordLabel": [
+            "Polydor Records",
+            "EMI",
+            "Parlophone",
+            "Capitol Records",
+            "RCA Records",
+            "Epic Records",
+            "Imperial Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4189",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4189/image",
+        "albums": [
+            "Stay With The Hollies",
+            "In The Hollies Style",
+            "Hollies",
+            "Would You Believe?",
+            "For Certain Because",
+            "Evolution",
+            "Butterfly",
+            "The Hollies' Greatest",
+            "Hollies Sing Dylan",
+            "Hollies Sing Hollies",
+            "Confessions Of The Mind",
+            "Distant Light",
+            "Romany",
+            "Hollies",
+            "Another Night",
+            "The History Of The Hollies",
+            "Write On",
+            "Russian Roulette",
+            "20 Golden Greats",
+            "A Crazy Steal",
+            "5317704",
+            "Buddy Holly",
+            "What Goes Around",
+            "Too Many Hearts Get Broken",
+            "This Is It",
+            "Rarities",
+            "Purple Rain",
+            "All-Time Greatest Hits",
+            "Epic Anthology",
+            "The Hollies Up Front: The Coconut Collection And More",
+            "30th Anniversary Collection: 1963-1993",
+            "Archive Alive!",
+            "Special Collection",
+            "The Hollies At Abbey Road 1966 To 1970",
+            "The Hollies At Abbey Road 1973 To 1989",
+            "Greatest Hits",
+            "Staying Power",
+            "Then, Now, Always",
+            "Midas Touch: The Very Best Of The Hollies",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1963",
+            "end": ""
+        },
+        "deezerFans": 28424,
+        "members": [
+            "Graham Nash",
+            "Graham Nash",
+            "Carl Wayne",
+            "Mikael Rickfors",
+            "Ian Parker",
+            "Tony Hicks",
+            "Ray Stiles",
+            "Terry Sylvester",
+            "Allan Clarke",
+            "Allan Clarke"
+        ]
+    },
+    {
+        "id": "56d8170153a7ddfc01f92c82",
+        "name": "Crosby, Stills & Nash",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/6205",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6205/image",
+        "albums": [
+            "Crosby, Stills & Nash",
+            "CSN",
+            "Replay",
+            "Daylight Again",
+            "Allies",
+            "Live It Up",
+            "After The Storm",
+            "Greatest Hits",
+            "Demos",
+            "Songs on Compilations and Soundtracks",
+            "Songs Featuring Crosby, Stills & Nash",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "2016-03-06"
+        },
+        "deezerFans": 23724,
+        "members": [
+            "Graham Nash",
+            "Stephen Stills",
+            "David Crosby"
+        ]
+    },
+    {
+        "id": "56d97f32cc2ddd0c0f6bce57",
+        "name": "The Guess Who",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 25,
+        "nombre_members": 13,
+        "recordLabel": [
+            "Quality Records",
+            "RCA Records",
+            "Sundazed Records",
+            "Buddah Records",
+            "Scepter Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/4254",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4254/image",
+        "albums": [
+            "Hey Ho (What You Do To Me)",
+            "Shakin' All Over",
+            "It's Time",
+            "Wheatfield Soul",
+            "Canned Wheat",
+            "American Woman",
+            "Share The Land",
+            "So Long, Bannatyne",
+            "Live At The Paramount",
+            "Rockin'",
+            "Wild One",
+            "Artificial Paradise",
+            "Number 10",
+            "Road Food",
+            "Flavours",
+            "Power In The Music",
+            "Guess Who's Back",
+            "All This For A Song",
+            "Now And Not Then",
+            "Lonely One",
+            "Running Back Thru Canada",
+            "This Time Long Ago",
+            "Shakin' All Over",
+            "Anthology",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1962",
+            "end": ""
+        },
+        "deezerFans": 19716,
+        "members": [
+            "Will Evankovich",
+            "Jim Kale",
+            "Burton Cummings",
+            "Derek Sharp",
+            "Domenic Troiano",
+            "Donnie McDougall",
+            "Greg Leskiw",
+            "Randy Bachman",
+            "Kurt Winter",
+            "Bill Wallace",
+            "Chad Allan",
+            "Bob Ashley",
+            "Garry Peterson"
+        ]
+    },
+    {
+        "id": "56d989c3cc2ddd0c0f6bdd50",
+        "name": "Tom Petty",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Shelter Records",
+            "MCA Records",
+            "Warner Bros. Records",
+            "Backstreet Records",
+            "Reprise Records",
+            "American Recordings (record label)"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/5229",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/5229/image",
+        "albums": [
+            "Full Moon Fever",
+            "Greatest Hits",
+            "Wildflowers",
+            "Highway Companion",
+            "B-Sides",
+            "Songs on Compilations",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1950-10-20",
+            "end": ""
+        },
+        "deezerFans": 19142,
+        "members": [
+            "Mudcrutch",
+            "Tom Petty and the Heartbreakers"
+        ]
+    },
+    {
+        "id": "56d95b97cc2ddd0c0f6b9987",
+        "name": "Procol Harum",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Progressive Rock",
+            "Psychedelic Rock",
+            "Symphonic Rock"
+        ],
+        "nombre_albums": 18,
+        "nombre_members": 9,
+        "recordLabel": [
+            "Chrysalis Records",
+            "A&M Records",
+            "Deram Records",
+            "Regal Zonophone Records",
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/2053",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/2053/image",
+        "albums": [
+            "Procol Harum",
+            "Shine On Brightly",
+            "A Salty Dog",
+            "Home",
+            "Broken Barricades",
+            "Live With The Edmonton Symphony Orchestra",
+            "Grand Hotel",
+            "Exotic Birds And Fruit",
+            "Procol's Ninth",
+            "Something Magic",
+            "The Prodigal Stranger",
+            "The Long Goodbye - Symphonic Music Of Procol Harum",
+            "A Whiter Shade Of Pale",
+            "Shine On Brightly... Plus",
+            "The Well's On Fire",
+            "Singles A's And B's",
+            "Non Album Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1967",
+            "end": ""
+        },
+        "deezerFans": 17077,
+        "members": [
+            "Gary Brooker",
+            "Dave Ball",
+            "Barrie James Wilson",
+            "Robin Trower",
+            "Mick Grabham",
+            "Tim Renwick",
+            "Matthew Fisher",
+            "Chris Copping",
+            "Matt Pegg"
+        ]
+    },
+    {
+        "id": "56d973fecc2ddd0c0f6bbe29",
+        "name": "Steve Hackett",
+        "type": "Person",
+        "genres": [
+            "Progressive Rock",
+            "Classic Rock",
+            "Blues Rock",
+            "Classical"
+        ],
+        "nombre_albums": 35,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Caroline Records",
+            "Charisma Records",
+            "Epic Records",
+            "Camino Records",
+            "Inside Out Music",
+            "Chrysalis Records",
+            "Gramy Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/3406",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/3406/image",
+        "albums": [
+            "Voyage Of The Acolyte",
+            "Please Don't Touch",
+            "Spectral Mornings",
+            "Defector",
+            "Cured",
+            "Highly Strung",
+            "Till We Have Faces",
+            "Momentum",
+            "Time Lapse",
+            "The Unauthorised Biography",
+            "Guitar Noir",
+            "Bay Of Kings",
+            "Blues With A Feeling",
+            "There Are Many Sides To The Night",
+            "Genesis Revisited",
+            "A Midsummers Night's Dream",
+            "The Tokyo Tapes",
+            "Darktown",
+            "Feedback 86",
+            "Sketches Of Satie",
+            "Genesis Files",
+            "Somewhere In South America",
+            "Hungarian Horizons",
+            "To Watch The Storms",
+            "Metamorpheus",
+            "Wild Orchids",
+            "Tribute",
+            "Out Of The Tunnel's Mouth",
+            "Live Rails",
+            "Beyond The Shrouded Horizon (Limited Edition)",
+            "Genesis Revisited II",
+            "Genesis Revisited Live At The Hammersmith Apollo",
+            "Access All Areas",
+            "Wolflight",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1950-02-12",
+            "end": ""
+        },
+        "deezerFans": 15514,
+        "members": [
+            "Genesis",
+            "GTR",
+            "Gordian Knot",
+            "Quiet World"
+        ]
+    },
+    {
+        "id": "56d7fe5e53a7ddfc01f909cd",
+        "name": "Bachman-Turner Overdrive",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Rock 'N' Roll",
+            "Rock",
+            "Hard Rock",
+            "Boogie"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Mercury Records",
+            "Curb Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/6470",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6470/image",
+        "albums": [
+            "Bachman-Turner Overdrive",
+            "Bachman-Turner Overdrive II",
+            "Not Fragile",
+            "Four Wheel Drive",
+            "Head On",
+            "Freeways",
+            "Street Action",
+            "Rock N' Roll Nights",
+            "You Ain't Seen Nothing Yet",
+            "Bachman-Turner Overdrive",
+            "BTO's Greatest",
+            "The Anthology",
+            "Trial By Fire - Greatest And Latest",
+            "The Best Of Bachman-Turner Overdrive",
+            "Songs on Compilations"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1970",
+            "end": "1984"
+        },
+        "deezerFans": 8596,
+        "members": [
+            "C.F. \"Fred\" Turner",
+            "Blair Thornton",
+            "Robbie Bachman",
+            "Randy Bachman",
+            "Tim Bachman",
+            "Jim Clench",
+            "Randy Murray"
+        ]
+    },
+    {
+        "id": "56d955f4cc2ddd0c0f6b91db",
+        "name": "Paul Stanley",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Classic Rock",
+            "Heavy Metal"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 5,
+        "recordLabel": [
+            "Universal Music Group"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/16201",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/16201/image",
+        "albums": [
+            "Paul Stanley",
+            "Live To Win"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1952-01-20",
+            "end": ""
+        },
+        "deezerFans": 7687,
+        "members": [
+            "Uncle Joe",
+            "Wicked Lester",
+            "Paul Stanley’s Soul Station",
+            "Rainbow",
+            "KISS"
+        ]
+    },
+    {
+        "id": "56d96046cc2ddd0c0f6ba072",
+        "name": "Renaissance",
+        "type": "Group",
+        "genres": [
+            "Progressive Rock",
+            "Classic Rock",
+            "Symphonic Rock"
+        ],
+        "nombre_albums": 15,
+        "nombre_members": 24,
+        "recordLabel": [
+            "I.R.S. Records",
+            "Island Records",
+            "Giant Electric Pea",
+            "Repertoire Records",
+            "Illegal Records",
+            "Warner Bros. Records",
+            "Sire Records",
+            "Elektra Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64346",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/64346/image",
+        "albums": [
+            "Renaissance",
+            "Illusion",
+            "Prologue",
+            "Ashes Are Burning",
+            "Turn Of The Cards",
+            "Scheherazade And Other Stories",
+            "Novella",
+            "A Song For All Seasons",
+            "Azure D'Or",
+            "Camera Camera",
+            "Time-Line",
+            "Songs From Renaissance Days",
+            "Tuscany",
+            "The Mystic And The Muse",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1969",
+            "end": "2002"
+        },
+        "deezerFans": 5564,
+        "members": [
+            "Jane Relf",
+            "Alex Caird",
+            "Rave Tesar",
+            "Mike Taylor",
+            "Gavin Harrison",
+            "Jon Camp",
+            "Mark Lampariello",
+            "John Tout",
+            "Terry Crowe",
+            "Louis Cennamo",
+            "Jim McCarty",
+            "Terry Sullivan",
+            "Terry Sullivan",
+            "Raphael Rudd",
+            "Annie Haslam",
+            "Annie Haslam",
+            "Mickey Simmonds",
+            "Peter Barron",
+            "Peter Gosling",
+            "Keith Relf",
+            "Michael Dunford",
+            "Michael Dunford",
+            "John Hawken",
+            "Charles DesCarfino"
+        ]
+    },
+    {
+        "id": "56d96758cc2ddd0c0f6baac9",
+        "name": "Sammy Hagar",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Hard Rock",
+            "Classic Rock",
+            "Heavy Metal"
+        ],
+        "nombre_albums": 33,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Roadrunner Records",
+            "Geffen Records",
+            "Capitol Records",
+            "MCA Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/145551",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/145551/image",
+        "albums": [
+            "Nine On A Ten Scale",
+            "Sammy Hagar",
+            "Musical Chairs",
+            "All Night Long",
+            "Street Machine",
+            "Danger Zone",
+            "Standing Hampton",
+            "Rematch",
+            "Three Lock Box",
+            "Live 1980",
+            "VOA",
+            "I Never Said Goodbye",
+            "Red Hot",
+            "The_Best_Of_Sammy_Hagar",
+            "Turn_Up_The_Music!",
+            "Unboxed",
+            "The_Anthology",
+            "Marching To Mars",
+            "Red Voodoo",
+            "The_Best_Of_Sammy_Hagar",
+            "Ten_13",
+            "Masters Of Rock",
+            "Classic Masters",
+            "Not 4 Sale",
+            "Live Hallelujah",
+            "Greatest Hits Live",
+            "The Essential Red Collection",
+            "Livin' It Up!",
+            "Cosmic Universal Fashion",
+            "Sammy Hagar & Friends",
+            "Lite Roast",
+            "At Your Service",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1947-10-13",
+            "end": ""
+        },
+        "deezerFans": 4373,
+        "members": [
+            "Hagar, Schon, Aaronson, Shrieve",
+            "Chickenfoot",
+            "Sammy Hagar and The Wabos",
+            "Sammy Hagar & The Circle",
+            "Los Tres Gusanos",
+            "Van Halen",
+            "Montrose"
+        ]
+    },
+    {
+        "id": "56d95e40cc2ddd0c0f6b9d7c",
+        "name": "Randy Bachman",
+        "type": "Person",
+        "genres": [
+            "Rock",
+            "Classic Rock",
+            "Jazz"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 5,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/400482",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/400482/image",
+        "albums": [
+            "Axe",
+            "Survivor",
+            "Any Road",
+            "Merge",
+            "Every Song Tells A Story",
+            "Jazz Thing",
+            "Jazz Thing II",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1943-09-27",
+            "end": ""
+        },
+        "deezerFans": 4142,
+        "members": [
+            "The Guess Who",
+            "Bachman–Turner Overdrive",
+            "Bachman & Turner",
+            "Brave Belt",
+            "Chad Allan & The Expressions"
+        ]
+    },
+    {
+        "id": "56d80a7b53a7ddfc01f91b44",
+        "name": "Burton Cummings",
+        "type": "Person",
+        "genres": [
+            "Classic Rock",
+            "Rock",
+            "Pop"
+        ],
+        "nombre_albums": 12,
+        "nombre_members": 1,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/15279",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/15279/image",
+        "albums": [
+            "Burton Cummings",
+            "My Own Way To Rock",
+            "Dream Of A Child",
+            "Woman Love",
+            "Best Of Burton Cummings",
+            "Sweet Sweet",
+            "Heart",
+            "Plus Signs",
+            "The Burton Cummings Collection",
+            "Up Close And Alone",
+            "Above The Ground",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1947-12-31",
+            "end": ""
+        },
+        "deezerFans": 2689,
+        "members": [
+            "The Guess Who"
+        ]
+    },
+    {
+        "id": "56d9824dcc2ddd0c0f6bd2c2",
+        "name": "The Nice",
+        "type": "Group",
+        "genres": [
+            "Progressive Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 7,
+        "nombre_members": 4,
+        "recordLabel": [
+            "Immediate Records",
+            "Charisma Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/93219",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/93219/image",
+        "albums": [
+            "The Thoughts Of Emerlist Davjack",
+            "Ars Longa Vita Brevis",
+            "Autumn '67-Spring '68",
+            "Nice",
+            "Five Bridges",
+            "Elegy",
+            "Other songs"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1967",
+            "end": "1970"
+        },
+        "deezerFans": 2155,
+        "members": [
+            "Brian Davison",
+            "David O'List",
+            "Lee Jackson",
+            "Keith Emerson"
+        ]
+    },
+    {
+        "id": "56d9824fcc2ddd0c0f6bd2ca",
+        "name": "The Night Flight Orchestra",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Hard Rock"
+        ],
+        "nombre_albums": 3,
+        "nombre_members": 1,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1849611",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1849611/image",
+        "albums": [
+            "Internal Affairs",
+            "Skyline Whispers",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 748,
+        "members": []
+    },
+    {
+        "id": "56d94a21cc2ddd0c0f6b7ffb",
+        "name": "Mudcrutch",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Shelter Records",
+            "Reprise Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/69758",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/69758/image",
+        "albums": [
+            "Mudcrutch",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1970",
+            "end": ""
+        },
+        "deezerFans": 649,
+        "members": [
+            "Randall Marsh",
+            "Tom Petty"
+        ]
+    },
+    {
+        "id": "56d95e5ecc2ddd0c0f6b9d98",
+        "name": "Randy Stonehill",
+        "type": "Person",
+        "genres": [
+            "Christian Rock",
+            "Classic Rock",
+            "Folk Rock"
+        ],
+        "nombre_albums": 21,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Myrrh Records",
+            "Solid Rock Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/64373",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/64373/image",
+        "albums": [
+            "Born Twice",
+            "Get Me Out Of Hollywood",
+            "Welcome To Paradise",
+            "The Sky Is Falling",
+            "Between The Glory And The Flame",
+            "Equator",
+            "Celebrate This Heartbeat",
+            "Love Beyond Reason",
+            "The Wild Frontier",
+            "Can't Buy A Miracle",
+            "Return To Paradise",
+            "Until We Have Wings",
+            "Wonderama",
+            "Stories",
+            "The Lazarus Heart",
+            "Our Recollections",
+            "Thirst",
+            "Edge Of The World",
+            "The Definitive Collection",
+            "Paradise Sky",
+            "Spirit Walk"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1952-03-12",
+            "end": ""
+        },
+        "deezerFans": 396,
+        "members": []
+    },
+    {
+        "id": "56d974a6cc2ddd0c0f6bbf17",
+        "name": "Stone Axe",
+        "type": "Group",
+        "genres": [
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 5,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/416481",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/416481/image",
+        "albums": [
+            "Stone Axe"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 229,
+        "members": []
+    },
+    {
+        "id": "56d8526653a7ddfc01f981da",
+        "name": "Kerry Livgren",
+        "type": "Person",
+        "genres": [
+            "Christian Rock",
+            "Classic Rock",
+            "Rock"
+        ],
+        "nombre_albums": 8,
+        "nombre_members": 9,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/256272",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/256272/image",
+        "albums": [
+            "Seeds Of Change",
+            "One Of Several Possible Musiks",
+            "Decade",
+            "When Things Get Electric",
+            "Odyssey Into The Mind's Eye",
+            "Collector's Sedition Volume 1",
+            "The Best Of Kerry Livgren",
+            "Collector's Sedition Volume 2"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1949-09-18",
+            "end": ""
+        },
+        "deezerFans": 141,
+        "members": [
+            "AD",
+            "Kansas",
+            "Kansas",
+            "Kansas",
+            "Kansas",
+            "Kansas",
+            "Kansas",
+            "Kansas",
+            "Proto-Kaw"
+        ]
+    },
+    {
+        "id": "56d94ac9cc2ddd0c0f6b8141",
+        "name": "Mylon LeFevre/Alvin Lee",
+        "type": "",
+        "genres": [
+            "Classic Rock",
+            "Folk Rock",
+            "Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 2,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/4712116",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/4712116/image",
+        "albums": [
+            "On The Road To Freedom"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 43,
+        "members": []
+    },
+    {
+        "id": "56d967f6cc2ddd0c0f6babbb",
+        "name": "Sarah 'n' Tormy",
+        "type": "Group",
+        "genres": [
+            "Pop",
+            "Psychedelic Rock",
+            "Progressive Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 7,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/6778779",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/6778779/image",
+        "albums": [
+            "Singles"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "2012-09-01",
+            "end": "2014-03-10"
+        },
+        "deezerFans": 33,
+        "members": [
+            "TORMY VAN COOL",
+            "TORMY VAN COOL",
+            "TORMY VAN COOL",
+            "TORMY VAN COOL",
+            "TORMY VAN COOL",
+            "TORMY VAN COOL",
+            "Sarah Lee Ackmann"
+        ]
+    },
+    {
+        "id": "56d93e26ce06f50c0fed8837",
+        "name": "Michael Moorcock & The Deep Fix",
+        "type": "Group",
+        "genres": [
+            "Rock",
+            "Space Rock",
+            "Psychedelic Rock",
+            "Progressive Rock",
+            "Classic Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 4,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/1115944",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1115944/image",
+        "albums": [
+            "The New Worlds Fair"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975",
+            "end": ""
+        },
+        "deezerFans": 18,
+        "members": [
+            "Simon King",
+            "Pete Pavli",
+            "Michael Moorcock",
+            "Michael Moorcock"
+        ]
+    },
+    {
+        "id": "56d988cfcc2ddd0c0f6bdbe9",
+        "name": "Tin House",
+        "type": "Group",
+        "genres": [
+            "Classic Rock"
+        ],
+        "nombre_albums": 2,
+        "nombre_members": 3,
+        "recordLabel": null,
+        "urlDeezer": "http://www.deezer.com/artist/1076655",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/1076655/image",
+        "albums": [
+            "Tin House",
+            "Winds Of Past"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "",
+            "end": ""
+        },
+        "deezerFans": 12,
+        "members": []
+    }
+]

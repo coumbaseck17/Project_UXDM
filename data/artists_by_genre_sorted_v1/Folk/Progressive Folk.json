@@ -1,0 +1,231 @@
+[
+    {
+        "id": "56d975aacc2ddd0c0f6bc0bb",
+        "name": "Sufjan Stevens",
+        "type": "Person",
+        "genres": [
+            "Pop",
+            "Rock",
+            "Indie Pop",
+            "Indie Rock",
+            "Progressive Folk",
+            "Baroque Pop",
+            "Lo-Fi"
+        ],
+        "nombre_albums": 16,
+        "nombre_members": 2,
+        "recordLabel": [
+            "Asthmatic Kitty"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/1999",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/1999/image",
+        "albums": [
+            "A Sun Came",
+            "Enjoy Your Rabbit",
+            "Michigan",
+            "Seven Swans",
+            "Illinois",
+            "The Avalanche",
+            "Songs For Christmas",
+            "The BQE",
+            "All Delighted People (EP)",
+            "The Age Of Adz",
+            "Silver & Gold",
+            "Carrie & Lowell",
+            "B-Sides",
+            "Songs from Compilations and Soundtracks",
+            "Live and Unreleased Songs",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1975-07-01",
+            "end": ""
+        },
+        "deezerFans": 81768,
+        "members": [
+            "Sisyphus",
+            "Marzuki"
+        ]
+    },
+    {
+        "id": "56d964fdcc2ddd0c0f6ba74a",
+        "name": "Roy Harper",
+        "type": "Person",
+        "genres": [
+            "Folk",
+            "Rock",
+            "Alternative Rock",
+            "Progressive Folk",
+            "Indie Folk",
+            "Folk Rock"
+        ],
+        "nombre_albums": 28,
+        "nombre_members": 7,
+        "recordLabel": [
+            "Harvest Records",
+            "Beggars Banquet Records",
+            "Chrysalis Records",
+            "I.R.S. Records",
+            "Bella Union",
+            "Science Friction",
+            "Columbia Records",
+            "Liberty Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/128235",
+        "gender": "Male",
+        "picture": "http://api.deezer.com/artist/128235/image",
+        "albums": [
+            "Sophisticated Beggar",
+            "Come Out Fighting Ghengis Smith",
+            "Folkjokeopus",
+            "Flat Baroque And Berserk",
+            "Stormcock",
+            "Lifemask",
+            "Flashes From The Archives Of Oblivion",
+            "Valentine",
+            "HQ",
+            "Bullinamingvase",
+            "The Unknown Soldier",
+            "Work Of Heart",
+            "Born In Captivity",
+            "Whatever Happened To Jugula",
+            "In Between Every Line",
+            "Loony On The Bus",
+            "...Descendants Of Smith",
+            "Once",
+            "Death Or Glory?",
+            "Unhinged",
+            "Commercial Breaks",
+            "An Introduction To .....",
+            "The Dream Society",
+            "The Green Man",
+            "Hats Off",
+            "Royal Festival Hall Live 2001",
+            "Counter Culture",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1941-06-12",
+            "end": ""
+        },
+        "deezerFans": 2108,
+        "members": []
+    },
+    {
+        "id": "56d97506cc2ddd0c0f6bbf9b",
+        "name": "Strawbs",
+        "type": "Group",
+        "genres": [
+            "Folk Rock",
+            "Glam Rock",
+            "Progressive Rock",
+            "Progressive Folk"
+        ],
+        "nombre_albums": 25,
+        "nombre_members": 26,
+        "recordLabel": [
+            "EMI Records",
+            "A&M Records",
+            "Virgin Records"
+        ],
+        "urlDeezer": "http://www.deezer.com/artist/75398",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/75398/image",
+        "albums": [
+            "Strawbs",
+            "Dragonfly",
+            "Just A Collection Of Antiques And Curios",
+            "From The Witchwood",
+            "Grave New World",
+            "Bursting At The Seams",
+            "Hero And Heroine",
+            "Ghosts",
+            "Nomadness",
+            "Deep Cuts",
+            "Burning For You",
+            "Deadlines",
+            "Don't Say Goodbye",
+            "Ringing Down The Years",
+            "Preserves Uncanned",
+            "A Choice Selection Of Strawbs",
+            "BBC In Concert",
+            "Acoustic Strawbs - Baroque & Roll",
+            "Heartbreak Hill",
+            "Blue Angel",
+            "Déjà Fou",
+            "Painted Sky",
+            "The Broken Hearted Bride",
+            "Dancing To The Devil's Beat",
+            "Other Songs"
+        ],
+        "lifeSpan": {
+            "ended": false,
+            "begin": "1964-06",
+            "end": ""
+        },
+        "deezerFans": 958,
+        "members": [
+            "Tony Hooper",
+            "Tony Hooper",
+            "Lindsay L. Cooper",
+            "Rick Wakeman",
+            "Richard Hudson",
+            "Richard Hudson",
+            "Chas Cronk",
+            "Chas Cronk",
+            "Brian Willoughby",
+            "Brian Willoughby",
+            "Andy Richards",
+            "John Ford",
+            "John Ford",
+            "John Ford",
+            "Blue Weaver",
+            "Blue Weaver",
+            "Blue Weaver",
+            "Dave Lambert",
+            "Dave Lambert",
+            "Roy Hill",
+            "Dave Cousins",
+            "Dave Cousins",
+            "Ron Chesterman",
+            "Rod Coombes",
+            "Rod Coombes",
+            "John Hawken"
+        ]
+    },
+    {
+        "id": "56d98732cc2ddd0c0f6bd989",
+        "name": "Third Ear Band",
+        "type": "Group",
+        "genres": [
+            "Progressive Folk",
+            "Progressive Rock"
+        ],
+        "nombre_albums": 1,
+        "nombre_members": 6,
+        "recordLabel": [],
+        "urlDeezer": "http://www.deezer.com/artist/342914",
+        "gender": "",
+        "picture": "http://api.deezer.com/artist/342914/image",
+        "albums": [
+            "Third Ear Band"
+        ],
+        "lifeSpan": {
+            "ended": true,
+            "begin": "1968",
+            "end": "1993"
+        },
+        "deezerFans": 298,
+        "members": [
+            "Paul Minns",
+            "Paul Minns",
+            "Richard Coff",
+            "Richard Coff",
+            "Glen Sweeney",
+            "Ursula Smith"
+        ]
+    }
+]

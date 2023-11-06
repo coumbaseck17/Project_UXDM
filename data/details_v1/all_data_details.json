@@ -1,0 +1,607 @@
+{
+    "genres": {
+        "Blues": {
+            "details": {
+                "nombre_artists_total": 725,
+                "nombre_groupes": 180,
+                "nombre_solos": 524,
+                "nombre_autres": 21,
+                "nombre_actif_groupes": 127,
+                "nombre_actif_solos": 251,
+                "nombre_actif_total": 399,
+                "nombre_actif_autres": 21,
+                "pourcentage_actifs": 55
+            },
+            "subgenres": {
+                "Blues Rock": {
+                    "details": {
+                        "nombre_artists_total": 168,
+                        "nombre_groupes": 82,
+                        "nombre_solos": 81,
+                        "nombre_autres": 5,
+                        "nombre_actif_groupes": 52,
+                        "nombre_actif_solos": 59,
+                        "nombre_actif_total": 116,
+                        "nombre_actif_autres": 5,
+                        "pourcentage_actifs": 69
+                    }
+                },
+                "Blues": {
+                    "details": {
+                        "nombre_artists_total": 608,
+                        "nombre_groupes": 114,
+                        "nombre_solos": 477,
+                        "nombre_autres": 17,
+                        "nombre_actif_groupes": 88,
+                        "nombre_actif_solos": 212,
+                        "nombre_actif_total": 317,
+                        "nombre_actif_autres": 17,
+                        "pourcentage_actifs": 52
+                    }
+                }
+            }
+        },
+        "Country": {
+            "details": {
+                "nombre_artists_total": 524,
+                "nombre_groupes": 116,
+                "nombre_solos": 366,
+                "nombre_autres": 42,
+                "nombre_actif_groupes": 76,
+                "nombre_actif_solos": 266,
+                "nombre_actif_total": 384,
+                "nombre_actif_autres": 42,
+                "pourcentage_actifs": 73
+            },
+            "subgenres": {
+                "Country Pop": {
+                    "details": {
+                        "nombre_artists_total": 11,
+                        "nombre_groupes": 1,
+                        "nombre_solos": 10,
+                        "nombre_autres": 0,
+                        "nombre_actif_groupes": 1,
+                        "nombre_actif_solos": 10,
+                        "nombre_actif_total": 11,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 100
+                    }
+                },
+                "Country Rock": {
+                    "details": {
+                        "nombre_artists_total": 70,
+                        "nombre_groupes": 38,
+                        "nombre_solos": 28,
+                        "nombre_autres": 4,
+                        "nombre_actif_groupes": 21,
+                        "nombre_actif_solos": 23,
+                        "nombre_actif_total": 48,
+                        "nombre_actif_autres": 4,
+                        "pourcentage_actifs": 68
+                    }
+                },
+                "Country": {
+                    "details": {
+                        "nombre_artists_total": 476,
+                        "nombre_groupes": 84,
+                        "nombre_solos": 352,
+                        "nombre_autres": 40,
+                        "nombre_actif_groupes": 60,
+                        "nombre_actif_solos": 254,
+                        "nombre_actif_total": 354,
+                        "nombre_actif_autres": 40,
+                        "pourcentage_actifs": 74
+                    }
+                }
+            }
+        },
+        "Electronic": {
+            "details": {
+                "nombre_artists_total": 746,
+                "nombre_groupes": 435,
+                "nombre_solos": 252,
+                "nombre_autres": 59,
+                "nombre_actif_groupes": 367,
+                "nombre_actif_solos": 246,
+                "nombre_actif_total": 672,
+                "nombre_actif_autres": 59,
+                "pourcentage_actifs": 90
+            },
+            "subgenres": {
+                "Electronic": {
+                    "details": {
+                        "nombre_artists_total": 598,
+                        "nombre_groupes": 376,
+                        "nombre_solos": 175,
+                        "nombre_autres": 47,
+                        "nombre_actif_groupes": 318,
+                        "nombre_actif_solos": 170,
+                        "nombre_actif_total": 535,
+                        "nombre_actif_autres": 47,
+                        "pourcentage_actifs": 89
+                    }
+                },
+                "House": {
+                    "details": {
+                        "nombre_artists_total": 140,
+                        "nombre_groupes": 51,
+                        "nombre_solos": 74,
+                        "nombre_autres": 15,
+                        "nombre_actif_groupes": 42,
+                        "nombre_actif_solos": 72,
+                        "nombre_actif_total": 129,
+                        "nombre_actif_autres": 15,
+                        "pourcentage_actifs": 92
+                    }
+                },
+                "Techno": {
+                    "details": {
+                        "nombre_artists_total": 74,
+                        "nombre_groupes": 34,
+                        "nombre_solos": 39,
+                        "nombre_autres": 1,
+                        "nombre_actif_groupes": 26,
+                        "nombre_actif_solos": 39,
+                        "nombre_actif_total": 66,
+                        "nombre_actif_autres": 1,
+                        "pourcentage_actifs": 89
+                    }
+                }
+            }
+        },
+        "Folk": {
+            "details": {
+                "nombre_artists_total": 1123,
+                "nombre_groupes": 397,
+                "nombre_solos": 648,
+                "nombre_autres": 78,
+                "nombre_actif_groupes": 308,
+                "nombre_actif_solos": 492,
+                "nombre_actif_total": 878,
+                "nombre_actif_autres": 78,
+                "pourcentage_actifs": 78
+            },
+            "subgenres": {
+                "Contemporary Folk": {
+                    "details": {
+                        "nombre_artists_total": 7,
+                        "nombre_groupes": 1,
+                        "nombre_solos": 6,
+                        "nombre_autres": 0,
+                        "nombre_actif_groupes": 1,
+                        "nombre_actif_solos": 4,
+                        "nombre_actif_total": 5,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 71
+                    }
+                },
+                "Folk Rock": {
+                    "details": {
+                        "nombre_artists_total": 312,
+                        "nombre_groupes": 152,
+                        "nombre_solos": 149,
+                        "nombre_autres": 11,
+                        "nombre_actif_groupes": 107,
+                        "nombre_actif_solos": 130,
+                        "nombre_actif_total": 237,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 75
+                    }
+                },
+                "Folk": {
+                    "details": {
+                        "nombre_artists_total": 794,
+                        "nombre_groupes": 226,
+                        "nombre_solos": 509,
+                        "nombre_autres": 59,
+                        "nombre_actif_groupes": 175,
+                        "nombre_actif_solos": 364,
+                        "nombre_actif_total": 539,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 67
+                    }
+                },
+                "Indie Folk": {
+                    "details": {
+                        "nombre_artists_total": 116,
+                        "nombre_groupes": 60,
+                        "nombre_solos": 45,
+                        "nombre_autres": 11,
+                        "nombre_actif_groupes": 57,
+                        "nombre_actif_solos": 45,
+                        "nombre_actif_total": 113,
+                        "nombre_actif_autres": 11,
+                        "pourcentage_actifs": 97
+                    }
+                },
+                "Progressive Folk": {
+                    "details": {
+                        "nombre_artists_total": 4,
+                        "nombre_groupes": 2,
+                        "nombre_solos": 2,
+                        "nombre_autres": 0,
+                        "nombre_actif_groupes": 1,
+                        "nombre_actif_solos": 2,
+                        "nombre_actif_total": 3,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 75
+                    }
+                },
+                "Psych Folk": {
+                    "details": {
+                        "nombre_artists_total": 4,
+                        "nombre_groupes": 1,
+                        "nombre_solos": 3,
+                        "nombre_autres": 0,
+                        "nombre_actif_groupes": 1,
+                        "nombre_actif_solos": 3,
+                        "nombre_actif_total": 4,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 100
+                    }
+                }
+            }
+        },
+        "Hip Hop": {
+            "details": {
+                "nombre_artists_total": 658,
+                "nombre_groupes": 206,
+                "nombre_solos": 391,
+                "nombre_autres": 61,
+                "nombre_actif_groupes": 177,
+                "nombre_actif_solos": 382,
+                "nombre_actif_total": 620,
+                "nombre_actif_autres": 61,
+                "pourcentage_actifs": 94
+            },
+            "subgenres": {
+                "Hip Hop": {
+                    "details": {
+                        "nombre_artists_total": 658,
+                        "nombre_groupes": 206,
+                        "nombre_solos": 391,
+                        "nombre_autres": 61,
+                        "nombre_actif_groupes": 177,
+                        "nombre_actif_solos": 382,
+                        "nombre_actif_total": 620,
+                        "nombre_actif_autres": 61,
+                        "pourcentage_actifs": 94
+                    }
+                }
+            }
+        },
+        "Jazz": {
+            "details": {
+                "nombre_artists_total": 501,
+                "nombre_groupes": 71,
+                "nombre_solos": 414,
+                "nombre_autres": 16,
+                "nombre_actif_groupes": 54,
+                "nombre_actif_solos": 235,
+                "nombre_actif_total": 305,
+                "nombre_actif_autres": 16,
+                "pourcentage_actifs": 60
+            },
+            "subgenres": {
+                "Jazz": {
+                    "details": {
+                        "nombre_artists_total": 475,
+                        "nombre_groupes": 66,
+                        "nombre_solos": 395,
+                        "nombre_autres": 14,
+                        "nombre_actif_groupes": 50,
+                        "nombre_actif_solos": 231,
+                        "nombre_actif_total": 281,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 59
+                    }
+                },
+                "Swing": {
+                    "details": {
+                        "nombre_artists_total": 71,
+                        "nombre_groupes": 11,
+                        "nombre_solos": 57,
+                        "nombre_autres": 3,
+                        "nombre_actif_groupes": 7,
+                        "nombre_actif_solos": 20,
+                        "nombre_actif_total": 27,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 38
+                    }
+                }
+            }
+        },
+        "Pop": {
+            "details": {
+                "nombre_artists_total": 2898,
+                "nombre_groupes": 1031,
+                "nombre_solos": 1641,
+                "nombre_autres": 226,
+                "nombre_actif_groupes": 788,
+                "nombre_actif_solos": 1374,
+                "nombre_actif_total": 2388,
+                "nombre_actif_autres": 226,
+                "pourcentage_actifs": 82
+            },
+            "subgenres": {
+                "Dance-Pop": {
+                    "details": {
+                        "nombre_artists_total": 41,
+                        "nombre_groupes": 13,
+                        "nombre_solos": 25,
+                        "nombre_autres": 3,
+                        "nombre_actif_groupes": 8,
+                        "nombre_actif_solos": 25,
+                        "nombre_actif_total": 36,
+                        "nombre_actif_autres": 3,
+                        "pourcentage_actifs": 87
+                    }
+                },
+                "Electropop": {
+                    "details": {
+                        "nombre_artists_total": 85,
+                        "nombre_groupes": 53,
+                        "nombre_solos": 28,
+                        "nombre_autres": 4,
+                        "nombre_actif_groupes": 45,
+                        "nombre_actif_solos": 28,
+                        "nombre_actif_total": 73,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 85
+                    }
+                },
+                "Indie Pop": {
+                    "details": {
+                        "nombre_artists_total": 368,
+                        "nombre_groupes": 239,
+                        "nombre_solos": 112,
+                        "nombre_autres": 17,
+                        "nombre_actif_groupes": 208,
+                        "nombre_actif_solos": 110,
+                        "nombre_actif_total": 335,
+                        "nombre_actif_autres": 17,
+                        "pourcentage_actifs": 91
+                    }
+                },
+                "Pop Rock": {
+                    "details": {
+                        "nombre_artists_total": 486,
+                        "nombre_groupes": 235,
+                        "nombre_solos": 212,
+                        "nombre_autres": 39,
+                        "nombre_actif_groupes": 182,
+                        "nombre_actif_solos": 195,
+                        "nombre_actif_total": 416,
+                        "nombre_actif_autres": 39,
+                        "pourcentage_actifs": 85
+                    }
+                },
+                "Pop": {
+                    "details": {
+                        "nombre_artists_total": 1614,
+                        "nombre_groupes": 489,
+                        "nombre_solos": 987,
+                        "nombre_autres": 138,
+                        "nombre_actif_groupes": 350,
+                        "nombre_actif_solos": 843,
+                        "nombre_actif_total": 1331,
+                        "nombre_actif_autres": 138,
+                        "pourcentage_actifs": 82
+                    }
+                },
+                "Singer-Songwriter": {
+                    "details": {
+                        "nombre_artists_total": 743,
+                        "nombre_groupes": 104,
+                        "nombre_solos": 590,
+                        "nombre_autres": 49,
+                        "nombre_actif_groupes": 75,
+                        "nombre_actif_solos": 437,
+                        "nombre_actif_total": 512,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 68
+                    }
+                }
+            }
+        },
+        "R&B": {
+            "details": {
+                "nombre_artists_total": 786,
+                "nombre_groupes": 215,
+                "nombre_solos": 522,
+                "nombre_autres": 49,
+                "nombre_actif_groupes": 151,
+                "nombre_actif_solos": 393,
+                "nombre_actif_total": 593,
+                "nombre_actif_autres": 49,
+                "pourcentage_actifs": 75
+            },
+            "subgenres": {
+                "Funk": {
+                    "details": {
+                        "nombre_artists_total": 165,
+                        "nombre_groupes": 62,
+                        "nombre_solos": 94,
+                        "nombre_autres": 9,
+                        "nombre_actif_groupes": 43,
+                        "nombre_actif_solos": 66,
+                        "nombre_actif_total": 118,
+                        "nombre_actif_autres": 9,
+                        "pourcentage_actifs": 71
+                    }
+                },
+                "R&B": {
+                    "details": {
+                        "nombre_artists_total": 573,
+                        "nombre_groupes": 151,
+                        "nombre_solos": 385,
+                        "nombre_autres": 37,
+                        "nombre_actif_groupes": 102,
+                        "nombre_actif_solos": 277,
+                        "nombre_actif_total": 416,
+                        "nombre_actif_autres": 37,
+                        "pourcentage_actifs": 72
+                    }
+                },
+                "Soul": {
+                    "details": {
+                        "nombre_artists_total": 384,
+                        "nombre_groupes": 85,
+                        "nombre_solos": 277,
+                        "nombre_autres": 22,
+                        "nombre_actif_groupes": 60,
+                        "nombre_actif_solos": 207,
+                        "nombre_actif_total": 267,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 69
+                    }
+                }
+            }
+        },
+        "Rock": {
+            "details": {
+                "nombre_artists_total": 4302,
+                "nombre_groupes": 2852,
+                "nombre_solos": 1176,
+                "nombre_autres": 274,
+                "nombre_actif_groupes": 2200,
+                "nombre_actif_solos": 1023,
+                "nombre_actif_total": 3497,
+                "nombre_actif_autres": 274,
+                "pourcentage_actifs": 81
+            },
+            "subgenres": {
+                "Alternative Rock": {
+                    "details": {
+                        "nombre_artists_total": 829,
+                        "nombre_groupes": 627,
+                        "nombre_solos": 165,
+                        "nombre_autres": 37,
+                        "nombre_actif_groupes": 498,
+                        "nombre_actif_solos": 159,
+                        "nombre_actif_total": 694,
+                        "nombre_actif_autres": 37,
+                        "pourcentage_actifs": 83
+                    }
+                },
+                "Classic Rock": {
+                    "details": {
+                        "nombre_artists_total": 41,
+                        "nombre_groupes": 27,
+                        "nombre_solos": 13,
+                        "nombre_autres": 1,
+                        "nombre_actif_groupes": 16,
+                        "nombre_actif_solos": 11,
+                        "nombre_actif_total": 28,
+                        "nombre_actif_autres": 1,
+                        "pourcentage_actifs": 68
+                    }
+                },
+                "Folk Rock": {
+                    "details": {
+                        "nombre_artists_total": 312,
+                        "nombre_groupes": 152,
+                        "nombre_solos": 149,
+                        "nombre_autres": 11,
+                        "nombre_actif_groupes": 107,
+                        "nombre_actif_solos": 130,
+                        "nombre_actif_total": 237,
+                        "nombre_actif_autres": 0,
+                        "pourcentage_actifs": 75
+                    }
+                },
+                "Hard Rock": {
+                    "details": {
+                        "nombre_artists_total": 468,
+                        "nombre_groupes": 343,
+                        "nombre_solos": 103,
+                        "nombre_autres": 22,
+                        "nombre_actif_groupes": 267,
+                        "nombre_actif_solos": 91,
+                        "nombre_actif_total": 380,
+                        "nombre_actif_autres": 22,
+                        "pourcentage_actifs": 81
+                    }
+                },
+                "Heavy Metal": {
+                    "details": {
+                        "nombre_artists_total": 526,
+                        "nombre_groupes": 408,
+                        "nombre_solos": 80,
+                        "nombre_autres": 38,
+                        "nombre_actif_groupes": 343,
+                        "nombre_actif_solos": 73,
+                        "nombre_actif_total": 454,
+                        "nombre_actif_autres": 38,
+                        "pourcentage_actifs": 86
+                    }
+                },
+                "Indie Rock": {
+                    "details": {
+                        "nombre_artists_total": 709,
+                        "nombre_groupes": 546,
+                        "nombre_solos": 126,
+                        "nombre_autres": 37,
+                        "nombre_actif_groupes": 450,
+                        "nombre_actif_solos": 125,
+                        "nombre_actif_total": 612,
+                        "nombre_actif_autres": 37,
+                        "pourcentage_actifs": 86
+                    }
+                },
+                "Progressive Rock": {
+                    "details": {
+                        "nombre_artists_total": 315,
+                        "nombre_groupes": 228,
+                        "nombre_solos": 66,
+                        "nombre_autres": 21,
+                        "nombre_actif_groupes": 158,
+                        "nombre_actif_solos": 58,
+                        "nombre_actif_total": 237,
+                        "nombre_actif_autres": 21,
+                        "pourcentage_actifs": 75
+                    }
+                },
+                "Punk Rock": {
+                    "details": {
+                        "nombre_artists_total": 411,
+                        "nombre_groupes": 349,
+                        "nombre_solos": 40,
+                        "nombre_autres": 22,
+                        "nombre_actif_groupes": 265,
+                        "nombre_actif_solos": 36,
+                        "nombre_actif_total": 323,
+                        "nombre_actif_autres": 22,
+                        "pourcentage_actifs": 78
+                    }
+                },
+                "Rock 'N' Roll": {
+                    "details": {
+                        "nombre_artists_total": 132,
+                        "nombre_groupes": 40,
+                        "nombre_solos": 86,
+                        "nombre_autres": 6,
+                        "nombre_actif_groupes": 24,
+                        "nombre_actif_solos": 49,
+                        "nombre_actif_total": 79,
+                        "nombre_actif_autres": 6,
+                        "pourcentage_actifs": 59
+                    }
+                },
+                "Rock": {
+                    "details": {
+                        "nombre_artists_total": 1843,
+                        "nombre_groupes": 1007,
+                        "nombre_solos": 701,
+                        "nombre_autres": 135,
+                        "nombre_actif_groupes": 757,
+                        "nombre_actif_solos": 604,
+                        "nombre_actif_total": 1496,
+                        "nombre_actif_autres": 135,
+                        "pourcentage_actifs": 81
+                    }
+                }
+            }
+        }
+    }
+}
