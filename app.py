@@ -1,10 +1,13 @@
 import json
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
+
 import functions
 
 app = Flask(__name__, instance_relative_config=True)
 
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:8081"}})
 """
   Pour tester les routes : 
     1) Taper la commande python ./app.py sur le terminal
